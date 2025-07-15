@@ -29,13 +29,6 @@
   <HAR_SK_Mechanoid_Kind_e.labelFemale>女性 亞工造機械生命體·鐵血戰兵</HAR_SK_Mechanoid_Kind_e.labelFemale>
   <HAR_SK_Mechanoid_Kind_e.labelFemalePlural>女性 亞工造機械生命體·鐵血戰兵們</HAR_SK_Mechanoid_Kind_e.labelFemalePlural>
 
-  <HAR_SK_Mechanoid_Kind_z.label>復仇戰獸</HAR_SK_Mechanoid_Kind_z.label>
-  <HAR_SK_Mechanoid_Kind_z.labelPlural>復仇戰獸們</HAR_SK_Mechanoid_Kind_z.labelPlural>
-  <HAR_SK_Mechanoid_Kind_z.labelMale>男性 復仇戰獸</HAR_SK_Mechanoid_Kind_z.labelMale>
-  <HAR_SK_Mechanoid_Kind_z.labelMalePlural>男性 復仇戰獸們</HAR_SK_Mechanoid_Kind_z.labelMalePlural>
-  <HAR_SK_Mechanoid_Kind_z.labelFemale>女性 復仇戰獸</HAR_SK_Mechanoid_Kind_z.labelFemale>
-  <HAR_SK_Mechanoid_Kind_z.labelFemalePlural>女性 復仇戰獸們</HAR_SK_Mechanoid_Kind_z.labelFemalePlural>
-
   <HAR_SK_PawnKind_Cat.label>柔順的貓</HAR_SK_PawnKind_Cat.label>
   <HAR_SK_PawnKind_Cat.labelPlural>柔順的貓們</HAR_SK_PawnKind_Cat.labelPlural>
   <HAR_SK_PawnKind_Cat.lifeStages.0.label>小貓</HAR_SK_PawnKind_Cat.lifeStages.0.label>

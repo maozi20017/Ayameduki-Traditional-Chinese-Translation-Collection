@@ -11,7 +11,6 @@
   <HAR_NM_Archotech_b.label>ETHOS通信機(派遣要請)</HAR_NM_Archotech_b.label>
   <HAR_NM_Archotech_b.description>ETHOS的人員派遣通信機。
     \n使用後，夜魔・涅墨西斯將會加入殖民地。</HAR_NM_Archotech_b.description>
-  <HAR_NM_Archotech_b.comps.0.useLabel>啟用 {0_label}</HAR_NM_Archotech_b.comps.0.useLabel>
 
   <HAR_NM_Proj_GrenadeFrag.label>諾托斯手榴彈</HAR_NM_Proj_GrenadeFrag.label>
 

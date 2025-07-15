@@ -23,18 +23,6 @@
 
 
 宇宙的外部、天空的背面、無底的虛空仍然等待著愚蠢而聰明的賢者。</HAR_LL_Archotech_a.description>
-  <HAR_LL_Archotech_a.comps.0.useLabel>啟用 {0_label}</HAR_LL_Archotech_a.comps.0.useLabel>
-
-  <HAR_LL_Archotech_b.label>絕望之笛</HAR_LL_Archotech_b.label>
-  <HAR_LL_Archotech_b.description>由血膿石製成的招災之笛。
-吹奏此笛可以召喚來自平行世界的「遠渡星海之鳥」的存在。
-如果要與被召喚出來的存在戰鬥，則需要相應的實力。
-
-
-
-那是一支召喚曾經在無數星球散播厄運的存在的笛子。
-然而，親鳥已不在這片宇宙中，因此被召喚而來的只能是繼承其血脈的雛鳥們。</HAR_LL_Archotech_b.description>
-  <HAR_LL_Archotech_b.comps.0.useLabel>啟用 {0_label}</HAR_LL_Archotech_b.comps.0.useLabel>
 
   <HAR_LL_Archotech_c.label>瘋狂之鐘</HAR_LL_Archotech_c.label>
   <HAR_LL_Archotech_c.description>由血膿石製成的瘋狂之音響鈴。
@@ -46,7 +34,6 @@
 那是一個模仿偽神族・可能性所擁有的鐘製作的仿造品。
 據說，一旦響起，她們就會如同思念故鄉般現身。
 儘管渴望回到故鄉，卻無法回到原本的地方。</HAR_LL_Archotech_c.description>
-  <HAR_LL_Archotech_c.comps.0.useLabel>啟用 {0_label}</HAR_LL_Archotech_c.comps.0.useLabel>
 
   <HAR_LL_Archotech_d.label>榮耀花冠</HAR_LL_Archotech_d.label>
   <HAR_LL_Archotech_d.description>從偽神族・邊緣至福樂土獲得的純白花冠。
@@ -57,7 +44,6 @@
 
 
 依然保持著純潔的神器，然而這個花冠卻成為了與厄運連結的特異點。</HAR_LL_Archotech_d.description>
-  <HAR_LL_Archotech_d.comps.0.useLabel>啟用 {0_label}</HAR_LL_Archotech_d.comps.0.useLabel>
 
   <HAR_LL_Archotech_e.label>潘朵拉深淵</HAR_LL_Archotech_e.label>
   <HAR_LL_Archotech_e.description>偽神族・邊緣至福樂土中取出的盒子。
@@ -69,7 +55,6 @@
 這個器官能夠使其更有效地與不同維度進行交流。
 
 盒子的持有者，如果他有智慧，則不應該打開它。</HAR_LL_Archotech_e.description>
-  <HAR_LL_Archotech_e.comps.0.useLabel>啟用 {0_label}</HAR_LL_Archotech_e.comps.0.useLabel>
 
   <HAR_LL_Archotech_f.label>諾耶瑪十字架</HAR_LL_Archotech_f.label>
   <HAR_LL_Archotech_f.description>偽神族・可能性腦內生成的十字架形状的器官。
@@ -80,7 +65,5 @@
 
 一枚銀色的十字架，能夠接收來自宇宙之外的力量，
 但如今已變成了一個空洞無用的玩意。</HAR_LL_Archotech_f.description>
-  <HAR_LL_Archotech_f.comps.0.useLabel>啟用 {0_label}</HAR_LL_Archotech_f.comps.0.useLabel>
-
 
 </LanguageData>

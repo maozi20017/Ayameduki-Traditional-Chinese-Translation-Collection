@@ -22,8 +22,6 @@
 	<HAR_IA_Skill_Hediff_d.description>艾蒂安・泰阿泰德B型散佈的奈米機械，讓侵蝕型的昇天奈米機械潛伏在敵對實體體內，並在幾個小時後立即殺死他們。\n請注意，一旦被侵蝕，就束手無策了。</HAR_IA_Skill_Hediff_d.description>
 	<!--昇天-->
 	<HAR_IA_Skill_Hediff_d.stages.1.label>昇天</HAR_IA_Skill_Hediff_d.stages.1.label>
-	<!--潜伏-->
-	<HAR_IA_Skill_Hediff_d.stages.2.label>潜伏</HAR_IA_Skill_Hediff_d.stages.2.label>
 
 	<!--クリノバシレイア-->
 	<HAR_IA_Skill_Hediff_e.label>天國之傾</HAR_IA_Skill_Hediff_e.label>
@@ -45,15 +43,11 @@
 	<HAR_IA_Skill_Hediff_f.label>天國之意</HAR_IA_Skill_Hediff_f.label>
 	<!--創造主が庫利菈・至高種に実装出来なかったレガリア機能の一つ。\nテロスバシレイアから生じた力場の影響を受けている状態。\n空間圧縮により事象認識に致命的なズレが発生し、罹患者はそれを知覚してしまったことで脳組織を破壊されてしまい精神が崩壊している。\n\nテロスバシレイアの効果では痴呆に似た現象を引き起こし辺りを放浪するようになる。-->
 	<HAR_IA_Skill_Hediff_f.description>創造主未能在庫利菈・凱特爾身上實裝的王權之一。\n受到天國之意產生的領域影響狀態。\n空間壓縮導致事物認知產生致命差距，受影響的人的腦組織因感知混亂而被破壞，進而導致精神崩潰。\n\n天國之意的作用會導致類似於癡呆症的現象並使其四處遊蕩。</HAR_IA_Skill_Hediff_f.description>
-	<!--人格崩壊-->
-	<HAR_IA_Skill_Hediff_f.stages.1.label>人格崩壊</HAR_IA_Skill_Hediff_f.stages.1.label>
 
 	<!--トゥレラバシレイア-->
 	<HAR_IA_Skill_Hediff_g.label>天國之躁</HAR_IA_Skill_Hediff_g.label>
 	<!--創造主が庫利菈・至高種に実装出来なかったレガリア機能の一つ。\nトゥレラバシレイアから生じた力場の影響を受けている状態。\n空間圧縮により事象認識に致命的なズレが発生し、罹患者はそれを知覚してしまったことで脳組織を破壊されてしまい精神が崩壊している。\n\nトゥレラバシレイアの効果では脳内物質の乱れにより狂暴化を発生させ敵味方問わず攻撃するようになる。-->
 	<HAR_IA_Skill_Hediff_g.description>創造主未能在庫利菈・凱特爾身上實裝的王權之一。\n受到天國之躁產生的領域影響狀態。\n空間壓縮導致事物認知產生致命差距，受影響的人的腦組織因感知混亂而被破壞，進而導致精神崩潰。\n\n天國之躁的效果會擾亂腦內分泌物質，使其變得兇猛並狂暴化，進而引發其無差別攻擊。</HAR_IA_Skill_Hediff_g.description>
-	<!--狂暴化-->
-	<HAR_IA_Skill_Hediff_g.stages.1.label>狂暴化</HAR_IA_Skill_Hediff_g.stages.1.label>
 
 	<!--ステイシスバシレイア-->
 	<HAR_IA_Skill_Hediff_h.label>天國之遲</HAR_IA_Skill_Hediff_h.label>
