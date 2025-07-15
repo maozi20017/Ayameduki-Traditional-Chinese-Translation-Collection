@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_SL_SleptOutside.stages.0.label>以天為被</HAR_SL_SleptOutside.stages.0.label>
+  <HAR_SL_SleptOutside.stages.0.description>今天又會看到怎樣的景色呢？</HAR_SL_SleptOutside.stages.0.description>
+
+  <HAR_SL_SleptOnGround.stages.0.label>以地為席</HAR_SL_SleptOnGround.stages.0.label>
+  <HAR_SL_SleptOnGround.stages.0.description>雖說這樣也不壞，但總歸還是想要自己的床。</HAR_SL_SleptOnGround.stages.0.description>
+
+  <HAR_SL_SoakingWet.stages.0.label>大自然的淋浴</HAR_SL_SoakingWet.stages.0.label>
+  <HAR_SL_SoakingWet.stages.0.description>大自然饋贈的雨水可以洗淨我身上的塵埃。</HAR_SL_SoakingWet.stages.0.description>
+
+  <HAR_SL_EnvironmentDark.stages.0.label>靜謐的黑暗</HAR_SL_EnvironmentDark.stages.0.label>
+  <HAR_SL_EnvironmentDark.stages.0.description>反正橫豎都是要睡的。</HAR_SL_EnvironmentDark.stages.0.description>
+
+  <HAR_SL_ApparelDamaged.stages.0.label>舊衣服</HAR_SL_ApparelDamaged.stages.0.label>
+  <HAR_SL_ApparelDamaged.stages.0.description>有可能的話，我想換件新衣服。</HAR_SL_ApparelDamaged.stages.0.description>
+  <HAR_SL_ApparelDamaged.stages.1.label>破破爛爛的衣服</HAR_SL_ApparelDamaged.stages.1.label>
+  <HAR_SL_ApparelDamaged.stages.1.description>雖說是穿慣了的衣服，但差不多也該換了。</HAR_SL_ApparelDamaged.stages.1.description>
+
+  <HAR_SL_DeadMansApparel.stages.0.label>某人的衣服 {0}</HAR_SL_DeadMansApparel.stages.0.label>
+  <HAR_SL_DeadMansApparel.stages.0.description>不知是誰穿過的衣服，現在還能感受到那個人殘留的溫熱。</HAR_SL_DeadMansApparel.stages.0.description>
+  <HAR_SL_DeadMansApparel.stages.1.label>某人的衣服 {0} (+1)</HAR_SL_DeadMansApparel.stages.1.label>
+  <HAR_SL_DeadMansApparel.stages.1.description>不知是誰穿過的衣服，現在還能感受到那個人殘留的溫熱。</HAR_SL_DeadMansApparel.stages.1.description>
+  <HAR_SL_DeadMansApparel.stages.2.label>某人的衣服 {0} (+2)</HAR_SL_DeadMansApparel.stages.2.label>
+  <HAR_SL_DeadMansApparel.stages.2.description>不知是誰穿過的衣服，現在還能感受到那個人殘留的溫熱。</HAR_SL_DeadMansApparel.stages.2.description>
+  <HAR_SL_DeadMansApparel.stages.3.label>某人的衣服 {0} etc</HAR_SL_DeadMansApparel.stages.3.label>
+  <HAR_SL_DeadMansApparel.stages.3.description>不知是誰穿過的衣服，現在還能感受到那個人殘留的溫熱。</HAR_SL_DeadMansApparel.stages.3.description>
+
+  <HAR_SL_Pain.stages.0.label>痛覺阻斷(微)</HAR_SL_Pain.stages.0.label>
+  <HAR_SL_Pain.stages.0.description>總感覺皮膚有點火辣辣的…</HAR_SL_Pain.stages.0.description>
+  <HAR_SL_Pain.stages.1.label>痛覺阻斷(小)</HAR_SL_Pain.stages.1.label>
+  <HAR_SL_Pain.stages.1.description>是不是哪兒受傷了？</HAR_SL_Pain.stages.1.description>
+  <HAR_SL_Pain.stages.2.label>痛覺阻斷(中)</HAR_SL_Pain.stages.2.label>
+  <HAR_SL_Pain.stages.2.description>傷得好重…不快點治療的話…</HAR_SL_Pain.stages.2.description>
+  <HAR_SL_Pain.stages.3.label>痛覺阻斷(大)</HAR_SL_Pain.stages.3.label>
+  <HAR_SL_Pain.stages.3.description>雖然不怎麼疼…但總感覺好睏…</HAR_SL_Pain.stages.3.description>
+
+  <HAR_SL_NeedOutdoors.stages.0.label>如在繭中</HAR_SL_NeedOutdoors.stages.0.label>
+  <HAR_SL_NeedOutdoors.stages.0.description>我已經很久沒有出去過了，能一直這樣就好了~</HAR_SL_NeedOutdoors.stages.0.description>
+  <HAR_SL_NeedOutdoors.stages.1.label>在巢穴中</HAR_SL_NeedOutdoors.stages.1.label>
+  <HAR_SL_NeedOutdoors.stages.1.description>不用到外面去真是太好了~</HAR_SL_NeedOutdoors.stages.1.description>
+  <HAR_SL_NeedOutdoors.stages.2.label>與世隔絕</HAR_SL_NeedOutdoors.stages.2.label>
+  <HAR_SL_NeedOutdoors.stages.2.description>不用到外面去真是太好了~</HAR_SL_NeedOutdoors.stages.2.description>
+  <HAR_SL_NeedOutdoors.stages.3.label>安全的環境</HAR_SL_NeedOutdoors.stages.3.label>
+  <HAR_SL_NeedOutdoors.stages.3.description>不用外出也能維持生活，真好~</HAR_SL_NeedOutdoors.stages.3.description>
+  <HAR_SL_NeedOutdoors.stages.4.label>安定的環境</HAR_SL_NeedOutdoors.stages.4.label>
+  <HAR_SL_NeedOutdoors.stages.4.description>不用外出也能維持生活，真好~</HAR_SL_NeedOutdoors.stages.4.description>
+
+  <HAR_SL_NeedRoomSize.stages.0.label>應有的待遇</HAR_SL_NeedRoomSize.stages.0.label>
+  <HAR_SL_NeedRoomSize.stages.0.description>這個狹小的房間就是我的居所，但是它不會影響生活，我沒有異議。</HAR_SL_NeedRoomSize.stages.0.description>
+  <HAR_SL_NeedRoomSize.stages.1.label>好的待遇</HAR_SL_NeedRoomSize.stages.1.label>
+  <HAR_SL_NeedRoomSize.stages.1.description>我對這個舒適的房間感到很滿意！</HAR_SL_NeedRoomSize.stages.1.description>
+  <HAR_SL_NeedRoomSize.stages.2.label>極好的待遇</HAR_SL_NeedRoomSize.stages.2.label>
+  <HAR_SL_NeedRoomSize.stages.2.description>這兒的人們為我提供了豐富多彩的生活，我要勤奮勞動，以此作為報答~</HAR_SL_NeedRoomSize.stages.2.description>
+
+  <HAR_SL_AteRawFood.stages.0.label>給囚犯吃的食物</HAR_SL_AteRawFood.stages.0.label>
+  <HAR_SL_AteRawFood.stages.0.description>味道並不怎麼樣的簡單飯菜，但是比雜草要美味多了。</HAR_SL_AteRawFood.stages.0.description>
+
+  <HAR_SL_MyOrganHarvested.stages.0.label>到某人的身體裡去</HAR_SL_MyOrganHarvested.stages.0.label>
+  <HAR_SL_MyOrganHarvested.stages.0.description>我的臟器被摘除了…祝素不相識的你永遠幸福…</HAR_SL_MyOrganHarvested.stages.0.description>
+
+  <HAR_SL_SleepDisturbed.stages.0.label>有人的氣息</HAR_SL_SleepDisturbed.stages.0.label>
+  <HAR_SL_SleepDisturbed.stages.0.description>在我的身旁還睡著某人，就像被他保護著一樣，真開心~</HAR_SL_SleepDisturbed.stages.0.description>
+
+
+</LanguageData>

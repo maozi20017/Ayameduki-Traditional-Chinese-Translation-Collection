@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 総体 -->
+  <HAR_Chaoura_NPC_UB_Leader.label>總體</HAR_Chaoura_NPC_UB_Leader.label>
+  <HAR_Chaoura_NPC_UB_Leader.labelPlural>總體們</HAR_Chaoura_NPC_UB_Leader.labelPlural>
+  <HAR_Chaoura_NPC_UB_Leader.labelMale>男性 總體</HAR_Chaoura_NPC_UB_Leader.labelMale>
+  <HAR_Chaoura_NPC_UB_Leader.labelMalePlural>男性 總體們</HAR_Chaoura_NPC_UB_Leader.labelMalePlural>
+  <HAR_Chaoura_NPC_UB_Leader.labelFemale>女性 總體</HAR_Chaoura_NPC_UB_Leader.labelFemale>
+  <HAR_Chaoura_NPC_UB_Leader.labelFemalePlural>女性 總體們</HAR_Chaoura_NPC_UB_Leader.labelFemalePlural>
+  
+  <!-- EN: 総体 -->
+  <HAR_Chaoura_Player_UB.label>總體</HAR_Chaoura_Player_UB.label>
+  <HAR_Chaoura_Player_UB.labelPlural>總體們</HAR_Chaoura_Player_UB.labelPlural>
+  <HAR_Chaoura_Player_UB.labelMale>男性 總體</HAR_Chaoura_Player_UB.labelMale>
+  <HAR_Chaoura_Player_UB.labelMalePlural>男性 總體們</HAR_Chaoura_Player_UB.labelMalePlural>
+  <HAR_Chaoura_Player_UB.labelFemale>女性 總體</HAR_Chaoura_Player_UB.labelFemale>
+  <HAR_Chaoura_Player_UB.labelFemalePlural>女性 總體們</HAR_Chaoura_Player_UB.labelFemalePlural>
+
+</LanguageData>

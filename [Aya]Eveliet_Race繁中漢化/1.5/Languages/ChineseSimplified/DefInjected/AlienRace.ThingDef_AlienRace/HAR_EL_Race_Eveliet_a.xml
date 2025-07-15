@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_EL_Race_Eveliet_a.label>伊娃莉特</HAR_EL_Race_Eveliet_a.label>
+  <HAR_EL_Race_Eveliet_a.description>『肖像種伊娃莉特』是在女王種建立量產體制之前，由人工種族的創造主製作的試作品，是最初的人工種族。
+    這人工種族的基因中蘊含著極高純度的超越存在，因此非常不穩定。
+    在胎兒階段的培育中難以維持肉體，因此是在接近成年的狀態下進行創造。
+    通常情況下會保留力量，除非釋放能力，否則其身體能力與一般人無異。
+
+    為了補助不穩定的肉體，有著作為儲存多餘力量的盔甲『利乏音之殼』、
+    為了提取利乏音之殼運作所需的血液而設計的劍『黎明之劍』，這兩者的外殼都被進行了擴建。
+
+    由於是試作品，只創造了一體，她成為了人工種族的長女，被後來的妹妹們所敬仰。
+    然而，她無法接受從創造主的神權政治轉向庫利菈的君主政治，因此決定揚起反旗。
+    她動用一直積累的血液，成功地減少了半數王族，但她的行動被天敵幽靈姬所阻止，最終被神子的騎士用大槍刺殺。
+
+    這位伊娃莉特是由神子重新設計並再現的改良型。
+    儘管性能有所降低，但原本的擔憂──穩定性問題已經得到改善。
+
+    透過從其他生物收集血液，獲得更多的力量並加以利用。
+    然而，每次使用力量都會以血液的形式支付相應的代價。
+    與其他人工種族不同的優勢是，她的能力冷卻時間非常短，因此只要血液允許，她可以連續使用能力。
+  
+    
+    譯者：原種族名『イヴリート』意譯為希伯來語</HAR_EL_Race_Eveliet_a.description>
+  <HAR_EL_Race_Eveliet_a.alienRace.generalSettings.alienPartGenerator.bodyAddons.0.name>外殻</HAR_EL_Race_Eveliet_a.alienRace.generalSettings.alienPartGenerator.bodyAddons.0.name>
+  <HAR_EL_Race_Eveliet_a.alienRace.generalSettings.alienPartGenerator.bodyAddons.1.name>外殻</HAR_EL_Race_Eveliet_a.alienRace.generalSettings.alienPartGenerator.bodyAddons.1.name>
+  <HAR_EL_Race_Eveliet_a.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>hair</HAR_EL_Race_Eveliet_a.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <HAR_EL_Race_Eveliet_a.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>skin</HAR_EL_Race_Eveliet_a.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
+  <HAR_EL_Race_Eveliet_a.tools.0.label>left fist</HAR_EL_Race_Eveliet_a.tools.0.label>
+  <HAR_EL_Race_Eveliet_a.tools.1.label>right fist</HAR_EL_Race_Eveliet_a.tools.1.label>
+  
+  <HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_Skill.commandLabel>猩紅之吻</HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_Skill.commandLabel>
+  <HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_Skill.commandDesc>對相鄰目標進行咬噬，進行吸血。每次補充[救贖的血杯] 3～6的血液</HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_Skill.commandDesc>
+
+  <HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_CommandExplosive.commandLabel>利乏音之殼</HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_CommandExplosive.commandLabel>
+  <HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_CommandExplosive.commandDesc>解放伊娃莉特的強化外殻。
+    \n發動條件　：[救贖的血杯]　60以上
+    \n發動消耗：[救贖的血杯]　5</HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_CommandExplosive.commandDesc>
+
+  <HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_Skill_b.commandLabel>斬裂的王女</HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_Skill_b.commandLabel>
+  <HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_Skill_b.commandDesc>從目標中心發出半徑3格的衝擊波。
+    \n發動條件　：[救贖的血杯]　30以上
+    \n發動消耗：[救贖的血杯]　3</HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_Skill_b.commandDesc>
+
+  <HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_Skill_c.commandLabel>破碎的迦南</HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_Skill_c.commandLabel>
+  <HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_Skill_c.commandDesc>對目標1格造成強力一擊。
+    \n發動條件　：[救贖的血杯]　50以上
+    \n發動消耗：[救贖的血杯]　5</HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_Skill_c.commandDesc>
+
+  <HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_Skill_d.commandLabel>黑暗的祝宴</HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_Skill_d.commandLabel>
+  <HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_Skill_d.commandDesc>從目標中心發出半徑8格的強制出血衝擊波。
+    \n發動條件　：[救贖的血杯]　100以上
+    \n發動消耗：[救贖的血杯]　10</HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_Skill_d.commandDesc>
+
+  <HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_Skill_e.commandLabel>迦南之友</HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_Skill_e.commandLabel>
+  <HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_Skill_e.commandDesc>召喚眷屬。
+    \n發動條件　：[救贖的血杯]　200以上
+    \n發動消耗：[救贖的血杯]　100</HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_Skill_e.commandDesc>
+
+</LanguageData>

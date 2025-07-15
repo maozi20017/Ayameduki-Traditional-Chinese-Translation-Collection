@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>[Aya]Enforcer Boss 繁中漢化</name>
+	<author>毛子</author>
+	<packageId>Maozi.ZH.ChinesePack.BOSSEnforcer</packageId>
+	<supportedVersions>
+        <li>1.4</li>
+        <li>1.5</li>
+		<li>1.6</li>
+	</supportedVersions>
+	<loadAfter>
+		<li>Ayameduki.AyaRacePremise</li>
+		<li>Ayameduki.BOSSEnforcer</li>
+	</loadAfter>
+    <description>
+以[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2943233609]いつまで大佬的簡中漢化包[/url]為基底修改而成的繁中漢化
+
+漢化描述:
+
+【導入時需注意事項(重要)】
+・藉由導入，襲擊的派系比機械生命體還要兇惡。
+・強度的基準是「機械生命體 小於 執行者 遠小於 鎮魂女王」。
+・希望在MOD等方面提高戰力的環境。
+―――――――――――――――――――――――――――――
+【發生的事件】
+・[來自天界的執行者] (發生條件: 遊戲開始1年後，設定和MOD環境可能會影響)
+一顆附載著生命體的隕石會墜落在你的殖民地中。
+墜落後，生命體「執行者」將被釋放出來並開始襲擊人類。
+隕石和生命體都會在1天後自行消失 (如果是死亡則屍體會留下)。
+
+隕石自毀時會掉落以下物品：
+・300 隕石(石材)
+・3 個高級零件
+【================================================】
+【執行者的能力】
+・移動速度較緩慢。
+・能夠進行中、近距離的射擊。
+・能夠進行高威力的近戰攻擊，大型的攻擊甚至可能在一擊之下將對手置於瀕死或即死狀態。
+・免疫爆炸傷害。
+・生成會在受到衝擊時爆炸的物品（大型限定），在一定時間後自動消失。
+・可以對周圍的敵兵附加狀態異常（大型限定）。
+【================================================】
+【請注意】
+・本MOD的規格可能會因更新而改變。
+	</description>
+
+</ModMetaData>

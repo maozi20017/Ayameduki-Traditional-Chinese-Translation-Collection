@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Qualeela_Base_Faction.leaderTitle>領袖</Qualeela_Base_Faction.leaderTitle>
+
+  <Qualeela_P_Faction.label>庫利菈的隱居之鄉</Qualeela_P_Faction.label>
+  <Qualeela_P_Faction.description>庫利菈們聚集在一起平和的隱居著的聚落。</Qualeela_P_Faction.description>
+  <Qualeela_P_Faction.pawnsPlural>庫利菈們</Qualeela_P_Faction.pawnsPlural>
+
+  <Qualeela_Faction_NPC_c.label>隱德來希</Qualeela_Faction_NPC_c.label>
+  <Qualeela_Faction_NPC_c.description>一個由庫利菈主導的國家，她們繼承了創造主那『讓生命更強大』的願望。本來人工種族在生態上不能增長到國家規模所需的人口，但是通過繼承和運用創造主遺留下來的生物設施克服了這個問題。此後勢力逐步擴大，現在已經成長到可以在數個星系之間活動的程度。雖然對所有派系持有侵略性態度，但對於小派系往往視而不見。但是對於財富價值異常高的派系視為危險分子進行侵略。雖然是戰鬥力和規模都異常強盛的國家，但侵略與否可以通過對話和交涉來進行調解。</Qualeela_Faction_NPC_c.description>
+  <Qualeela_Faction_NPC_c.fixedName>隱德來希</Qualeela_Faction_NPC_c.fixedName>
+  <Qualeela_Faction_NPC_c.pawnsPlural>庫利菈</Qualeela_Faction_NPC_c.pawnsPlural>
+  <Qualeela_Faction_NPC_c.leaderTitle>聖王</Qualeela_Faction_NPC_c.leaderTitle>
+
+
+</LanguageData>

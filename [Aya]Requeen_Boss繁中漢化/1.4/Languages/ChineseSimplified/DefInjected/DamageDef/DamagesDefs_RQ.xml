@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BOSS_RQ_Scratch.label>超振動刀刃</BOSS_RQ_Scratch.label>
+  <BOSS_RQ_Scratch.deathMessage>{0} 被撕裂致死。</BOSS_RQ_Scratch.deathMessage>
+
+  <BOSS_RQ_Bullet.label>爆裂彈</BOSS_RQ_Bullet.label>
+  <BOSS_RQ_Bullet.deathMessage>{0} 被射殺了。</BOSS_RQ_Bullet.deathMessage>
+
+  <BOSS_RQ_Bullet_b.label>強化爆裂弹</BOSS_RQ_Bullet_b.label>
+  <BOSS_RQ_Bullet_b.deathMessage>{0} 被射殺了。</BOSS_RQ_Bullet_b.deathMessage>
+
+  <BOSS_RQ_Damage_b.label>精神汚染</BOSS_RQ_Damage_b.label>
+  <BOSS_RQ_Damage_b.deathMessage>{0} 被殺死了。</BOSS_RQ_Damage_b.deathMessage>
+
+  <BOSS_RQ_Damage_c.deathMessage>{0} 被殺死了。</BOSS_RQ_Damage_c.deathMessage>
+
+
+</LanguageData>

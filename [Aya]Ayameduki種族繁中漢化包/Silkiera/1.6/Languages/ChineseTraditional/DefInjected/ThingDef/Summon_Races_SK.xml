@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_SK_Mechanoid_race_a.label>亞工造機械生命體·收割者</HAR_SK_Mechanoid_race_a.label>
+  <HAR_SK_Mechanoid_race_a.description>『經過多次實驗終於正式啟動\n迅速且精準地斬下惡人首級！』\n\n亞人工業在解析並再現機械族後製作出的機械生命體，難以再現的大腦部件用其他物品替代，最終成功運行。與作為再現對象的機械螳螂相比，殺傷力有所降低，但是大大提高了機動性和防禦力。</HAR_SK_Mechanoid_race_a.description>
+  <HAR_SK_Mechanoid_race_a.tools.0.label>超振動刀刃</HAR_SK_Mechanoid_race_a.tools.0.label>
+  <HAR_SK_Mechanoid_race_a.tools.1.label>超振動刀刃</HAR_SK_Mechanoid_race_a.tools.1.label>
+  <HAR_SK_Mechanoid_race_a.tools.2.label>突進</HAR_SK_Mechanoid_race_a.tools.2.label>
+
+  <HAR_SK_Mechanoid_race_b.label>亞工造機械生命體·掠奪者</HAR_SK_Mechanoid_race_b.label>
+  <HAR_SK_Mechanoid_race_b.description>『經過多次實驗終於正式啟動\n為了和平，24小時不停地宰殺敵人吧！』\n\n亞人工業在解析並再現機械族後製作出的機械生命體，難以再現的大腦部件用其他物品替代，最終成功運行。與作為再現對象的機械蜈蚣相比，放棄了射擊，活用其強悍的身體進行了近戰的強化。</HAR_SK_Mechanoid_race_b.description>
+  <HAR_SK_Mechanoid_race_b.tools.0.label>超振動刀刃</HAR_SK_Mechanoid_race_b.tools.0.label>
+  <HAR_SK_Mechanoid_race_b.tools.1.label>超振動刀刃</HAR_SK_Mechanoid_race_b.tools.1.label>
+
+  <HAR_SK_Mechanoid_race_c.label>亞工造機械生命體·暗影</HAR_SK_Mechanoid_race_c.label>
+  <HAR_SK_Mechanoid_race_c.description>『經過多次實驗終於正式啟動\n用身上的炸藥將敵人從這顆星球上徹底抹去！』\n\n亞人工業在解析並再現機械族後製作出的機械生命體，難以再現的大腦部件用其他物品替代，最終成功運行。與其他機械生命體相比，盔甲更薄、更容易被破壞，可一旦陷入無法行動的狀態就會立刻引爆身上所有的炸藥。</HAR_SK_Mechanoid_race_c.description>
+  <HAR_SK_Mechanoid_race_c.tools.0.label>突進</HAR_SK_Mechanoid_race_c.tools.0.label>
+
+  <HAR_SK_Mechanoid_race_e.label>亞工造機械生命體·鐵血戰兵</HAR_SK_Mechanoid_race_e.label>
+  <HAR_SK_Mechanoid_race_e.description>『經過多次實驗終於正式啟動\n不會流血流淚的鋼鐵戰士將徹底擊潰敵人！』\n\n亞人工業在解析並再現機械族後製作出的機械生命體，難以再現的大腦部件用其他物品替代，最終成功運行。擅長用槍進行遠距離戰鬥，由於是機械士兵，射擊精度也很高。</HAR_SK_Mechanoid_race_e.description>
+  <HAR_SK_Mechanoid_race_e.tools.0.label>超振動刀刃</HAR_SK_Mechanoid_race_e.tools.0.label>
+  <HAR_SK_Mechanoid_race_e.tools.1.label>超振動刀刃</HAR_SK_Mechanoid_race_e.tools.1.label>
+  <HAR_SK_Mechanoid_race_e.tools.2.label>突進</HAR_SK_Mechanoid_race_e.tools.2.label>
+
+  <HAR_SK_Mechanoid_race_z.label>鎮魂獸</HAR_SK_Mechanoid_race_z.label>
+  <HAR_SK_Mechanoid_race_z.description>『因失去吾主而發狂的母上啊\n請安息吧』\n\n亞人工業引以為豪的決戰兵器、對女王種鎮魂兵器。\n無視道德和人性，將亞人獸娘自身改造到極限而誕生的禁斷人造人，擁有超乎尋常的性能。\n它只為破壞女王種『requeen』而使用——儘管它也能輕易毀滅其他派系。\n一旦被釋放便會不分敵友地肆虐，因此還是不要刺激它為好，過1天就會自然而然地消失了。\n\n\n\n如果看到它在鎮魂，還請不要靠近，\n直到母上的哀悼結束。</HAR_SK_Mechanoid_race_z.description>
+  <HAR_SK_Mechanoid_race_z.tools.0.label>安魂利爪</HAR_SK_Mechanoid_race_z.tools.0.label>
+  <HAR_SK_Mechanoid_race_z.tools.1.label>安魂利爪</HAR_SK_Mechanoid_race_z.tools.1.label>
+  <HAR_SK_Mechanoid_race_z.tools.2.label>宏偉之死</HAR_SK_Mechanoid_race_z.tools.2.label>
+
+
+</LanguageData>

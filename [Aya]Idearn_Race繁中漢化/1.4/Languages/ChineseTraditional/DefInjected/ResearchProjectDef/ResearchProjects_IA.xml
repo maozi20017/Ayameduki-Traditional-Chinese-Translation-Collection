@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<!--秘匿された技術-->
+	<HAR_IA_Project_Mysterion.label>隱藏技術</HAR_IA_Project_Mysterion.label>
+	<!--イデアーンを生産する機械を研究する。-->
+	<HAR_IA_Project_Mysterion.description>研究生產艾蒂安的機械裝置。</HAR_IA_Project_Mysterion.description>
+
+	<!--ラケス計画-->
+	<HAR_IA_Project_Fast.label>拉凱斯計畫</HAR_IA_Project_Fast.label>
+	<!--イデアーンを生産する機械を研究する。-->
+	<HAR_IA_Project_Fast.description>研究生產艾蒂安的機械裝置。</HAR_IA_Project_Fast.description>
+
+	<!--カルミデス計画-->
+	<HAR_IA_Project_Second.label>卡爾米德計畫</HAR_IA_Project_Second.label>
+	<!--イデアーンを生産する機械を研究する。-->
+	<HAR_IA_Project_Second.description>研究生產艾蒂安的機械裝置。</HAR_IA_Project_Second.description>
+
+	<!--アザーサイド研究-->
+	<HAR_IA_Project_Otherside.label>研究彼岸</HAR_IA_Project_Otherside.label>
+	<!--アザーサイドを完全にするために研究する-->
+	<HAR_IA_Project_Otherside.description>了解彼岸以此完善研究。</HAR_IA_Project_Otherside.description>
+
+	<!--メネクセノス計画-->
+	<HAR_IA_Project_Third.label>美涅克塞努計畫</HAR_IA_Project_Third.label>
+	<!--イデアーンを生産する機械を研究する。-->
+	<HAR_IA_Project_Third.description>研究生產艾蒂安的機械裝置。</HAR_IA_Project_Third.description>
+
+	<!--テアイテトス計画-->
+	<HAR_IA_Project_Forth.label>泰阿泰德計畫</HAR_IA_Project_Forth.label>
+	<!--イデアーンを生産する機械を研究する。-->
+	<HAR_IA_Project_Forth.description>研究生產艾蒂安的機械裝置。</HAR_IA_Project_Forth.description>
+
+	<!--焚書発見-->
+	<HAR_IA_Project_Final_a.label>發現焚書</HAR_IA_Project_Final_a.label>
+	<!--遺物の中に隠されていたデータを研究します-->
+	<HAR_IA_Project_Final_a.description>研究隱藏在古老文物中的數據資料。</HAR_IA_Project_Final_a.description>
+
+	<!--焚書収集-->
+	<HAR_IA_Project_Final_b.label>蒐集焚書</HAR_IA_Project_Final_b.label>
+	<!--遺物の中に隠されていたデータを研究します-->
+	<HAR_IA_Project_Final_b.description>研究隱藏在古老文物中的數據資料。</HAR_IA_Project_Final_b.description>
+
+	<!--焚書修正-->
+	<HAR_IA_Project_Final_c.label>修訂焚書</HAR_IA_Project_Final_c.label>
+	<!--遺物の中に隠されていたデータを研究します-->
+	<HAR_IA_Project_Final_c.description>研究隱藏在古老文物中的數據資料。</HAR_IA_Project_Final_c.description>
+
+	<!--焚書復元-->
+	<HAR_IA_Project_Final_d.label>修復焚書</HAR_IA_Project_Final_d.label>
+	<!--遺物の中に隠されていたデータを研究します-->
+	<HAR_IA_Project_Final_d.description>研究隱藏在古老文物中的數據資料。</HAR_IA_Project_Final_d.description>
+
+	<!--焚書整調-->
+	<HAR_IA_Project_Final_e.label>整理焚書</HAR_IA_Project_Final_e.label>
+	<!--遺物の中に隠されていたデータを研究します-->
+	<HAR_IA_Project_Final_e.description>研究隱藏在古老文物中的數據資料。</HAR_IA_Project_Final_e.description>
+
+	<!--焚書計画-->
+	<HAR_IA_Project_Final_f.label>焚書計畫</HAR_IA_Project_Final_f.label>
+	<!--遺物の中に隠されていたデータを研究します-->
+	<HAR_IA_Project_Final_f.description>研究隱藏在古老文物中的數據資料。</HAR_IA_Project_Final_f.description>
+
+	<!--ここからだして-->
+	<HAR_IA_Project_Final_g.label>就此開始</HAR_IA_Project_Final_g.label>
+	<!--隱德來希によって焼却されたものを蘇らせる-->
+	<HAR_IA_Project_Final_g.description>透過隱德來希來恢復被燒毀的東西。</HAR_IA_Project_Final_g.description>
+
+</LanguageData>

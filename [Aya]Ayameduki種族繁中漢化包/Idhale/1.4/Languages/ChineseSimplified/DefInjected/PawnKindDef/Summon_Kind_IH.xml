@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_IH_NPC_a.label>暴動之矛</HAR_IH_NPC_a.label>
+  <HAR_IH_NPC_a.labelPlural>暴動之矛們</HAR_IH_NPC_a.labelPlural>
+  <HAR_IH_NPC_a.labelMale>暴動之矛</HAR_IH_NPC_a.labelMale>
+  <HAR_IH_NPC_a.labelMalePlural>暴動之矛們</HAR_IH_NPC_a.labelMalePlural>
+  <HAR_IH_NPC_a.labelFemale>暴動之矛</HAR_IH_NPC_a.labelFemale>
+  <HAR_IH_NPC_a.labelFemalePlural>暴動之矛們</HAR_IH_NPC_a.labelFemalePlural>
+
+  <HAR_IH_NPC_b.label>大型魔像</HAR_IH_NPC_b.label>
+  <HAR_IH_NPC_b.labelPlural>大型魔像們</HAR_IH_NPC_b.labelPlural>
+  <HAR_IH_NPC_b.labelMale>大型魔像</HAR_IH_NPC_b.labelMale>
+  <HAR_IH_NPC_b.labelMalePlural>大型魔像們</HAR_IH_NPC_b.labelMalePlural>
+  <HAR_IH_NPC_b.labelFemale>大型魔像</HAR_IH_NPC_b.labelFemale>
+  <HAR_IH_NPC_b.labelFemalePlural>大型魔像們</HAR_IH_NPC_b.labelFemalePlural>
+
+</LanguageData>

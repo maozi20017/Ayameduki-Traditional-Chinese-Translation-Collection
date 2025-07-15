@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>[Aya]Aya Premise Core 繁中漢化</name>
+	<author>毛子</author>
+	<packageId>Maozi.ZH.ChinesePack.AyaRacePremise</packageId>
+	<supportedVersions>
+		<li>1.6</li>
+	</supportedVersions>
+	<loadAfter>
+		<li>Ayameduki.AyaRacePremise</li>
+	</loadAfter>
+    <description>
+漢化描述:
+
+此mod是人工種族mod必要的前置mod。
+1.6之後必需，之前的不需要。
+【================================================】
+【請注意】
+・本MOD的規格可能會因更新而改變。
+・本MOD不與原版角色外貌相容，且無法裝備原版角色外貌的服飾。
+	</description>
+
+</ModMetaData>

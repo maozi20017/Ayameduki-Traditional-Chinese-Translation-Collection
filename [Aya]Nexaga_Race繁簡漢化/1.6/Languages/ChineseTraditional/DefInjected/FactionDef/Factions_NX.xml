@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Nexaga_Base_Faction.leaderTitle>領袖</Nexaga_Base_Faction.leaderTitle>
+
+  <Nexaga_P_Faction.label>混血種的隱居之鄉</Nexaga_P_Faction.label>
+  <Nexaga_P_Faction.description>混血種們聚集在一起平和的隱居著的聚落。</Nexaga_P_Faction.description>
+  <Nexaga_P_Faction.pawnsPlural>混血種們</Nexaga_P_Faction.pawnsPlural>
+
+  <Nexaga_Faction_NPC.label>混血種的派系</Nexaga_Faction_NPC.label>
+  <Nexaga_Faction_NPC.description>由混血種組成的中立派系。</Nexaga_Faction_NPC.description>
+  <Nexaga_Faction_NPC.pawnsPlural>混血種</Nexaga_Faction_NPC.pawnsPlural>
+  <Nexaga_Faction_NPC.leaderTitle>領袖</Nexaga_Faction_NPC.leaderTitle>
+
+
+</LanguageData>

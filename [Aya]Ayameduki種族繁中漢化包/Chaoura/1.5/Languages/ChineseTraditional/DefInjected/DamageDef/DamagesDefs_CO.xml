@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_CO_Damage_a.label>斷影</HAR_CO_Damage_a.label>
+  <HAR_CO_Damage_a.deathMessage>{0} 被射殺了。</HAR_CO_Damage_a.deathMessage>
+
+  <HAR_CO_Damage_b.label>血狂</HAR_CO_Damage_b.label>
+  <HAR_CO_Damage_b.deathMessage>{0} 在一次爆炸中死亡。</HAR_CO_Damage_b.deathMessage>
+
+
+</LanguageData>

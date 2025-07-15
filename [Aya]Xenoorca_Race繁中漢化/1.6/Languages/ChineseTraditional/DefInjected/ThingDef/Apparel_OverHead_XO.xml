@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ■ティアラ(ゼノオーカ) -->
+
+  <HAR_XO_AH_a.label>皇冠頭飾(人魚姬)</HAR_XO_AH_a.label>
+  <HAR_XO_AH_a.description>人魚姬的皇冠頭飾，身為戰鬥狂的她們也會想要保持美麗的姿態。</HAR_XO_AH_a.description>
+
+
+  <!-- ■カチューシャ(ゼノオーカ) -->
+
+  <HAR_XO_AH_b.label>髮箍(人魚姬)</HAR_XO_AH_b.label>
+  <HAR_XO_AH_b.description>人魚姬的髮箍，相較於裝飾品，這個髮箍更多的還是注重在『髮夾』這一原本的用處上。</HAR_XO_AH_b.description>
+
+
+  <!-- ■メイドカチューシャ(ゼノオーカ) -->
+
+  <HAR_XO_AH_c.label>女僕髮箍(人魚姬)</HAR_XO_AH_c.label>
+  <HAR_XO_AH_c.description>人魚姬的女僕髮箍，似乎還留有一顆奉獻的心。</HAR_XO_AH_c.description>
+
+
+  <!-- ■花飾り(ゼノオーカ) -->
+
+  <HAR_XO_AH_d.label>花飾(人魚姬)</HAR_XO_AH_d.label>
+  <HAR_XO_AH_d.description>人魚姬的花飾，不禁擔心其能否在人魚姬們激烈的戰鬥中倖存下來。</HAR_XO_AH_d.description>
+
+
+  <!-- ■リボン(ゼノオーカ) -->
+
+  <HAR_XO_AH_e.label>緞帶(人魚姬)</HAR_XO_AH_e.label>
+  <HAR_XO_AH_e.description>人魚姬的緞帶，給人一種單純且可愛的印象。</HAR_XO_AH_e.description>
+
+
+  <!-- ■オルキヌスヘルメット -->
+
+  <HAR_XO_AH_f.label>殺人鯨頭盔(人魚姬)</HAR_XO_AH_f.label>
+  <HAR_XO_AH_f.description>殺人鯨旅團的團員配備的頭盔，能夠有效抵禦攻擊，但是犧牲了速度，且難以應付高溫。</HAR_XO_AH_f.description>
+
+
+  <!-- ■オルカヘルメット -->
+
+  <HAR_XO_AH_g.label>虎鯨頭盔(人魚姬)</HAR_XO_AH_g.label>
+  <HAR_XO_AH_g.description>人魚姬迎合自己的體型製造出的鎧甲，能有效抵禦打擊和槍擊，但是難以抵擋高溫。</HAR_XO_AH_g.description>
+
+
+  <!-- ■帝國頭盔(人魚姬) -->
+
+  <HAR_XO_AH_h.label>帝國頭盔(人魚姬)</HAR_XO_AH_h.label>
+  <HAR_XO_AH_h.description>曾經被創造主賜予給人魚姬・海達諾亞的至高頭盔。
+  \n\n在那鎧甲所散發的光芒之中，人們聲稱看見了
+  \n一位純潔而崇高的騎士，她昔日的模樣。</HAR_XO_AH_h.description>
+
+</LanguageData>

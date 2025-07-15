@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_Nearmaere_Player.label>夜魔殖民者</HAR_Nearmaere_Player.label>
+  <HAR_Nearmaere_Player.labelPlural>夜魔殖民者們</HAR_Nearmaere_Player.labelPlural>
+  <HAR_Nearmaere_Player.labelMale>男性 夜魔殖民者</HAR_Nearmaere_Player.labelMale>
+  <HAR_Nearmaere_Player.labelMalePlural>男性 夜魔殖民者們</HAR_Nearmaere_Player.labelMalePlural>
+  <HAR_Nearmaere_Player.labelFemale>女性 夜魔殖民者</HAR_Nearmaere_Player.labelFemale>
+  <HAR_Nearmaere_Player.labelFemalePlural>女性 夜魔殖民者們</HAR_Nearmaere_Player.labelFemalePlural>
+
+
+  <!-- ■NPC -->
+
+  <HAR_Nearmaere_NPC_Trader.label>夜魔商人</HAR_Nearmaere_NPC_Trader.label>
+  <HAR_Nearmaere_NPC_Trader.labelPlural>夜魔商人們</HAR_Nearmaere_NPC_Trader.labelPlural>
+  <HAR_Nearmaere_NPC_Trader.labelMale>男性 夜魔商人</HAR_Nearmaere_NPC_Trader.labelMale>
+  <HAR_Nearmaere_NPC_Trader.labelMalePlural>男性 夜魔商人們</HAR_Nearmaere_NPC_Trader.labelMalePlural>
+  <HAR_Nearmaere_NPC_Trader.labelFemale>女性 夜魔商人</HAR_Nearmaere_NPC_Trader.labelFemale>
+  <HAR_Nearmaere_NPC_Trader.labelFemalePlural>女性 夜魔商人們</HAR_Nearmaere_NPC_Trader.labelFemalePlural>
+
+  <HAR_Nearmaere_NPC_Leader.label>夜魔領袖</HAR_Nearmaere_NPC_Leader.label>
+  <HAR_Nearmaere_NPC_Leader.labelPlural>夜魔領袖們</HAR_Nearmaere_NPC_Leader.labelPlural>
+  <HAR_Nearmaere_NPC_Leader.labelMale>男性 夜魔領袖</HAR_Nearmaere_NPC_Leader.labelMale>
+  <HAR_Nearmaere_NPC_Leader.labelMalePlural>男性 夜魔領袖們</HAR_Nearmaere_NPC_Leader.labelMalePlural>
+  <HAR_Nearmaere_NPC_Leader.labelFemale>女性 夜魔領袖</HAR_Nearmaere_NPC_Leader.labelFemale>
+  <HAR_Nearmaere_NPC_Leader.labelFemalePlural>女性 夜魔領袖們</HAR_Nearmaere_NPC_Leader.labelFemalePlural>
+
+  <HAR_Nearmaere_NPC_Resident.label>夜魔居民</HAR_Nearmaere_NPC_Resident.label>
+  <HAR_Nearmaere_NPC_Resident.labelPlural>夜魔居民們</HAR_Nearmaere_NPC_Resident.labelPlural>
+  <HAR_Nearmaere_NPC_Resident.labelMale>男性 夜魔居民</HAR_Nearmaere_NPC_Resident.labelMale>
+  <HAR_Nearmaere_NPC_Resident.labelMalePlural>男性 夜魔居民們</HAR_Nearmaere_NPC_Resident.labelMalePlural>
+  <HAR_Nearmaere_NPC_Resident.labelFemale>女性 夜魔居民</HAR_Nearmaere_NPC_Resident.labelFemale>
+  <HAR_Nearmaere_NPC_Resident.labelFemalePlural>女性 夜魔居民們</HAR_Nearmaere_NPC_Resident.labelFemalePlural>
+
+  <HAR_Nearmaere_NPC_gunner.label>夜魔槍手</HAR_Nearmaere_NPC_gunner.label>
+  <HAR_Nearmaere_NPC_gunner.labelPlural>夜魔槍手們</HAR_Nearmaere_NPC_gunner.labelPlural>
+  <HAR_Nearmaere_NPC_gunner.labelMale>男性 夜魔槍手</HAR_Nearmaere_NPC_gunner.labelMale>
+  <HAR_Nearmaere_NPC_gunner.labelMalePlural>男性 夜魔槍手們</HAR_Nearmaere_NPC_gunner.labelMalePlural>
+  <HAR_Nearmaere_NPC_gunner.labelFemale>女性 夜魔槍手</HAR_Nearmaere_NPC_gunner.labelFemale>
+  <HAR_Nearmaere_NPC_gunner.labelFemalePlural>女性 夜魔槍手們</HAR_Nearmaere_NPC_gunner.labelFemalePlural>
+
+  <HAR_Nearmaere_NPC_Sniper.label>夜魔狙擊手</HAR_Nearmaere_NPC_Sniper.label>
+  <HAR_Nearmaere_NPC_Sniper.labelPlural>夜魔狙擊手們</HAR_Nearmaere_NPC_Sniper.labelPlural>
+  <HAR_Nearmaere_NPC_Sniper.labelMale>男性 夜魔狙擊手</HAR_Nearmaere_NPC_Sniper.labelMale>
+  <HAR_Nearmaere_NPC_Sniper.labelMalePlural>男性 夜魔狙擊手們</HAR_Nearmaere_NPC_Sniper.labelMalePlural>
+  <HAR_Nearmaere_NPC_Sniper.labelFemale>女性 夜魔狙擊手</HAR_Nearmaere_NPC_Sniper.labelFemale>
+  <HAR_Nearmaere_NPC_Sniper.labelFemalePlural>女性 夜魔狙擊手們</HAR_Nearmaere_NPC_Sniper.labelFemalePlural>
+
+  <HAR_Nearmaere_NPC_Industrial.label>夜魔工作員</HAR_Nearmaere_NPC_Industrial.label>
+  <HAR_Nearmaere_NPC_Industrial.labelPlural>夜魔工作員們</HAR_Nearmaere_NPC_Industrial.labelPlural>
+  <HAR_Nearmaere_NPC_Industrial.labelMale>男性 夜魔工作員</HAR_Nearmaere_NPC_Industrial.labelMale>
+  <HAR_Nearmaere_NPC_Industrial.labelMalePlural>男性 夜魔工作員們</HAR_Nearmaere_NPC_Industrial.labelMalePlural>
+  <HAR_Nearmaere_NPC_Industrial.labelFemale>女性 夜魔工作員</HAR_Nearmaere_NPC_Industrial.labelFemale>
+  <HAR_Nearmaere_NPC_Industrial.labelFemalePlural>女性 夜魔工作員們</HAR_Nearmaere_NPC_Industrial.labelFemalePlural>
+
+  <HAR_Nearmaere_NPC_Grenade.label>夜魔砲擊手</HAR_Nearmaere_NPC_Grenade.label>
+  <HAR_Nearmaere_NPC_Grenade.labelPlural>夜魔砲擊手們</HAR_Nearmaere_NPC_Grenade.labelPlural>
+  <HAR_Nearmaere_NPC_Grenade.labelMale>男性 夜魔砲擊手</HAR_Nearmaere_NPC_Grenade.labelMale>
+  <HAR_Nearmaere_NPC_Grenade.labelMalePlural>男性 夜魔砲擊手們</HAR_Nearmaere_NPC_Grenade.labelMalePlural>
+  <HAR_Nearmaere_NPC_Grenade.labelFemale>女性 夜魔砲擊手</HAR_Nearmaere_NPC_Grenade.labelFemale>
+  <HAR_Nearmaere_NPC_Grenade.labelFemalePlural>女性 夜魔砲擊手們</HAR_Nearmaere_NPC_Grenade.labelFemalePlural>
+
+
+  <!-- ■NPC2 -->
+
+  <HAR_Nearmaere_NPC_Trader_b.label>夜魔商人</HAR_Nearmaere_NPC_Trader_b.label>
+  <HAR_Nearmaere_NPC_Trader_b.labelPlural>夜魔商人們</HAR_Nearmaere_NPC_Trader_b.labelPlural>
+  <HAR_Nearmaere_NPC_Trader_b.labelMale>男性 夜魔商人</HAR_Nearmaere_NPC_Trader_b.labelMale>
+  <HAR_Nearmaere_NPC_Trader_b.labelMalePlural>男性 夜魔商人們</HAR_Nearmaere_NPC_Trader_b.labelMalePlural>
+  <HAR_Nearmaere_NPC_Trader_b.labelFemale>女性 夜魔商人</HAR_Nearmaere_NPC_Trader_b.labelFemale>
+  <HAR_Nearmaere_NPC_Trader_b.labelFemalePlural>女性 夜魔商人們</HAR_Nearmaere_NPC_Trader_b.labelFemalePlural>
+
+  <HAR_Nearmaere_NPC_Leader_b.label>夜魔教祖</HAR_Nearmaere_NPC_Leader_b.label>
+  <HAR_Nearmaere_NPC_Leader_b.labelPlural>夜魔教祖們</HAR_Nearmaere_NPC_Leader_b.labelPlural>
+  <HAR_Nearmaere_NPC_Leader_b.labelMale>男性 夜魔教祖</HAR_Nearmaere_NPC_Leader_b.labelMale>
+  <HAR_Nearmaere_NPC_Leader_b.labelMalePlural>男性 夜魔教祖們</HAR_Nearmaere_NPC_Leader_b.labelMalePlural>
+  <HAR_Nearmaere_NPC_Leader_b.labelFemale>女性 夜魔教祖</HAR_Nearmaere_NPC_Leader_b.labelFemale>
+  <HAR_Nearmaere_NPC_Leader_b.labelFemalePlural>女性 夜魔教祖們</HAR_Nearmaere_NPC_Leader_b.labelFemalePlural>
+
+  <HAR_Nearmaere_NPC_Resident_b.label>夜魔教徒</HAR_Nearmaere_NPC_Resident_b.label>
+  <HAR_Nearmaere_NPC_Resident_b.labelPlural>夜魔教徒們</HAR_Nearmaere_NPC_Resident_b.labelPlural>
+  <HAR_Nearmaere_NPC_Resident_b.labelMale>男性 夜魔教徒</HAR_Nearmaere_NPC_Resident_b.labelMale>
+  <HAR_Nearmaere_NPC_Resident_b.labelMalePlural>男性 夜魔教徒們</HAR_Nearmaere_NPC_Resident_b.labelMalePlural>
+  <HAR_Nearmaere_NPC_Resident_b.labelFemale>女性 夜魔教徒</HAR_Nearmaere_NPC_Resident_b.labelFemale>
+  <HAR_Nearmaere_NPC_Resident_b.labelFemalePlural>女性 夜魔教徒們</HAR_Nearmaere_NPC_Resident_b.labelFemalePlural>
+
+
+  <!-- ■NPC -->
+
+  <HAR_Nearmaere_NPC_Resident_c.label>夜魔・阿拉迪亞</HAR_Nearmaere_NPC_Resident_c.label>
+  <HAR_Nearmaere_NPC_Resident_c.labelPlural>夜魔・阿拉迪亞們</HAR_Nearmaere_NPC_Resident_c.labelPlural>
+  <HAR_Nearmaere_NPC_Resident_c.labelMale>男性 夜魔・阿拉迪亞</HAR_Nearmaere_NPC_Resident_c.labelMale>
+  <HAR_Nearmaere_NPC_Resident_c.labelMalePlural>男性 夜魔・阿拉迪亞們</HAR_Nearmaere_NPC_Resident_c.labelMalePlural>
+  <HAR_Nearmaere_NPC_Resident_c.labelFemale>女性 夜魔・阿拉迪亞</HAR_Nearmaere_NPC_Resident_c.labelFemale>
+  <HAR_Nearmaere_NPC_Resident_c.labelFemalePlural>女性 夜魔・阿拉迪亞們</HAR_Nearmaere_NPC_Resident_c.labelFemalePlural>
+
+  <HAR_Nearmaere_NPC_Resident_d.label>夜魔・溫蓋特</HAR_Nearmaere_NPC_Resident_d.label>
+  <HAR_Nearmaere_NPC_Resident_d.labelPlural>夜魔・溫蓋特們</HAR_Nearmaere_NPC_Resident_d.labelPlural>
+  <HAR_Nearmaere_NPC_Resident_d.labelMale>男性 夜魔・溫蓋特</HAR_Nearmaere_NPC_Resident_d.labelMale>
+  <HAR_Nearmaere_NPC_Resident_d.labelMalePlural>男性 夜魔・溫蓋特們</HAR_Nearmaere_NPC_Resident_d.labelMalePlural>
+  <HAR_Nearmaere_NPC_Resident_d.labelFemale>女性 夜魔・溫蓋特</HAR_Nearmaere_NPC_Resident_d.labelFemale>
+  <HAR_Nearmaere_NPC_Resident_d.labelFemalePlural>女性 夜魔・溫蓋特們</HAR_Nearmaere_NPC_Resident_d.labelFemalePlural>
+
+  <HAR_Nearmaere_NPC_Trader_e.label>ETHOS部隊長</HAR_Nearmaere_NPC_Trader_e.label>
+  <HAR_Nearmaere_NPC_Trader_e.labelPlural>ETHOS部隊長s</HAR_Nearmaere_NPC_Trader_e.labelPlural>
+  <HAR_Nearmaere_NPC_Trader_e.labelMale>男性 ETHOS部隊長</HAR_Nearmaere_NPC_Trader_e.labelMale>
+  <HAR_Nearmaere_NPC_Trader_e.labelMalePlural>男性 ETHOS部隊長s</HAR_Nearmaere_NPC_Trader_e.labelMalePlural>
+  <HAR_Nearmaere_NPC_Trader_e.labelFemale>女性 ETHOS部隊長</HAR_Nearmaere_NPC_Trader_e.labelFemale>
+  <HAR_Nearmaere_NPC_Trader_e.labelFemalePlural>女性 ETHOS部隊長s</HAR_Nearmaere_NPC_Trader_e.labelFemalePlural>
+
+  <HAR_Nearmaere_NPC_Leader_e.label>ETHOS司令官</HAR_Nearmaere_NPC_Leader_e.label>
+  <HAR_Nearmaere_NPC_Leader_e.labelPlural>ETHOS司令官s</HAR_Nearmaere_NPC_Leader_e.labelPlural>
+  <HAR_Nearmaere_NPC_Leader_e.labelMale>男性 ETHOS司令官</HAR_Nearmaere_NPC_Leader_e.labelMale>
+  <HAR_Nearmaere_NPC_Leader_e.labelMalePlural>男性 ETHOS司令官s</HAR_Nearmaere_NPC_Leader_e.labelMalePlural>
+  <HAR_Nearmaere_NPC_Leader_e.labelFemale>女性 ETHOS司令官</HAR_Nearmaere_NPC_Leader_e.labelFemale>
+  <HAR_Nearmaere_NPC_Leader_e.labelFemalePlural>女性 ETHOS司令官s</HAR_Nearmaere_NPC_Leader_e.labelFemalePlural>
+
+  <HAR_Nearmaere_NPC_Resident_e.label>ETHOS隊員</HAR_Nearmaere_NPC_Resident_e.label>
+  <HAR_Nearmaere_NPC_Resident_e.labelPlural>ETHOS隊員s</HAR_Nearmaere_NPC_Resident_e.labelPlural>
+  <HAR_Nearmaere_NPC_Resident_e.labelMale>男性 ETHOS隊員</HAR_Nearmaere_NPC_Resident_e.labelMale>
+  <HAR_Nearmaere_NPC_Resident_e.labelMalePlural>男性 ETHOS隊員s</HAR_Nearmaere_NPC_Resident_e.labelMalePlural>
+  <HAR_Nearmaere_NPC_Resident_e.labelFemale>女性 ETHOS隊員</HAR_Nearmaere_NPC_Resident_e.labelFemale>
+  <HAR_Nearmaere_NPC_Resident_e.labelFemalePlural>女性 ETHOS隊員s</HAR_Nearmaere_NPC_Resident_e.labelFemalePlural>
+
+
+</LanguageData>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_Neclose_b.label>牧菌妖姬・虛偽之物</HAR_Neclose_b.label>
+  <HAR_Neclose_b.description>牧菌妖姬・虛偽之物是在那場大戰之後，突然出現在迦南星系一個宇宙站上的異形生命體。
+雖然其形態與人工種族相似，但創造主的資料庫中並未記錄其存在。
+
+擁有與人工種族持有的「創世紀」不同的特有遺傳基因。
+但由於擁有與牧菌妖姬相似的基因，因此在遺傳上也被歸類為人工種族。
+基於這樣的背景，被登記為『外來種』，並且受到人工種族們的恐懼。
+
+由於宇宙站被這種生物所污染，不得不被迫棄置。
+宇宙站按照自動航行功能的指示，開始在宇宙中漂泊。
+
+此後，虛偽之物在各星系中出現，成為威脅。
+由於其性能和能力完全未知，若不慎遇到將會極為困難處理。
+
+
+在那個宇宙站中有著創造主所保管的『另一個體的超然存在的樣本』，
+而負責管理的正是牧菌妖姬。然而，真相至今仍然是一個謎。</HAR_Neclose_b.description>
+  <HAR_Neclose_b.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>hair</HAR_Neclose_b.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <HAR_Neclose_b.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>skin</HAR_Neclose_b.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
+  <HAR_Neclose_b.alienRace.generalSettings.alienPartGenerator.bodyAddons.0.name>外殻</HAR_Neclose_b.alienRace.generalSettings.alienPartGenerator.bodyAddons.0.name>
+  <HAR_Neclose_b.alienRace.generalSettings.alienPartGenerator.bodyAddons.1.name>外殻</HAR_Neclose_b.alienRace.generalSettings.alienPartGenerator.bodyAddons.1.name>
+  <HAR_Neclose_b.tools.0.label>幻霧之刃</HAR_Neclose_b.tools.0.label>
+  <HAR_Neclose_b.tools.1.label>幻霧之刃</HAR_Neclose_b.tools.1.label>
+  <HAR_Neclose_b.tools.2.label>幻霧之刃</HAR_Neclose_b.tools.2.label>
+
+  <HAR_Neclose_b.comps.HAR_NC_Comp_Skill.commandLabel>宇宙之聲</HAR_Neclose_b.comps.HAR_NC_Comp_Skill.commandLabel>
+  <HAR_Neclose_b.comps.HAR_NC_Comp_Skill.commandDesc>選擇射程內一格發射洗腦波，範圍為半徑10格。人類以外的目標也能被洗腦。</HAR_Neclose_b.comps.HAR_NC_Comp_Skill.commandDesc>
+  <HAR_Neclose_b.comps.HAR_NC_Comp_Skill_b.commandLabel>瘋狂人脈</HAR_Neclose_b.comps.HAR_NC_Comp_Skill_b.commandLabel>
+  <HAR_Neclose_b.comps.HAR_NC_Comp_Skill_b.commandDesc>選擇射程內一格發射干涉波，範圍為半徑10格。受影響的目標將暫時發狂。</HAR_Neclose_b.comps.HAR_NC_Comp_Skill_b.commandDesc>  
+  <HAR_Neclose_b.comps.HAR_NC_Comp_Skill_c.commandLabel>撕肉之影</HAR_Neclose_b.comps.HAR_NC_Comp_Skill_c.commandLabel>
+  <HAR_Neclose_b.comps.HAR_NC_Comp_Skill_c.commandDesc>選擇射程內一格，復活半徑10格內的屍體，使其成為眷屬。</HAR_Neclose_b.comps.HAR_NC_Comp_Skill_c.commandDesc> 
+  <HAR_Neclose_b.comps.HAR_NC_CompCommandExplosive_b.commandLabel>外界的來訪者</HAR_Neclose_b.comps.HAR_NC_CompCommandExplosive_b.commandLabel>
+  <HAR_Neclose_b.comps.HAR_NC_CompCommandExplosive_b.commandDesc>在30分鐘不可見。</HAR_Neclose_b.comps.HAR_NC_CompCommandExplosive_b.commandDesc> 
+  <HAR_Neclose_b.comps.HAR_NC_Comp_Skill_Skip.commandLabel>宇宙的獵犬</HAR_Neclose_b.comps.HAR_NC_Comp_Skill_Skip.commandLabel>
+  <HAR_Neclose_b.comps.HAR_NC_Comp_Skill_Skip.commandDesc>瞬間移動到射程内任意位置。</HAR_Neclose_b.comps.HAR_NC_Comp_Skill_Skip.commandDesc> 
+
+
+</LanguageData>

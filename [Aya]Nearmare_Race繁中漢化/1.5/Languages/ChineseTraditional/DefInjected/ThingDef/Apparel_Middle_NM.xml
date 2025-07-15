@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ■スピリチュアルアーマー -->
+
+  <HAR_NM_A_a.label>心靈盔甲(夜魔)</HAR_NM_A_a.label>
+  <HAR_NM_A_a.description>夜魔專用的盔甲，比夜魔的巫咒套裝性能更高的裝備。據說原是創造主還健在時代使用的。</HAR_NM_A_a.description>
+
+
+  <!-- ■ライラトゥニカ -->
+
+  <HAR_NM_A_b.label>修女服A(夜魔)</HAR_NM_A_b.label>
+  <HAR_NM_A_b.description>屬於真理教會的夜魔專屬的的服裝，乍一看像是修女服，實際上是強化套裝，耐久性比一般的護甲差，但是由於精神力作用，肌肉力量強化且移動速度提高。</HAR_NM_A_b.description>
+
+
+  <!-- ■ライラトゥニカB -->
+
+  <HAR_NM_A_c.label>修女服B(夜魔)</HAR_NM_A_c.label>
+  <HAR_NM_A_c.description>屬於真理教會的夜魔專屬的的服裝，乍一看像是修女服，實際上是強化套裝，耐久性比一般的護甲差，但是由於精神力作用，肌肉力量強化且移動速度提高。</HAR_NM_A_c.description>
+
+
+  <!-- ■ライラトゥニカC -->
+
+  <HAR_NM_A_d.label>修女服C(夜魔)</HAR_NM_A_d.label>
+  <HAR_NM_A_d.description>屬於真理教會的夜魔專屬的的服裝，乍一看像是修女服，實際上是強化套裝，耐久性比一般的護甲差，但是由於精神力作用，肌肉力量強化且移動速度提高。</HAR_NM_A_d.description>
+
+
+</LanguageData>

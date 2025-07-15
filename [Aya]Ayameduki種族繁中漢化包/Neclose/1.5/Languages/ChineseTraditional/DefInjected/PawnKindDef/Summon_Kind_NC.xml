@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_NC_M_a_Kind_Summon.label>血污眷屬</HAR_NC_M_a_Kind_Summon.label>
+  <HAR_NC_M_a_Kind_Summon.labelPlural>血污眷屬們</HAR_NC_M_a_Kind_Summon.labelPlural>
+  <HAR_NC_M_a_Kind_Summon.labelMale>血污眷屬</HAR_NC_M_a_Kind_Summon.labelMale>
+  <HAR_NC_M_a_Kind_Summon.labelMalePlural>血污眷屬們</HAR_NC_M_a_Kind_Summon.labelMalePlural>
+  <HAR_NC_M_a_Kind_Summon.labelFemale>血污眷屬</HAR_NC_M_a_Kind_Summon.labelFemale>
+  <HAR_NC_M_a_Kind_Summon.labelFemalePlural>血污眷屬們</HAR_NC_M_a_Kind_Summon.labelFemalePlural>
+
+  <HAR_NC_M_a_Kind_NPC.label>血污眷屬</HAR_NC_M_a_Kind_NPC.label>
+  <HAR_NC_M_a_Kind_NPC.labelPlural>血污眷屬們</HAR_NC_M_a_Kind_NPC.labelPlural>
+  <HAR_NC_M_a_Kind_NPC.labelMale>血污眷屬</HAR_NC_M_a_Kind_NPC.labelMale>
+  <HAR_NC_M_a_Kind_NPC.labelMalePlural>血污眷屬們</HAR_NC_M_a_Kind_NPC.labelMalePlural>
+  <HAR_NC_M_a_Kind_NPC.labelFemale>血污眷屬</HAR_NC_M_a_Kind_NPC.labelFemale>
+  <HAR_NC_M_a_Kind_NPC.labelFemalePlural>血污眷屬們</HAR_NC_M_a_Kind_NPC.labelFemalePlural>
+
+  <HAR_NC_M_b_Kind_Summon.label>血猩惡瘤</HAR_NC_M_b_Kind_Summon.label>
+  <HAR_NC_M_b_Kind_Summon.labelPlural>血猩惡瘤們</HAR_NC_M_b_Kind_Summon.labelPlural>
+  <HAR_NC_M_b_Kind_Summon.labelMale>血猩惡瘤</HAR_NC_M_b_Kind_Summon.labelMale>
+  <HAR_NC_M_b_Kind_Summon.labelMalePlural>血猩惡瘤們</HAR_NC_M_b_Kind_Summon.labelMalePlural>
+  <HAR_NC_M_b_Kind_Summon.labelFemale>血猩惡瘤</HAR_NC_M_b_Kind_Summon.labelFemale>
+  <HAR_NC_M_b_Kind_Summon.labelFemalePlural>血猩惡瘤們</HAR_NC_M_b_Kind_Summon.labelFemalePlural>
+
+  <HAR_NC_M_b_Kind_NPC.label>血猩惡瘤</HAR_NC_M_b_Kind_NPC.label>
+  <HAR_NC_M_b_Kind_NPC.labelPlural>血猩惡瘤們</HAR_NC_M_b_Kind_NPC.labelPlural>
+  <HAR_NC_M_b_Kind_NPC.labelMale>血猩惡瘤</HAR_NC_M_b_Kind_NPC.labelMale>
+  <HAR_NC_M_b_Kind_NPC.labelMalePlural>血猩惡瘤們</HAR_NC_M_b_Kind_NPC.labelMalePlural>
+  <HAR_NC_M_b_Kind_NPC.labelFemale>血猩惡瘤</HAR_NC_M_b_Kind_NPC.labelFemale>
+  <HAR_NC_M_b_Kind_NPC.labelFemalePlural>血猩惡瘤們</HAR_NC_M_b_Kind_NPC.labelFemalePlural>
+
+  <HAR_NC_M_c_Kind_Summon.label>血沼夢魘</HAR_NC_M_c_Kind_Summon.label>
+  <HAR_NC_M_c_Kind_Summon.labelPlural>血沼夢魘們</HAR_NC_M_c_Kind_Summon.labelPlural>
+  <HAR_NC_M_c_Kind_Summon.labelMale>血沼夢魘</HAR_NC_M_c_Kind_Summon.labelMale>
+  <HAR_NC_M_c_Kind_Summon.labelMalePlural>血沼夢魘們</HAR_NC_M_c_Kind_Summon.labelMalePlural>
+  <HAR_NC_M_c_Kind_Summon.labelFemale>血沼夢魘</HAR_NC_M_c_Kind_Summon.labelFemale>
+  <HAR_NC_M_c_Kind_Summon.labelFemalePlural>血沼夢魘們</HAR_NC_M_c_Kind_Summon.labelFemalePlural>
+
+  <HAR_NC_M_c_Kind_NPC.label>血沼夢魘</HAR_NC_M_c_Kind_NPC.label>
+  <HAR_NC_M_c_Kind_NPC.labelPlural>血沼夢魘們</HAR_NC_M_c_Kind_NPC.labelPlural>
+  <HAR_NC_M_c_Kind_NPC.labelMale>血沼夢魘</HAR_NC_M_c_Kind_NPC.labelMale>
+  <HAR_NC_M_c_Kind_NPC.labelMalePlural>血沼夢魘們</HAR_NC_M_c_Kind_NPC.labelMalePlural>
+  <HAR_NC_M_c_Kind_NPC.labelFemale>血沼夢魘</HAR_NC_M_c_Kind_NPC.labelFemale>
+  <HAR_NC_M_c_Kind_NPC.labelFemalePlural>血沼夢魘們</HAR_NC_M_c_Kind_NPC.labelFemalePlural>
+
+  <HAR_NC_M_y_Kind_Summon.label>新芽血屍</HAR_NC_M_y_Kind_Summon.label>
+  <HAR_NC_M_y_Kind_Summon.labelPlural>新芽血屍們</HAR_NC_M_y_Kind_Summon.labelPlural>
+  <HAR_NC_M_y_Kind_Summon.labelMale>新芽血屍</HAR_NC_M_y_Kind_Summon.labelMale>
+  <HAR_NC_M_y_Kind_Summon.labelMalePlural>新芽血屍們</HAR_NC_M_y_Kind_Summon.labelMalePlural>
+  <HAR_NC_M_y_Kind_Summon.labelFemale>新芽血屍</HAR_NC_M_y_Kind_Summon.labelFemale>
+  <HAR_NC_M_y_Kind_Summon.labelFemalePlural>新芽血屍們</HAR_NC_M_y_Kind_Summon.labelFemalePlural>
+
+  <HAR_NC_M_z_Kind_Summon.label>撕肉血屍</HAR_NC_M_z_Kind_Summon.label>
+  <HAR_NC_M_z_Kind_Summon.labelPlural>撕肉血屍們</HAR_NC_M_z_Kind_Summon.labelPlural>
+  <HAR_NC_M_z_Kind_Summon.labelMale>撕肉血屍</HAR_NC_M_z_Kind_Summon.labelMale>
+  <HAR_NC_M_z_Kind_Summon.labelMalePlural>撕肉血屍們</HAR_NC_M_z_Kind_Summon.labelMalePlural>
+  <HAR_NC_M_z_Kind_Summon.labelFemale>撕肉血屍</HAR_NC_M_z_Kind_Summon.labelFemale>
+  <HAR_NC_M_z_Kind_Summon.labelFemalePlural>撕肉血屍們</HAR_NC_M_z_Kind_Summon.labelFemalePlural>
+
+
+</LanguageData>

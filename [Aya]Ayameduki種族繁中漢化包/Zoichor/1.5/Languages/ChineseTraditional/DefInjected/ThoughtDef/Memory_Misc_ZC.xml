@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 親愛なる闇 -->
+  <HAR_ZC_EnvironmentDark.stages.0.label>親愛的黑暗</HAR_ZC_EnvironmentDark.stages.0.label>
+  <!-- EN: 闇は友の領域。安心して活動できる。 -->
+  <HAR_ZC_EnvironmentDark.stages.0.description>黑暗是朋友的領域。可以安心地活動。</HAR_ZC_EnvironmentDark.stages.0.description>
+  
+  <!-- EN: 死体を見た -->
+  <HAR_ZC_ObservedLayingCorpse.stages.0.label>見到了屍體</HAR_ZC_ObservedLayingCorpse.stages.0.label>
+  <!-- EN: 故郷では見慣れた光景だ。 -->
+  <HAR_ZC_ObservedLayingCorpse.stages.0.description>在故鄉是習以為常的景象。</HAR_ZC_ObservedLayingCorpse.stages.0.description>
+  
+  <!-- EN: 腐乱死体を見た -->
+  <HAR_ZC_ObservedLayingRottingCorpse.stages.0.label>見到了腐爛的屍體</HAR_ZC_ObservedLayingRottingCorpse.stages.0.label>
+  <!-- EN: 醜き躯は人を恐怖させる。罪人たちも例外ではない。 -->
+  <HAR_ZC_ObservedLayingRottingCorpse.stages.0.description>醜陋的軀體使人感到恐懼，罪人們也不例外。</HAR_ZC_ObservedLayingRottingCorpse.stages.0.description>
+  
+</LanguageData>

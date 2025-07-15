@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ■↓幼少期のバックストーリー -->
+
+  <HAR_SK_Backstory_C1.title>亞人工業:戰鬥員</HAR_SK_Backstory_C1.title>
+  <HAR_SK_Backstory_C1.titleShort>亞工</HAR_SK_Backstory_C1.titleShort>
+  <HAR_SK_Backstory_C1.description>[PAWN_nameDef]在亞人工業中出生並長大。接受了基因調整，以適應從出生之前就已經確定的職位。\n\n「消毒污物！」</HAR_SK_Backstory_C1.description>
+
+  <HAR_SK_Backstory_C2.title>亞人工業:畜産員</HAR_SK_Backstory_C2.title>
+  <HAR_SK_Backstory_C2.titleShort>亞工</HAR_SK_Backstory_C2.titleShort>
+  <HAR_SK_Backstory_C2.description>[PAWN_nameDef]在亞人工業中出生並長大。接受了基因調整，以適應從出生之前就已經確定的職位。\n\n「我會好好培育牠們的！」</HAR_SK_Backstory_C2.description>
+
+  <HAR_SK_Backstory_C3.title>亞人工業:加工員</HAR_SK_Backstory_C3.title>
+  <HAR_SK_Backstory_C3.titleShort>亞工</HAR_SK_Backstory_C3.titleShort>
+  <HAR_SK_Backstory_C3.description>[PAWN_nameDef]在亞人工業中出生並長大。接受了基因調整，以適應從出生之前就已經確定的職位。\n\n「我會做出多樣性的產品！」</HAR_SK_Backstory_C3.description>
+
+  <HAR_SK_Backstory_C4.title>亞人工業:宣傳員</HAR_SK_Backstory_C4.title>
+  <HAR_SK_Backstory_C4.titleShort>亞工</HAR_SK_Backstory_C4.titleShort>
+  <HAR_SK_Backstory_C4.description>[PAWN_nameDef]在亞人工業中出生並長大。接受了基因調整，以適應從出生之前就已經確定的職位。\n\n「請多關照亞人工業！」</HAR_SK_Backstory_C4.description>
+
+  <HAR_SK_Backstory_C5.title>亞人工業:醫療員</HAR_SK_Backstory_C5.title>
+  <HAR_SK_Backstory_C5.titleShort>亞工</HAR_SK_Backstory_C5.titleShort>
+  <HAR_SK_Backstory_C5.description>[PAWN_nameDef]在亞人工業中出生並長大。接受了基因調整，以適應從出生之前就已經確定的職位。\n\n「如果感到不適，請告訴我！」</HAR_SK_Backstory_C5.description>
+
+  <HAR_SK_Backstory_C6.title>亞人工業:研究員</HAR_SK_Backstory_C6.title>
+  <HAR_SK_Backstory_C6.titleShort>亞工</HAR_SK_Backstory_C6.titleShort>
+  <HAR_SK_Backstory_C6.description>[PAWN_nameDef]在亞人工業中出生並長大。接受了基因調整，以適應從出生之前就已經確定的職位。\n\n「科學的積累就是人的力量！」</HAR_SK_Backstory_C6.description>
+
+  <HAR_SK_Backstory_C7.title>亞人工業:搬運員</HAR_SK_Backstory_C7.title>
+  <HAR_SK_Backstory_C7.titleShort>亞工</HAR_SK_Backstory_C7.titleShort>
+  <HAR_SK_Backstory_C7.description>[PAWN_nameDef]在亞人工業中出生並長大。接受了基因調整，以適應從出生之前就已經確定的職位。\n\n「搬運就交給我吧！」</HAR_SK_Backstory_C7.description>
+
+  <HAR_SK_Backstory_C8.title>亞人工業:調理員</HAR_SK_Backstory_C8.title>
+  <HAR_SK_Backstory_C8.titleShort>亞工</HAR_SK_Backstory_C8.titleShort>
+  <HAR_SK_Backstory_C8.description>[PAWN_nameDef]在亞人工業中出生並長大。接受了基因調整，以適應從出生之前就已經確定的職位。\n\n「請多吃一些喔！」</HAR_SK_Backstory_C8.description>
+
+  <HAR_SK_Backstory_C9.title>亞人工業:交涉員</HAR_SK_Backstory_C9.title>
+  <HAR_SK_Backstory_C9.titleShort>亞工</HAR_SK_Backstory_C9.titleShort>
+  <HAR_SK_Backstory_C9.description>[PAWN_nameDef]在亞人工業中出生並長大。接受了基因調整，以適應從出生之前就已經確定的職位。\n\n「交易就交給我們吧！」</HAR_SK_Backstory_C9.description>
+
+  <HAR_SK_Backstory_C10.title>亞人工業:游擊員</HAR_SK_Backstory_C10.title>
+  <HAR_SK_Backstory_C10.titleShort>亞工</HAR_SK_Backstory_C10.titleShort>
+  <HAR_SK_Backstory_C10.description>[PAWN_nameDef]在亞人工業中出生並長大。接受了基因調整，以適應從出生之前就已經確定的職位。\n\n「無所不能！」</HAR_SK_Backstory_C10.description>
+
+  <HAR_SK_Backstory_b_C1.title>麒麟之子</HAR_SK_Backstory_b_C1.title>
+  <HAR_SK_Backstory_b_C1.titleShort>麒麟之子</HAR_SK_Backstory_b_C1.titleShort>
+  <HAR_SK_Backstory_b_C1.description>[PAWN_nameDef]一出生便天賦異禀，無論在哪個領域都將發揮出遠超常人的能力。</HAR_SK_Backstory_b_C1.description>
+
+  <HAR_SK_Backstory_c_C1.title>妖狐</HAR_SK_Backstory_c_C1.title>
+  <HAR_SK_Backstory_c_C1.titleShort>妖狐</HAR_SK_Backstory_c_C1.titleShort>
+  <HAR_SK_Backstory_c_C1.description>[PAWN_nameDef]是嗜血殘暴且狡猾奸詐的亞人獸娘，不僅在力量上遠超常人，設計陰謀詭計方面也頗為出色。</HAR_SK_Backstory_c_C1.description>
+
+
+  <!-- ■↓成人期のバックストーリー -->
+
+  <HAR_SK_Backstory_A1.title>亞人工業:主任</HAR_SK_Backstory_A1.title>
+  <HAR_SK_Backstory_A1.titleShort>主任</HAR_SK_Backstory_A1.titleShort>
+  <HAR_SK_Backstory_A1.description>[PAWN_nameDef]在亞人工業中工作了很長一段時間。看起來她們也獲得了相應的技能。</HAR_SK_Backstory_A1.description>
+
+  <HAR_SK_Backstory_A2.title>亞人工業:係長</HAR_SK_Backstory_A2.title>
+  <HAR_SK_Backstory_A2.titleShort>係長</HAR_SK_Backstory_A2.titleShort>
+  <HAR_SK_Backstory_A2.description>[PAWN_nameDef]在亞人工業中工作了很長一段時間。看起來她們也獲得了相應的技能。</HAR_SK_Backstory_A2.description>
+
+  <HAR_SK_Backstory_A3.title>亞人工業:課長</HAR_SK_Backstory_A3.title>
+  <HAR_SK_Backstory_A3.titleShort>課長</HAR_SK_Backstory_A3.titleShort>
+  <HAR_SK_Backstory_A3.description>[PAWN_nameDef]在亞人工業中工作了很長一段時間。看起來她們也獲得了相應的技能。</HAR_SK_Backstory_A3.description>
+
+  <HAR_SK_Backstory_A4.title>亞人工業:次長</HAR_SK_Backstory_A4.title>
+  <HAR_SK_Backstory_A4.titleShort>次長</HAR_SK_Backstory_A4.titleShort>
+  <HAR_SK_Backstory_A4.description>[PAWN_nameDef]在亞人工業中工作了很長一段時間。看起來她們也獲得了相應的技能。</HAR_SK_Backstory_A4.description>
+
+  <HAR_SK_Backstory_A5.title>亞人工業:部長</HAR_SK_Backstory_A5.title>
+  <HAR_SK_Backstory_A5.titleShort>部長</HAR_SK_Backstory_A5.titleShort>
+  <HAR_SK_Backstory_A5.description>[PAWN_nameDef]在亞人工業中工作了很長一段時間。看起來她們也獲得了相應的技能。</HAR_SK_Backstory_A5.description>
+
+  <HAR_SK_Backstory_b_A1.title>專業人士</HAR_SK_Backstory_b_A1.title>
+  <HAR_SK_Backstory_b_A1.titleShort>專家</HAR_SK_Backstory_b_A1.titleShort>
+  <HAR_SK_Backstory_b_A1.description>[PAWN_nameDef]的才能已經通過許多的相遇和經驗得以磨練。在殖民地中，她們將展現出色的能力。</HAR_SK_Backstory_b_A1.description>
+
+  <HAR_SK_Backstory_b_A2.title>專業人士</HAR_SK_Backstory_b_A2.title>
+  <HAR_SK_Backstory_b_A2.titleShort>專家</HAR_SK_Backstory_b_A2.titleShort>
+  <HAR_SK_Backstory_b_A2.description>[PAWN_nameDef]的才能已經通過許多的相遇和經驗得以磨練。在殖民地中，她們將展現出色的能力。</HAR_SK_Backstory_b_A2.description>
+
+  <HAR_SK_Backstory_b_A3.title>專業人士</HAR_SK_Backstory_b_A3.title>
+  <HAR_SK_Backstory_b_A3.titleShort>專家</HAR_SK_Backstory_b_A3.titleShort>
+  <HAR_SK_Backstory_b_A3.description>[PAWN_nameDef]的才能已經通過許多的相遇和經驗得以磨練。在殖民地中，她們將展現出色的能力。</HAR_SK_Backstory_b_A3.description>
+
+  <HAR_SK_Backstory_b_A4.title>專業人士</HAR_SK_Backstory_b_A4.title>
+  <HAR_SK_Backstory_b_A4.titleShort>專家</HAR_SK_Backstory_b_A4.titleShort>
+  <HAR_SK_Backstory_b_A4.description>[PAWN_nameDef]的才能已經通過許多的相遇和經驗得以磨練。在殖民地中，她們將展現出色的能力。</HAR_SK_Backstory_b_A4.description>
+
+  <HAR_SK_Backstory_c_A1.title>九尾妖狐</HAR_SK_Backstory_c_A1.title>
+  <HAR_SK_Backstory_c_A1.titleShort>九尾狐</HAR_SK_Backstory_c_A1.titleShort>
+  <HAR_SK_Backstory_c_A1.description>[PAWN_nameDef]是一隻深諳殺人之法的殘暴怪物。若長久未被勇者討伐，必將掀起一陣腥風血雨。</HAR_SK_Backstory_c_A1.description>
+
+
+</LanguageData>

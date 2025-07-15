@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BOSS_RQ_Archotech_a.label>遠渡星海之心臓</BOSS_RQ_Archotech_a.label>
+  <BOSS_RQ_Archotech_a.description>從遠渡星海的雛鳥女皇・克里提亞斯抽取的心臟。
+原本這顆心臟是屬於「對上位者決戰自立兵器克里提亞斯」，曾摧毀創造主並將人工種族推向絕境。
+現在，它已失去大部分的功能，對人類來說沒有太多用途。
+
+這顆心臟擁有儲存靈魂的功能，這個功能仍然存在。
+當你聆聽時，你會聽到幾十億甚至幾兆個靈魂的聲音，彷彿是虛幻的幻聽一樣。
+
+解放這個功能，就能夠真正消滅「遠渡星海之鳥」。
+
+這是人工種族傳說中，流浪於無數星球間，啄食生命和文明的「遠渡星海之鳥」的心臟。
+即使現在，還有許多犧牲者在這個極小的地獄般的心臟內不斷尖叫著被焚燒。
+請給予他們救贖之手，以及一個不會被那可怕的鳥侵襲的永恆安息之所。</BOSS_RQ_Archotech_a.description>
+  <BOSS_RQ_Archotech_a.comps.0.useLabel>解放 {0_label}</BOSS_RQ_Archotech_a.comps.0.useLabel>
+
+
+</LanguageData>

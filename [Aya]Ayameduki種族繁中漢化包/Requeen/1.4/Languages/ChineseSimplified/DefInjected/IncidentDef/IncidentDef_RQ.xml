@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BOSS_RQ_Incident_Requeen.label>女王種墜落</BOSS_RQ_Incident_Requeen.label>
+  <BOSS_RQ_Incident_Requeen.letterText>孕育著巨型生命的機械生命體墜落到了殖民地附近。
+    \n基於防禦本能，機械生命體會定期生產大量的隨從。
+    \n在生產隨從時會從周遭的草木中汲取能量，因此放任不管的話，殖民地終將變成一片荒漠。
+    \n\n母體和生產的隨從都配備有極其牢固的盔甲，但是它們難以抵禦反物質攻擊——或許你可以活用這一弱點來擊潰它們。</BOSS_RQ_Incident_Requeen.letterText>
+  <BOSS_RQ_Incident_Requeen.letterLabel>女王種墜落</BOSS_RQ_Incident_Requeen.letterLabel>
+
+  <BOSS_RQ_Incident_Requeen_b.label>女王種墜落(要塞)</BOSS_RQ_Incident_Requeen_b.label>
+  <BOSS_RQ_Incident_Requeen_b.letterText>孕育著巨型生命的機械生命體墜落到了殖民地附近。
+    \n基於防禦本能，機械生命體會定期生產大量的隨從。
+    \n隨後在自身周遭佈置砲塔來鞏固防禦。
+    \n\n母體和生產的隨從都配備有極其牢固的盔甲，但是它們難以抵禦反物質攻擊——或許你可以活用這一弱點來擊潰它們。</BOSS_RQ_Incident_Requeen_b.letterText>
+  <BOSS_RQ_Incident_Requeen_b.letterLabel>女王種墜落(要塞)</BOSS_RQ_Incident_Requeen_b.letterLabel>
+
+  <BOSS_RQ_Incident_Requeen_Z.label>雛鳥</BOSS_RQ_Incident_Requeen_Z.label>
+  <BOSS_RQ_Incident_Requeen_Z.letterText>遠渡星海的雛鳥墜落到了殖民地附近。
+    \n似乎具有追擊攻擊者的特性。
+    \n由於具有非常高的耐久力，因此需要做好長期戰鬥的準備。
+    \n\n此外，雛鳥會在半年後離開這個星球。</BOSS_RQ_Incident_Requeen_Z.letterText>
+  <BOSS_RQ_Incident_Requeen_Z.letterLabel>雛鳥</BOSS_RQ_Incident_Requeen_Z.letterLabel>
+
+  <BOSS_RQ_Incident_Requeen_Gone_Error.label>遠渡星海之鳥</BOSS_RQ_Incident_Requeen_Gone_Error.label>
+  <BOSS_RQ_Incident_Requeen_Gone_Error.letterText>你真是個有趣的人，竟然呼喚我。</BOSS_RQ_Incident_Requeen_Gone_Error.letterText>
+  <BOSS_RQ_Incident_Requeen_Gone_Error.letterLabel>遠渡星海之鳥</BOSS_RQ_Incident_Requeen_Gone_Error.letterLabel>
+
+  <BOSS_RQ_Incident_Viceroy.label>副王種墜落</BOSS_RQ_Incident_Viceroy.label>
+  <BOSS_RQ_Incident_Viceroy.letterText>有少數護衛跟隨的單位墜落到了殖民地附近。
+    \n在其中或許能回收些珍奇的物品。</BOSS_RQ_Incident_Viceroy.letterText>
+  <BOSS_RQ_Incident_Viceroy.letterLabel>副王種墜落</BOSS_RQ_Incident_Viceroy.letterLabel>
+
+  <BOSS_RQ_Incident_Remnant.label>女王種的殘骸</BOSS_RQ_Incident_Remnant.label>
+  <BOSS_RQ_Incident_Remnant.letterText>伴隨著少量部下的機械生命體墜落到了殖民地附近。
+    \n似乎已經死亡，作為機械生命體的機能已經完全停止。此外，殘骸中偵測到反物質信號，謹慎拆除的話或許能獲得反物質彈。</BOSS_RQ_Incident_Remnant.letterText>
+  <BOSS_RQ_Incident_Remnant.letterLabel>女王種的殘骸</BOSS_RQ_Incident_Remnant.letterLabel>
+
+  <BOSS_RQ_Incident_Monster_z.label>女王種的遺孤</BOSS_RQ_Incident_Monster_z.label>
+  <BOSS_RQ_Incident_Monster_z.letterLabel>女王種的遺孤</BOSS_RQ_Incident_Monster_z.letterLabel>
+
+  <BOSS_RQ_Incident_Drop.label>軌道衛星之戰</BOSS_RQ_Incident_Drop.label>
+  <BOSS_RQ_Incident_Drop.letterText>。</BOSS_RQ_Incident_Drop.letterText>
+  <BOSS_RQ_Incident_Drop.letterLabel>軌道衛星之戰</BOSS_RQ_Incident_Drop.letterLabel>
+
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HAR_Neclose.label>牧菌妖姬</HAR_Neclose.label>
+  <HAR_Neclose.description>牧菌妖姬是宙族某一派系創造的人工種族。為了不讓她們建立國家或者大型派系，在其基因上進行了修改，使得她們只能生育出女性。
+    \n基於進一步特化夜魔擁有的精神干涉能力，以不需要武器為理念而進行的基因重組設計，最終導致牧菌妖姬變成了能夠同『對精神念波有感應的細菌』共生的細菌武器。由於與細菌共生，身體素質有顯著地提升，且與以往的人工種族不同的是，她們還具有很強的免疫力。但是作為代價，她們失去了操作武器的能力。
+    \n\n細菌相關的體質變化導致她們對所有的血肉都興趣頗豐，對人肉和腐敗的肉也基本熟視無睹。</HAR_Neclose.description>
+
+  <HAR_Neclose.comps.CSS_CompSummonSLave.AutoLabel>召喚眷屬(自動召喚)</HAR_Neclose.comps.CSS_CompSummonSLave.AutoLabel>
+  <HAR_Neclose.comps.CSS_CompSummonSLave.AutoDesc>開啟自動召喚的時候，處於徵召狀態並且周圍有敵對生物就會自動召喚眷屬。眷屬召喚數量和等級根據『人工種族』的Lv變動，冷卻時間為1天。</HAR_Neclose.comps.CSS_CompSummonSLave.AutoDesc>
+  <HAR_Neclose.comps.CSS_CompSummonSLave.CommandLabel>召喚眷屬(主動召喚)</HAR_Neclose.comps.CSS_CompSummonSLave.CommandLabel>
+  <HAR_Neclose.comps.CSS_CompSummonSLave.CommandDesc>主動召喚一些眷屬。眷屬召喚數量和等級根據根據『人工種族』的Lv變動，冷卻時間為1天。</HAR_Neclose.comps.CSS_CompSummonSLave.CommandDesc>
+
+</LanguageData>

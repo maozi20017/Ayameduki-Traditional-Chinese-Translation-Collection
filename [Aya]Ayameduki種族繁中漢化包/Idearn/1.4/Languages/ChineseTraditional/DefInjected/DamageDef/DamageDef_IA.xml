@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!--オケアノスクシフォス-->
+	<HAR_IA_Damage_a.label>大洋神歐開諾斯</HAR_IA_Damage_a.label>
+	<!--{0} has been crushed to death.-->
+	<HAR_IA_Damage_a.deathMessage>{0} 被輾壓致死了。</HAR_IA_Damage_a.deathMessage>
+
+	<!--ホプリゾンプラクシス-->
+	<HAR_IA_Damage_b.label>天地之際</HAR_IA_Damage_b.label>
+	<!--{0} has been crushed to death.-->
+	<HAR_IA_Damage_b.deathMessage>{0} 被輾壓致死了。</HAR_IA_Damage_b.deathMessage>
+
+	<!--エリスロスエクスシア(散布)-->
+	<HAR_IA_Damage_c.label>腥紅能天使(散布)</HAR_IA_Damage_c.label>
+
+	<!--エリスロスエクスシア-->
+	<HAR_IA_Damage_d.label>腥紅能天使</HAR_IA_Damage_d.label>
+	<!--{0} has been crushed to death.-->
+	<HAR_IA_Damage_d.deathMessage>{0} 被輾壓致死了。</HAR_IA_Damage_d.deathMessage>
+
+	<!--キュアノスエクスシア-->
+	<HAR_IA_Damage_e.label>靛藍能天使</HAR_IA_Damage_e.label>
+	<!--{0} has been crushed to death.-->
+	<HAR_IA_Damage_e.deathMessage>{0} 被輾壓致死了。</HAR_IA_Damage_e.deathMessage>
+
+	<!--テロスバシレイア-->
+	<HAR_IA_Damage_f.label>天國之意</HAR_IA_Damage_f.label>
+	<!--{0} has been crushed to death.-->
+	<HAR_IA_Damage_f.deathMessage>{0} 被輾壓致死了。</HAR_IA_Damage_f.deathMessage>
+	
+	<!--トゥレラバシレイア-->
+	<HAR_IA_Damage_g.label>天國之躁</HAR_IA_Damage_g.label>
+	<!--{0} has been crushed to death.-->
+	<HAR_IA_Damage_g.deathMessage>{0} 被輾壓致死了。</HAR_IA_Damage_g.deathMessage>
+
+	<!--ゲヘナバシレイア-->
+	<HAR_IA_Damage_h.label>天國之獄</HAR_IA_Damage_h.label>
+	<!--{0} has been crushed to death.-->
+	<HAR_IA_Damage_h.deathMessage>{0} 被輾壓致死了。</HAR_IA_Damage_h.deathMessage>
+
+	<!--アザーサイド(不完全)-->
+	<HAR_IA_Damage_Otherside_a.label>彼岸(不完整)</HAR_IA_Damage_Otherside_a.label>
+	<!--{0} has been crushed to death.-->
+	<HAR_IA_Damage_Otherside_a.deathMessage>{0} 被輾壓致死了。</HAR_IA_Damage_Otherside_a.deathMessage>
+
+	<!--アザーサイド-->
+	<HAR_IA_Damage_Otherside_b.label>彼岸</HAR_IA_Damage_Otherside_b.label>
+	<!--{0} has been crushed to death.-->
+	<HAR_IA_Damage_Otherside_b.deathMessage>{0} 被輾壓致死了。</HAR_IA_Damage_Otherside_b.deathMessage>
+
+</LanguageData>

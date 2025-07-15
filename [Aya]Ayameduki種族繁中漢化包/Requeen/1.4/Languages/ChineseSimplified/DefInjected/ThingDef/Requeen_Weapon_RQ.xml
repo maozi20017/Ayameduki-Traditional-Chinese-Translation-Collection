@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Weapon_Requeen_a.label>穿刺者</Weapon_Requeen_a.label>
+  <Weapon_Requeen_a.description>。</Weapon_Requeen_a.description>
+  <Weapon_Requeen_a.tools.0.label>槍托</Weapon_Requeen_a.tools.0.label>
+  <Weapon_Requeen_a.tools.1.label>槍管</Weapon_Requeen_a.tools.1.label>
+
+  <Weapon_Requeen_Bullet_a.label>穿刺者</Weapon_Requeen_Bullet_a.label>
+
+  <Weapon_Requeen_b.label>亡命徒</Weapon_Requeen_b.label>
+  <Weapon_Requeen_b.description>。</Weapon_Requeen_b.description>
+  <Weapon_Requeen_b.tools.0.label>槍托</Weapon_Requeen_b.tools.0.label>
+  <Weapon_Requeen_b.tools.1.label>槍管</Weapon_Requeen_b.tools.1.label>
+
+  <Weapon_Requeen_Bullet_b.label>亡命徒</Weapon_Requeen_Bullet_b.label>
+
+  <Weapon_Requeen_c.label>屠殺者</Weapon_Requeen_c.label>
+  <Weapon_Requeen_c.description>。</Weapon_Requeen_c.description>
+  <Weapon_Requeen_c.tools.0.label>槍托</Weapon_Requeen_c.tools.0.label>
+  <Weapon_Requeen_c.tools.1.label>槍管</Weapon_Requeen_c.tools.1.label>
+  <Weapon_Requeen_c.verbs.0.label>屠殺者</Weapon_Requeen_c.verbs.0.label>
+
+  <Weapon_Requeen_Bullet_c.label>屠殺者</Weapon_Requeen_Bullet_c.label>
+
+  <Weapon_Requeen_e.label>暴風雪</Weapon_Requeen_e.label>
+  <Weapon_Requeen_e.description>。</Weapon_Requeen_e.description>
+  <Weapon_Requeen_e.tools.0.label>槍托</Weapon_Requeen_e.tools.0.label>
+  <Weapon_Requeen_e.tools.1.label>槍管</Weapon_Requeen_e.tools.1.label>
+
+  <Weapon_Requeen_Bullet_e.label>暴風雪</Weapon_Requeen_Bullet_e.label>
+
+  <Weapon_Requeen_f.label>毀滅者</Weapon_Requeen_f.label>
+  <Weapon_Requeen_f.description>。</Weapon_Requeen_f.description>
+  <Weapon_Requeen_f.tools.0.label>槍托</Weapon_Requeen_f.tools.0.label>
+  <Weapon_Requeen_f.tools.1.label>槍管</Weapon_Requeen_f.tools.1.label>
+
+  <Weapon_Requeen_Bullet_f.label>毀滅者</Weapon_Requeen_Bullet_f.label>
+
+
+</LanguageData>

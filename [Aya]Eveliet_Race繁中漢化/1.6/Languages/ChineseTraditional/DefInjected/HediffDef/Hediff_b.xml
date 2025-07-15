@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_EL_Hediff_b.label>血之聖絕</HAR_EL_Hediff_b.label>
+  <HAR_EL_Hediff_b.description>被伊娃莉特吸血的狀態下，身體能力暫時下降，並且出血加劇。
+    值得一提的是，伊娃莉特吸血的對象不限於血液，只要是可用於運作身體的液體，如血液或油，她都不會在意。
+
+    一旦陷入這種狀態，完全康復需要花費一些時間。</HAR_EL_Hediff_b.description>
+  <HAR_EL_Hediff_b.stages.0.label>輕度</HAR_EL_Hediff_b.stages.0.label>
+  <HAR_EL_Hediff_b.stages.1.label>中度</HAR_EL_Hediff_b.stages.1.label>
+  <HAR_EL_Hediff_b.stages.2.label>重度</HAR_EL_Hediff_b.stages.2.label>
+
+
+</LanguageData>

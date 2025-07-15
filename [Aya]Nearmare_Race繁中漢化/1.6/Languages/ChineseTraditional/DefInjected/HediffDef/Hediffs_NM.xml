@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Hediff_Geist.label>精神萎靡</Hediff_Geist.label>
+  <Hediff_Geist.description>由於夜魔的精神干涉，雖然是短期的，但由於散漫的思維導致的運動功能明顯下降。</Hediff_Geist.description>
+
+  <Hediff_Larva.label>精神癱瘓</Hediff_Larva.label>
+  <Hediff_Larva.description>由於夜魔的精神干涉，身體狀況陷入了無法正常行動的狀態。</Hediff_Larva.description>
+
+  <Hediff_Rugeiyu.label>精神怠倦</Hediff_Rugeiyu.label>
+  <Hediff_Rugeiyu.description>由於夜魔的精神干涉，在短時間內由於睏意的侵擾，給身體帶來了顯著的下降，這個變得嚴重的話就會昏倒。</Hediff_Rugeiyu.description>
+
+  <Hediff_Genocide.label>精神狂暴</Hediff_Genocide.label>
+  <Hediff_Genocide.description>由於夜魔的精神干涉，被無差別地狂暴化了。</Hediff_Genocide.description>
+  <Hediff_Genocide.comps.0.labelTendedWell>冷靜</Hediff_Genocide.comps.0.labelTendedWell>
+  <Hediff_Genocide.comps.0.labelTendedWellInner>抑制</Hediff_Genocide.comps.0.labelTendedWellInner>
+  <Hediff_Genocide.comps.0.labelSolidTendedWell>抑制</Hediff_Genocide.comps.0.labelSolidTendedWell>
+  <Hediff_Genocide.injuryProps.destroyedLabel>精神崩潰</Hediff_Genocide.injuryProps.destroyedLabel>
+  <Hediff_Genocide.injuryProps.destroyedOutLabel>精疲力竭</Hediff_Genocide.injuryProps.destroyedOutLabel>
+
+  <HAR_NM_Hediff_a.label>即死預兆</HAR_NM_Hediff_a.label>
+  <HAR_NM_Hediff_a.description>魑槍『郄澮墮獄』的子彈中混入的納米機器引起的症狀。\n通常潛伏在體內不會造成危害，但如果超過一定數量，就會被激活，使內臟功能強制停止而導致死亡。因為在潛伏中探查了機體構造，無論是對生物還是機械都能發揮作用。</HAR_NM_Hediff_a.description>
+  <HAR_NM_Hediff_a.stages.0.label>潛伏</HAR_NM_Hediff_a.stages.0.label>
+  <HAR_NM_Hediff_a.stages.1.label>爆發</HAR_NM_Hediff_a.stages.1.label>
+
+  <HAR_NM_XXX_Hediff.label>超渡</HAR_NM_XXX_Hediff.label>
+  <HAR_NM_XXX_Hediff.description>正在受到超自然存在的救濟。\n但似乎失去了某些重要的東西...\n\n\n\n\n當看著那個東西時，感覺很奇怪又安心。\n好像被壓迫著，但又感覺輕飄飄的。心情也變得很沉重，好像要一直飄到天空裡去。\n但奇怪的是，為什麼我從頭到尾一直在看著自己呢？是自己在看著自己嗎？還是被人注視著呢？\n我在天空中孤獨地漂浮著，無法被人接納，真是可憐啊。那邊的自己看起來好不容易啊。\n但是不管怎樣，已經不重要了，因為我只是一個可悲的存在。\n\n上帝啊，請帶我去天堂吧。</HAR_NM_XXX_Hediff.description>
+
+  <HAR_NM_Skill_Hediff_b.label>毀滅之息</HAR_NM_Skill_Hediff_b.label>
+  <HAR_NM_Skill_Hediff_b.description>受到由幻景種夜魔・阿拉迪亞引起的狂暴化的干涉。\n因為魔女巧妙的干涉，甚至讓人覺得不是敵對行為。</HAR_NM_Skill_Hediff_b.description>
+
+  <HAR_NM_Skill_Hediff_c.label>頹廢之咒</HAR_NM_Skill_Hediff_c.label>
+  <HAR_NM_Skill_Hediff_c.description>受到幻景種夜魔・阿拉迪亞的身體沉重的干擾。\n前進的速度變得極其遲緩，連邁出一步都覺得難如登天。</HAR_NM_Skill_Hediff_c.description>
+
+  <HAR_NM_Skill_Hediff_e.label>深淵之暗</HAR_NM_Skill_Hediff_e.label>
+  <HAR_NM_Skill_Hediff_e.description>受到幻景種夜魔・阿拉迪亞的身體脆弱的干涉。\n即使穿著最堅固的鎧甲，防禦也會降低到致命的程度。</HAR_NM_Skill_Hediff_e.description>
+
+  <Nearmaere_Artificial.label>人工種族(夜魔)</Nearmaere_Artificial.label>
+  <Nearmaere_Artificial.description>由於夜魔是人工製造的種族，特別針對精神干涉，所以對精神相關有很強的耐性，相反對人工生物或病毒等的抗性和免疫力很低。\n\n另外，她們有自己的眷屬，可以召喚出來讓其與敵人戰鬥，其強度、召喚數根據她們個人作為人工種族的Lv而定，大約1年提升1級(上限為5級)。</Nearmaere_Artificial.description>
+  <Nearmaere_Artificial.stages.0.label>Lv1</Nearmaere_Artificial.stages.0.label>
+  <Nearmaere_Artificial.stages.1.label>Lv2</Nearmaere_Artificial.stages.1.label>
+  <Nearmaere_Artificial.stages.2.label>Lv3</Nearmaere_Artificial.stages.2.label>
+  <Nearmaere_Artificial.stages.3.label>Lv4</Nearmaere_Artificial.stages.3.label>
+  <Nearmaere_Artificial.stages.4.label>Lv5</Nearmaere_Artificial.stages.4.label>
+
+  <Nearmaere_Artificial_b.label>人工上位種族(夜魔・阿拉迪亞)</Nearmaere_Artificial_b.label>
+  <Nearmaere_Artificial_b.description>幻景種夜魔・阿拉迪亞是夜魔的完成形態，擁有在人類社會上位的手腕和技巧。\n長期以來人工種族特有的免疫問題克服的同時，精神力也得到了成長。</Nearmaere_Artificial_b.description>
+  <Nearmaere_Artificial_b.stages.0.label>Lv1</Nearmaere_Artificial_b.stages.0.label>
+  <Nearmaere_Artificial_b.stages.1.label>Lv2</Nearmaere_Artificial_b.stages.1.label>
+  <Nearmaere_Artificial_b.stages.2.label>Lv3</Nearmaere_Artificial_b.stages.2.label>
+  <Nearmaere_Artificial_b.stages.3.label>Lv4</Nearmaere_Artificial_b.stages.3.label>
+  <Nearmaere_Artificial_b.stages.4.label>Lv5</Nearmaere_Artificial_b.stages.4.label>
+
+  <Nearmaere_Artificial_d.label>人工種族(夜魔・溫蓋特)</Nearmaere_Artificial_d.label>
+  <Nearmaere_Artificial_d.description>夜魔・溫蓋特與普通的夜魔不同。雖然失去了召喚眷屬的能力，但免疫力已得到改善，精神面也變得更強大。</Nearmaere_Artificial_d.description>
+  <Nearmaere_Artificial_d.stages.0.label>Lv1</Nearmaere_Artificial_d.stages.0.label>
+  <Nearmaere_Artificial_d.stages.1.label>Lv2</Nearmaere_Artificial_d.stages.1.label>
+  <Nearmaere_Artificial_d.stages.2.label>Lv3</Nearmaere_Artificial_d.stages.2.label>
+  <Nearmaere_Artificial_d.stages.3.label>Lv4</Nearmaere_Artificial_d.stages.3.label>
+  <Nearmaere_Artificial_d.stages.4.label>Lv5</Nearmaere_Artificial_d.stages.4.label>
+
+  <Nearmaere_Artificial_e.label>人工種族(夜魔・涅墨西斯)</Nearmaere_Artificial_e.label>
+  <Nearmaere_Artificial_e.description>夜魔・涅墨西斯是經過改良的夜魔。為了能夠在邊境星球的艱難戰鬥中生存，進行了基因調整。</Nearmaere_Artificial_e.description>
+  <Nearmaere_Artificial_e.stages.0.label>Lv1</Nearmaere_Artificial_e.stages.0.label>
+  <Nearmaere_Artificial_e.stages.1.label>Lv2</Nearmaere_Artificial_e.stages.1.label>
+  <Nearmaere_Artificial_e.stages.2.label>Lv3</Nearmaere_Artificial_e.stages.2.label>
+  <Nearmaere_Artificial_e.stages.3.label>Lv4</Nearmaere_Artificial_e.stages.3.label>
+  <Nearmaere_Artificial_e.stages.4.label>Lv5</Nearmaere_Artificial_e.stages.4.label>
+
+</LanguageData>

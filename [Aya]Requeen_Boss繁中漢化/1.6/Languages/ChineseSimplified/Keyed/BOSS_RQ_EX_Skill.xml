@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<BOSS_RQ_EX_Skill_a>『面對戰鬥中機體損傷率的增加，緊急處理方案啟動，開始進行克利提亞斯之星程序。』</BOSS_RQ_EX_Skill_a>
+<BOSS_RQ_EX_Skill_b>『理念感應器全體基元進行空間分析，選定欲抹消的目標區域。』</BOSS_RQ_EX_Skill_b>
+<BOSS_RQ_EX_Skill_c>『解除創世反應爐的限制，開始壓縮空間直至臨界點。』</BOSS_RQ_EX_Skill_c>
+<BOSS_RQ_EX_Skill_d>『倒數開始…１０…９…８…』</BOSS_RQ_EX_Skill_d>
+<BOSS_RQ_EX_Skill_e>『克利提亞斯之星，解放』</BOSS_RQ_EX_Skill_e>
+
+<BOSS_RQ_EX_Skill_End_a>『克利提亞斯之星的程序已經完成，再次啟動所需的始基殘量相當於兩次。』</BOSS_RQ_EX_Skill_End_a>
+<BOSS_RQ_EX_Skill_End_b>『克利提亞斯之星的程序已經完成，再次啟動所需的始基殘量相當於一次』</BOSS_RQ_EX_Skill_End_b>
+<BOSS_RQ_EX_Skill_End_c>『克利提亞斯之星的程序已經完成，但再次啟動所需的始基已經耗盡。充填所需時間為……』</BOSS_RQ_EX_Skill_End_c>
+
+
+</LanguageData>

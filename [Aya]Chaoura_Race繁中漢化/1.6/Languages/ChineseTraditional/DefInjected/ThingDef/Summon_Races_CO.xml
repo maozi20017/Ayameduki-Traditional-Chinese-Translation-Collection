@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: エヴェドラヴァン -->
+  <HAR_CO_NPC_Race_a.label>聖白侍從</HAR_CO_NPC_Race_a.label>
+  <!-- EN: ケイオーラ・アヴァルツィオンの眷属。\n低速で耐久力もないが、しばらくすると大爆発する。 -->
+  <HAR_CO_NPC_Race_a.description>混沌靈・阿瓦爾錫安的眷屬\n雖然行動緩慢，也缺乏耐久力，但在經過一段時間後會引發巨大爆炸。</HAR_CO_NPC_Race_a.description>
+  <!-- EN: left claw -->
+  <HAR_CO_NPC_Race_a.tools.left_claw.label>左爪</HAR_CO_NPC_Race_a.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <HAR_CO_NPC_Race_a.tools.right_claw.label>右爪</HAR_CO_NPC_Race_a.tools.right_claw.label>
+  
+</LanguageData>

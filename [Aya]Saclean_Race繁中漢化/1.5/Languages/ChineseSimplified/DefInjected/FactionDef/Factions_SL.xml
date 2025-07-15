@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Saclean_Base_Faction.leaderTitle>領袖</Saclean_Base_Faction.leaderTitle>
+
+  <Saclean_P_Faction.label>飛蛾姬的隱居之鄉</Saclean_P_Faction.label>
+  <Saclean_P_Faction.description>飛蛾姬們聚集在一起平和的隱居著的聚落。</Saclean_P_Faction.description>
+  <Saclean_P_Faction.pawnsPlural>飛蛾姬們</Saclean_P_Faction.pawnsPlural>
+
+  <Saclean_Faction_NPC.label>飛蛾姬派系</Saclean_Faction_NPC.label>
+  <Saclean_Faction_NPC.description>以飛蛾姬為主、摻雜著其他種族的稀有派系。</Saclean_Faction_NPC.description>
+  <Saclean_Faction_NPC.fixedName>絲線</Saclean_Faction_NPC.fixedName>
+  <Saclean_Faction_NPC.pawnsPlural>飛蛾姬</Saclean_Faction_NPC.pawnsPlural>
+  <Saclean_Faction_NPC.leaderTitle>領袖</Saclean_Faction_NPC.leaderTitle>
+
+
+</LanguageData>

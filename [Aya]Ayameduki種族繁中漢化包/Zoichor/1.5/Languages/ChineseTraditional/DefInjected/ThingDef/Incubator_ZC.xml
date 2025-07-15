@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ジオフォラス -->
+  <HAR_ZC_BMOT_Building_Incubator.label>地之佛拉斯</HAR_ZC_BMOT_Building_Incubator.label>
+  <!-- EN: ゾイコールに纏わる物を作るのに必要な設備。\nメラフにも多数設置されており、主にロディシアンの生成に使われている。\n\n\n人工種族の神子リトルーナ・デュナミスの手により設計された設備。\n高度な機械だが、動かすには大量の資材が必要となる。 -->
+  <HAR_ZC_BMOT_Building_Incubator.description>製作與糾罪者相關物品所需的設備。\n這些設備在梅拉芙也有大量設置，主要用於生成羅迪西昂。\n\n\n由人工種族的神子偽神族・可能性所設計的設備。\n這些是高度精密的機械，啟動它們需要大量的資源。</HAR_ZC_BMOT_Building_Incubator.description>
+  
+</LanguageData>

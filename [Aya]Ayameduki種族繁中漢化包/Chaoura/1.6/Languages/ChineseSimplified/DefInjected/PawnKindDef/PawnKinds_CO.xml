@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_Chaoura_Player.label>混沌靈殖民者</HAR_Chaoura_Player.label>
+  <HAR_Chaoura_Player.labelPlural>混沌靈殖民者們</HAR_Chaoura_Player.labelPlural>
+  <HAR_Chaoura_Player.labelMale>男性 混沌靈殖民者</HAR_Chaoura_Player.labelMale>
+  <HAR_Chaoura_Player.labelMalePlural>男性 混沌靈殖民者們</HAR_Chaoura_Player.labelMalePlural>
+  <HAR_Chaoura_Player.labelFemale>女性 混沌靈殖民者</HAR_Chaoura_Player.labelFemale>
+  <HAR_Chaoura_Player.labelFemalePlural>女性 混沌靈殖民者們</HAR_Chaoura_Player.labelFemalePlural>
+
+
+  <!-- ■NPC -->
+
+  <HAR_Chaoura_NPC_Leader.label>混沌靈領袖</HAR_Chaoura_NPC_Leader.label>
+  <HAR_Chaoura_NPC_Leader.labelPlural>混沌靈領袖們</HAR_Chaoura_NPC_Leader.labelPlural>
+  <HAR_Chaoura_NPC_Leader.labelMale>男性 混沌靈領袖</HAR_Chaoura_NPC_Leader.labelMale>
+  <HAR_Chaoura_NPC_Leader.labelMalePlural>男性 混沌靈領袖們</HAR_Chaoura_NPC_Leader.labelMalePlural>
+  <HAR_Chaoura_NPC_Leader.labelFemale>女性 混沌靈領袖</HAR_Chaoura_NPC_Leader.labelFemale>
+  <HAR_Chaoura_NPC_Leader.labelFemalePlural>女性 混沌靈領袖們</HAR_Chaoura_NPC_Leader.labelFemalePlural>
+
+  <HAR_Chaoura_NPC_Resident.label>混沌靈居民</HAR_Chaoura_NPC_Resident.label>
+  <HAR_Chaoura_NPC_Resident.labelPlural>混沌靈居民們</HAR_Chaoura_NPC_Resident.labelPlural>
+  <HAR_Chaoura_NPC_Resident.labelMale>男性 混沌靈居民</HAR_Chaoura_NPC_Resident.labelMale>
+  <HAR_Chaoura_NPC_Resident.labelMalePlural>男性 混沌靈居民們</HAR_Chaoura_NPC_Resident.labelMalePlural>
+  <HAR_Chaoura_NPC_Resident.labelFemale>女性 混沌靈居民</HAR_Chaoura_NPC_Resident.labelFemale>
+  <HAR_Chaoura_NPC_Resident.labelFemalePlural>女性 混沌靈居民們</HAR_Chaoura_NPC_Resident.labelFemalePlural>
+
+
+</LanguageData>

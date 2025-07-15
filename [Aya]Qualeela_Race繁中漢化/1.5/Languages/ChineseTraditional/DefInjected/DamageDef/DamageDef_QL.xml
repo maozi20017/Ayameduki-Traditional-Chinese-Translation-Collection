@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_QL_Damage_a.label>王權強化</HAR_QL_Damage_a.label>
+  <HAR_QL_Damage_a.deathMessage>{0} 被輾壓致死。</HAR_QL_Damage_a.deathMessage>
+
+  <HAR_QL_Damage_b.label>王權屏障</HAR_QL_Damage_b.label>
+  <HAR_QL_Damage_b.deathMessage>{0} 被輾壓致死。</HAR_QL_Damage_b.deathMessage>
+
+  <HAR_QL_BombSuper.deathMessage>{0} 被殺死了。</HAR_QL_BombSuper.deathMessage>
+
+  <HAR_QL_Damage_c.label>大地之劍</HAR_QL_Damage_c.label>
+  <HAR_QL_Damage_c.deathMessage>{0} 被射殺了。</HAR_QL_Damage_c.deathMessage>
+
+
+</LanguageData>

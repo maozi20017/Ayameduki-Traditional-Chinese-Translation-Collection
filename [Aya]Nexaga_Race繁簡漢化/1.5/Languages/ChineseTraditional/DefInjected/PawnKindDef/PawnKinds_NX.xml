@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_Nexaga_Player.label>混血種殖民者</HAR_Nexaga_Player.label>
+  <HAR_Nexaga_Player.labelPlural>混血種殖民者們</HAR_Nexaga_Player.labelPlural>
+  <HAR_Nexaga_Player.labelMale>男性 混血種殖民者</HAR_Nexaga_Player.labelMale>
+  <HAR_Nexaga_Player.labelMalePlural>男性 混血種殖民者們</HAR_Nexaga_Player.labelMalePlural>
+  <HAR_Nexaga_Player.labelFemale>女性 混血種殖民者</HAR_Nexaga_Player.labelFemale>
+  <HAR_Nexaga_Player.labelFemalePlural>女性 混血種殖民者們</HAR_Nexaga_Player.labelFemalePlural>
+
+
+  <!-- ■NPC -->
+
+  <HAR_Nexaga_NPC_Trader.label>混血種商人</HAR_Nexaga_NPC_Trader.label>
+  <HAR_Nexaga_NPC_Trader.labelPlural>混血種商人們</HAR_Nexaga_NPC_Trader.labelPlural>
+  <HAR_Nexaga_NPC_Trader.labelMale>男性 混血種商人</HAR_Nexaga_NPC_Trader.labelMale>
+  <HAR_Nexaga_NPC_Trader.labelMalePlural>男性 混血種商人們</HAR_Nexaga_NPC_Trader.labelMalePlural>
+  <HAR_Nexaga_NPC_Trader.labelFemale>女性 混血種商人</HAR_Nexaga_NPC_Trader.labelFemale>
+  <HAR_Nexaga_NPC_Trader.labelFemalePlural>女性 混血種商人們</HAR_Nexaga_NPC_Trader.labelFemalePlural>
+
+  <HAR_Nexaga_NPC_Leader.label>混血種領袖</HAR_Nexaga_NPC_Leader.label>
+  <HAR_Nexaga_NPC_Leader.labelPlural>混血種領袖們</HAR_Nexaga_NPC_Leader.labelPlural>
+  <HAR_Nexaga_NPC_Leader.labelMale>男性 混血種領袖</HAR_Nexaga_NPC_Leader.labelMale>
+  <HAR_Nexaga_NPC_Leader.labelMalePlural>男性 混血種領袖們</HAR_Nexaga_NPC_Leader.labelMalePlural>
+  <HAR_Nexaga_NPC_Leader.labelFemale>女性 混血種領袖</HAR_Nexaga_NPC_Leader.labelFemale>
+  <HAR_Nexaga_NPC_Leader.labelFemalePlural>女性 混血種領袖們</HAR_Nexaga_NPC_Leader.labelFemalePlural>
+
+  <HAR_Nexaga_NPC_Resident.label>混血種居民</HAR_Nexaga_NPC_Resident.label>
+  <HAR_Nexaga_NPC_Resident.labelPlural>混血種居民們</HAR_Nexaga_NPC_Resident.labelPlural>
+  <HAR_Nexaga_NPC_Resident.labelMale>男性 混血種居民</HAR_Nexaga_NPC_Resident.labelMale>
+  <HAR_Nexaga_NPC_Resident.labelMalePlural>男性 混血種居民們</HAR_Nexaga_NPC_Resident.labelMalePlural>
+  <HAR_Nexaga_NPC_Resident.labelFemale>女性 混血種居民</HAR_Nexaga_NPC_Resident.labelFemale>
+  <HAR_Nexaga_NPC_Resident.labelFemalePlural>女性 混血種居民們</HAR_Nexaga_NPC_Resident.labelFemalePlural>
+
+
+</LanguageData>

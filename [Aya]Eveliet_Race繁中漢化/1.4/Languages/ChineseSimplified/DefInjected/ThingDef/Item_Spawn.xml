@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_EL_Spawn_a.label>伊娃莉特休眠艙</HAR_EL_Spawn_a.label>
+  <HAR_EL_Spawn_a.description>伊娃莉特沉睡在休眠艙中。
+    \n使用後，可以將伊娃莉特加入殖民地。</HAR_EL_Spawn_a.description>
+  <HAR_EL_Spawn_a.comps.0.useLabel>啟用 {0_label}</HAR_EL_Spawn_a.comps.0.useLabel>
+
+
+</LanguageData>

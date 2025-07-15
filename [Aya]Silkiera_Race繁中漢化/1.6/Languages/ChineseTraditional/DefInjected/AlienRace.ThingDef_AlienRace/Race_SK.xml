@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_Silkiera.label>亞人獸娘</HAR_Silkiera.label>
+  <HAR_Silkiera.description>亞人獸娘是宙族某一派系以『夜魔』為原型，以勞作為主要目標創造的非戰鬥型人工種族。為抑制其可能的叛亂，在基因上將她們調整為身體素質遜於人類，唯獨勞作能力出色。另外，由於新編入了小動物的基因，所以亞人獸娘們大多都溫順親和。
+    \n\n在脫離創造主的掌控之前一直從事著製造相關的工作，之後利用這一經驗優勢從事武器、道具的生產工作。
+    \n\n\n由於她們是夜魔的亞種，因此可以與其通用服飾。</HAR_Silkiera.description>
+
+  <HAR_Silkiera_b.label>亞人獸娘・優越種</HAR_Silkiera_b.label>
+  <HAR_Silkiera_b.description>亞人獸娘・優越種是亞人工業對亞人獸娘進行品種改良後誕生的上位種。
+    \n因為是著眼於『才能』這一點上進行設計的，所以她們並沒有特殊能力；但是她們在所有領域都有極高的適應力，不論在何種困境下都能化腐朽為神奇。
+    \n\n在亞人工業內部大多處於統籌、管理等上位立場上，從事風險管控和損失最小化相關工作，因此很少會出現在普通人的視線中。
+    \n如果你的殖民地有幸能招募她們，相信她們的卓絕才能和非凡手段定會讓你如虎添翼。</HAR_Silkiera_b.description>
+
+  <HAR_Silkiera_c.label>亞人獸娘・母夜叉</HAR_Silkiera_c.label>
+  <HAR_Silkiera_c.description>【邪謀種亞人獸娘・母夜叉】是為了統合作為種族來說過於脆弱的亞人獸娘而準備的上位種。
+    \n在亞人工業中相當於幹部，暗中輔佐位高權重的領導。\n\n狡猾且殘忍，但也能在無法反擊的戰鬥中利用智謀靈活周旋，這一恐怖的手段也成了支撐著當今亞人工業的支柱。
+    \n創造主健在時自稱為主忠實的僕人，但在脫離了掌控的當下，志趣相投的母夜叉們共同建立了亞人工業，一有機會便舉行狂歡盛宴。
+    \n\n作為上位種，她們擁有強大的力量，還喜歡使用諸如『因受到蠱惑而使射擊無效化』、『尋血詛咒，以及針對敵意進行反擊的詛咒』等能夠沉重打擊對手的妖術。
+    \n\n除了極少數的個體外，她們大都生性殘忍，因此如果要招募她們的話，必須得在和其他殖民者的人際關係上下功夫。</HAR_Silkiera_c.description>
+
+  <HAR_Silkiera_c.comps.Comp_HAR_SK_Skill_Skip.commandLabel>陽炎</HAR_Silkiera_c.comps.Comp_HAR_SK_Skill_Skip.commandLabel>
+  <HAR_Silkiera_c.comps.Comp_HAR_SK_Skill_Skip.commandDesc>瞬間移動到選擇的位置上</HAR_Silkiera_c.comps.Comp_HAR_SK_Skill_Skip.commandDesc>
+
+  <HAR_Silkiera_c.comps.Comp_HAR_SK_Skill.commandLabel>狐憑</HAR_Silkiera_c.comps.Comp_HAR_SK_Skill.commandLabel>
+  <HAR_Silkiera_c.comps.Comp_HAR_SK_Skill.commandDesc>以選擇的位置為中心，對一定範圍內的生物賦予精神異常狀態</HAR_Silkiera_c.comps.Comp_HAR_SK_Skill.commandDesc>
+
+  <HAR_Silkiera_c.comps.Comp_HAR_SK_Skill_b.commandLabel>蠱毒</HAR_Silkiera_c.comps.Comp_HAR_SK_Skill_b.commandLabel>
+  <HAR_Silkiera_c.comps.Comp_HAR_SK_Skill_b.commandDesc>\n在選擇的位置召喚一群狂暴狀態的蟲族</HAR_Silkiera_c.comps.Comp_HAR_SK_Skill_b.commandDesc>
+
+
+</LanguageData>

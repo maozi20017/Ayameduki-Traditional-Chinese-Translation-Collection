@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: セフェルハゾン -->
+  <HAR_CO_UB_Archotech_a.label>預言之書</HAR_CO_UB_Archotech_a.label>
+  <!-- EN: 厳重に封印が施された書物。\n開くことで『理から外れた者』が現れるという。\n原本は監獄惑星メラフにあると言われている。\n\n\nもし開く気があるのなら、考え得る力を用意せよ。\n\n\n「これでよろしいですか？ええ、同族たちには作り方を伝えておきます。\n　王国や教会に黙っているのは心苦しいですが、あなた達の選択を信じます。\n　\n　相変わらず姿は見えませんが、いつか会うこともあるかもしれませんね。\n　もっとも…その時は敵同士でしょうが」 -->
+  <HAR_CO_UB_Archotech_a.description>被嚴密封印的書物。\n據說，一旦打開它，就會出現『違反理之存在』。\n原本據說保存在監獄星球梅拉芙上。\n\n\n若你決意開啟它，就請準備好你所能想到的一切力量。\n\n\n「這樣就可以了嗎？嗯，我會把製作方法傳給同族們。\n　對王國和教會隱瞞此事，我也覺得很過意不去……但我相信妳們的選擇。\n　\n　雖然一如往常的看不見蹤影，但也許哪天我們會相見吧。\n當然……到那時我們恐怕是敵人了」</HAR_CO_UB_Archotech_a.description>
+  <!-- EN: Activate {0_label} -->
+  <HAR_CO_UB_Archotech_a.comps.CompUsable.useLabel>啟用 {0_label}</HAR_CO_UB_Archotech_a.comps.CompUsable.useLabel>
+  
+  <!-- EN: ルアフベリト -->
+  <HAR_CO_UB_Archotech_b.label>盟約之靈</HAR_CO_UB_Archotech_b.label>
+  <!-- EN: 命を宿した神々しい結晶。\n使用すると、とある存在が仲間になる。 -->
+  <HAR_CO_UB_Archotech_b.description>寄宿著生命的神聖結晶。\n使用後，能夠讓那個存在作為同伴加入。</HAR_CO_UB_Archotech_b.description>
+  <!-- EN: Activate {0_label} -->
+  <HAR_CO_UB_Archotech_b.comps.CompUsable.useLabel>啟用 {0_label}</HAR_CO_UB_Archotech_b.comps.CompUsable.useLabel>
+  
+  <!-- EN: アツィルトヘヴェル -->
+  <HAR_CO_UB_Item_a.label>神域虛息</HAR_CO_UB_Item_a.label>
+  <!-- EN: ケイオーラ・アヴァルツィオンが落とした超物質。\n深淵あるいは天上から来た金属であり、この世の理から完全に逸脱している。\n武具として用いれば、辺境の惑星など容易く手中に収めることができるだろう。\n\n…ただし、加工難易度も前代未聞である。\n神の腕如き術を持った技術者でなければ、これを御すことは難しい。\n\n\nかつて創造主が作りし金属、ゾハルエヴェンを元型とする超物質。\n途中で終わっていたそれを彼女達が引き継ぎ、今もバージョンアップを続けている。\n美しい白い表面には、今は亡き神子、その光輪の輝きが映るという。 -->
+  <HAR_CO_UB_Item_a.description>混沌靈・阿瓦爾錫安所遺落的超物質。\n是一種來自深淵或天界的金屬，徹底脫離了這個世界的理法。\n若作為武具使用，征服邊境行星之類的事恐怕易如反掌。\n\n…但同時，加工難度也是史無前例。\n若非擁有宛如神之技藝的工匠，想要駕馭此物幾乎是不可能的。\n\n\n這是以曾由創造主製作的金屬光輝石為原型所誕生的超物質。\n那份未竟之業，已被她們接手並持續進化至今。\n據說，在那美麗潔白的表面上，能映出早已逝去的神子──其光輪的輝耀。</HAR_CO_UB_Item_a.description>
+  
+</LanguageData>

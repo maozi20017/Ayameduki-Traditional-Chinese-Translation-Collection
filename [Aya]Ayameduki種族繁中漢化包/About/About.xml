@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>[Aya]Ayameduki種族繁中漢化包</name>
+	<author>毛子</author>
+	<packageId>Maozi.ZH.ChinesePack.Ayameduki</packageId>
+	<supportedVersions>
+		<li>1.4</li>
+		<li>1.5</li>
+		<li>1.6</li>
+	</supportedVersions>
+	<loadAfter>
+		<li>Ayameduki.AyaRacePremise</li>
+		<li>Ayameduki.harchaoura</li>
+		<li>Ayameduki.bossenforcer</li>
+		<li>Ayameduki.haridearn</li>
+		<li>Ayameduki.haridhale</li>
+		<li>Ayameduki.harlittluna</li>
+		<li>Ayameduki.harnearmare</li>
+		<li>Ayameduki.harneclose</li>
+		<li>Ayameduki.harnexaga</li>
+		<li>Ayameduki.harqualeela</li>
+		<li>Ayameduki.bossrequeen</li>
+		<li>Ayameduki.harsaclean</li>
+		<li>Ayameduki.harsilkiera</li>
+		<li>Ayameduki.harsolark</li>
+		<li>Ayameduki.harXenoorca</li>
+		<li>Ayameduki.harEveliet</li>
+		<li>Ayameduki.ideastoryteller</li>
+		<li>ayameduki.haridhaleex</li>
+		<li>ayameduki.harlittlunaex</li>
+		<li>ayameduki.harnearmareex</li>
+		<li>ayameduki.harsilkieraex</li>
+		<li>ayameduki.harsolarkex</li>
+		<li>ayameduki.harxenoorcaex</li>
+		<li>ayameduki.harnecloseuc</li>
+		<li>ayameduki.harzoichor</li>
+		<li>ayameduki.harchaouraub</li>
+	</loadAfter>
+    <description>
+Ayameduki種族繁中漢化包
+
+・不用每個都裝，裝你想裝的就好(應該吧(ﾟ∀。))
+	</description>
+
+</ModMetaData>

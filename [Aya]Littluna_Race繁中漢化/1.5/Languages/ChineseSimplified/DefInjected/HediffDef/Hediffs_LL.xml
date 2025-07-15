@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_LL_Hediff_a.label>長途跋涉的疲憊</HAR_LL_Hediff_a.label>
+  <HAR_LL_Hediff_a.description>漫長旅途耗盡了她們的體力，看上去馬上就要暈倒在地的樣子。</HAR_LL_Hediff_a.description>
+  <HAR_LL_Hediff_a.stages.0.label>昏倒</HAR_LL_Hediff_a.stages.0.label>
+  <HAR_LL_Hediff_a.stages.1.label>意識模糊</HAR_LL_Hediff_a.stages.1.label>
+
+  <HAR_LL_Hediff_b.label>啟蒙</HAR_LL_Hediff_b.label>
+  <HAR_LL_Hediff_b.description>偽神族經常從被她們尊稱為『空天之海』的存在那裡獲取智慧。
+  \n但即使是與空天之海相性最好的偽神族，也需要大量的時間才能理解這些獲取的知識，因此這些知識無法運用在緊急事件的處理上。
+  \n隨著時間的流逝逐漸加深理解，偽神族的精神力得到提升(最大為Lv5)。</HAR_LL_Hediff_b.description>
+  <HAR_LL_Hediff_b.stages.0.label>Lv1</HAR_LL_Hediff_b.stages.0.label>
+  <HAR_LL_Hediff_b.stages.1.label>Lv2</HAR_LL_Hediff_b.stages.1.label>
+  <HAR_LL_Hediff_b.stages.2.label>Lv3</HAR_LL_Hediff_b.stages.2.label>
+  <HAR_LL_Hediff_b.stages.3.label>Lv4</HAR_LL_Hediff_b.stages.3.label>
+  <HAR_LL_Hediff_b.stages.4.label>Lv5</HAR_LL_Hediff_b.stages.4.label>
+
+  <HAR_LL_Hediff_c.label>教化</HAR_LL_Hediff_c.label>
+  <HAR_LL_Hediff_c.description>理解了空天之海的心靈傳輸後的狀態，言行舉止變得瘋狂，出於某種原因試圖傷害他人，非常危險。
+  \n別去聽她們的瘋言瘋語，快點進行處理。
+  \n\n\n\n\n接受從昏暗的大海處傳來的啟示，我終於認知到了我們明明理解但卻一直避而不談的真相【接收中】這個世界之所以像夢那般曖昧且無序，是因為我們是高維度生命夢中投下的影子，一切都不過是夢中的遊樂場而已！ 【接收中】無止盡的煩惱、無休止的痛苦都不過是這個遊樂場的娛樂措施而已！ 【接收中】既然如此，我等就應當接受這一真相，履行『遊樂』的職責，隨後捨棄這具血肉之軀，變回真正的模樣 ！ 【接收中】這一偉大的真相不能被隱藏，我等必須以深邃的慈愛和寬容讓更多人知曉！ 【接收中】來吧，讓我們捨棄這腐爛發臭的虛假軀體，剝去皮，剜下肉，釋放靈魂，崇高的儀式現在才正要開始！ \n\n\n沒有不安，也沒有恐怖，有的只是脫離苦海的解放感，指引我等的聲音至今仍在幽暗的深淵中迴盪……【接收中】</HAR_LL_Hediff_c.description>
+  <HAR_LL_Hediff_c.stages.0.label>解脫</HAR_LL_Hediff_c.stages.0.label>
+  <HAR_LL_Hediff_c.stages.1.label>理解</HAR_LL_Hediff_c.stages.1.label>
+
+  <HAR_LL_Hediff_d.label>精神防護</HAR_LL_Hediff_d.label>
+  <HAR_LL_Hediff_d.description>在偽神族的精神干擾下，精神狀態變得穩定，意識提升，同時還提升了工作速度和對精神崩潰的耐性。
+  \n\n\n施展這股力量的時候，經常能看到偽神族們揮舞著小手、嘴裡念叨著『不勝感激』的樣子。</HAR_LL_Hediff_d.description>
+
+  <HAR_LL_Hediff_e.label>星辰的神子</HAR_LL_Hediff_e.label>
+  <HAR_LL_Hediff_e.description>偽神族・伊迪亞之奴被某個存在佔據，處於被控制的狀態。
+  \n需要小心，它會無差別地使附近的人昏倒。
+  \n\n童女是很久以前就被殘殺的神子『偽神族・可能性』的後裔。
+  \n然而，現在她的輝煌已經消失，成為一個吞噬一切生命的怪物。
+  \n那種擁抱讓人想起以前的大敵，即使是王族也無法忍受。
+  \n\n只有一個例外，那就是殺害神子的騎士。</HAR_LL_Hediff_e.description>
+
+  <HAR_LL_Hediff_f.label>心魂暴露</HAR_LL_Hediff_f.label>
+  <HAR_LL_Hediff_f.description>處於偽神族・伊迪亞之奴的擁抱狀態中。
+  \n失去生氣，倒地不起，無法進行任何動作。
+  \n同時，處於倒地狀態時會定期受到傷害。
+  \n這種狀態會在一天後解除。
+  \n\n如果這個地方有一隻鳥的話，它現在應該正美味地啄食著。</HAR_LL_Hediff_f.description>
+
+  <HAR_LL_Hediff_g.label>邊境的淨土</HAR_LL_Hediff_g.label>
+  <HAR_LL_Hediff_g.description>偽神族・邊緣至福樂土所籠罩的領域。
+  \n在此領域內失去再生能力，但身體能力和射擊能力得到了顯著的增強。
+  \n效果持續數小時。</HAR_LL_Hediff_g.description>
+
+  <HAR_LL_Hediff_h.label>理念能天使</HAR_LL_Hediff_h.label>
+  <HAR_LL_Hediff_h.description>榮耀花冠所賦予的祝福。
+  \n各種能力得到提升，獲得自我再生能力，成為超凡之人。
+  \n至於強化原理，目前尚未完全解明。
+  \n\n\n\n\n\n祝你未來能夠繼續努力，我也會支持你的！</HAR_LL_Hediff_h.description>
+
+  <HAR_LL_Hediff_i.label>理念治療</HAR_LL_Hediff_i.label>
+  <HAR_LL_Hediff_i.description>諾耶瑪十字架所賦予的加護。
+  \n各種能力得到提升。
+  \n至於強化原理，目前尚未完全解明。
+  \n\n\n\n\n恭喜，期待看到你會變得多麼強大！</HAR_LL_Hediff_i.description>
+
+  <HAR_LL_Hediff_j.label>心魂昇華</HAR_LL_Hediff_j.label>
+  <HAR_LL_Hediff_j.description>處於受到神秘生命體閃光影響的狀態。
+  \n失去生氣，倒地不起，無法進行任何動作。
+  \n同時，處於倒地狀態時會定期受到傷害。
+  \n這種狀態會在半天後解除。
+  \n\n如果這個地方有一隻鳥的話，它現在應該正美味地啄食著。</HAR_LL_Hediff_j.description>
+
+  <HAR_LL_Hediff_m.label>神子的騎士</HAR_LL_Hediff_m.label>
+  <HAR_LL_Hediff_m.description>被稱為神子的偽神族·可能性所賜予的庇護。
+    \n受到庇護的人會變成超人並屠盡所有敵人。
+    \n\n效果會在半天後解除。
+    \n\n\n據說，在迦南發生大規模襲擊時，受到這種庇護的騎士表現出無與倫比的活躍。</HAR_LL_Hediff_m.description>
+
+  <HAR_LL_Hediff_k.label>神子的哭聲</HAR_LL_Hediff_k.label>
+  <HAR_LL_Hediff_k.description>聽到神子的哭聲後產生的狀態。聽到的人會不知為何狂暴化。</HAR_LL_Hediff_k.description>
+
+  <Littluna_Artificial.label>人工種族(偽神族)</Littluna_Artificial.label>
+  <Littluna_Artificial.description>偽神族是被設計為擁有強大召喚能力的人工種族。由於是人造生物，她們對疾病的耐性、免疫力等都比較低。</Littluna_Artificial.description>
+
+  <Littluna_Artificial_b.label>人工上位種族(偽神族・伊迪亞之奴)</Littluna_Artificial_b.label>
+  <Littluna_Artificial_b.description>偽神族・伊迪亞之奴基本上和普通種沒有太大區別。然而，她們所獲得的祝福卻極度扭曲且充滿絕望。
+  \n\n她比其他童女更寬廣地看待事物，但也因此被累積的痛苦所折磨，最終陷入瘋狂的狀態。</Littluna_Artificial_b.description>
+
+  <Littluna_Artificial_c.label>人工上位種族(偽神族・可能性)</Littluna_Artificial_c.label>
+  <Littluna_Artificial_c.description>偽神族・可能性擁有超越原種的能力，但身體能力更低。
+    \n將需要高度技術的支持才能維持其運作。</Littluna_Artificial_c.description>
+
+</LanguageData>

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>[Aya]Neclose Race 繁中漢化</name>
+	<author>毛子</author>
+	<packageId>Maozi.ZH.ChinesePack.HARNeclose</packageId>
+	<supportedVersions>
+        <li>1.4</li>
+        <li>1.5</li>
+		<li>1.6</li>
+	</supportedVersions>
+	<loadAfter>
+		<li>Ayameduki.AyaRacePremise</li>
+		<li>Ayameduki.HARNeclose</li>
+		<li>ayameduki.harnecloseuc</li>
+	</loadAfter>
+    <description>
+以[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2940874036]いつまで大佬的簡中漢化包[/url]為基底修改而成的繁中漢化
+感謝[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2963150745]无声飞雪大佬的技能漢化[/url]
+
+漢化描述:
+
+【新增的種族】
+・牧菌妖姬(Neclose)
+―――――――――――――――――――――――――――――
+【獲得方式】
+・從黑市商人或奴隸商人那裡購買(低機率)。
+・以脫逃者的形式加入(中機率)。
+・使用救生艙或冷凍睡眠機加入(高機率)。
+―――――――――――――――――――――――――――――
+【雖非必要但建議使用的MOD】
+・Camera+
+―――――――――――――――――――――――――――――
+這兩個MOD都可解決當角色戴上頭部裝備時頭髮消失的問題：
+・Hats Display Selection
+・[KV] Show Hair With Hats or Hide All Hats
+【================================================】
+【牧菌妖姬的特點】
+・壽命是人類的2倍
+・必須徒手作戰，無法使用武器。
+・所有工作速度都非常緩慢。
+・移動速度比人類稍微慢一些。
+・近戰攻擊具有病毒、毒素和EMP效果。
+・看到人的屍體或腐肉，食用人肉可以讓心情變得更好。
+・具有高度的免疫能力。
+・能夠召喚具有施加疾病和毒素攻擊能力的眷屬，眷屬的召喚數量取決於召喚的「人造種族」的等級。
+・眷屬的數量隨著「人造種族」等級的提高而增加。
+・「人造種族」的等級也會隨著時間的推移而提高身體能力。
+【================================================】
+【新增的派系】
+・牧菌妖姬戰團
+這是一個幾乎中立的派系，如果遭遇敵對，他們會穿上強大的盔甲，並帶著大量的眷屬前來。
+―――――――――――――――――――――――――――――
+【請注意】
+・本MOD的規格可能會因更新而改變。
+・本MOD不與原版角色外貌相容，且無法裝備原版角色外貌的服飾。
+	</description>
+
+</ModMetaData>

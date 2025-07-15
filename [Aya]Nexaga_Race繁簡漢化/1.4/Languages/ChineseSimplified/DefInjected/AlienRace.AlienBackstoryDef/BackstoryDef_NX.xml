@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ■↓幼少期のバックストーリー -->
+
+  <HAR_NX_Backstory_C1.title>混血夜魔</HAR_NX_Backstory_C1.title>
+  <HAR_NX_Backstory_C1.titleShort>混血夜魔</HAR_NX_Backstory_C1.titleShort>
+  <HAR_NX_Backstory_C1.baseDesc>[PAWN_nameDef] 是夜魔与其他种族的混血儿，[PAWN_pronoun]通过母亲或隔代遗传继承了人类与人工种族的血统。</HAR_NX_Backstory_C1.baseDesc>
+
+  <HAR_NX_Backstory_C2.title>混血人鱼姬</HAR_NX_Backstory_C2.title>
+  <HAR_NX_Backstory_C2.titleShort>混血人鱼姬</HAR_NX_Backstory_C2.titleShort>
+  <HAR_NX_Backstory_C2.baseDesc>[PAWN_nameDef] 是人鱼姬与其他种族的混血儿，[PAWN_pronoun]通过母亲或隔代遗传继承了人类与人工种族的血统。</HAR_NX_Backstory_C2.baseDesc>
+
+  <HAR_NX_Backstory_C3.title>混血幽灵姬</HAR_NX_Backstory_C3.title>
+  <HAR_NX_Backstory_C3.titleShort>混血幽灵姬</HAR_NX_Backstory_C3.titleShort>
+  <HAR_NX_Backstory_C3.baseDesc>[PAWN_nameDef] 是幽灵姬与其他种族的混血儿，[PAWN_pronoun]通过母亲或隔代遗传继承了人类与人工种族的血统。</HAR_NX_Backstory_C3.baseDesc>
+
+  <HAR_NX_Backstory_C4.title>混血亚人兽娘</HAR_NX_Backstory_C4.title>
+  <HAR_NX_Backstory_C4.titleShort>混血亚人兽娘</HAR_NX_Backstory_C4.titleShort>
+  <HAR_NX_Backstory_C4.baseDesc>[PAWN_nameDef] 是亚人兽娘与其他种族的混血儿，[PAWN_pronoun]通过母亲或隔代遗传继承了人类与人工种族的血统。</HAR_NX_Backstory_C4.baseDesc>
+
+  <HAR_NX_Backstory_C5.title>混血牧菌妖姬</HAR_NX_Backstory_C5.title>
+  <HAR_NX_Backstory_C5.titleShort>混血牧菌妖姬</HAR_NX_Backstory_C5.titleShort>
+  <HAR_NX_Backstory_C5.baseDesc>[PAWN_nameDef] 是牧菌妖姬与其他种族的混血儿，[PAWN_pronoun]通过母亲或隔代遗传继承了人类与人工种族的血统。</HAR_NX_Backstory_C5.baseDesc>
+
+  <HAR_NX_Backstory_C6.title>混血伪神族</HAR_NX_Backstory_C6.title>
+  <HAR_NX_Backstory_C6.titleShort>混血伪神族</HAR_NX_Backstory_C6.titleShort>
+  <HAR_NX_Backstory_C6.baseDesc>[PAWN_nameDef] 是伪神族与其他种族的混血儿，[PAWN_pronoun]通过母亲或隔代遗传继承了人类与人工种族的血统。</HAR_NX_Backstory_C6.baseDesc>
+
+  <HAR_NX_Backstory_C7.title>混血龙姬</HAR_NX_Backstory_C7.title>
+  <HAR_NX_Backstory_C7.titleShort>混血龙姬</HAR_NX_Backstory_C7.titleShort>
+  <HAR_NX_Backstory_C7.baseDesc>[PAWN_nameDef] 是龙姬与其他种族的混血儿，[PAWN_pronoun]通过母亲或隔代遗传继承了人类与人工种族的血统。</HAR_NX_Backstory_C7.baseDesc>
+
+  <HAR_NX_Backstory_C8.title>混血飞蛾姬</HAR_NX_Backstory_C8.title>
+  <HAR_NX_Backstory_C8.titleShort>混血飞蛾姬</HAR_NX_Backstory_C8.titleShort>
+  <HAR_NX_Backstory_C8.baseDesc>[PAWN_nameDef] 是飞蛾姬与其他种族的混血儿，[PAWN_pronoun]通过母亲或隔代遗传继承了人类与人工种族的血统。</HAR_NX_Backstory_C8.baseDesc>
+
+  <HAR_NX_Backstory_C9.title>混血库莉菈</HAR_NX_Backstory_C9.title>
+  <HAR_NX_Backstory_C9.titleShort>混血库莉菈</HAR_NX_Backstory_C9.titleShort>
+  <HAR_NX_Backstory_C9.baseDesc>[PAWN_nameDef] 是库莉菈与其他种族的混血儿，[PAWN_pronoun]通过母亲或隔代遗传继承了人类与人工种族的血统。</HAR_NX_Backstory_C9.baseDesc>
+
+  <HAR_NX_Backstory_CS1.title>混血混沌灵</HAR_NX_Backstory_CS1.title>
+  <HAR_NX_Backstory_CS1.titleShort>混血混沌灵</HAR_NX_Backstory_CS1.titleShort>
+  <HAR_NX_Backstory_CS1.baseDesc>[PAWN_nameDef] 是混沌灵与其他种族的混血儿，[PAWN_pronoun]通过母亲或隔代遗传继承了人类与人工种族的血统。</HAR_NX_Backstory_CS1.baseDesc>
+
+
+  <!-- ■↓成人期のバックストーリー -->
+
+  <HAR_NX_Backstory_A1.title>充满魅力的接待员</HAR_NX_Backstory_A1.title>
+  <HAR_NX_Backstory_A1.titleShort>接待员</HAR_NX_Backstory_A1.titleShort>
+  <HAR_NX_Backstory_A1.baseDesc>[PAWN_nameDef] 利用自己的外表，担任接待业务的职位，他具备了社交能力和处世之道，但相对地对于粗暴的事情却不太擅长。</HAR_NX_Backstory_A1.baseDesc>
+
+  <HAR_NX_Backstory_A2.title>充满热情的建筑师</HAR_NX_Backstory_A2.title>
+  <HAR_NX_Backstory_A2.titleShort>建筑师</HAR_NX_Backstory_A2.titleShort>
+  <HAR_NX_Backstory_A2.baseDesc>[PAWN_nameDef] 意外地觉醒了作为建筑师的才能，但由于追求正确和精确，他与野生动物的相处却不太好。</HAR_NX_Backstory_A2.baseDesc>
+
+  <HAR_NX_Backstory_A3.title>华美的射手</HAR_NX_Backstory_A3.title>
+  <HAR_NX_Backstory_A3.titleShort>射手</HAR_NX_Backstory_A3.titleShort>
+  <HAR_NX_Backstory_A3.baseDesc>[PAWN_nameDef] 擅长射击远距离目标，无论是弓箭还是枪枝都能轻松应对。</HAR_NX_Backstory_A3.baseDesc>
+
+  <HAR_NX_Backstory_A4.title>妖媚的战士</HAR_NX_Backstory_A4.title>
+  <HAR_NX_Backstory_A4.titleShort>战士</HAR_NX_Backstory_A4.titleShort>
+  <HAR_NX_Backstory_A4.baseDesc>[PAWN_nameDef] 能够轻松地操纵武器，似乎对于杀戮也没有什么抵抗力。</HAR_NX_Backstory_A4.baseDesc>
+
+  <HAR_NX_Backstory_A5.title>性感的设计师</HAR_NX_Backstory_A5.title>
+  <HAR_NX_Backstory_A5.titleShort>设计师</HAR_NX_Backstory_A5.titleShort>
+  <HAR_NX_Backstory_A5.baseDesc>[PAWN_nameDef] 凭借着自己积累的创意和精湛的绘画技巧，在设计领域中蓬勃发展。</HAR_NX_Backstory_A5.baseDesc>
+
+  <HAR_NX_Backstory_A6.title>深山中的家里蹲</HAR_NX_Backstory_A6.title>
+  <HAR_NX_Backstory_A6.titleShort>家里蹲</HAR_NX_Backstory_A6.titleShort>
+  <HAR_NX_Backstory_A6.baseDesc>[PAWN_nameDef] 比起与人打交道，更喜欢挖洞。今天[PAWN_pronoun]肯定也在为了挖矿石而不断挥动镐子吧。</HAR_NX_Backstory_A6.baseDesc>
+
+  <HAR_NX_Backstory_A7.title>女仆</HAR_NX_Backstory_A7.title>
+  <HAR_NX_Backstory_A7.titleShort>女仆</HAR_NX_Backstory_A7.titleShort>
+  <HAR_NX_Backstory_A7.baseDesc>[PAWN_nameDef] 是一名侍奉位高权重者的女仆，很擅长做料理。</HAR_NX_Backstory_A7.baseDesc>
+
+  <HAR_NX_Backstory_A8.title>美感艺术家</HAR_NX_Backstory_A8.title>
+  <HAR_NX_Backstory_A8.titleShort>艺术家</HAR_NX_Backstory_A8.titleShort>
+  <HAR_NX_Backstory_A8.baseDesc>[PAWN_nameDef] 是创作出许多作品的艺术家；能创作出什么样的作品取决于当时的艺术灵感。</HAR_NX_Backstory_A8.baseDesc>
+
+  <HAR_NX_Backstory_A9.title>教授</HAR_NX_Backstory_A9.title>
+  <HAR_NX_Backstory_A9.titleShort>艺术家</HAR_NX_Backstory_A9.titleShort>
+  <HAR_NX_Backstory_A9.baseDesc>[PAWN_nameDef] 是一位以恶魔式思维创作出独特论文的教授，虽然意念怪异但其学术评价却相当高。</HAR_NX_Backstory_A9.baseDesc>
+
+  <HAR_NX_Backstory_A10.title>受欢迎的城镇女孩</HAR_NX_Backstory_A10.title>
+  <HAR_NX_Backstory_A10.titleShort>城镇女孩</HAR_NX_Backstory_A10.titleShort>
+  <HAR_NX_Backstory_A10.baseDesc>[PAWN_nameDef] 是一名普通的城镇女孩，但因其外貌而受到异性的好评。</HAR_NX_Backstory_A10.baseDesc>
+
+  <HAR_NX_Backstory_A11.title>志存高远的猛兽使</HAR_NX_Backstory_A11.title>
+  <HAR_NX_Backstory_A11.titleShort>猛兽使</HAR_NX_Backstory_A11.titleShort>
+  <HAR_NX_Backstory_A11.baseDesc>[PAWN_nameDef] 是一位梦想能够驯服世界上各种野兽的兽使，但也要注意大自然的不可思议。</HAR_NX_Backstory_A11.baseDesc>
+
+  <HAR_NX_Backstory_A12.title>白衣天使</HAR_NX_Backstory_A12.title>
+  <HAR_NX_Backstory_A12.titleShort>护士</HAR_NX_Backstory_A12.titleShort>
+  <HAR_NX_Backstory_A12.baseDesc>[PAWN_nameDef] 是一位擅长医术的护士，偶尔犯错也是人之常情。</HAR_NX_Backstory_A12.baseDesc>
+
+  <HAR_NX_Backstory_A90.title>噩梦商人</HAR_NX_Backstory_A90.title>
+  <HAR_NX_Backstory_A90.titleShort>商人</HAR_NX_Backstory_A90.titleShort>
+  <HAR_NX_Backstory_A90.baseDesc>[PAWN_nameDef]</HAR_NX_Backstory_A90.baseDesc>
+
+
+</LanguageData>

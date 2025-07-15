@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ■シルクカチューシャ -->
+
+  <HAR_SL_Heads_a.label>飛蛾髮帶(飛蛾姬)</HAR_SL_Heads_a.label>
+  <HAR_SL_Heads_a.description>為了收束頭髮而使用的飛蛾姬專用髮帶。</HAR_SL_Heads_a.description>
+
+
+  <!-- ■シルクパッチ -->
+
+  <HAR_SL_Heads_b.label>飛蛾眼罩(飛蛾姬)</HAR_SL_Heads_b.label>
+  <HAR_SL_Heads_b.description>很容易就會受傷的飛蛾姬的專用眼罩。</HAR_SL_Heads_b.description>
+
+
+  <!-- ■シルクカバー -->
+
+  <HAR_SL_Heads_c.label>飛蛾面罩(飛蛾姬)</HAR_SL_Heads_c.label>
+  <HAR_SL_Heads_c.description>為了隱藏面部而使用的飛蛾姬專用面罩。</HAR_SL_Heads_c.description>
+
+
+</LanguageData>

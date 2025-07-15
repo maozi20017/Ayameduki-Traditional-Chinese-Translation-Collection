@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BOSS_RQ_Hive_Viceroy.label>副王種</BOSS_RQ_Hive_Viceroy.label>
+  <BOSS_RQ_Hive_Viceroy.description>副王種是女皇的幼體，在緊急情況下代理其生產。 \n副王種本應通過合適的育成方針成長為女王種，但在創造主已毀滅的現如今，副王種需要消耗極巨量的時間和能量才能完成這一轉變。 \n\n或許是沒有被輸入上位指令的緣故，副王種們不同於完全陷入暴走狀態的女皇，擁有正常的思考能力。 \n\n\n\n每15日生成粒子泡提取核心。 \n每1年生成研究AI亞人格核心。</BOSS_RQ_Hive_Viceroy.description>
+
+  <BOSS_RQ_Hive_Viceroy_Unit.label>運輸單元</BOSS_RQ_Hive_Viceroy_Unit.label>
+  <BOSS_RQ_Hive_Viceroy_Unit.description>收納著某種東西的單元，據說裡面沉眠著某個派系的遺產。</BOSS_RQ_Hive_Viceroy_Unit.description>
+
+</LanguageData>

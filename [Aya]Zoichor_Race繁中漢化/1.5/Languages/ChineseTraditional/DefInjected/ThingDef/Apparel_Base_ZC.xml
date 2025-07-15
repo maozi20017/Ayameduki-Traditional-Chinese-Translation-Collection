@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 異種族用ミシン台 -->
+  <HTBench_HAR.label>異種族專用縫紉台</HTBench_HAR.label>
+  <!-- EN: ある宙族から作り出された異種族の衣服を作る為のミシン台。 -->
+  <HTBench_HAR.description>由某個宙族創造、專用於製作異種族服裝的縫紉台。</HTBench_HAR.description>
+  
+</LanguageData>

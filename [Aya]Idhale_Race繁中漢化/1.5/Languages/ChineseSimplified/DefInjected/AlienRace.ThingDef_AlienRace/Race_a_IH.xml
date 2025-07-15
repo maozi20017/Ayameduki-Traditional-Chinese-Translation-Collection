@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_Idhale.label>幽靈姬</HAR_Idhale.label>
+  <HAR_Idhale.description>幽靈姬是宙族某一派系製造人工種族夜魔族的過程中偶然誕生的人工種族。她們是博愛主義者，厭惡爭鬥，且有著奴役性的思維。由於她們已經基本靈體化，因此不受物理層面的干涉，在極端的環境中也能生存，同時還有著強大的個體能力。但也正因為她們的靈體化，對物理層面的難以乾涉導致她們別說精確地攻擊目標，哪怕是在日常工作中也得竭盡全力。作為失敗的生物兵器，她們無法使用武器。
+  \n\n在創造主離開之前一直負責處理瑣事和警衛工作，此後便一個個分開、四海為家，其中一部分成為奴隸，等待著她們新的主人。
+  \n\n\n由於她們是夜魔族的亞種，因此可以穿戴夜魔的衣裝。</HAR_Idhale.description>
+  <HAR_Idhale.alienRace.generalSettings.alienPartGenerator.bodyAddons.0.name>鬼火</HAR_Idhale.alienRace.generalSettings.alienPartGenerator.bodyAddons.0.name>
+  <HAR_Idhale.alienRace.generalSettings.alienPartGenerator.bodyAddons.1.name>鬼火</HAR_Idhale.alienRace.generalSettings.alienPartGenerator.bodyAddons.1.name>
+
+</LanguageData>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_Littluna.label>偽神族</HAR_Littluna.label>
+  <HAR_Littluna.description>偽神族是由宙族某一派系創造的人工種族。為了不讓她們建立國家或者大型派系，在其基因上進行了修改，使得她們只能生育出女性。
+    \n\n作為夜魔的亞種，她們擁有遠超夜魔的召喚能力，能從宇宙的深淵中召喚出超然的存在。
+    \n操作得當的話甚至能單人毀滅一個殖民地，因此也被冠以『決戰種』的別名。
+    \n\n與強大的召喚能力相反，偽神族自身的肉體很脆弱，免疫能力很差，因此往往需要其他人的幫助。
+    \n同時，她們的召喚技能有著較長的吟唱時間和冷卻時間，因此無法在短期戰鬥和連戰中完全發揮自身實力。
+    \n\n\n究竟是將她們當作毀滅敵人的決戰兵器來使用，還是像創造主那般視她們為人來對待，完全取決於你。</HAR_Littluna.description>
+
+  <HAR_Littluna.comps.CSS_CompSummonSLave.AutoLabel>滅絕召喚(自動召喚)</HAR_Littluna.comps.CSS_CompSummonSLave.AutoLabel>
+  <HAR_Littluna.comps.CSS_CompSummonSLave.AutoDesc>開啟自動召喚的時候，處於徵召狀態並且周圍有敵對生物就會自動召喚強大的存在，冷卻時間為1年。</HAR_Littluna.comps.CSS_CompSummonSLave.AutoDesc>
+
+  <HAR_Littluna.comps.CSS_CompSummonSLave.CommandLabel>滅絕召喚(主動召喚)</HAR_Littluna.comps.CSS_CompSummonSLave.CommandLabel>
+  <HAR_Littluna.comps.CSS_CompSummonSLave.CommandDesc>主動召喚強大的存在，冷卻時間為1年。</HAR_Littluna.comps.CSS_CompSummonSLave.CommandDesc>
+
+</LanguageData>

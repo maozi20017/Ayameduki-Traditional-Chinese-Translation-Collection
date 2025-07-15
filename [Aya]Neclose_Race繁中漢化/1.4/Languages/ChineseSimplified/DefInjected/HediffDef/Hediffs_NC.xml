@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_NC_Hediff_a.label>露娜病菌</HAR_NC_Hediff_a.label>
+  <HAR_NC_Hediff_a.description>共生在牧菌妖姬體內、對精神念波有感應的細菌。\n這類細菌只能生存在特殊的環境中，而牧菌妖姬的體內環境正好滿足這一條件；為了保護牧菌妖姬，細菌促進了她們很多的良性進化。平時都處於假死狀態，即使他人感染了也不會產生不良影響，1天内就會自我毀滅——可一旦接收到牧菌妖姬的攻擊指令的話，就會立刻開始強腐蝕性的增殖，並釋放出能使人狂躁的精神念波。\n\n剛感染時只會感到手腳麻痺，但到了末期，連腦神經都會受到影響，感染者將精神崩潰，變得極為狂暴。由於這種現像不屬於物理層面的干擾，所以對機械族等機械生物同樣起作用。</HAR_NC_Hediff_a.description>
+  <HAR_NC_Hediff_a.stages.0.label>麻痺</HAR_NC_Hediff_a.stages.0.label>
+  <HAR_NC_Hediff_a.stages.1.label>混亂</HAR_NC_Hediff_a.stages.1.label>
+  <HAR_NC_Hediff_a.stages.2.label>發狂</HAR_NC_Hediff_a.stages.2.label>
+  <HAR_NC_Hediff_a.stages.3.label>腦死亡</HAR_NC_Hediff_a.stages.3.label>
+  <HAR_NC_Hediff_a.injuryProps.destroyedLabel>燒壞了</HAR_NC_Hediff_a.injuryProps.destroyedLabel>
+  <HAR_NC_Hediff_a.injuryProps.destroyedOutLabel>燒毀了</HAR_NC_Hediff_a.injuryProps.destroyedOutLabel>
+
+  <HAR_NC_Hediff_b.label>腐食性細菌毒</HAR_NC_Hediff_b.label>
+  <HAR_NC_Hediff_b.description>露娜病菌分泌的腐蝕性毒素，可以逐漸侵蝕血肉、從厚重的盔甲內部擊潰對手。\n這種毒只會對和感染者基因相同的細胞起作用，因此即使有人吃了含有這種毒素的屍體，也不會引起食物中毒。</HAR_NC_Hediff_b.description>
+  <HAR_NC_Hediff_b.stages.0.label>輕度</HAR_NC_Hediff_b.stages.0.label>
+  <HAR_NC_Hediff_b.stages.1.label>中度</HAR_NC_Hediff_b.stages.1.label>
+  <HAR_NC_Hediff_b.stages.2.label>重度</HAR_NC_Hediff_b.stages.2.label>
+  <HAR_NC_Hediff_b.stages.3.label>極度</HAR_NC_Hediff_b.stages.3.label>
+
+  <Neclose_Artificial.label>人工種族(牧菌妖姬)</Neclose_Artificial.label>
+  <Neclose_Artificial.description>牧菌妖姬是人工製造的種族，擁有堪比夜魔的精神強度的同時，身體素質也極為出色。\n\n另外，她們還可以召喚眷屬、協助戰鬥；其召喚數取決於她們的牧菌等級——Lv等級，大約每過1年就會上升Lv.1(Lv上限為5)。</Neclose_Artificial.description>
+  <Neclose_Artificial.stages.0.label>Lv1</Neclose_Artificial.stages.0.label>
+  <Neclose_Artificial.stages.1.label>Lv2</Neclose_Artificial.stages.1.label>
+  <Neclose_Artificial.stages.2.label>Lv3</Neclose_Artificial.stages.2.label>
+  <Neclose_Artificial.stages.3.label>Lv4</Neclose_Artificial.stages.3.label>
+  <Neclose_Artificial.stages.4.label>Lv5</Neclose_Artificial.stages.4.label>
+
+
+</LanguageData>

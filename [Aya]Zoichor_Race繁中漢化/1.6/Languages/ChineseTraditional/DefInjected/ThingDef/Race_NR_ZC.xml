@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ゾイコール -->
+  <HAR_Zoichor.label>糾罪者</HAR_Zoichor.label>
+  <!-- EN: ゾイコールはカナンの神子デュナミスにより創造された人工種族。\n惑星カナンと同じ星系にあるという「監獄惑星メラフ」を管理、運営している。\n\nメラフはカナンや同盟文明で捕らえた罪人たちを収容する惑星であり、\n極寒な環境と看守としての適性に対応出来るよう遺伝子調整されている。\n\n創造にはケイオーラが蒐集した「地獄の存在」のデータが採用され、\n地獄の力を制御するためにデュナミスとイヴリートの遺伝子も組み込まれた。\nその経緯から、ゾイコールは神子ひいては創造主の遺伝子を継いだ主の末裔であると言われている。\nただし、その危険な力故に生殖能力はオミットされ、専用のプラントでないと生産出来ない。\n\n真面目な仕事人気質で、看守や刑罰を科すときも無感情に行う。\nそれが返って恐怖を煽り、同じ人工種族たちからも「すごく怖い」「なんかやだ」「実は加虐趣味がある」など云われ、\nメラフの環境も相まって非常に不気味がられている。\n\n基本的に他種族と交流を持たないケイオーラが唯一親睦を持つ種族がゾイコールで、\n彼女達が支配するメラフにはケイオーラの総本山があるという噂がまことしやかに囁かれている。 -->
+  <HAR_Zoichor.description>糾罪者是由迦南的神子可能性創造的人工種族。\n他們管理並運營著與惑星迦南同星系中的「監獄星球梅拉芙」。\n\n梅拉芙是用來收容被迦南和同盟文明捕獲的罪人的星球，\n極寒環境和看守的適性都經過基因調整以適應這些條件。\n\n在創造過程中，採用了混沌靈蒐集的「地獄的存在」數據，\n並且為了控制地獄的力量，可能性和伊娃莉特的基因也被融合其中。\n因此，糾罪者被認為是繼承神子乃至創造主基因的後裔。\n然而，由於其強大的力量，其生殖能力被省略，只有在專用的培養設施中才能生產。\n\n糾罪者性格認真，對工作有強烈的使命感，即使在執行看守和懲罰時，也會無感情地進行。\n這反而加深了恐懼感，他們甚至被其他人工種族評價為「非常可怕」「不太對勁」「其實有虐待癖」等，\n再加上梅拉芙的環境，使得他們變得格外令人毛骨悚然。\n\n基本上不與其他種族交流的混沌靈，唯一與之建立親善的種族就是糾罪者，\n並且據說在他們統治的梅拉芙上，有一個混沌靈根據地的場所。</HAR_Zoichor.description>
+  <!-- EN: 射程内任意のマス付近に凍炎弾を5つ発射する。\n発動条件　：[太陽]　2\n以上発動コスト：[神銀]　5 -->
+  <HAR_Zoichor.comps.HAR_ZC_Comp_Skill.commandDesc>向射程內的任意格附近發射5顆凍焰彈。\n發動條件　：[太阳] 2\n發動消耗：[神银] 5</HAR_Zoichor.comps.HAR_ZC_Comp_Skill.commandDesc>
+  <!-- EN: クライオフレア -->
+  <HAR_Zoichor.comps.HAR_ZC_Comp_Skill.commandLabel>寒冰烈焰</HAR_Zoichor.comps.HAR_ZC_Comp_Skill.commandLabel>
+  <!-- EN: 自身の中心に半径7マスの波動を放つ。\n発動条件　：[太陽]　3\n発動コスト：[神銀]　5 -->
+  <HAR_Zoichor.comps.HAR_ZC_Comp_Skill_b.commandDesc>以自身為中心，發射半徑7格的衝擊波。\n發動條件　：[太阳] 3\n發動消耗：[神银] 5</HAR_Zoichor.comps.HAR_ZC_Comp_Skill_b.commandDesc>
+  <!-- EN: スコティアウェイヴ -->
+  <HAR_Zoichor.comps.HAR_ZC_Comp_Skill_b.commandLabel>暗影波動</HAR_Zoichor.comps.HAR_ZC_Comp_Skill_b.commandLabel>
+  <!-- EN: 対象にダメージを与えスタンさせる。\n発動条件　：[太陽]　4\n発動コスト：[神銀] 5 -->
+  <HAR_Zoichor.comps.HAR_ZC_Comp_Skill_c.commandDesc>對目標造成傷害並使其眩暈。\n發動條件　：[太陽]　4\n發動消耗：[神銀] 5</HAR_Zoichor.comps.HAR_ZC_Comp_Skill_c.commandDesc>
+  <!-- EN: アゴニアストライク -->
+  <HAR_Zoichor.comps.HAR_ZC_Comp_Skill_c.commandLabel>苦痛打擊</HAR_Zoichor.comps.HAR_ZC_Comp_Skill_c.commandLabel>
+  <!-- EN: 対象の装甲を破壊する。\n発動条件　：[太陽]　4\n発動コスト：[神銀] 10 -->
+  <HAR_Zoichor.comps.HAR_ZC_Comp_Skill_d.commandDesc>破壞目標的裝甲。\n發動條件　：[太陽]　4\n發動消耗：[神銀] 10</HAR_Zoichor.comps.HAR_ZC_Comp_Skill_d.commandDesc>
+  <!-- EN: スタウロスアウト -->
+  <HAR_Zoichor.comps.HAR_ZC_Comp_Skill_d.commandLabel>刑柱裁决</HAR_Zoichor.comps.HAR_ZC_Comp_Skill_d.commandLabel>
+  <!-- EN: 対象を蘇生する。\n発動条件　：[太陽]　5\n発動コスト：[神銀] 60 -->
+  <HAR_Zoichor.comps.HAR_ZC_Comp_Skill_e.commandDesc>復活目標。\n發動條件　：[太陽]　5\n發動消耗：[神銀] 60</HAR_Zoichor.comps.HAR_ZC_Comp_Skill_e.commandDesc>
+  <!-- EN: ネクロアウェイクン -->
+  <HAR_Zoichor.comps.HAR_ZC_Comp_Skill_e.commandLabel>死者復甦</HAR_Zoichor.comps.HAR_ZC_Comp_Skill_e.commandLabel>
+  <!-- EN: 自身を確立反射状態にする。\n発動条件　：[太陽]　5\n発動コスト：[神銀] 40 -->
+  <HAR_Zoichor.comps.HAR_ZC_Comp_Skill_f.commandDesc>使自身進入機率反射狀態。\n發動條件　：[太陽]　5\n發動消耗：[神銀] 40</HAR_Zoichor.comps.HAR_ZC_Comp_Skill_f.commandDesc>
+  <!-- EN: ケイオスヴェール -->
+  <HAR_Zoichor.comps.HAR_ZC_Comp_Skill_f.commandLabel>混沌面紗</HAR_Zoichor.comps.HAR_ZC_Comp_Skill_f.commandLabel>
+  <!-- EN: 対象を即死させる。\n発動条件　：[太陽]　6\n発動コスト：[神銀] 30 -->
+  <HAR_Zoichor.comps.HAR_ZC_Comp_Skill_y.commandDesc>使目標即死。\n發動條件　：[太陽]　6\n發動消耗：[神銀] 30</HAR_Zoichor.comps.HAR_ZC_Comp_Skill_y.commandDesc>
+  <!-- EN: アディスインヴァイト -->
+  <HAR_Zoichor.comps.HAR_ZC_Comp_Skill_y.commandLabel>死神邀約</HAR_Zoichor.comps.HAR_ZC_Comp_Skill_y.commandLabel>
+  <!-- EN: left fist -->
+  <HAR_Zoichor.tools.left_fist.label>左拳</HAR_Zoichor.tools.left_fist.label>
+  <!-- EN: right fist -->
+  <HAR_Zoichor.tools.right_fist.label>右拳</HAR_Zoichor.tools.right_fist.label>
+  
+</LanguageData>

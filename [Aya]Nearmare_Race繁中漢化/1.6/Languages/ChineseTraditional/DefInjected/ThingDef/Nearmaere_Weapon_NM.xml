@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Geist_Knife.label>縛刃『蓋斯特』</Geist_Knife.label>
+  <Geist_Knife.description>一種放大夜魔幻覺能力的投擲武器，被投擲的刀子刺傷的敵人不僅會減慢運動速度，並且還會導致精神混亂。</Geist_Knife.description>
+  <Geist_Knife.tools.0.label>握把</Geist_Knife.tools.0.label>
+  <Geist_Knife.tools.1.label>尖刃</Geist_Knife.tools.1.label>
+
+  <Geist_Knife_Projectile.label>縛刃『蓋斯特』</Geist_Knife_Projectile.label>
+
+  <Larva_SKnife.label>憑剣『拉爾夫』</Larva_SKnife.label>
+  <Larva_SKnife.description>一種放大夜魔幻覺能力的射擊武器，通過使縛刃『蓋斯特』強化派生出來的一種高性能射擊武器，使用詛咒的劍刃飛向目標，其精確度足以命中遠距離對手。</Larva_SKnife.description>
+  <Larva_SKnife.tools.0.label>握把</Larva_SKnife.tools.0.label>
+  <Larva_SKnife.tools.1.label>尖刃</Larva_SKnife.tools.1.label>
+
+  <Larva_SKnife_Projectile.label>憑剣『拉爾夫』</Larva_SKnife_Projectile.label>
+
+  <Rugeiyu_Pila.label>魔槍『勒蓋耶』</Rugeiyu_Pila.label>
+  <Rugeiyu_Pila.description>一種放大夜魔幻覺能力的投擲武器，威力很低但是有極強的幻覺作用，還可以分身可以對敵人進行連續的5次打擊。</Rugeiyu_Pila.description>
+  <Rugeiyu_Pila.tools.0.label>握把</Rugeiyu_Pila.tools.0.label>
+  <Rugeiyu_Pila.tools.1.label>尖刃</Rugeiyu_Pila.tools.1.label>
+
+  <Rugeiyu_Pilum_Thrown.label>魔槍『勒蓋耶』</Rugeiyu_Pilum_Thrown.label>
+
+  <Nearmaere_WildHunt.label>夢杖『荒獵』</Nearmaere_WildHunt.label>
+  <Nearmaere_WildHunt.description>通過極大加強夜魔的幻覺能力的而生產的裝備，用於對抗軍隊級別的敵人和超長距離的超大範圍的攻擊,被攻擊到的人會無法控制自己的無差別狂暴,但威力非常低,而且還需要進行非常長的準備發射時間，因此，很難對付高速的成堆敵人。</Nearmaere_WildHunt.description>
+  <Nearmaere_WildHunt.tools.0.label>握把</Nearmaere_WildHunt.tools.0.label>
+  <Nearmaere_WildHunt.tools.1.label>尖刃</Nearmaere_WildHunt.tools.1.label>
+
+  <Nearmaere_WildHunt_B.label>夢杖『荒獵』</Nearmaere_WildHunt_B.label>
+
+  <Gun_AssaultRifle_NM.label>魑槍『郄澮墮獄』</Gun_AssaultRifle_NM.label>
+  <Gun_AssaultRifle_NM.description>這是由繼承了創造主知識的夜魔們和繼承技術的亞人工業合作製作而成的高科技武器。在微小的納米機器上再現了夜魔的獨特能力,將負載能力的納米機器裝載彈從長距離上高速射擊。雖然子彈同時擁有高速高貫穿高破壞性的極強性能,但由於後坐力極其嚴重,命中率也非常低下。</Gun_AssaultRifle_NM.description>
+  <Gun_AssaultRifle_NM.tools.0.label>槍托</Gun_AssaultRifle_NM.tools.0.label>
+  <Gun_AssaultRifle_NM.tools.1.label>槍身</Gun_AssaultRifle_NM.tools.1.label>
+
+  <Bullet_AssaultRifle_NM.label>魑槍『郄澮墮獄』</Bullet_AssaultRifle_NM.label>
+
+
+</LanguageData>

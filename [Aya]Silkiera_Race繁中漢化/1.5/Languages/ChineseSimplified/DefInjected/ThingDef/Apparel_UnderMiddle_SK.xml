@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ■村人服 -->
+
+  <HAR_SK_AT_a.label>村民裝束(亞人獸娘)</HAR_SK_AT_a.label>
+  <HAR_SK_AT_a.description>適合村民穿的衣服，抗寒保暖，推薦作為日常用服穿戴。</HAR_SK_AT_a.description>
+
+
+  <!-- ■作業服 -->
+
+  <HAR_SK_AT_b.label>工作裝束(亞人獸娘)</HAR_SK_AT_b.label>
+  <HAR_SK_AT_b.description>亞人獸娘工作時穿的裝束，因為還內置了工作用小道具，所以一般工作的工作速度會略有提升。</HAR_SK_AT_b.description>
+
+
+  <!-- ■私服 -->
+
+  <HAR_SK_AT_c.label>居家服(亞人獸娘)</HAR_SK_AT_c.label>
+  <HAR_SK_AT_c.description>亞人獸娘們穿的居家服，捨去了繁瑣的裝飾，使行動更為方便。</HAR_SK_AT_c.description>
+
+
+  <!-- ■町娘服 -->
+
+  <HAR_SK_AT_d.label>小鎮女性裝束(亞人獸娘)</HAR_SK_AT_d.label>
+  <HAR_SK_AT_d.description>亞人獸娘們穿的小鎮女性裝束，雖然樸素但也平添幾分可愛。</HAR_SK_AT_d.description>
+
+
+  <!-- ■給仕服 -->
+
+  <HAR_SK_AT_e.label>侍者裝束(亞人獸娘)</HAR_SK_AT_e.label>
+  <HAR_SK_AT_e.description>亞人獸娘們穿的侍者裝束，露出度適中且強調功能性的服飾。</HAR_SK_AT_e.description>
+
+
+</LanguageData>

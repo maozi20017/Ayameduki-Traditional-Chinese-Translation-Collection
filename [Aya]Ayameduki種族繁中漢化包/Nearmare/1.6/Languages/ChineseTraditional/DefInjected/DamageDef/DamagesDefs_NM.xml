@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Damage_Rugeiyu.label>夢魘</Damage_Rugeiyu.label>
+  <Damage_Rugeiyu.deathMessage>{0} 被殺死了。</Damage_Rugeiyu.deathMessage>
+
+  <Damage_Geist.label>鬼切</Damage_Geist.label>
+  <Damage_Geist.deathMessage>{0} 被殺死了。</Damage_Geist.deathMessage>
+
+  <Damage_Larva.label>蟲噬</Damage_Larva.label>
+  <Damage_Larva.deathMessage>{0} 被殺死了。</Damage_Larva.deathMessage>
+
+  <Damage_Genocide.label>毀滅</Damage_Genocide.label>
+  <Damage_Genocide.deathMessage>{0} 被殺死了。</Damage_Genocide.deathMessage>
+
+  <Damage_Genocide_Bomb.label>破滅彈</Damage_Genocide_Bomb.label>
+  <Damage_Genocide_Bomb.deathMessage>{0} 被燒死了。</Damage_Genocide_Bomb.deathMessage>
+
+  <HAR_NM_Damage_Bullet.label>強巴雷彈</HAR_NM_Damage_Bullet.label>
+  <HAR_NM_Damage_Bullet.deathMessage>{0} 被殺死了。</HAR_NM_Damage_Bullet.deathMessage>
+
+  <HAR_NM_Skill_Damage_a.label>滅絕之劫</HAR_NM_Skill_Damage_a.label>
+  <HAR_NM_Skill_Damage_a.deathMessage>{0} 被殺死了。</HAR_NM_Skill_Damage_a.deathMessage>
+
+  <HAR_NM_Skill_Damage_b.label>毀滅之息</HAR_NM_Skill_Damage_b.label>
+  <HAR_NM_Skill_Damage_b.deathMessage>{0} 被殺死了。</HAR_NM_Skill_Damage_b.deathMessage>
+
+  <HAR_NM_Skill_Damage_c.label>頹廢之咒</HAR_NM_Skill_Damage_c.label>
+  <HAR_NM_Skill_Damage_c.deathMessage>{0} 被殺死了。</HAR_NM_Skill_Damage_c.deathMessage>
+
+  <HAR_NM_Skill_Damage_d.label>極度之寒</HAR_NM_Skill_Damage_d.label>
+  <HAR_NM_Skill_Damage_d.deathMessage>{0} 被殺死了。</HAR_NM_Skill_Damage_d.deathMessage>
+
+  <HAR_NM_Skill_Damage_e.label>深淵之暗</HAR_NM_Skill_Damage_e.label>
+  <HAR_NM_Skill_Damage_e.deathMessage>{0} 被殺死了。</HAR_NM_Skill_Damage_e.deathMessage>
+
+
+</LanguageData>

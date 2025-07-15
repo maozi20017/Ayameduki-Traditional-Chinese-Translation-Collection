@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Solark_Artificial.label>人工種族(龍姬)</Solark_Artificial.label>
+  <Solark_Artificial.description>龍姬是一種人工創造的種族，旨在具有高水平的身體素質。
+    \n\n隨着歲月的流逝，它的力量將持續增加，並會轉變為更強大的身體。
+    \n\n大約1年提升1級(上限為5級)。</Solark_Artificial.description>
+  <Solark_Artificial.stages.0.label>Lv1</Solark_Artificial.stages.0.label>
+  <Solark_Artificial.stages.1.label>Lv2</Solark_Artificial.stages.1.label>
+  <Solark_Artificial.stages.2.label>Lv3</Solark_Artificial.stages.2.label>
+  <Solark_Artificial.stages.3.label>Lv4</Solark_Artificial.stages.3.label>
+  <Solark_Artificial.stages.4.label>Lv5</Solark_Artificial.stages.4.label>
+
+  <Solark_Artificial_b.label>人工上位種族(龍姬・赫雷勒夫)</Solark_Artificial_b.label>
+  <Solark_Artificial_b.description>龍姬・赫雷勒夫作為龍姬的上位種，擁有更強的身體素質。
+    \n\n它的力量將隨着時間的推移而接近完美，並將轉化為更強大的身體。
+    \n大約1年提升1級(上限為5級)。</Solark_Artificial_b.description>
+  <Solark_Artificial_b.stages.0.label>Lv1</Solark_Artificial_b.stages.0.label>
+  <Solark_Artificial_b.stages.1.label>Lv2</Solark_Artificial_b.stages.1.label>
+  <Solark_Artificial_b.stages.2.label>Lv3</Solark_Artificial_b.stages.2.label>
+  <Solark_Artificial_b.stages.3.label>Lv4</Solark_Artificial_b.stages.3.label>
+  <Solark_Artificial_b.stages.4.label>Lv5</Solark_Artificial_b.stages.4.label>
+
+  <Solark_Hediff_a.label>龍化</Solark_Hediff_a.label>
+  <Solark_Hediff_a.description>龍姬・赫雷勒夫將恢復成龍形態。\n龍形態維持大約12小時。</Solark_Hediff_a.description>
+
+</LanguageData>

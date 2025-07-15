@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <!--イデアーン・テアイテトスB型-->
+	<HAR_Idearn_Theaetetus_b.label>艾蒂安・泰阿泰德B型</HAR_Idearn_Theaetetus_b.label>
+    <!--イデアーンは人工種族の同胞ということと断片的な技術以外記録に残されていない謎の多い種族です。\n幽体と思われていたイドヘールの特性を科学的に再現した技術が導入されており、極限的環境でも活動が可能になっています。\nまたダメージを遮断するアザーサイドが使用可能です。\n\n１シーズンの一回『アルケーカードリッジ(ドラック品)』を交換する必要があり、できなければ活動停止し死亡してしまいます。\n\nテアイテトスB型は統括種庫利菈のデータが使われており単独制圧に特化した上位個体です。\n戦略兵器に相当するナノマシンを散布し継続的に多大なダメージを与えることができます。-->
+	<HAR_Idearn_Theaetetus_b.description>艾蒂安是一支神秘的種族，除了她們是人工種族的同胞和她們零散的技術外，沒有其他記錄。
+		\n使用科學技術再現了幽靈般的幽靈姬的特性，即使在極端環境下也能活動。
+		\n\n每季需要更換1次『始基卡匣(藥品)』，否則會因為身體機能停止而死亡。
+		\n\n泰阿泰德B型是使用統御種庫利菈的數據而製成的單體特化的上位個體。
+		\n能夠散佈大量奈米機械戰略兵器，並持續造成大範圍的大量傷害。</HAR_Idearn_Theaetetus_b.description>
+	<!--オケアノスクシフォス-->
+	<HAR_Idearn_Theaetetus_b.tools.0.label>大洋神歐開諾斯</HAR_Idearn_Theaetetus_b.tools.0.label>
+	<!--オケアノスクシフォス-->
+	<HAR_Idearn_Theaetetus_b.tools.1.label>大洋神歐開諾斯</HAR_Idearn_Theaetetus_b.tools.1.label>
+	<!--アザーサイド-->
+	<HAR_Idearn_Theaetetus_b.comps.Idearn_CompCommandExplosive-0.commandLabel>彼岸</HAR_Idearn_Theaetetus_b.comps.Idearn_CompCommandExplosive-0.commandLabel>
+	<!--自身にダメージ軽減のバリアを展開します、再使用には3日間の時間が必要となります。-->
+	<HAR_Idearn_Theaetetus_b.comps.Idearn_CompCommandExplosive-0.commandDesc>在自己身上展開減傷力場，冷卻時間為3天。</HAR_Idearn_Theaetetus_b.comps.Idearn_CompCommandExplosive-0.commandDesc>
+
+	<!--シーンアウト-->
+	<HAR_Idearn_Theaetetus_b.comps.Comp_HAR_IA_Skill_Skip.commandLabel>場景轉換</HAR_Idearn_Theaetetus_b.comps.Comp_HAR_IA_Skill_Skip.commandLabel>
+	<!--射程内任意のマスに瞬間移動します。-->
+	<HAR_Idearn_Theaetetus_b.comps.Comp_HAR_IA_Skill_Skip.commandDesc>可以傳送至100格內的任意地點。</HAR_Idearn_Theaetetus_b.comps.Comp_HAR_IA_Skill_Skip.commandDesc>
+
+	<!--エリスロスエクスシア-->
+	<HAR_Idearn_Theaetetus_b.comps.Idearn_CompCommandExplosive-1.commandLabel>腥紅能天使</HAR_Idearn_Theaetetus_b.comps.Idearn_CompCommandExplosive-1.commandLabel>
+	<!--【範囲:大規模】自身を中心として10マスのダメージフィールドを召喚します、再使用には三日間の時間が必要となります。-->
+	<HAR_Idearn_Theaetetus_b.comps.Idearn_CompCommandExplosive-1.commandDesc>【範圍:大規模】以自身為中心，展開半徑10格的傷害領域，冷卻時間為3天。</HAR_Idearn_Theaetetus_b.comps.Idearn_CompCommandExplosive-1.commandDesc>
+	<!--キュアノスエクスシア-->
+	<HAR_Idearn_Theaetetus_b.comps.Idearn_CompCommandExplosive-2.commandLabel>靛藍能天使</HAR_Idearn_Theaetetus_b.comps.Idearn_CompCommandExplosive-2.commandLabel>
+	<!--【範囲:大規模】自身を中心として10マスの死の宣告フィールドを召喚します、再使用には1シーズンの時間が必要となります。-->
+	<HAR_Idearn_Theaetetus_b.comps.Idearn_CompCommandExplosive-2.commandDesc>【範圍:大規模】以自身為中心，展開半徑10格的死之宣告領域，冷卻時間為1季。</HAR_Idearn_Theaetetus_b.comps.Idearn_CompCommandExplosive-2.commandDesc>
+
+</LanguageData>

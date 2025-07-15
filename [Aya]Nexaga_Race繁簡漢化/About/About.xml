@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>[Aya]Nexaga Race 繁簡漢化</name>
+	<author>毛子</author>
+	<packageId>Maozi.ZH.ChinesePack.HARNexaga</packageId>
+	<supportedVersions>
+        <li>1.4</li>
+        <li>1.5</li>
+		<li>1.6</li>
+	</supportedVersions>
+	<loadAfter>
+		<li>Ayameduki.HARNexaga</li>
+	</loadAfter>
+    <description>
+【尚未經過原譯者同意】
+
+以[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2716703172]RED釉里红红红大佬的簡繁漢化包[/url]為基底修改而成的繁簡漢化
+
+漢化描述:
+
+【新增的種族】
+・混血種(Nexaga)
+―――――――――――――――――――――――――――――
+【注意事項】
+導入此MOD後，原始陣營將會加入混血種，但若不重新開始遊戲，可能無法正確運作。
+―――――――――――――――――――――――――――――
+【如何招募新成員】
+・從襲擊中捕獲敵人成員
+・從亡命角色或逃生艙中拯救成員
+・從黑市或奴隸商人那裡購買(出現機率較高)
+―――――――――――――――――――――――――――――
+【雖非必要但建議使用的MOD】
+・Camera+
+―――――――――――――――――――――――――――――
+這兩個MOD都可解決當角色戴上頭部裝備時頭髮消失的問題：
+・Hats Display Selection
+・[KV] Show Hair With Hats or Hide All Hats
+―――――――――――――――――――――――――――――
+這兩個MOD都可以提供高畫質的顯示效果：
+・HD Pawn Rendering
+・Pawn Render Patch
+【================================================】
+【混血種的特點】
+・壽命為人類的兩倍。
+・基本規格與人類相當，沒有召喚或增益等特殊能力。
+・沒有裝備限制。
+・在生成時，會隨機賦予「混血種(人工種族名)」，並根據其內容進行強化。
+・導入此MOD後，混血種將混入原版派系中。
+【================================================】
+【請注意】
+・本MOD的規格可能會因更新而改變。
+	</description>
+
+</ModMetaData>

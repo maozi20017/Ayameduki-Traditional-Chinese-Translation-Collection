@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ■Ｔシャツ -->
+
+  <HAR_NM_Tshirt.label>T恤衫(夜魔)</HAR_NM_Tshirt.label>
+  <HAR_NM_Tshirt.description>夜魔專用的T恤衫，和人類穿的一樣，性能方面也沒有太大的差別，所以有點不放心。</HAR_NM_Tshirt.description>
+
+
+  <!-- ■學生服 -->
+
+  <HAR_NM_Sc_Uniform.label>學生服(夜魔)</HAR_NM_Sc_Uniform.label>
+  <HAR_NM_Sc_Uniform.description>在文明水平較高的星球上活動時，夜魔所穿的學生服，加上她們的外貌，在學院裡很受歡迎。因為有了學生氣，學習速度也提高了。</HAR_NM_Sc_Uniform.description>
+
+
+  <!-- ■袖付きシャツ -->
+
+  <HAR_NM_SShirts.label>帶袖襯衫(夜魔)</HAR_NM_SShirts.label>
+  <HAR_NM_SShirts.description>夜魔專用的帶袖襯衫，比人類穿著的同等帶袖襯衫性能更高。</HAR_NM_SShirts.description>
+
+
+  <!-- ■深夜のドレス -->
+
+  <HAR_NM_BDress.label>黑夜晚禮服(夜魔)</HAR_NM_BDress.label>
+  <HAR_NM_BDress.description>夜魔的貴族身上穿著的暴露度高的深邃的黑色禮服，因為是貴族用，所以性能方面沒有被考慮。</HAR_NM_BDress.description>
+
+
+  <!-- ■白夜のドレス -->
+
+  <HAR_NM_WDress.label>白夜晚禮服(夜魔)</HAR_NM_WDress.label>
+  <HAR_NM_WDress.description>夜魔的貴族身上穿著的暴露度高的聖潔的純白禮服，因為是貴族用，所以性能方面沒有被考慮。</HAR_NM_WDress.description>
+
+
+  <!-- ■チャイナ服 -->
+
+  <HAR_NM_China.label>旗袍(夜魔)</HAR_NM_China.label>
+  <HAR_NM_China.description>某個神秘的派系為夜魔訂製的專用的傳統的服裝，衣服最大限度的遮蓋了所有敏感部位，卻又有著極大的魅力，且因為用料少而輕便，移動速度得到提升了。</HAR_NM_China.description>
+
+
+  <!-- ■メイド服 -->
+
+  <HAR_NM_Maid.label>女僕服(夜魔)</HAR_NM_Maid.label>
+  <HAR_NM_Maid.description>夜魔作為曾經統治者時隨從所配置的女僕服裝，因為女僕的緣故工作效率也比平時提高。</HAR_NM_Maid.description>
+
+
+  <!-- ■夜魔の軽装 -->
+
+  <HAR_NM_DLArmor.label>夜魔的輕裝(夜魔)</HAR_NM_DLArmor.label>
+  <HAR_NM_DLArmor.description>夜魔的戰鬥用服裝，外表上看起來暴露度相當高，而且盔甲好像很低，但是可以產生一層薄薄的保護屏障保護穿戴者，防禦力比看上去高多了。</HAR_NM_DLArmor.description>
+
+
+  <!-- ■夜魔の呪裝 -->
+
+  <HAR_NM_KArmor.label>夜魔的咒令裝(夜魔)</HAR_NM_KArmor.label>
+  <HAR_NM_KArmor.description>曾經研究夜魔的一派為她們製作的專用裝備，防禦力比輕裝弱但取而代之的是以各感覺被強化，能夠更敏捷的行動。</HAR_NM_KArmor.description>
+
+
+  <!-- ■著物 -->
+
+  <HAR_NM_Kimono.label>和服(夜魔)</HAR_NM_Kimono.label>
+  <HAR_NM_Kimono.description>某個派系為夜魔訂製的專用的傳統的服裝，動作會變得遲鈍但是擁有獨特的氣質，可以期待外交能力的提高。</HAR_NM_Kimono.description>
+
+
+  <!-- ■巫女服 -->
+
+  <HAR_NM_Miko.label>巫女服(夜魔)</HAR_NM_Miko.label>
+  <HAR_NM_Miko.description>某個派系為夜魔訂製的專用的傳統的服裝，雖然活動不便，但對溫度變化的抵抗力強，給人一種乾淨的印象，因此可以期待社交能力的提高。</HAR_NM_Miko.description>
+
+
+  <!-- ■一枚布 -->
+
+  <HAR_NM_Itimai.label>遮羞布(夜魔)</HAR_NM_Itimai.label>
+  <HAR_NM_Itimai.description>就只是把大片的布料纏在身上，稱之為衣服未免也太原始了。</HAR_NM_Itimai.description>
+
+
+  <!-- ■ブラウス -->
+
+  <HAR_NM_Blouse.label>襯衫(夜魔)</HAR_NM_Blouse.label>
+  <HAR_NM_Blouse.description>在意外表的夜魔故意使自己看起來可愛而使用的襯衫，性價比很好的同時又很百搭，因此各種場合都很適用。</HAR_NM_Blouse.description>
+
+
+  <!-- ■ライダースーツ -->
+
+  <HAR_NM_RiderS.label>賽車服(夜魔)</HAR_NM_RiderS.label>
+  <HAR_NM_RiderS.description>盡量去掉多餘裝飾的西裝，防禦力和溫度耐受性都很低，但也因此很方便身體活動。據說原本是摩托車手賽車時穿的衣服。</HAR_NM_RiderS.description>
+
+
+  <!-- ■ナース服 -->
+
+  <HAR_NM_NurseS.label>護士服(夜魔)</HAR_NM_NurseS.label>
+  <HAR_NM_NurseS.description>從事醫療工作的女性所穿的衣服，似乎能喚醒內心深處博愛的精神。戰鬥相關的能力減弱，但是醫療相關的能力提高。</HAR_NM_NurseS.description>
+
+
+  <!-- ■フィーンドウェア -->
+
+  <HAR_NM_Wear_y.label>魔女之衣(夜魔)</HAR_NM_Wear_y.label>
+  <HAR_NM_Wear_y.description>幻景種夜魔・阿拉迪亞專用的衣服，乍一看好像非常薄感覺跟沒穿一樣，但是擁有比外觀誇張得多的耐久和防禦力。</HAR_NM_Wear_y.description>
+
+
+</LanguageData>

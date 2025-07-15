@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ■救贖主頭飾(伊娃莉特) -->
+
+  <HAR_EL_Apparel_Head_a.label>救贖主頭飾(伊娃莉特)</HAR_EL_Apparel_Head_a.label>
+  <HAR_EL_Apparel_Head_a.description>伊娃莉特專用的裝備。由於裝備仍在調整中，性能並不高。</HAR_EL_Apparel_Head_a.description>
+
+
+  <!-- ■救贖主頭盔(伊娃莉特) -->
+
+  <HAR_EL_Apparel_Head_b.label>救贖主頭盔(伊娃莉特)</HAR_EL_Apparel_Head_b.label>
+  <HAR_EL_Apparel_Head_b.description>伊娃莉特專用的裝備。由於裝備仍在調整中，性能並不高。</HAR_EL_Apparel_Head_b.description>
+
+
+  <!-- ■救贖主首飾(伊娃莉特) -->
+
+  <HAR_EL_Apparel_Head_c.label>救贖主首飾(伊娃莉特)</HAR_EL_Apparel_Head_c.label>
+  <HAR_EL_Apparel_Head_c.description>伊娃莉特專用的裝備。由於裝備仍在調整中，性能並不高。</HAR_EL_Apparel_Head_c.description>
+
+
+  <!-- ■至高者頭盔(伊娃莉特) -->
+
+  <HAR_EL_Apparel_Head_d.label>至高者頭盔(伊娃莉特)</HAR_EL_Apparel_Head_d.label>
+  <HAR_EL_Apparel_Head_d.description>伊娃莉特專用的頭盔。\n由於是在黎明期製作，似乎沒有設計減輕傷害的功能。</HAR_EL_Apparel_Head_d.description>
+
+
+  <!-- ■イシャバアルベール -->
+
+  <HAR_EL_Apparel_Head_e.label>救贖主面紗(伊娃莉特)</HAR_EL_Apparel_Head_e.label>
+  <HAR_EL_Apparel_Head_e.description>伊娃莉特専用的神聖面紗。據說這是最古老且最接近創造主的女性所僅有被允許穿戴的。</HAR_EL_Apparel_Head_e.description>
+  
+  
+</LanguageData>

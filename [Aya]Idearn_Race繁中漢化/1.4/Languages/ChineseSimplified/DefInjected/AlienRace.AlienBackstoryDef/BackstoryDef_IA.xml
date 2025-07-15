@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!--覚醒-->
+	<HAR_IA_Backstory_C1.title>覺醒</HAR_IA_Backstory_C1.title>
+	<HAR_IA_Backstory_C1.titleShort>覺醒</HAR_IA_Backstory_C1.titleShort>
+	<!--[PAWN_nameDef]は宇宙から消し去られたイデアーンの末裔です、[PAWN_pronoun]はイデアーンの技術を幾分継承しています。-->
+	<HAR_IA_Backstory_C1.baseDesc>[PAWN_nameDef] 是宇宙中消失的種族—艾蒂安的後代，[PAWN_pronoun]繼承了一些艾蒂安的技術。</HAR_IA_Backstory_C1.baseDesc>
+
+	<!--フィロソフィア-->
+	<HAR_IA_Backstory_A1.title>菲洛索菲亞</HAR_IA_Backstory_A1.title>
+	<HAR_IA_Backstory_A1.titleShort>菲洛索菲亞</HAR_IA_Backstory_A1.titleShort>
+	<!--[PAWN_nameDef]は幾年を経てイデアーンとして成熟しました、種族としての力を遺憾なく発揮できるでしょう。-->
+	<HAR_IA_Backstory_A1.baseDesc>身為艾蒂安的[PAWN_nameDef]經過多年的歷練，已經能不遺餘力的發揮種族的全部力量。</HAR_IA_Backstory_A1.baseDesc>
+
+</LanguageData>

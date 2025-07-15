@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Neclose_Base_Faction.leaderTitle>領袖</Neclose_Base_Faction.leaderTitle>
+
+  <Neclose_P_Faction.label>牧菌妖姬的隱居之鄉</Neclose_P_Faction.label>
+  <Neclose_P_Faction.description>牧菌妖姬們聚集在一起平和的隱居著的聚落。</Neclose_P_Faction.description>
+  <Neclose_P_Faction.pawnsPlural>牧菌妖姬們</Neclose_P_Faction.pawnsPlural>
+
+  <Neclose_Faction_NPC.label>牧菌妖姬派系</Neclose_Faction_NPC.label>
+  <Neclose_Faction_NPC.description>牧菌妖姬們居住的、被細菌污染的地區名稱，也是生活在其上的生物的集團名稱。忠實地遵循著其創造主的指示『成為抑制力』，保持中立，不主動侵略。但是，一旦她們受到攻擊，就會立刻將身體內隱藏的致命細菌和怪異血肉釋放出來，將敵人殘殺殆盡。</Neclose_Faction_NPC.description>
+  <Neclose_Faction_NPC.fixedName>牧菌妖姬戰團</Neclose_Faction_NPC.fixedName>
+  <Neclose_Faction_NPC.pawnsPlural>牧菌妖姬</Neclose_Faction_NPC.pawnsPlural>
+  <Neclose_Faction_NPC.leaderTitle>領袖</Neclose_Faction_NPC.leaderTitle>
+
+  <Neclose_Faction_NPC_b.label>昏暗之物</Neclose_Faction_NPC_b.label>
+  <Neclose_Faction_NPC_b.description>。</Neclose_Faction_NPC_b.description>
+  <Neclose_Faction_NPC_b.fixedName>昏暗之物</Neclose_Faction_NPC_b.fixedName>
+  <Neclose_Faction_NPC_b.pawnsPlural>牧菌妖姬</Neclose_Faction_NPC_b.pawnsPlural>
+  <Neclose_Faction_NPC_b.leaderTitle>領袖</Neclose_Faction_NPC_b.leaderTitle>
+
+</LanguageData>

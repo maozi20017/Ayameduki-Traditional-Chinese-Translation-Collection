@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 糾罪者 -->
+  <HAR_Zoichor_Body.label>糾罪者</HAR_Zoichor_Body.label>
+  <!-- EN: Wing -->
+  <HAR_Zoichor_Body.corePart.parts.Wing.customLabel>翅膀</HAR_Zoichor_Body.corePart.parts.Wing.customLabel>
+  <!-- EN: left lung -->
+  <HAR_Zoichor_Body.corePart.parts.left_lung.customLabel>左肺</HAR_Zoichor_Body.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <HAR_Zoichor_Body.corePart.parts.right_lung.customLabel>右肺</HAR_Zoichor_Body.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <HAR_Zoichor_Body.corePart.parts.left_kidney.customLabel>左腎</HAR_Zoichor_Body.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <HAR_Zoichor_Body.corePart.parts.right_kidney.customLabel>右腎</HAR_Zoichor_Body.corePart.parts.right_kidney.customLabel>
+  <!-- EN: Horn -->
+  <HAR_Zoichor_Body.corePart.parts.Neck.parts.Head.parts.Horn.customLabel>角</HAR_Zoichor_Body.corePart.parts.Neck.parts.Head.parts.Horn.customLabel>
+  <!-- EN: left eye -->
+  <HAR_Zoichor_Body.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>左眼</HAR_Zoichor_Body.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <HAR_Zoichor_Body.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>右眼</HAR_Zoichor_Body.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <HAR_Zoichor_Body.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>左耳</HAR_Zoichor_Body.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <HAR_Zoichor_Body.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>右耳</HAR_Zoichor_Body.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: left shoulder -->
+  <HAR_Zoichor_Body.corePart.parts.left_shoulder.customLabel>左肩</HAR_Zoichor_Body.corePart.parts.left_shoulder.customLabel>
+  <!-- EN: left clavicle -->
+  <HAR_Zoichor_Body.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>左鎖骨</HAR_Zoichor_Body.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>
+  <!-- EN: left arm -->
+  <HAR_Zoichor_Body.corePart.parts.left_shoulder.parts.left_arm.customLabel>左臂</HAR_Zoichor_Body.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+  <!-- EN: left humerus -->
+  <HAR_Zoichor_Body.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>左肱骨</HAR_Zoichor_Body.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>
+  <!-- EN: left radius -->
+  <HAR_Zoichor_Body.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>左橈骨</HAR_Zoichor_Body.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>
+  <!-- EN: left hand -->
+  <HAR_Zoichor_Body.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>左手</HAR_Zoichor_Body.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  <!-- EN: left pinky -->
+  <HAR_Zoichor_Body.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>左小指</HAR_Zoichor_Body.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+  <!-- EN: left ring finger -->
+  <HAR_Zoichor_Body.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>左無名指</HAR_Zoichor_Body.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>
+  <!-- EN: left middle finger -->
+  <HAR_Zoichor_Body.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>左中指</HAR_Zoichor_Body.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+  <!-- EN: left index finger -->
+  <HAR_Zoichor_Body.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>左食指</HAR_Zoichor_Body.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+  <!-- EN: left thumb -->
+  <HAR_Zoichor_Body.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>左拇指</HAR_Zoichor_Body.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  <!-- EN: right shoulder -->
+  <HAR_Zoichor_Body.corePart.parts.right_shoulder.customLabel>右肩</HAR_Zoichor_Body.corePart.parts.right_shoulder.customLabel>
+  <!-- EN: right clavicle -->
+  <HAR_Zoichor_Body.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>右鎖骨</HAR_Zoichor_Body.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>
+  <!-- EN: right arm -->
+  <HAR_Zoichor_Body.corePart.parts.right_shoulder.parts.right_arm.customLabel>右臂</HAR_Zoichor_Body.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+  <!-- EN: right humerus -->
+  <HAR_Zoichor_Body.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>右肱骨</HAR_Zoichor_Body.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>
+  <!-- EN: right radius -->
+  <HAR_Zoichor_Body.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>右橈骨</HAR_Zoichor_Body.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>
+  <!-- EN: right hand -->
+  <HAR_Zoichor_Body.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>右手</HAR_Zoichor_Body.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <!-- EN: right pinky -->
+  <HAR_Zoichor_Body.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>右小指</HAR_Zoichor_Body.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+  <!-- EN: right ring finger -->
+  <HAR_Zoichor_Body.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>右無名指</HAR_Zoichor_Body.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>
+  <!-- EN: right middle finger -->
+  <HAR_Zoichor_Body.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>右中指</HAR_Zoichor_Body.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+  <!-- EN: right index finger -->
+  <HAR_Zoichor_Body.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>右食指</HAR_Zoichor_Body.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+  <!-- EN: right thumb -->
+  <HAR_Zoichor_Body.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>右拇指</HAR_Zoichor_Body.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+  <!-- EN: left leg -->
+  <HAR_Zoichor_Body.corePart.parts.left_leg.customLabel>左腿</HAR_Zoichor_Body.corePart.parts.left_leg.customLabel>
+  <!-- EN: left femur -->
+  <HAR_Zoichor_Body.corePart.parts.left_leg.parts.left_femur.customLabel>左股骨</HAR_Zoichor_Body.corePart.parts.left_leg.parts.left_femur.customLabel>
+  <!-- EN: left tibia -->
+  <HAR_Zoichor_Body.corePart.parts.left_leg.parts.left_tibia.customLabel>左脛骨</HAR_Zoichor_Body.corePart.parts.left_leg.parts.left_tibia.customLabel>
+  <!-- EN: left foot -->
+  <HAR_Zoichor_Body.corePart.parts.left_leg.parts.left_foot.customLabel>左足</HAR_Zoichor_Body.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <!-- EN: left little toe -->
+  <HAR_Zoichor_Body.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>左小趾</HAR_Zoichor_Body.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>
+  <!-- EN: left fourth toe -->
+  <HAR_Zoichor_Body.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>左次小趾</HAR_Zoichor_Body.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>
+  <!-- EN: left middle toe -->
+  <HAR_Zoichor_Body.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>左三趾</HAR_Zoichor_Body.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>
+  <!-- EN: left second toe -->
+  <HAR_Zoichor_Body.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>左二趾</HAR_Zoichor_Body.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>
+  <!-- EN: left big toe -->
+  <HAR_Zoichor_Body.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>左大腳趾</HAR_Zoichor_Body.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>
+  <!-- EN: right leg -->
+  <HAR_Zoichor_Body.corePart.parts.right_leg.customLabel>右腿</HAR_Zoichor_Body.corePart.parts.right_leg.customLabel>
+  <!-- EN: right femur -->
+  <HAR_Zoichor_Body.corePart.parts.right_leg.parts.right_femur.customLabel>右股骨</HAR_Zoichor_Body.corePart.parts.right_leg.parts.right_femur.customLabel>
+  <!-- EN: right tibia -->
+  <HAR_Zoichor_Body.corePart.parts.right_leg.parts.right_tibia.customLabel>右脛骨</HAR_Zoichor_Body.corePart.parts.right_leg.parts.right_tibia.customLabel>
+  <!-- EN: right foot -->
+  <HAR_Zoichor_Body.corePart.parts.right_leg.parts.right_foot.customLabel>右足</HAR_Zoichor_Body.corePart.parts.right_leg.parts.right_foot.customLabel>
+  <!-- EN: right little toe -->
+  <HAR_Zoichor_Body.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>右小趾</HAR_Zoichor_Body.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>
+  <!-- EN: right fourth toe -->
+  <HAR_Zoichor_Body.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>右次小趾</HAR_Zoichor_Body.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>
+  <!-- EN: right middle toe -->
+  <HAR_Zoichor_Body.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>右三趾</HAR_Zoichor_Body.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>
+  <!-- EN: right second toe -->
+  <HAR_Zoichor_Body.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>右二趾</HAR_Zoichor_Body.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>
+  <!-- EN: right big toe -->
+  <HAR_Zoichor_Body.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>右大腳趾</HAR_Zoichor_Body.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>
+  
+</LanguageData>

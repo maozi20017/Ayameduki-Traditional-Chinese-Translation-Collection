@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!--ノモスセル-->
+	<HAR_IA_Item_a.label>規範細胞</HAR_IA_Item_a.label>
+	<!--機械生命体の体内に混じっていた謎の物体。\n記憶媒体としての機能を持っているようで、既に何かしらの製造データが記録されている。-->
+	<HAR_IA_Item_a.description>混在機械生命體體內的神秘物體。\n似乎具有儲存資訊的功能，並且記錄了一些製造數據。</HAR_IA_Item_a.description>
+
+	<!--テクネレリック-->
+	<HAR_IA_Item_b.label>技術遺物</HAR_IA_Item_b.label>
+	<!--ノモスセルを部品として組み立てなおしたもの。\n機械生命体イデアーンを作るのに必要とされる。-->
+	<HAR_IA_Item_b.description>用規範細胞重新組裝製成的零件。\n製作機械生命體艾蒂安的必要材料。</HAR_IA_Item_b.description>
+
+	<!--イデアセンサー-->
+	<HAR_IA_Item_c.label>艾蒂感測器</HAR_IA_Item_c.label>
+	<!--機械生命体イデアーンの製造に必要とされる高性能のセンサー\n五感やエネルギー探知に使われる。-->
+	<HAR_IA_Item_c.description>製造機械生命體艾蒂安所需的高性能感測器。\n用於感官和能量檢測。</HAR_IA_Item_c.description>
+
+	<!--ゲネシスリアクター-->
+	<HAR_IA_Item_d.label>創世反應爐</HAR_IA_Item_d.label>
+	<!--機械生命体イデアーンの製造に必要とされる高性能のリアクター\nこれを搭載して初めてアザーサイドを十全に使うことができる。-->
+	<HAR_IA_Item_d.description>製造機械生命體艾蒂安所需的高性能反應爐。\n使用這個反應爐的個體能完全使用彼岸之力。</HAR_IA_Item_d.description>
+
+</LanguageData>

@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>[Aya]Idearn Race 繁中漢化</name>
+	<author>毛子</author>
+	<supportedVersions>
+        <li>1.4</li>
+        <li>1.5</li>
+		<li>1.6</li>
+	</supportedVersions>
+	<packageId>Maozi.ZH.ChinesePack.HARIdearn</packageId>
+	<loadAfter>
+		<li>Ayameduki.AyaRacePremise</li>
+		<li>Ayameduki.HARIdearn</li>
+	</loadAfter>
+  <description>
+以[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2881489497]Thomas大佬的繁中漢化[/url]為基底修改而成的繁中漢化
+感謝[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2963150745]无声飞雪大佬的技能漢化[/url]
+
+漢化描述:
+	
+【導入時需注意事項】
+本MOD屬於面向擁有充足資源和人員的高級終局級MOD。
+尤其是研究所需時間非常長，因此不建議給逃脫遊玩者使用。
+―――――――――――――――――――――――――――――
+【新增的種族】
+・艾蒂安(Idearn)
+―――――――――――――――――――――――――――――
+【雖非必要但建議使用的MOD】
+・堆疊數量MOD
+後半所需的素材和艾蒂安個體需要大量的物品。
+使用原版遊戲的堆疊數量可能無法容納足夠的物品，因此建議使用您喜歡的堆疊MOD將堆疊上限增加。
+	
+・Stylish Rim
+由於可製造的個體使用了較大的圖形，因此可能會出現顯示錯誤導致部分內容被切割的情況，建議使用上述MOD以解決此問題。
+
+・Camera+
+―――――――――――――――――――――――――――――
+這兩個MOD都可解決當角色戴上頭部裝備時頭髮消失的問題：
+・ Hats Display Selection
+・ [KV] Show Hair With Hats or Hide All Hats
+―――――――――――――――――――――――――――――
+以下MOD會讓專屬素材開始出現：
+Mechanoids Extraordinaire(自1.4版起)
+Vanilla Factions Expanded - Mechanoids(自1.4版起)
+【================================================】
+【艾蒂安的共同特徵】
+・透過研究所開發的專用製造機(洗禮)生產而成
+・製造難度高的個體其性能也相對較高，並可使用專屬技能。
+・每季需使用專用藥品「始基卡匣」一次。
+・不易感到飢餓和疲勞。
+・精神感應為0。
+・不會燃燒或出血。
+・能夠在極低溫和極高溫下活動。
+【================================================】
+【艾蒂安的製造所需物品】
+拆解機械族和破壞飛船可獲得專屬物品。
+透過研究也可開始製造。
+―――――――――――――――――――――――――――――
+【請注意】
+・本MOD的規格可能會因更新而改變。
+・本MOD不與原版角色外貌相容，且無法裝備原版角色外貌的服飾。
+	</description>
+	
+</ModMetaData>

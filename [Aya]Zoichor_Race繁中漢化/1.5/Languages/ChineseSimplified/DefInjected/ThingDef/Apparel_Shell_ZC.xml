@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: フュラクスマントA -->
+  <HAR_ZC_Shell_a.label>看守者斗篷A</HAR_ZC_Shell_a.label>
+  <!-- EN: ゾイコールが愛用している外套。\n寒い惑星でも活動できるよう熱に強い構造をしている。 -->
+  <HAR_ZC_Shell_a.description>糾罪者愛用的外套。\n具有強大的耐熱結構，使她能夠在寒冷的星球上進行活動。</HAR_ZC_Shell_a.description>
+  
+  <!-- EN: フュラクスマントB -->
+  <HAR_ZC_Shell_b.label>看守者斗篷B</HAR_ZC_Shell_b.label>
+  <!-- EN: ゾイコールが愛用している外套。\n寒い惑星でも活動できるよう熱に強い構造をしている。 -->
+  <HAR_ZC_Shell_b.description>糾罪者愛用的外套。\n具有強大的耐熱結構，使她能夠在寒冷的星球上進行活動。</HAR_ZC_Shell_b.description>
+  
+  <!-- EN: フュラクスマントC -->
+  <HAR_ZC_Shell_c.label>看守者斗篷C</HAR_ZC_Shell_c.label>
+  <!-- EN: ゾイコールが愛用している外套。\n寒い惑星でも活動できるよう熱に強い構造をしている。 -->
+  <HAR_ZC_Shell_c.description>糾罪者愛用的外套。\n具有強大的耐熱結構，使她能夠在寒冷的星球上進行活動。</HAR_ZC_Shell_c.description>
+  
+  <!-- EN: フュラクスコート -->
+  <HAR_ZC_Shell_d.label>看守者外套</HAR_ZC_Shell_d.label>
+  <!-- EN: ゾイコールが愛用している外套。\n寒い惑星でも活動できるよう熱に強い構造をしている。 -->
+  <HAR_ZC_Shell_d.description>糾罪者愛用的外套。\n具有強大的耐熱結構，使她能夠在寒冷的星球上進行活動。</HAR_ZC_Shell_d.description>
+  
+  <!-- EN: ゲエンナマント -->
+  <HAR_ZC_Shell_e.label>地獄斗篷</HAR_ZC_Shell_e.label>
+  <!-- EN: ゾイコールが看守として活動する際に身に着ける外套。\n罪人たちへ行う刑罰で血に染まることは日常茶飯事。 -->
+  <HAR_ZC_Shell_e.description>糾罪者擔任看守時所穿著的外套。\n她對罪人所施行的刑罰，讓這件外套常常被血染紅，這已成為日常。</HAR_ZC_Shell_e.description>
+  
+  <!-- EN: ケイオスマント -->
+  <HAR_ZC_Shell_f.label>混沌斗篷</HAR_ZC_Shell_f.label>
+  <!-- EN: 暗い色の衣服を好むゾイコールには似つかわしい白い外套。\n盟友であるケイオーラたちから送られたもの。\n大事な行事がある際にこれを身に付けるという。 -->
+  <HAR_ZC_Shell_f.description>對喜愛暗色服裝的糾罪者而言，這件白色外套顯得格外特別。\n這是她的盟友混沌靈送給她的禮物。\n據說她會在重要儀式時穿上這件外套。</HAR_ZC_Shell_f.description>
+  
+</LanguageData>

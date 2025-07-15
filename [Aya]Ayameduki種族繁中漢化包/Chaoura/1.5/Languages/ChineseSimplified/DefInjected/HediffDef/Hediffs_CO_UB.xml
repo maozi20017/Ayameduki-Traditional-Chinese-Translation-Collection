@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 人工霊長種族 -->
+  <Chaoura_Artificial_z.label>人工靈長種族</Chaoura_Artificial_z.label>
+  <!-- EN: ケイオーラ・アヴァルツィオンは人工種族の枠を超えたイシュムーティトの頂点たる種。\n生物学的視点で推し量れる生き物ですらないのか、生きる為のあらゆる欲求を必要としない。\n\n\n創造主に迫る高度な知恵と技術を以て、宙の向こうへ到達した新たな命の形。\n果たすべき大命を胸に秘めて、彼女達は更なる高みを目指して飛び続ける。 -->
+  <Chaoura_Artificial_z.description>混沌靈・阿瓦爾錫安是超越了人工種族範疇的存在，是創世紀之頂點的種族。\n從生物學的角度來看，她們甚至無法被視為一般的生命體，因為她們完全不需要任何為了生存而產生的慾求。\n\n\n憑藉近乎創造主等級的智慧與技術，這些新生命的形式已踏足星辰之外的彼方。\n懷抱著必須完成的神聖使命，她們仍不斷飛翔，追尋更高的境界。</Chaoura_Artificial_z.description>
+  
+  <!-- EN: 並行存在 -->
+  <HAR_CO_UB_Hediff_Clone.label>並行存在</HAR_CO_UB_Hediff_Clone.label>
+  <!-- EN: ケイオーラ・アヴァルツィオンが呼び出した並行存在。\nアヴァルツィオンの味方として戦っている。\n\n一時的にこの世界に来ているため、一定時間経過するか死亡すると元の世界に戻っていく。 -->
+  <HAR_CO_UB_Hediff_Clone.description>由混沌靈・阿瓦爾錫安召喚出的平行存在。\n作為阿瓦爾錫安的友軍一同戰鬥。\n\n由於只是暫時來到這個世界，在經過一定時間或死亡後便會返回原本的世界。</HAR_CO_UB_Hediff_Clone.description>
+  
+  <!-- EN: 死 -->
+  <HAR_CO_UB_Hediff_Death.label>死</HAR_CO_UB_Hediff_Death.label>
+  <!-- EN: 。 -->
+  <HAR_CO_UB_Hediff_Death.description>。</HAR_CO_UB_Hediff_Death.description>
+  
+  <!-- EN: その魂、霊長に能わず -->
+  <HAR_CO_UB_Hediff_EX_Penalty.label>其魂，難達靈長之域</HAR_CO_UB_Hediff_EX_Penalty.label>
+  <!-- EN: ケイオーラ・アヴァルツィオンでない者がエンソフアウルを装備した場合に発生するペナルティ。\n\nこのペナルティは数年続く。\n\n生命は日々、進化を続けている。\nその頂点たる霊長もまた年月によって変わりゆく。\n宙を旅するようになった時代において、\n物質の器に依存する生命は、もう古いのかもしれない。 -->
+  <HAR_CO_UB_Hediff_EX_Penalty.description>非混沌靈・阿瓦爾錫安者若裝備無限光，將觸發懲罰。\n\n此懲罰將持續數年。\n\n生命每天都在進化。\n即便是作為頂點的靈長類，也會隨著歲月而變化。\n在這個能夠穿越星海的時代，\n仍依賴物質之器的生命，或許已屬於舊時代了。</HAR_CO_UB_Hediff_EX_Penalty.description>
+  
+  <!-- EN: 再生 -->
+  <HAR_CO_UB_Hediff_Limit_Reproduction.label>再生</HAR_CO_UB_Hediff_Limit_Reproduction.label>
+  <!-- EN: 。 -->
+  <HAR_CO_UB_Hediff_Limit_Reproduction.description>。</HAR_CO_UB_Hediff_Limit_Reproduction.description>
+  
+  <!-- EN: 旧い約束 -->
+  <HAR_CO_UB_Hediff_Promise.label>古老的約定</HAR_CO_UB_Hediff_Promise.label>
+  <!-- EN: 。 -->
+  <HAR_CO_UB_Hediff_Promise.description>。</HAR_CO_UB_Hediff_Promise.description>
+  
+</LanguageData>

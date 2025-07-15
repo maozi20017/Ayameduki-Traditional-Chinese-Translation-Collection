@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 死伽屋 -->
+  <Chaoura_Faction_NPC.label>死伽屋</Chaoura_Faction_NPC.label>
+  <!-- EN: 暗殺を生業とするケイオーラの派閥、拠点は巧妙に隠しているらしく見当たらない。\n急成長している派閥や巨大コロニーへの襲撃依頼を主に請け負っている。 -->
+  <Chaoura_Faction_NPC.description>以暗殺為生的混沌靈派系，巧妙地隱藏了據點，無法在地圖上找到。\n    \n主要承包針對急速發展的派系和巨型殖民地的襲擊委託。</Chaoura_Faction_NPC.description>
+  <!-- EN: 死伽屋 -->
+  <Chaoura_Faction_NPC.fixedName>死伽屋</Chaoura_Faction_NPC.fixedName>
+  <!-- EN: Leader -->
+  <Chaoura_Faction_NPC.leaderTitle>領袖</Chaoura_Faction_NPC.leaderTitle>
+  <!-- EN: ケイオーラ -->
+  <Chaoura_Faction_NPC.pawnSingular>混沌靈</Chaoura_Faction_NPC.pawnSingular>
+  <!-- EN: ケイオーラ -->
+  <Chaoura_Faction_NPC.pawnsPlural>混沌靈</Chaoura_Faction_NPC.pawnsPlural>
+  
+  <!-- EN: ケイオーラの隠れ里 -->
+  <Chaoura_P_Faction.label>混沌靈的隱居之鄉</Chaoura_P_Faction.label>
+  <!-- EN: ケイオーラ達が集まってひっそりと暮らしている里 -->
+  <Chaoura_P_Faction.description>混沌靈們聚集在一起平和的隱居著的聚落。</Chaoura_P_Faction.description>
+  <!-- EN: leader -->
+  <Chaoura_P_Faction.leaderTitle>領袖</Chaoura_P_Faction.leaderTitle>
+  <!-- EN: ケイオーラ -->
+  <Chaoura_P_Faction.pawnSingular>混沌靈</Chaoura_P_Faction.pawnSingular>
+  <!-- EN: ケイオーラ達 -->
+  <Chaoura_P_Faction.pawnsPlural>混沌靈們</Chaoura_P_Faction.pawnsPlural>
+  
+</LanguageData>

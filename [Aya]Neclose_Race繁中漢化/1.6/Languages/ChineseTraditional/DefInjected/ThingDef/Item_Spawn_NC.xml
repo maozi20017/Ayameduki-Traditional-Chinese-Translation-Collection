@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_NC_Spawn_a.label>樣品:XSE023</HAR_NC_Spawn_a.label>
+  <HAR_NC_Spawn_a.description>類似於人工種族的創造主曾保管的樣本的物體。
+看起來就像扭曲的胎兒，現在仍然令人不安地扭動著。
+使用在某個種族身上可能會發生些甚麼。
+
+
+這是來自外宇宙的超然存在的胎兒，與人工種族的起源完全不同。
+對人工種族來說，這是一個極為接近卻又遙遠的同胞。</HAR_NC_Spawn_a.description>
+  <HAR_NC_Spawn_a.comps.0.useLabel>Activate {0_label}</HAR_NC_Spawn_a.comps.0.useLabel>
+
+
+</LanguageData>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ■幽鬼のブラウス -->
+
+  <HAR_IH_AT_a.label>幽鬼襯衫(幽靈姬)</HAR_IH_AT_a.label>
+  <HAR_IH_AT_a.description>為幽靈姬量身定制的衣服，受到靈體化的影響衣服邊緣變得破破爛爛。</HAR_IH_AT_a.description>
+
+
+  <!-- ■死装束 -->
+
+  <HAR_IH_AT_b.label>死靈裝束(幽靈姬)</HAR_IH_AT_b.label>
+  <HAR_IH_AT_b.description>死者所穿的衣服，有降低精神靈敏度的效果並且能稍微克服幽靈姬的弱點。</HAR_IH_AT_b.description>
+
+
+  <!-- ■幽鬼のドレス -->
+
+  <HAR_IH_AT_c.label>幽鬼禮服(幽靈姬)</HAR_IH_AT_c.label>
+  <HAR_IH_AT_c.description>高貴者所穿的高級服裝，但是受到靈體化的影響衣服邊緣變得破破爛爛。能獲得一些對毒性和疾病的抗性。</HAR_IH_AT_c.description>
+
+
+  <!-- ■幽鬼のナース服 -->
+
+  <HAR_IH_AT_d.label>幽鬼護士服(幽靈姬)</HAR_IH_AT_d.label>
+  <HAR_IH_AT_d.description>幽靈姬用的護士服，雖然不知道為什麼沾滿了鮮血，但是能提升醫療效果。</HAR_IH_AT_d.description>
+
+
+  <!-- ■幽鬼の奴隷服 -->
+
+  <HAR_IH_AT_e.label>幽鬼奴隸服(幽靈姬)</HAR_IH_AT_e.label>
+  <HAR_IH_AT_e.description>幽靈姬用的拘束兼帶著尋常衣服效果的奴隸服。順帶一提，這並非強制性——而是她們自己主動穿上的。以減慢移速為代價，提升了部分工作的工作效率。</HAR_IH_AT_e.description>
+
+
+  <!-- ■アカシャウェア -->
+
+  <HAR_IH_AT_z.label>空界衣裝</HAR_IH_AT_z.label>
+  <HAR_IH_AT_z.description>為幽靈姬・罪孽神靈量身定制的衣服，然而並沒有特別的特殊效果。</HAR_IH_AT_z.description>
+
+
+</LanguageData>

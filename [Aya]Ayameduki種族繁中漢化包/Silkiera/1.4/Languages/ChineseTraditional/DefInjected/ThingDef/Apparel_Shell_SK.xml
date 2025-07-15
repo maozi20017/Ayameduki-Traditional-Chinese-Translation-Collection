@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ■モッズコート(シルキーラ) -->
+
+  <HAR_SK_AS_a.label>摩登外套(亞人獸娘)</HAR_SK_AS_a.label>
+  <HAR_SK_AS_a.description>亞人獸娘們愛穿的外套。因為經常使用，所以設計的較為輕便。</HAR_SK_AS_a.description>
+
+
+  <!-- ■作業用コート(シルキーラ) -->
+
+  <HAR_SK_AS_b.label>工裝外套(亞人獸娘)</HAR_SK_AS_b.label>
+  <HAR_SK_AS_b.description>亞人獸娘們愛穿的工裝外套。它堅固耐用，即使發生事故也能讓你毫髮無傷，但也因此移動性有所削弱。</HAR_SK_AS_b.description>
+
+
+  <!-- ■ダウンコート(シルキーラ) -->
+
+  <HAR_SK_AS_c.label>羽絨服(亞人獸娘)</HAR_SK_AS_c.label>
+  <HAR_SK_AS_c.description>亞人獸娘們愛穿的外套。它具有耐熱和耐寒性，但移動起來有點困難。</HAR_SK_AS_c.description>
+
+
+</LanguageData>

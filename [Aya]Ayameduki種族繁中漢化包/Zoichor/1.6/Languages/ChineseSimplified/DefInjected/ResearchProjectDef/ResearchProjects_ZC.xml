@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 蒼褪めた太陽 -->
+  <HAR_ZC_Research_A.label>蒼褪的太陽</HAR_ZC_Research_A.label>
+  <!-- EN: 地獄の人工種族『ゾイコール』の研究を行う。 -->
+  <HAR_ZC_Research_A.description>進行地獄的人工種族『糾罪者』的研究。</HAR_ZC_Research_A.description>
+  
+  <!-- EN: 砕けたロディシアン -->
+  <HAR_ZC_Research_B.label>碎裂的羅迪西昂</HAR_ZC_Research_B.label>
+  <!-- EN: 地獄の人工種族『ゾイコール』の研究を行う。 -->
+  <HAR_ZC_Research_B.description>進行地獄的人工種族『糾罪者』的研究。</HAR_ZC_Research_B.description>
+  
+  <!-- EN: 欠けたロディシアン -->
+  <HAR_ZC_Research_C.label>缺失的羅迪西昂</HAR_ZC_Research_C.label>
+  <!-- EN: 地獄の人工種族『ゾイコール』の研究を行う。 -->
+  <HAR_ZC_Research_C.description>進行地獄的人工種族『糾罪者』的研究。</HAR_ZC_Research_C.description>
+  
+  <!-- EN: 完全なロディシアン -->
+  <HAR_ZC_Research_D.label>完整的羅迪西昂</HAR_ZC_Research_D.label>
+  <!-- EN: 地獄の人工種族『ゾイコール』の研究を行う。 -->
+  <HAR_ZC_Research_D.description>進行地獄的人工種族『糾罪者』的研究。</HAR_ZC_Research_D.description>
+  
+  <!-- EN: 冥府の武器 -->
+  <HAR_ZC_Research_E.label>冥府的武器</HAR_ZC_Research_E.label>
+  <!-- EN: 地獄の人工種族『ゾイコール』の研究を行う。 -->
+  <HAR_ZC_Research_E.description>進行地獄的人工種族『糾罪者』的研究。</HAR_ZC_Research_E.description>
+  
+</LanguageData>

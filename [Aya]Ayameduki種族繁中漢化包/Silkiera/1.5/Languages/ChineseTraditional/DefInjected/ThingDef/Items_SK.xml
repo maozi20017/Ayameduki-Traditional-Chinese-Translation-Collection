@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ■ネコベント -->
+
+  <HAR_SK_Meal_a.label>亞人便當</HAR_SK_Meal_a.label>
+  <HAR_SK_Meal_a.description>『你不覺得只有乾肉餅的旅途很沒勁嗎？\n那就來試試亞人便當吧！』\n\n亞人工業售賣的便當，採用了不易腐爛的烹飪方法，能夠長期保持新鮮，是外出旅行的必備物品。</HAR_SK_Meal_a.description>
+
+
+  <!-- ■シル缶 -->
+
+  <HAR_SK_Meal_f.label>獸娘罐頭</HAR_SK_Meal_f.label>
+  <HAR_SK_Meal_f.description>『好想把食物帶在身上，但是腐爛了……\n那就請試試獸娘罐頭吧！』\n\n亞人工業售賣的保存食品，經過了防腐加工，只要不打開就永遠不會腐爛。但是烹飪時間長、營養價值略低也是它的缺點。</HAR_SK_Meal_f.description>
+
+
+  <!-- ■シルキーランチ -->
+
+  <HAR_SK_Meal_b.label>獸娘套餐</HAR_SK_Meal_b.label>
+  <HAR_SK_Meal_b.description>『肚子幸福的話每天都幸福！吃了這個讓你元氣百倍！』\n\n亞人工業推出的套餐，以『膳食均衡』為理念，調整你的身體狀態。\n\n對於堅信身體就是本錢的亞人獸娘們來說，是一道令人愉悅的料理。</HAR_SK_Meal_b.description>
+
+
+  <!-- ■シルキーラーメン -->
+
+  <HAR_SK_Meal_e.label>獸娘拉麵</HAR_SK_Meal_e.label>
+  <HAR_SK_Meal_e.description>『亞人工業大廚最滿意的菜品\n為你獻上王道的醬油拉麵！』\n\n亞人工業推出的拉麵。由於是麵食，所以你的腸胃可能並不想看到它們；但是拉麵的製作時間短，適合大批量生產。</HAR_SK_Meal_e.description>
+
+
+  <!-- ■ビーストエナジー -->
+
+  <HAR_SK_Meal_c.label>獸娘能量飲料</HAR_SK_Meal_c.label>
+  <HAR_SK_Meal_c.description>『我等創造主秘傳的營養飲料，每日飲就健康生活！』\n\n亞人工業售賣的能量飲料，可以提高免疫力且不會上癮，想怎麼喝就怎麼喝！</HAR_SK_Meal_c.description>
+  <HAR_SK_Meal_c.tools.0.label>瓶身</HAR_SK_Meal_c.tools.0.label>
+  <HAR_SK_Meal_c.tools.1.label>瓶口</HAR_SK_Meal_c.tools.1.label>
+  <HAR_SK_Meal_c.ingestible.ingestCommandString>飲用 {0}</HAR_SK_Meal_c.ingestible.ingestCommandString>
+  <HAR_SK_Meal_c.ingestible.ingestReportString>正在飲用 {0}</HAR_SK_Meal_c.ingestible.ingestReportString>
+
+
+  <!-- ■ケモミミート -->
+
+  <HAR_SK_Meal_d.label>獸娘袋裝肉</HAR_SK_Meal_d.label>
+  <HAR_SK_Meal_d.description>『獻給還在對因狂暴症而腐爛的肉感到頭疼的客人們！\n一起來烤大家都愛吃的美味肉吧！』\n\n亞人工業售賣的原料不明的肉餡，在亞人工業秘傳的加工方法下，原本食材的味道早已消散。但這種狀態下的它等同於生肉，必須要經過烹飪才能食用。\n\n不管是『腐肉』還是『人肉』，都會吃得很香吧。</HAR_SK_Meal_d.description>
+
+  <HAR_SK_Meal_g.label>亞人工業茶</HAR_SK_Meal_g.label>
+  <HAR_SK_Meal_g.description>『對成癮品上癮的人感到煩惱嗎？\n本公司將為您提供廉價放心的紅茶！』\n\n亞人工業售賣的不可思議的茶。亞人工業秘傳的精神葉加工方法使其成癮性得到了一定程度上的抑制。</HAR_SK_Meal_g.description>
+  <HAR_SK_Meal_g.ingestible.ingestCommandString>飲用 {0}</HAR_SK_Meal_g.ingestible.ingestCommandString>
+  <HAR_SK_Meal_g.ingestible.ingestReportString>正在飲用 {0}。</HAR_SK_Meal_g.ingestible.ingestReportString>
+
+
+  <!-- ■メディカルキャット -->
+
+  <HAR_SK_Medicine_a.label>亞人醫療包</HAR_SK_Medicine_a.label>
+  <HAR_SK_Medicine_a.description>『不需要中性胺的醫療用品\n對極力抑製過敏反應的孩子也同樣適用！』\n\n亞人工業售賣的醫療品，比一般的醫藥品性能稍高。因為不需要中性胺，所以容易製作，但是製作所需的材料稍多一些。</HAR_SK_Medicine_a.description>
+
+  <HAR_SK_NPC_Z_Item_a.label>鎮魂搖曳曲</HAR_SK_NPC_Z_Item_a.label>
+  <HAR_SK_NPC_Z_Item_a.description>復仇戰獸釋放出的無色透明力場。\n受到衝擊後會引發反物質爆炸，但由於領域只能維持很短一段時間，所以很快就會消失。</HAR_SK_NPC_Z_Item_a.description>
+
+
+</LanguageData>

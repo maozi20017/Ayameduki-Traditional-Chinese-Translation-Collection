@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BOSS_RQ_Monster_race_Summon_a.label>先鋒種</BOSS_RQ_Monster_race_Summon_a.label>
+  <BOSS_RQ_Monster_race_Summon_a.description>擁有半機械半血肉的特殊構造的【女皇】眷屬，被調整為只以排除威脅為目標，自主思考和生物情感等多餘的東西都被徹底消除。\n\n『先鋒種』是用利爪攻擊敵人的前衛兵種。它們的利爪由超振動刀刃構成，即便是堅固的盔甲也能輕易撕開。</BOSS_RQ_Monster_race_Summon_a.description>
+  <BOSS_RQ_Monster_race_Summon_a.tools.0.label>超振動刀刃</BOSS_RQ_Monster_race_Summon_a.tools.0.label>
+  <BOSS_RQ_Monster_race_Summon_a.tools.1.label>超振動刀刃</BOSS_RQ_Monster_race_Summon_a.tools.1.label>
+  <BOSS_RQ_Monster_race_Summon_a.tools.2.label>突進</BOSS_RQ_Monster_race_Summon_a.tools.2.label>
+
+  <BOSS_RQ_Monster_race_Summon_b.label>狙擊種</BOSS_RQ_Monster_race_Summon_b.label>
+  <BOSS_RQ_Monster_race_Summon_b.description>擁有半機械半血肉的特殊構造的【女皇】眷屬，被調整為只以排除威脅為目標，自主思考和生物情感等多餘的東西都被徹底消除。\n\n『狙擊種』是遠距離狙擊敵人的遠程兵種，近身作戰方面稍弱於前衛兵種。</BOSS_RQ_Monster_race_Summon_b.description>
+  <BOSS_RQ_Monster_race_Summon_b.tools.0.label>超振動刀刃</BOSS_RQ_Monster_race_Summon_b.tools.0.label>
+  <BOSS_RQ_Monster_race_Summon_b.tools.1.label>超振動刀刃</BOSS_RQ_Monster_race_Summon_b.tools.1.label>
+
+  <BOSS_RQ_Monster_race_Summon_c.label>火力種</BOSS_RQ_Monster_race_Summon_c.label>
+  <BOSS_RQ_Monster_race_Summon_c.description>擁有半機械半血肉的特殊構造的【女皇】眷屬，被調整為只以排除威脅為目標，自主思考和生物情感等多餘的東西都被徹底消除。\n\n『火力種』是為了牽制敵人而持續進行火力壓制射擊的中距離兵種，近身作戰方面稍弱於前衛兵種。</BOSS_RQ_Monster_race_Summon_c.description>
+  <BOSS_RQ_Monster_race_Summon_c.tools.0.label>超振動刀刃</BOSS_RQ_Monster_race_Summon_c.tools.0.label>
+  <BOSS_RQ_Monster_race_Summon_c.tools.1.label>超振動刀刃</BOSS_RQ_Monster_race_Summon_c.tools.1.label>
+
+  <BOSS_RQ_Monster_race_Summon_d.label>污染種</BOSS_RQ_Monster_race_Summon_d.label>
+  <BOSS_RQ_Monster_race_Summon_d.description>擁有半機械半血肉的特殊構造的【女皇】眷屬，被調整為只以排除威脅為目標，自主思考和生物情感等多餘的東西都被徹底消除。\n\n『污染種』是通過接觸從而侵蝕敵人精神的支援兵種。在【女皇】眷屬中屬於防禦力較低的類型，耐久值不高。</BOSS_RQ_Monster_race_Summon_d.description>
+  <BOSS_RQ_Monster_race_Summon_d.tools.0.label>精神干擾</BOSS_RQ_Monster_race_Summon_d.tools.0.label>
+  <BOSS_RQ_Monster_race_Summon_d.tools.1.label>精神干擾</BOSS_RQ_Monster_race_Summon_d.tools.1.label>
+  <BOSS_RQ_Monster_race_Summon_d.tools.2.label>突進</BOSS_RQ_Monster_race_Summon_d.tools.2.label>
+
+  <BOSS_RQ_Monster_race_Summon_e.label>爆弹种</BOSS_RQ_Monster_race_Summon_e.label>
+  <BOSS_RQ_Monster_race_Summon_e.description>擁有半機械半血肉的特殊構造的【女皇】眷屬，被調整為只以排除威脅為目標，自主思考和生物情感等多餘的東西都被徹底消除。\n\n『爆彈種』是利用爆炸物進行大肆破壞的中距離兵種，死亡時會自爆。</BOSS_RQ_Monster_race_Summon_e.description>
+  <BOSS_RQ_Monster_race_Summon_e.tools.0.label>超振動刀刃</BOSS_RQ_Monster_race_Summon_e.tools.0.label>
+  <BOSS_RQ_Monster_race_Summon_e.tools.1.label>超振動刀刃</BOSS_RQ_Monster_race_Summon_e.tools.1.label>
+
+  <BOSS_RQ_Monster_race_Summon_f.label>裁決種</BOSS_RQ_Monster_race_Summon_f.label>
+  <BOSS_RQ_Monster_race_Summon_f.description>擁有半機械半血肉的特殊構造的【女皇】眷屬，被調整為只以排除威脅為目標，自主思考和生物情感等多餘的東西都被徹底消除。\n\n『裁決種』是揮舞著駭人長劍斬斷敵人的前衛兵種，強化型盔甲為它們提供了更高的耐久值。</BOSS_RQ_Monster_race_Summon_f.description>
+  <BOSS_RQ_Monster_race_Summon_f.tools.0.label>超振動刀刃</BOSS_RQ_Monster_race_Summon_f.tools.0.label>
+  <BOSS_RQ_Monster_race_Summon_f.tools.1.label>超振動刀刃</BOSS_RQ_Monster_race_Summon_f.tools.1.label>
+  <BOSS_RQ_Monster_race_Summon_f.tools.2.label>突進</BOSS_RQ_Monster_race_Summon_f.tools.2.label>
+
+  <BOSS_RQ_Monster_race_Summon_g.label>突擊種</BOSS_RQ_Monster_race_Summon_g.label>
+  <BOSS_RQ_Monster_race_Summon_g.description>擁有半機械半血肉的特殊構造的【女皇】眷屬，被調整為只以排除威脅為目標，自主思考和生物情感等多餘的東西都被徹底消除。\n\n『突擊種』是一邊衝鋒一邊對敵人進行壓制射擊的中距離兵種，近身作戰方面稍弱於前衛兵種。</BOSS_RQ_Monster_race_Summon_g.description>
+  <BOSS_RQ_Monster_race_Summon_g.tools.0.label>超振動刀刃</BOSS_RQ_Monster_race_Summon_g.tools.0.label>
+  <BOSS_RQ_Monster_race_Summon_g.tools.1.label>超振動刀刃</BOSS_RQ_Monster_race_Summon_g.tools.1.label>
+
+  <BOSS_RQ_Monster_race_Summon_h.label>斥候種</BOSS_RQ_Monster_race_Summon_h.label>
+  <BOSS_RQ_Monster_race_Summon_h.description>擁有半機械半血肉的特殊構造的【女皇】眷屬，被調整為只以排除威脅為目標，自主思考和生物情感等多餘的東西都被徹底消除。\n\n『斥候種』是利用光學迷彩進行隱身、快速接近目標並用匕首展開暗殺的前衛兵種，為了能夠快速行動而犧牲了耐久。</BOSS_RQ_Monster_race_Summon_h.description>
+  <BOSS_RQ_Monster_race_Summon_h.tools.0.label>超振動刀刃</BOSS_RQ_Monster_race_Summon_h.tools.0.label>
+  <BOSS_RQ_Monster_race_Summon_h.tools.1.label>超振動刀刃</BOSS_RQ_Monster_race_Summon_h.tools.1.label>
+
+  <BOSS_RQ_Monster_race_Summon_y.label>破損的眷屬</BOSS_RQ_Monster_race_Summon_y.label>
+  <BOSS_RQ_Monster_race_Summon_y.description>女王種【女皇】的眷屬。 \n本來有著強大的力量，但在突破大氣層、猛烈撞擊到地表之後，受到了嚴重的損毀。</BOSS_RQ_Monster_race_Summon_y.description>
+  <BOSS_RQ_Monster_race_Summon_y.tools.0.label>超振動刀刃</BOSS_RQ_Monster_race_Summon_y.tools.0.label>
+  <BOSS_RQ_Monster_race_Summon_y.tools.1.label>超振動刀刃</BOSS_RQ_Monster_race_Summon_y.tools.1.label>
+  <BOSS_RQ_Monster_race_Summon_y.tools.2.label>突進</BOSS_RQ_Monster_race_Summon_y.tools.2.label>
+
+
+</LanguageData>

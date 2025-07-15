@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Solark_Base_Faction.leaderTitle>領袖</Solark_Base_Faction.leaderTitle>
+
+  <Solark_P_Faction.label>龍姬的隱居之鄉</Solark_P_Faction.label>
+  <Solark_P_Faction.description>龍姬們聚集在一起平和的隱居著的聚落。</Solark_P_Faction.description>
+  <Solark_P_Faction.pawnsPlural>龍姬</Solark_P_Faction.pawnsPlural>
+
+  <Solark_Faction_NPC.label>龍姬派系</Solark_Faction_NPC.label>
+  <Solark_Faction_NPC.description>由龍姬組成的中立派系，除非對她們造成傷害，否則不會敵對。\n除了擁有種族特有的強大身體機能外，她們都配備了強大的盔甲，因此戰鬥力非常高。</Solark_Faction_NPC.description>
+  <Solark_Faction_NPC.fixedName>阿德萊·玲龍</Solark_Faction_NPC.fixedName>
+  <Solark_Faction_NPC.pawnsPlural>龍姬</Solark_Faction_NPC.pawnsPlural>
+  <Solark_Faction_NPC.leaderTitle>領袖</Solark_Faction_NPC.leaderTitle>
+
+
+</LanguageData>

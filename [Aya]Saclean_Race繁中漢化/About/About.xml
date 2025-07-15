@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>[Aya]Saclean Race 繁中漢化</name>
+	<author>毛子</author>
+	<packageId>Maozi.ZH.ChinesePack.HARSaclean</packageId>
+	<supportedVersions>
+        <li>1.4</li>
+        <li>1.5</li>
+		<li>1.6</li>
+	</supportedVersions>
+	<loadAfter>
+		<li>Ayameduki.AyaRacePremise</li>
+		<li>Ayameduki.HARSaclean</li>
+	</loadAfter>
+    <description>
+以[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2939935199]いつまで大佬的簡中漢化包[/url]為基底修改而成的繁中漢化
+
+漢化描述:
+
+【新增的種族】
+・飛蛾姬(Saclean)
+─────────────────────────────────────────────
+【獲得方式】
+・可以從流亡者或逃生艙中救出。
+・可以從黑市商人或奴隸商人手中購買（高機率）。
+─────────────────────────────────────────────
+【雖非必要但建議使用的MOD】
+・Camera+
+─────────────────────────────────────────────
+・Nearmare Race
+可以穿戴部分裝備。
+─────────────────────────────────────────────
+這兩個MOD都可解決當角色戴上頭部裝備時頭髮消失的問題：
+・Hats Display Selection
+・[KV] Show Hair With Hats or Hide All Hats
+─────────────────────────────────────────────
+這兩個MOD都可以提供高畫質的顯示效果：
+・HD Pawn Rendering
+・Pawn Render Patch
+【================================================】
+【飛蛾姬的特點】
+・壽命是人類的2倍
+・資產價值為500
+・無法進行戰鬥。
+・耐久值非常低。
+・移動速度非常緩慢。
+・不容易感到飢餓。
+・對疼痛有較高的抵抗力，並且容易獲得免疫力。
+・即使被當作奴隷或囚犯對待，也不會逃跑或發動反叛行動（但是仍然有可能發生奴隸反抗）。
+・即使處於惡劣的環境下，也不容易心情下降。
+・常規工作速度快。
+・每個季節可以生成纖維素材的「絲線」。
+・每2天可以生成「牛奶」。
+【================================================】
+【請注意】
+・本MOD的規格可能會因更新而改變。
+・本MOD不與原版角色外貌相容，且無法裝備原版角色外貌的服飾。
+	</description>
+
+</ModMetaData>

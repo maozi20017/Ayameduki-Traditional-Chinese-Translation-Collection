@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: スキアウェアA -->
+  <HAR_CO_Apparel_Tops_a.label>影之裝束A款(混沌靈)</HAR_CO_Apparel_Tops_a.label>
+  <!-- EN: ケイオーラ専用の衣服、ケイオーラの影に潜む力に対応した代償として対物装甲を失っている。 -->
+  <HAR_CO_Apparel_Tops_a.description>混沌靈專用的衣服，為了充分發揮混沌靈潛藏在暗影中的力量，拋棄了物防屬性。</HAR_CO_Apparel_Tops_a.description>
+  
+  <!-- EN: スキアウェアB -->
+  <HAR_CO_Apparel_Tops_b.label>影之裝束B款(混沌靈)</HAR_CO_Apparel_Tops_b.label>
+  <!-- EN: ケイオーラ専用の衣服、ケイオーラの影に潜む力に対応した代償として対物装甲を失っている。 -->
+  <HAR_CO_Apparel_Tops_b.description>混沌靈專用的衣服，為了充分發揮混沌靈潛藏在暗影中的力量，拋棄了物防屬性。</HAR_CO_Apparel_Tops_b.description>
+  
+  <!-- EN: スキアウェアA -->
+  <HAR_CO_Apparel_Tops_c.label>影之裝束C款(混沌靈)</HAR_CO_Apparel_Tops_c.label>
+  <!-- EN: ケイオーラ専用の衣服、ケイオーラの影に潜む力に対応した代償として対物装甲を失っている。 -->
+  <HAR_CO_Apparel_Tops_c.description>混沌靈專用的衣服，為了充分發揮混沌靈潛藏在暗影中的力量，拋棄了物防屬性。</HAR_CO_Apparel_Tops_c.description>
+  
+  <!-- EN: ミシュパティムウェア -->
+  <HAR_CO_Apparel_Tops_z.label>律法裝束(混沌靈)</HAR_CO_Apparel_Tops_z.label>
+  <!-- EN: ケイオーラ・アヴァルツィオンの白亜のドレス。\n耐久力こそあるが、熱以外の耐性は全くない。\nもっとも、アヴァルツィオンに防具の必要性はないだろうが。 -->
+  <HAR_CO_Apparel_Tops_z.description>混沌靈・阿瓦爾錫安的白亜之裙。\n雖具備堅實的耐久力，卻對熱以外的攻擊毫無防禦能力。\n當然，對於她來說，防具或許只是儀式性的裝飾罷了。</HAR_CO_Apparel_Tops_z.description>
+  
+</LanguageData>

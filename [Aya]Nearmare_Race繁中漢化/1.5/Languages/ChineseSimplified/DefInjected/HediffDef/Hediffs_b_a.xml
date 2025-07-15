@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_NM_Hediff_Drag_a.label>液態藥材</HAR_NM_Hediff_Drag_a.label>
+  <HAR_NM_Hediff_Drag_a.description>溫蓋特從屍體中採集的藥材。
+這些藥材被提煉成液態並保存著。
+
+這種液態藥材主要可以從人類身上提取。
+
+最多可以補充到300。</HAR_NM_Hediff_Drag_a.description>
+  <HAR_NM_Hediff_Drag_a.stages.1.label>10</HAR_NM_Hediff_Drag_a.stages.1.label>
+  <HAR_NM_Hediff_Drag_a.stages.2.label>20</HAR_NM_Hediff_Drag_a.stages.2.label>
+  <HAR_NM_Hediff_Drag_a.stages.3.label>30</HAR_NM_Hediff_Drag_a.stages.3.label>
+  <HAR_NM_Hediff_Drag_a.stages.4.label>40</HAR_NM_Hediff_Drag_a.stages.4.label>
+  <HAR_NM_Hediff_Drag_a.stages.5.label>50</HAR_NM_Hediff_Drag_a.stages.5.label>
+  <HAR_NM_Hediff_Drag_a.stages.6.label>60</HAR_NM_Hediff_Drag_a.stages.6.label>
+  <HAR_NM_Hediff_Drag_a.stages.7.label>70</HAR_NM_Hediff_Drag_a.stages.7.label>
+  <HAR_NM_Hediff_Drag_a.stages.8.label>80</HAR_NM_Hediff_Drag_a.stages.8.label>
+  <HAR_NM_Hediff_Drag_a.stages.9.label>90</HAR_NM_Hediff_Drag_a.stages.9.label>
+  <HAR_NM_Hediff_Drag_a.stages.10.label>100</HAR_NM_Hediff_Drag_a.stages.10.label>
+  <HAR_NM_Hediff_Drag_a.stages.11.label>110</HAR_NM_Hediff_Drag_a.stages.11.label>
+  <HAR_NM_Hediff_Drag_a.stages.12.label>120</HAR_NM_Hediff_Drag_a.stages.12.label>
+  <HAR_NM_Hediff_Drag_a.stages.13.label>130</HAR_NM_Hediff_Drag_a.stages.13.label>
+  <HAR_NM_Hediff_Drag_a.stages.14.label>140</HAR_NM_Hediff_Drag_a.stages.14.label>
+  <HAR_NM_Hediff_Drag_a.stages.15.label>150</HAR_NM_Hediff_Drag_a.stages.15.label>
+  <HAR_NM_Hediff_Drag_a.stages.16.label>160</HAR_NM_Hediff_Drag_a.stages.16.label>
+  <HAR_NM_Hediff_Drag_a.stages.17.label>170</HAR_NM_Hediff_Drag_a.stages.17.label>
+  <HAR_NM_Hediff_Drag_a.stages.18.label>180</HAR_NM_Hediff_Drag_a.stages.18.label>
+  <HAR_NM_Hediff_Drag_a.stages.19.label>190</HAR_NM_Hediff_Drag_a.stages.19.label>
+  <HAR_NM_Hediff_Drag_a.stages.20.label>200</HAR_NM_Hediff_Drag_a.stages.20.label>
+  <HAR_NM_Hediff_Drag_a.stages.21.label>210</HAR_NM_Hediff_Drag_a.stages.21.label>
+  <HAR_NM_Hediff_Drag_a.stages.22.label>220</HAR_NM_Hediff_Drag_a.stages.22.label>
+  <HAR_NM_Hediff_Drag_a.stages.23.label>230</HAR_NM_Hediff_Drag_a.stages.23.label>
+  <HAR_NM_Hediff_Drag_a.stages.24.label>240</HAR_NM_Hediff_Drag_a.stages.24.label>
+  <HAR_NM_Hediff_Drag_a.stages.25.label>250</HAR_NM_Hediff_Drag_a.stages.25.label>
+  <HAR_NM_Hediff_Drag_a.stages.26.label>260</HAR_NM_Hediff_Drag_a.stages.26.label>
+  <HAR_NM_Hediff_Drag_a.stages.27.label>270</HAR_NM_Hediff_Drag_a.stages.27.label>
+  <HAR_NM_Hediff_Drag_a.stages.28.label>280</HAR_NM_Hediff_Drag_a.stages.28.label>
+  <HAR_NM_Hediff_Drag_a.stages.29.label>290</HAR_NM_Hediff_Drag_a.stages.29.label>
+  <HAR_NM_Hediff_Drag_a.stages.30.label>300</HAR_NM_Hediff_Drag_a.stages.30.label>
+
+  <HAR_NM_Hediff_Drag_b.label>固態藥材</HAR_NM_Hediff_Drag_b.label>
+  <HAR_NM_Hediff_Drag_b.description>溫蓋特從屍體中採集的藥材。
+這些藥材被提煉成固態並保存著。
+
+這種液態藥材主要可以從機械生命體身上提取。
+
+最多可以補充到300。</HAR_NM_Hediff_Drag_b.description>
+  <HAR_NM_Hediff_Drag_b.stages.1.label>10</HAR_NM_Hediff_Drag_b.stages.1.label>
+  <HAR_NM_Hediff_Drag_b.stages.2.label>20</HAR_NM_Hediff_Drag_b.stages.2.label>
+  <HAR_NM_Hediff_Drag_b.stages.3.label>30</HAR_NM_Hediff_Drag_b.stages.3.label>
+  <HAR_NM_Hediff_Drag_b.stages.4.label>40</HAR_NM_Hediff_Drag_b.stages.4.label>
+  <HAR_NM_Hediff_Drag_b.stages.5.label>50</HAR_NM_Hediff_Drag_b.stages.5.label>
+  <HAR_NM_Hediff_Drag_b.stages.6.label>60</HAR_NM_Hediff_Drag_b.stages.6.label>
+  <HAR_NM_Hediff_Drag_b.stages.7.label>70</HAR_NM_Hediff_Drag_b.stages.7.label>
+  <HAR_NM_Hediff_Drag_b.stages.8.label>80</HAR_NM_Hediff_Drag_b.stages.8.label>
+  <HAR_NM_Hediff_Drag_b.stages.9.label>90</HAR_NM_Hediff_Drag_b.stages.9.label>
+  <HAR_NM_Hediff_Drag_b.stages.10.label>100</HAR_NM_Hediff_Drag_b.stages.10.label>
+  <HAR_NM_Hediff_Drag_b.stages.11.label>110</HAR_NM_Hediff_Drag_b.stages.11.label>
+  <HAR_NM_Hediff_Drag_b.stages.12.label>120</HAR_NM_Hediff_Drag_b.stages.12.label>
+  <HAR_NM_Hediff_Drag_b.stages.13.label>130</HAR_NM_Hediff_Drag_b.stages.13.label>
+  <HAR_NM_Hediff_Drag_b.stages.14.label>140</HAR_NM_Hediff_Drag_b.stages.14.label>
+  <HAR_NM_Hediff_Drag_b.stages.15.label>150</HAR_NM_Hediff_Drag_b.stages.15.label>
+  <HAR_NM_Hediff_Drag_b.stages.16.label>160</HAR_NM_Hediff_Drag_b.stages.16.label>
+  <HAR_NM_Hediff_Drag_b.stages.17.label>170</HAR_NM_Hediff_Drag_b.stages.17.label>
+  <HAR_NM_Hediff_Drag_b.stages.18.label>180</HAR_NM_Hediff_Drag_b.stages.18.label>
+  <HAR_NM_Hediff_Drag_b.stages.19.label>190</HAR_NM_Hediff_Drag_b.stages.19.label>
+  <HAR_NM_Hediff_Drag_b.stages.20.label>200</HAR_NM_Hediff_Drag_b.stages.20.label>
+  <HAR_NM_Hediff_Drag_b.stages.21.label>210</HAR_NM_Hediff_Drag_b.stages.21.label>
+  <HAR_NM_Hediff_Drag_b.stages.22.label>220</HAR_NM_Hediff_Drag_b.stages.22.label>
+  <HAR_NM_Hediff_Drag_b.stages.23.label>230</HAR_NM_Hediff_Drag_b.stages.23.label>
+  <HAR_NM_Hediff_Drag_b.stages.24.label>240</HAR_NM_Hediff_Drag_b.stages.24.label>
+  <HAR_NM_Hediff_Drag_b.stages.25.label>250</HAR_NM_Hediff_Drag_b.stages.25.label>
+  <HAR_NM_Hediff_Drag_b.stages.26.label>260</HAR_NM_Hediff_Drag_b.stages.26.label>
+  <HAR_NM_Hediff_Drag_b.stages.27.label>270</HAR_NM_Hediff_Drag_b.stages.27.label>
+  <HAR_NM_Hediff_Drag_b.stages.28.label>280</HAR_NM_Hediff_Drag_b.stages.28.label>
+  <HAR_NM_Hediff_Drag_b.stages.29.label>290</HAR_NM_Hediff_Drag_b.stages.29.label>
+  <HAR_NM_Hediff_Drag_b.stages.30.label>300</HAR_NM_Hediff_Drag_b.stages.30.label>
+
+  <HAR_NM_Hediff_Drag_c.label>粉末藥材</HAR_NM_Hediff_Drag_c.label>
+  <HAR_NM_Hediff_Drag_c.description>溫蓋特從屍體中採集的藥材。
+這些藥材被提煉成粉末並保存著。
+
+這種液態藥材主要可以從動物身上提取。
+
+最多可以補充到300。</HAR_NM_Hediff_Drag_c.description>
+  <HAR_NM_Hediff_Drag_c.stages.1.label>10</HAR_NM_Hediff_Drag_c.stages.1.label>
+  <HAR_NM_Hediff_Drag_c.stages.2.label>20</HAR_NM_Hediff_Drag_c.stages.2.label>
+  <HAR_NM_Hediff_Drag_c.stages.3.label>30</HAR_NM_Hediff_Drag_c.stages.3.label>
+  <HAR_NM_Hediff_Drag_c.stages.4.label>40</HAR_NM_Hediff_Drag_c.stages.4.label>
+  <HAR_NM_Hediff_Drag_c.stages.5.label>50</HAR_NM_Hediff_Drag_c.stages.5.label>
+  <HAR_NM_Hediff_Drag_c.stages.6.label>60</HAR_NM_Hediff_Drag_c.stages.6.label>
+  <HAR_NM_Hediff_Drag_c.stages.7.label>70</HAR_NM_Hediff_Drag_c.stages.7.label>
+  <HAR_NM_Hediff_Drag_c.stages.8.label>80</HAR_NM_Hediff_Drag_c.stages.8.label>
+  <HAR_NM_Hediff_Drag_c.stages.9.label>90</HAR_NM_Hediff_Drag_c.stages.9.label>
+  <HAR_NM_Hediff_Drag_c.stages.10.label>100</HAR_NM_Hediff_Drag_c.stages.10.label>
+  <HAR_NM_Hediff_Drag_c.stages.11.label>110</HAR_NM_Hediff_Drag_c.stages.11.label>
+  <HAR_NM_Hediff_Drag_c.stages.12.label>120</HAR_NM_Hediff_Drag_c.stages.12.label>
+  <HAR_NM_Hediff_Drag_c.stages.13.label>130</HAR_NM_Hediff_Drag_c.stages.13.label>
+  <HAR_NM_Hediff_Drag_c.stages.14.label>140</HAR_NM_Hediff_Drag_c.stages.14.label>
+  <HAR_NM_Hediff_Drag_c.stages.15.label>150</HAR_NM_Hediff_Drag_c.stages.15.label>
+  <HAR_NM_Hediff_Drag_c.stages.16.label>160</HAR_NM_Hediff_Drag_c.stages.16.label>
+  <HAR_NM_Hediff_Drag_c.stages.17.label>170</HAR_NM_Hediff_Drag_c.stages.17.label>
+  <HAR_NM_Hediff_Drag_c.stages.18.label>180</HAR_NM_Hediff_Drag_c.stages.18.label>
+  <HAR_NM_Hediff_Drag_c.stages.19.label>190</HAR_NM_Hediff_Drag_c.stages.19.label>
+  <HAR_NM_Hediff_Drag_c.stages.20.label>200</HAR_NM_Hediff_Drag_c.stages.20.label>
+  <HAR_NM_Hediff_Drag_c.stages.21.label>210</HAR_NM_Hediff_Drag_c.stages.21.label>
+  <HAR_NM_Hediff_Drag_c.stages.22.label>220</HAR_NM_Hediff_Drag_c.stages.22.label>
+  <HAR_NM_Hediff_Drag_c.stages.23.label>230</HAR_NM_Hediff_Drag_c.stages.23.label>
+  <HAR_NM_Hediff_Drag_c.stages.24.label>240</HAR_NM_Hediff_Drag_c.stages.24.label>
+  <HAR_NM_Hediff_Drag_c.stages.25.label>250</HAR_NM_Hediff_Drag_c.stages.25.label>
+  <HAR_NM_Hediff_Drag_c.stages.26.label>260</HAR_NM_Hediff_Drag_c.stages.26.label>
+  <HAR_NM_Hediff_Drag_c.stages.27.label>270</HAR_NM_Hediff_Drag_c.stages.27.label>
+  <HAR_NM_Hediff_Drag_c.stages.28.label>280</HAR_NM_Hediff_Drag_c.stages.28.label>
+  <HAR_NM_Hediff_Drag_c.stages.29.label>290</HAR_NM_Hediff_Drag_c.stages.29.label>
+  <HAR_NM_Hediff_Drag_c.stages.30.label>300</HAR_NM_Hediff_Drag_c.stages.30.label>
+
+
+</LanguageData>

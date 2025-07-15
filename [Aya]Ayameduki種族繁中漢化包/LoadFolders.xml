@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<loadFolders>
+  <v1.4>
+    <li IfModActive="ayameduki.harchaoura">Chaoura/1.4</li>
+    <li IfModActive="ayameduki.bossenforcer">Enforcer/1.4</li>
+    <li IfModActive="ayameduki.haridearn">Idearn/1.4</li>
+    <li IfModActive="ayameduki.haridhale">Idhale/1.4</li>
+    <li IfModActive="ayameduki.harlittluna">Littluna/1.4</li>
+    <li IfModActive="ayameduki.harnearmare">Nearmare/1.4</li>
+    <li IfModActive="ayameduki.harneclose">Neclose/1.4</li>
+    <li IfModActive="ayameduki.harnexaga">Nexaga/1.4</li>
+    <li IfModActive="ayameduki.harqualeela">Qualeela/1.4</li>
+    <li IfModActive="ayameduki.bossrequeen">Requeen/1.4</li>
+    <li IfModActive="ayameduki.harsaclean">Saclean/1.4</li>
+    <li IfModActive="ayameduki.harsilkiera">Silkiera/1.4</li>
+    <li IfModActive="ayameduki.harsolark">Solark/1.4</li>
+    <li IfModActive="ayameduki.harxenoorca">Xenoorca/1.4</li>
+    <li IfModActive="ayameduki.hareveliet">Eveliet/1.4</li>
+    <li IfModActive="ayameduki.ideastoryteller">Ideastoryteller/1.4</li>
+  </v1.4>
+  <v1.5>
+    <li IfModActive="ayameduki.harchaoura">Chaoura/1.5</li>
+    <li IfModActive="ayameduki.bossenforcer">Enforcer/1.5</li>
+    <li IfModActive="ayameduki.haridearn">Idearn/1.5</li>
+    <li IfModActive="ayameduki.haridhale">Idhale/1.5</li>
+    <li IfModActive="ayameduki.harlittluna">Littluna/1.5</li>
+    <li IfModActive="ayameduki.harnearmare">Nearmare/1.5</li>
+    <li IfModActive="ayameduki.harneclose">Neclose/1.5</li>
+    <li IfModActive="ayameduki.harnexaga">Nexaga/1.5</li>
+    <li IfModActive="ayameduki.harqualeela">Qualeela/1.5</li>
+    <li IfModActive="ayameduki.bossrequeen">Requeen/1.5</li>
+    <li IfModActive="ayameduki.harsaclean">Saclean/1.5</li>
+    <li IfModActive="ayameduki.harsilkiera">Silkiera/1.5</li>
+    <li IfModActive="ayameduki.harsolark">Solark/1.5</li>
+    <li IfModActive="ayameduki.harxenoorca">Xenoorca/1.5</li>
+    <li IfModActive="ayameduki.hareveliet">Eveliet/1.5</li>
+    <li IfModActive="ayameduki.ideastoryteller">Ideastoryteller/1.5</li>
+    <li IfModActive="ayameduki.harzoichor">Zoichor/1.5</li>
+  </v1.5>
+  <v1.6>
+    <li IfModActive="ayameduki.harchaoura">Chaoura/1.6</li>
+    <li IfModActive="ayameduki.bossenforcer">Enforcer/1.6</li>
+    <li IfModActive="ayameduki.haridearn">Idearn/1.6</li>
+    <li IfModActive="ayameduki.haridhale">Idhale/1.6</li>
+    <li IfModActive="ayameduki.harlittluna">Littluna/1.6</li>
+    <li IfModActive="ayameduki.harnearmare">Nearmare/1.6</li>
+    <li IfModActive="ayameduki.harneclose">Neclose/1.6</li>
+    <li IfModActive="ayameduki.harnexaga">Nexaga/1.6</li>
+    <li IfModActive="ayameduki.harqualeela">Qualeela/1.6</li>
+    <li IfModActive="ayameduki.bossrequeen">Requeen/1.6</li>
+    <li IfModActive="ayameduki.harsaclean">Saclean/1.6</li>
+    <li IfModActive="ayameduki.harsilkiera">Silkiera/1.6</li>
+    <li IfModActive="ayameduki.harsolark">Solark/1.6</li>
+    <li IfModActive="ayameduki.harxenoorca">Xenoorca/1.6</li>
+    <li IfModActive="ayameduki.hareveliet">Eveliet/1.6</li>
+    <li IfModActive="ayameduki.ideastoryteller">Ideastoryteller/1.6</li>
+    <li IfModActive="ayameduki.harzoichor">Zoichor/1.6</li>
+    <li IfModActive="ayameduki.ayaracepremise">AyaRacePremise/1.6</li>
+  </v1.6>
+</loadFolders>

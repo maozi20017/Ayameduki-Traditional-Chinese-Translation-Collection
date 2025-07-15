@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_Littluna_b.label>偽神族・伊迪亞之奴</HAR_Littluna_b.label>
+  <HAR_Littluna_b.description>偽神族・伊迪亞之奴是一種由偽神族在某種因素的影響下進化而成的高等種族。
+據說它們與曾經存在的偽神族祖先「神子種偽神族・可能性」非常相似。
+至於普通種如何轉變成伊迪亞之奴，目前科學上尚未解釋清楚。
+
+可能性的能力是「容納上位存在之力於其身」，而這種能力似乎也被伊迪亞之奴所使用。然而，除此之外的資訊極為神秘，記錄極度有限，
+目擊案例也非常罕見。證言只有一些片段性的描述，例如「瘋了」、「變成怪物」、「大家流血倒下」，並未有更詳細的記載。
+
+─────────────────────────────────────────
+■殺人鯨旅團專用根除協議：- 伊迪亞之奴 -
+1）除了作為誘餌之外，不要接近目標。
+2）及時救援受到影響而倒下的隊友（在敵區可能例外）。
+3）使用連發性能較好的武器，優於單發火力較高的武器。
+4）由於對建築物的破壞性較高，在平地上進行戰鬥。
+5）如有可能，尋求旅團長的協助。
+6）那已經不是偽神族了，如果有仁慈的話，就殺掉它。
+─────────────────────────────────────────</HAR_Littluna_b.description>
+  <HAR_Littluna_b.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>hair</HAR_Littluna_b.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <HAR_Littluna_b.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>skin</HAR_Littluna_b.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
+  <HAR_Littluna_b.tools.0.label>left fist</HAR_Littluna_b.tools.0.label>
+  <HAR_Littluna_b.tools.1.label>right fist</HAR_Littluna_b.tools.1.label>
+  <HAR_Littluna_b.tools.2.label>left fist</HAR_Littluna_b.tools.2.label>
+  <HAR_Littluna_b.tools.3.label>right fist</HAR_Littluna_b.tools.3.label>
+
+
+</LanguageData>

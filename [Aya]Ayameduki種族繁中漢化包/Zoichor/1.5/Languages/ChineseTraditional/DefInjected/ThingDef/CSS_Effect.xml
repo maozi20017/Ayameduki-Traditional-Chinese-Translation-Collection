@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: SummonEffect -->
+  <CSS_SummonEffect.label>召喚效果</CSS_SummonEffect.label>
+  <!-- EN: 光り輝く召喚魔法陣です。 -->
+  <CSS_SummonEffect.description>閃閃發光的召喚魔法陣。</CSS_SummonEffect.description>
+  
+</LanguageData>

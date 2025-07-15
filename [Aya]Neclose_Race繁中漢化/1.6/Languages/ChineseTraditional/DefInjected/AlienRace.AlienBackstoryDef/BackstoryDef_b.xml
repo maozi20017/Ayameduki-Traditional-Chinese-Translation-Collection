@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_NC_Backstory_b_C1.title>異端的生命</HAR_NC_Backstory_b_C1.title>
+  <HAR_NC_Backstory_b_C1.titleShort>異端</HAR_NC_Backstory_b_C1.titleShort>
+  <HAR_NC_Backstory_b_C1.description>[PAWN_nameDef]是一個脫離人工種族的存在。詳細情況完全不明，甚至不清楚其存在的原因。</HAR_NC_Backstory_b_C1.description>
+
+  <HAR_NC_Backstory_b_A1.title>外來者</HAR_NC_Backstory_b_A1.title>
+  <HAR_NC_Backstory_b_A1.titleShort>外來者</HAR_NC_Backstory_b_A1.titleShort>
+  <HAR_NC_Backstory_b_A1.description>[PAWN_nameDef]是擁有外宇宙力量的異端異形的人工種族。擁有可以輕易地使生物發狂的力量。</HAR_NC_Backstory_b_A1.description>
+
+
+</LanguageData>

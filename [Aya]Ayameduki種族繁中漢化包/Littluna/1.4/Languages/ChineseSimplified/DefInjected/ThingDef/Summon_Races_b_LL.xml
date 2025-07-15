@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_LL_M_z.label>偽神族・琉刻</HAR_LL_M_z.label>
+  <HAR_LL_M_z.description>從邊緣至福樂土中分離出來的人偶般存在的偽神族。
+  它們行動遲緩且沒有體力，但只要邊緣至福樂土仍然存在，它們就會源源不斷地湧現。
+
+  殘血時，血肉會迅速膨脹並爆炸，給周圍帶來傷害。
+  然而，這種爆炸對邊緣至福樂土也具有自傷效果，可以穿透防禦並造成巨大傷害。</HAR_LL_M_z.description>
+  <HAR_LL_M_z.tools.0.label>馬吉特斯的誕生</HAR_LL_M_z.tools.0.label>
+  <HAR_LL_M_z.tools.1.label>馬吉特斯的誕生</HAR_LL_M_z.tools.1.label>
+
+  <HAR_LL_M_LC.label>使徒</HAR_LL_M_LC.label>
+  <HAR_LL_M_LC.description>巨大生命體產生的謎之眷屬。
+  它們是危險的生物，能夠迅速釋放高度殺傷性的切割攻擊，
+  且特別異常的是只要本體存在，它們就擁有無限的再生能力。</HAR_LL_M_LC.description>
+  <HAR_LL_M_LC.tools.0.label>馬吉特斯的誕生</HAR_LL_M_LC.tools.0.label>
+  <HAR_LL_M_LC.tools.1.label>馬吉特斯的誕生</HAR_LL_M_LC.tools.1.label>
+
+
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_EL_Recipe_a.label>創造：伊娃莉特</HAR_EL_Recipe_a.label>
+  <HAR_EL_Recipe_a.description>使用資料來創造伊娃莉特。</HAR_EL_Recipe_a.description>
+  <HAR_EL_Recipe_a.jobString>創造中</HAR_EL_Recipe_a.jobString>
+
+  <HAR_EL_Recipe_b.label>創造：■■■■■</HAR_EL_Recipe_b.label>
+  <HAR_EL_Recipe_b.description>使用資料來創造■■■■■。</HAR_EL_Recipe_b.description>
+  <HAR_EL_Recipe_b.jobString>創造中</HAR_EL_Recipe_b.jobString>
+
+
+</LanguageData>

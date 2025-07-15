@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Saclean_Artificial.label>人工種族(飛蛾姬)</Saclean_Artificial.label>
+  <Saclean_Artificial.description>飛蛾姬是一個人工創造的種族，經過改良後，她們可以很好地完成一般工作。特別是她們的手很靈巧，且可以將很遠處物體的細節都看得一清二楚，是一個在簡單工作方面非常優秀的種族。\n性能取決於飛蛾姬的Lv等級，大約1年提升1級(上限為5級)。</Saclean_Artificial.description>
+  <Saclean_Artificial.stages.0.label>Lv1</Saclean_Artificial.stages.0.label>
+  <Saclean_Artificial.stages.1.label>Lv2</Saclean_Artificial.stages.1.label>
+  <Saclean_Artificial.stages.2.label>Lv3</Saclean_Artificial.stages.2.label>
+  <Saclean_Artificial.stages.3.label>Lv4</Saclean_Artificial.stages.3.label>
+  <Saclean_Artificial.stages.4.label>Lv5</Saclean_Artificial.stages.4.label>
+
+
+</LanguageData>

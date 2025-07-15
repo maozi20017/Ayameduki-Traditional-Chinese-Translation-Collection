@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 蒼褪めた太陽 -->
+  <HAR_ZC_Hediff_a.label>蒼褪的太陽</HAR_ZC_Hediff_a.label>
+  <!-- EN: 糾罪者が背負う青白い光を放つ黒い太陽。\nその本体は、大質量でありながら低重量。\n発する火は、炎でありながら焙ったものを凍らせる。\nなど、宇宙の物理法則を無視した特異性を持つ。\n\n最初は『封印』されており、羅迪西昂を使用することで力が解放されていく。\n一定数使用することで段階が上がり、合計で\n『封印』『灯火』『燐火』『天火』『浄火』『劫火』の六段階がある。\n\n\n元型となったものはケイオーラが地獄より持ち帰った冷たい炎。\n神子は創造主より託された技術を使い、これを太陽へと昇華した。\n\n\n太陽の中、穴の向こうは、底知れぬ深淵で満ちている。\n何があるのか、何が眠っているのか、\nそれは糾罪者とその盟友にしか分からない。 -->
+  <HAR_ZC_Hediff_a.description>糾罪者所背負的，是一顆散發著蒼白光芒的黑色太陽。\n其本質是擁有巨大質量卻極低重量的存在。\n其釋放的火焰，雖為炎，卻能將炙燒之物凍結。\n無視宇宙的物理法則，擁有極端的特異性。\n\n最初處於『封印』狀態，需通過使用羅迪西昂來逐步解放力量。\n使用達到一定數量後，其階段會逐步提升，總共分為六階段：\n『封印』『燈火』『燐火』『天火』『淨火』『劫火』\n\n\n其原型是混沌靈從地獄帶回的冰冷火焰。\n而神子則使用從創造主處繼承的技術，將這火焰昇華成了太陽的形式。\n\n\n在太陽之中，穿越洞口後，迎面而來的是一片深不可測的深淵。\n其中究竟有什麼？又有什麼正在沉眠？\n只有糾罪者與其盟友知曉其中的真相。</HAR_ZC_Hediff_a.description>
+  <!-- EN: 封印 -->
+  <HAR_ZC_Hediff_a.stages.1.label>封印</HAR_ZC_Hediff_a.stages.1.label>
+  <!-- EN: 灯火 -->
+  <HAR_ZC_Hediff_a.stages.2.label>燈火</HAR_ZC_Hediff_a.stages.2.label>
+  <!-- EN: 燐火 -->
+  <HAR_ZC_Hediff_a.stages.3.label>燐火</HAR_ZC_Hediff_a.stages.3.label>
+  <!-- EN: 天火 -->
+  <HAR_ZC_Hediff_a.stages.4.label>天火</HAR_ZC_Hediff_a.stages.4.label>
+  <!-- EN: 浄火 -->
+  <HAR_ZC_Hediff_a.stages.5.label>淨火</HAR_ZC_Hediff_a.stages.5.label>
+  <!-- EN: 劫火 -->
+  <HAR_ZC_Hediff_a.stages.6.label>劫火</HAR_ZC_Hediff_a.stages.6.label>
+  
+</LanguageData>

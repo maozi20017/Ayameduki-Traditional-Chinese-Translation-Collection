@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ■↓幼少期のバックストーリー -->
+
+  <HAR_CO_Backstory_C1.title>宇宙之子</HAR_CO_Backstory_C1.title>
+  <HAR_CO_Backstory_C1.titleShort>嬰兒</HAR_CO_Backstory_C1.titleShort>
+  <HAR_CO_Backstory_C1.baseDesc>[PAWN_nameDef]在宇宙的加護下誕生，對黑暗有很高的適應性。</HAR_CO_Backstory_C1.baseDesc>
+
+
+  <!-- ■↓成人期のバックストーリー -->
+
+  <HAR_CO_Backstory_A1.title>深淵窺視之影</HAR_CO_Backstory_A1.title>
+  <HAR_CO_Backstory_A1.titleShort>深淵</HAR_CO_Backstory_A1.titleShort>
+  <HAR_CO_Backstory_A1.baseDesc>[PAWN_nameDef]能夠發揮出混沌靈的全部力量，特別是在戰斗方面。</HAR_CO_Backstory_A1.baseDesc>
+
+
+</LanguageData>

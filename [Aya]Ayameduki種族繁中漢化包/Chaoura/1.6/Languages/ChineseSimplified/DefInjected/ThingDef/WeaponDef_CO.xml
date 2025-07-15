@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 幽冥の祭礼刀 -->
+  <HAR_CO_Weapon_a.label>幽冥的祭禮刀</HAR_CO_Weapon_a.label>
+  <!-- EN: ケイオーラ専用の神器、戦闘だけでなく儀式にも使用されるという。\n威力そのものは低いが鎧の隙間を縫うように影を刺し込むことができるので相手のアーマーは無いに等しい。\n敵に斬りつけることで深淵爛れを人為的に引き起こすことができる。 -->
+  <HAR_CO_Weapon_a.description>混沌靈專用的神器，不僅用於戰鬥，也用於儀式。\n殺傷力雖然很低，但因為可以穿透鎧甲的縫隙、向其中刺入暗影，所以基本無視對方的護甲。\n砍向敵人時會人為引發深淵腐敗。</HAR_CO_Weapon_a.description>
+  <!-- EN: 影切 -->
+  <HAR_CO_Weapon_a.tools.0.label>影切</HAR_CO_Weapon_a.tools.0.label>
+  
+  <!-- EN: 黒闇天 -->
+  <HAR_CO_Weapon_b.label>黒闇天</HAR_CO_Weapon_b.label>
+  <!-- EN: ケイオーラ専用の武器。\n大剣に属し、威力は見た目相応のものを発揮する。\n深淵爛れなどが効かない相手に用いられるという。 -->
+  <HAR_CO_Weapon_b.description>混沌靈專用的武器。\n屬於大劍類的武器，其威力與外觀相符。\n主要用於對抗對深淵腐敗等效果免疫的對手。</HAR_CO_Weapon_b.description>
+  <!-- EN: handle -->
+  <HAR_CO_Weapon_b.tools.handle.label>握把</HAR_CO_Weapon_b.tools.handle.label>
+  <!-- EN: point -->
+  <HAR_CO_Weapon_b.tools.point.label>劍尖</HAR_CO_Weapon_b.tools.point.label>
+  <!-- EN: edge -->
+  <HAR_CO_Weapon_b.tools.edge.label>劍刃</HAR_CO_Weapon_b.tools.edge.label>
+  
+  <!-- EN: 夜刀神 -->
+  <HAR_CO_Weapon_c.label>夜刀神</HAR_CO_Weapon_c.label>
+  <!-- EN: ケイオーラ専用の武器。\n大太刀ではあるが振りが速く手数に優れている。\n深淵爛れなどが効かない相手に用いられるという。 -->
+  <HAR_CO_Weapon_c.description>混沌靈專用的武器。\n雖然是大太刀，但擺動速度快且招式優美。\n主要用於對抗對深淵腐敗等效果免疫的對手。</HAR_CO_Weapon_c.description>
+  <!-- EN: handle -->
+  <HAR_CO_Weapon_c.tools.handle.label>握把</HAR_CO_Weapon_c.tools.handle.label>
+  <!-- EN: point -->
+  <HAR_CO_Weapon_c.tools.point.label>刀尖</HAR_CO_Weapon_c.tools.point.label>
+  <!-- EN: edge -->
+  <HAR_CO_Weapon_c.tools.edge.label>刀刃</HAR_CO_Weapon_c.tools.edge.label>
+  
+</LanguageData>

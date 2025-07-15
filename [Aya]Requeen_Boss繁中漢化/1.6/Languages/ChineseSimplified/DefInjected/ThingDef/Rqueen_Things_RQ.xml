@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BOSS_RQ_Hive_Requeen.label>女皇</BOSS_RQ_Hive_Requeen.label>
+  <BOSS_RQ_Hive_Requeen.description>女王種『女皇』是某個外星文明創造的機械生命體，孕育了夜魔及其亞種們的始祖，
+    \n也許因為是最初建造的生命體，基本沒有自我意識，在外星文明滅亡後也忠實地遵循輸入的指令，一直處於『生產兵力』和『排除外敵』的暴走狀態。 \n\n她們不具備戰鬥能力，但有著極強的盔甲和再生能力，能夠無窮盡地生產機械生命體。 \n萬一自身能量耗盡也能從周圍迅速汲取，只有外在因素能導致她們的死亡。\n\n\n現如今，『擊敗還在苦苦侍奉那已滅亡的創造主的女王們、讓她們陷入永眠』成為了以夜魔為首的女兒們的夙願。</BOSS_RQ_Hive_Requeen.description>
+
+  <BOSS_RQ_Hive_Requeen_Egg.label>兵力補充單元</BOSS_RQ_Hive_Requeen_Egg.label>
+  <BOSS_RQ_Hive_Requeen_Egg.description>一種暫時存儲和培養由女皇生產的生命體的單元。如果有必要，可以將每個單元中存儲的生命體都投入到戰場上。</BOSS_RQ_Hive_Requeen_Egg.description>
+
+
+</LanguageData>

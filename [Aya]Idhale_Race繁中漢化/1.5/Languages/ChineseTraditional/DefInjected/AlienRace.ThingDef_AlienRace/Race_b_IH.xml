@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_Idhale_b.label>幽靈姬・罪孽神靈</HAR_Idhale_b.label>
+  <HAR_Idhale_b.description>幽靈姬・罪孽神靈是創造主最後創造的幽靈姬的上位種，即使在現代仍然是一個神秘的人工種族。\n\n關於罪孽神靈的記錄只能追溯到大戰前後，其中一個被廣泛傳知的故事是他們是「摧毀遠渡星海之鳥」的種族。\n大戰結束後，罪孽神靈突然消失，甚至有人說他們已經滅絕，因為再也沒有目擊案例。然而，近年來他們重新出現。\n現在，他們與隱德來希的統治王族無關，而是對一些擁有資產的殖民地進行破壞活動。\n\n作為創造主的最後創造物，罪孽神靈的能力超越了王族，他們甚至可以獨自對抗軍隊。\n此外，據說他們從創造主那裡獲得了超越死亡的權能，每次重生都會變得更加強大。\n\n罪孽神靈和普通種一樣擁有無效化攻擊的體質，但為了增強攻擊能力，他們並非完全無損。\n當受到近距離攻擊時，他們可以無效化該攻擊，但這也意味著他們無法完全防禦遠距離攻擊。這是在攻擊能力和防禦能力之間的平衡取捨。\n\n\n咎靈確實成功摧毀了大鳥，但在大鳥的殘骸中卻發現「本應該存在的東西卻不在」。\n她們深信著，下一個災厄已經降臨...</HAR_Idhale_b.description>
+  <HAR_Idhale_b.alienRace.generalSettings.alienPartGenerator.bodyAddons.0.name>鬼火</HAR_Idhale_b.alienRace.generalSettings.alienPartGenerator.bodyAddons.0.name>
+  <HAR_Idhale_b.alienRace.generalSettings.alienPartGenerator.bodyAddons.1.name>髮</HAR_Idhale_b.alienRace.generalSettings.alienPartGenerator.bodyAddons.1.name>
+  <HAR_Idhale_b.alienRace.generalSettings.alienPartGenerator.bodyAddons.2.name>鬼火</HAR_Idhale_b.alienRace.generalSettings.alienPartGenerator.bodyAddons.2.name>
+  <HAR_Idhale_b.tools.2.label>大屠殺之地</HAR_Idhale_b.tools.2.label>
+  <HAR_Idhale_b.tools.3.label>大屠殺之地</HAR_Idhale_b.tools.3.label>
+
+
+</LanguageData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!--エリスロスエクスシア-->
+	<HAR_IA_Filth_FireFoam_a.label>腥紅能天使</HAR_IA_Filth_FireFoam_a.label>
+	<!--イデアーン・テアイテトスB型が散布したナノマシンが満ちるフィールド、入った敵対存在は傷を負い多量の出血を強いられる。\nフィールドは中央の核を破壊するか半日すると自然に消滅する。-->
+	<HAR_IA_Filth_FireFoam_a.description>艾蒂安・泰阿泰德B型佈署的充滿奈米機械的領域。\n進入領域的敵對實體將會持續受傷並大量出血。\n破壞中央的核心或半天之後，領域會自然消失。</HAR_IA_Filth_FireFoam_a.description>
+
+	<!--キュアノスエクスシア-->
+	<HAR_IA_Filth_FireFoam_b.label>靛藍能天使</HAR_IA_Filth_FireFoam_b.label>
+	<!--イデアーン・テアイテトスB型が散布したナノマシンが満ちるフィールド、入った敵対存在は傷を負い多量の出血を強いられる。\nフィールドは中央の核を破壊するか半日すると自然に消滅する。-->
+	<HAR_IA_Filth_FireFoam_b.description>艾蒂安・泰阿泰德B型佈署的充滿奈米機械的領域。\n進入領域的敵對實體將會持續受傷並大量出血。\n破壞中央的核心或半天之後，領域會自然消失。</HAR_IA_Filth_FireFoam_b.description>
+
+</LanguageData>

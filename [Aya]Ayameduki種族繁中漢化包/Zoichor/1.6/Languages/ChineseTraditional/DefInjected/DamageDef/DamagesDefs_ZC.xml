@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 凍える炎 -->
+  <HAR_ZC_Damage_a.label>凍炎</HAR_ZC_Damage_a.label>
+  <!-- EN: {0} has died in an explosion. -->
+  <HAR_ZC_Damage_a.deathMessage>{0} 死於一場爆炸。</HAR_ZC_Damage_a.deathMessage>
+  
+  <!-- EN: 暗黒の叫び -->
+  <HAR_ZC_Damage_b.label>暗黒的咆哮</HAR_ZC_Damage_b.label>
+  <!-- EN: {0} has died in an explosion. -->
+  <HAR_ZC_Damage_b.deathMessage>{0} 死於一場爆炸。</HAR_ZC_Damage_b.deathMessage>
+  
+  <!-- EN: 悪魔の一撃 -->
+  <HAR_ZC_Damage_c.label>惡魔的一擊</HAR_ZC_Damage_c.label>
+  <!-- EN: {0} has died in an explosion. -->
+  <HAR_ZC_Damage_c.deathMessage>{0} 死於一場爆炸。</HAR_ZC_Damage_c.deathMessage>
+  
+  <!-- EN: 地獄の杭 -->
+  <HAR_ZC_Damage_d.label>地獄之釘</HAR_ZC_Damage_d.label>
+  <!-- EN: {0} has died in an explosion. -->
+  <HAR_ZC_Damage_d.deathMessage>{0} 死於一場爆炸。</HAR_ZC_Damage_d.deathMessage>
+  
+  <!-- EN: 反魂 -->
+  <HAR_ZC_Damage_e.label>反魂</HAR_ZC_Damage_e.label>
+  <!-- EN: {0} has died in an explosion. -->
+  <HAR_ZC_Damage_e.deathMessage>{0} 死於一場爆炸。</HAR_ZC_Damage_e.deathMessage>
+  
+  <!-- EN: 断罪 -->
+  <HAR_ZC_Damage_EX.label>斷罪</HAR_ZC_Damage_EX.label>
+  <!-- EN: {0} has been shot to death. -->
+  <HAR_ZC_Damage_EX.deathMessage>{0} 被射殺了。</HAR_ZC_Damage_EX.deathMessage>
+  
+  <!-- EN: 反射 -->
+  <HAR_ZC_Damage_f.label>反射</HAR_ZC_Damage_f.label>
+  <!-- EN: {0} has died in an explosion. -->
+  <HAR_ZC_Damage_f.deathMessage>{0} 死於一場爆炸。</HAR_ZC_Damage_f.deathMessage>
+  
+  <!-- EN: 冥界送り -->
+  <HAR_ZC_Damage_y.label>送往冥界</HAR_ZC_Damage_y.label>
+  <!-- EN: {0} has died in an explosion. -->
+  <HAR_ZC_Damage_y.deathMessage>{0} 死於一場爆炸。</HAR_ZC_Damage_y.deathMessage>
+  
+</LanguageData>

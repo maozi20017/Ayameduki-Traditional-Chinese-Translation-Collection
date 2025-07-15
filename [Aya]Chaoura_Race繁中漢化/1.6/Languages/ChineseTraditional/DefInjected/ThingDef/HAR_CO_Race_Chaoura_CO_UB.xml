@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ケイオーラ・アヴァルツィオン -->
+  <HAR_CO_Race_Chaoura_z.label>混沌靈・阿瓦爾錫安</HAR_CO_Race_Chaoura_z.label>
+  <!-- EN: 創造主と神子亡き世で産まれ、イシュムーティトの中で一種しか許されない「霊長」の名を冠する人工霊長種族。\nアヴァルツィオンは器の名であり、魂の名をエフイェアシェルと呼ぶ。\n今までこの宙とは異なる世界で活動してきたため、同族と盟友ゾイコール以外その存在を認知されていなかった。\n彼女達が住まう異界と繋がる扉は、監獄惑星メラフにあるという。\n\n同じ属性であるが故に、神子殺しの裏に潜む■■■を知覚したケイオーラたちは独自の活動を開始。\n創造主と神子を崇めるケイオーラたちの宗教「冥天慮」を主導に、人知れず■■■討滅計画は進められた。\n\n彼女達が真っ先に求めたのは自己進化。そのための足掛かりとして\n創造主が蒐集したアーティファクトを可能な限りかき集め、研究と実験を繰り返す。\nそうして改造を繰り返した果てに、かつての神子と酷似した集合精神と化した。\n\n人工生命のシンギュラリティを突破したことで超存在の領域に至り、彼女達にとって肉体の滅びは死ではなくなった。\nだが、多くを超越した今でも怨敵■■■には到底敵わない。\n\n\nそれでも、いつか必ず。創造主と神子の報いを、あの者に与えよう。 -->
+  <HAR_CO_Race_Chaoura_z.description>在創造主與神子已逝的世界中誕生，創世紀中唯一被允許冠上「靈長」之名的人工靈長種族。\n阿瓦爾錫安是其容器之名，而魂的名字則被稱作受祝福者。\n由於她們一直活動於與這個宇宙不同的世界，除了同族與作為盟友的糾罪者之外，無人知曉她們的存在。\n據說，通往她們所居之異界的大門，位於監獄星球梅拉芙上。\n\n因為擁有同樣的屬性，感知到了在神子被殺的事件背後潛藏的■■■，混沌靈們開始了自己的行動。。\n她們主導著崇拜創造主與神子的宗教——「冥天慮」，並在無人知曉的情況下，展開對■■■的殲滅計畫。\n\n她們首先追求的是自我進化。作為第一步\n她們盡可能地收集創造主所蒐集的文物，反覆進行研究與實驗。\n在不斷地改造之下，她們成為了與過去的神子極為相似的集合意識。\n\n突破了人工生命的科技奇點，她們抵達了超存在的領域，對她們而言，肉體的毀滅已不再等同於死亡。\n然而，即便超越了萬物，她們依然無法與那仇敵■■■匹敵。\n\n\n即使如此，她們仍堅信，總有一天，必將讓那人承受來自創造主與神子的報應。</HAR_CO_Race_Chaoura_z.description>
+  <!-- EN: left fist -->
+  <HAR_CO_Race_Chaoura_z.tools.left_fist.label>左拳</HAR_CO_Race_Chaoura_z.tools.left_fist.label>
+  <!-- EN: right fist -->
+  <HAR_CO_Race_Chaoura_z.tools.right_fist.label>右拳</HAR_CO_Race_Chaoura_z.tools.right_fist.label>
+  
+  <HAR_CO_Race_Chaoura_z.comps.HAR_CO_UB_Comp_Skill_a.commandLabel>影之彗星</HAR_CO_Race_Chaoura_z.comps.HAR_CO_UB_Comp_Skill_a.commandLabel>
+  <HAR_CO_Race_Chaoura_z.comps.HAR_CO_UB_Comp_Skill_a.commandDesc>瞬間移動到射程内任意格子上</HAR_CO_Race_Chaoura_z.comps.HAR_CO_UB_Comp_Skill_a.commandDesc>
+  <HAR_CO_Race_Chaoura_z.comps.HAR_CO_UB_Comp_Skill_b.commandLabel>天之劍</HAR_CO_Race_Chaoura_z.comps.HAR_CO_UB_Comp_Skill_b.commandLabel>
+  <HAR_CO_Race_Chaoura_z.comps.HAR_CO_UB_Comp_Skill_b.commandDesc>向射程範圍內的任意格子發射5枚爆裂彈</HAR_CO_Race_Chaoura_z.comps.HAR_CO_UB_Comp_Skill_b.commandDesc>
+  <HAR_CO_Race_Chaoura_z.comps.HAR_CO_UB_Comp_Skill_c.commandLabel>天之劍</HAR_CO_Race_Chaoura_z.comps.HAR_CO_UB_Comp_Skill_c.commandLabel>
+  <HAR_CO_Race_Chaoura_z.comps.HAR_CO_UB_Comp_Skill_c.commandDesc>向射程範圍內的任意格子發射爆裂彈</HAR_CO_Race_Chaoura_z.comps.HAR_CO_UB_Comp_Skill_c.commandDesc>
+  <HAR_CO_Race_Chaoura_z.comps.HAR_CO_UB_Comp_Skill_z.commandLabel>光輝之希望</HAR_CO_Race_Chaoura_z.comps.HAR_CO_UB_Comp_Skill_z.commandLabel>
+  <HAR_CO_Race_Chaoura_z.comps.HAR_CO_UB_Comp_Skill_z.commandDesc>初始化顯現臨界。冷卻時間為一天。</HAR_CO_Race_Chaoura_z.comps.HAR_CO_UB_Comp_Skill_z.commandDesc>
+</LanguageData>

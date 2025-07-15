@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>[Aya]Idhale Race 繁中漢化</name>
+	<author>毛子</author>
+	<supportedVersions>
+        <li>1.4</li>
+        <li>1.5</li>
+		<li>1.6</li>
+	</supportedVersions>
+	<packageId>Maozi.ZH.ChinesePack.HARIdhale</packageId>
+	<loadAfter>
+		<li>Ayameduki.AyaRacePremise</li>
+		<li>Ayameduki.HARIdhale</li>
+		<li>ayameduki.haridhaleex</li>
+	</loadAfter>
+  <description>
+以[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2939441308]いつまで大佬的簡中漢化包[/url]為基底修改而成的繁中漢化
+
+漢化描述:
+
+【新增的種族】
+・幽靈姬(Idhale)
+―――――――――――――――――――――――――――――
+【獲得方式】
+・從黑市商人或奴隸商人那裡購買(低機率)。
+―――――――――――――――――――――――――――――
+【有效的MOD】
+・Nearmare Race
+可以穿著夜魔的服裝
+―――――――――――――――――――――――――――――
+【雖非必要但建議使用的MOD】
+・Camera+
+―――――――――――――――――――――――――――――
+這兩個MOD都可解決當角色戴上頭部裝備時頭髮消失的問題：
+・Hats Display Selection
+・[KV] Show Hair With Hats or Hide All Hats
+【================================================】
+【幽靈姬的特點】
+・壽命是人類的5倍
+・無法持有武器進行戰鬥。
+・感受性高，易受外界影響。
+・需要更長的時間來完成工作。
+・不容易感到飢餓，但進食非常緩慢。
+・易受疾病和毒素的影響，而且免疫力提升也比較困難。
+・不會受到傷害(但對於MOD添加的傷害，有時可能會受到影響)。
+・即使在極端的氣溫下也能夠活動。
+・移動速度較快。
+【================================================】
+【請注意】
+・本MOD的規格可能會因更新而改變。
+・本MOD不與原版角色外貌相容，且無法裝備原版角色外貌的服飾。
+	</description>
+	
+</ModMetaData>

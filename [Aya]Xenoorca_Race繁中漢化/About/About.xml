@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>[Aya]Xenoorca Race 繁中漢化</name>
+	<author>毛子</author>
+	<packageId>Maozi.ZH.ChinesePack.HARXenoorca</packageId>
+	<supportedVersions>
+        <li>1.4</li>
+        <li>1.5</li>
+		<li>1.6</li>
+	</supportedVersions>
+	<loadAfter>
+		<li>Ayameduki.AyaRacePremise</li>
+		<li>Ayameduki.HARXenoorca</li>
+		<li>ayameduki.harxenoorcaex</li>
+	</loadAfter>
+    <description>
+以[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2944445950]いつまで大佬的簡中漢化包[/url]為基底修改而成的繁中漢化
+
+漢化描述:
+
+【新增的種族】
+・人魚姬(Xenoorca)
+─────────────────────────────────────────────
+【新增的派系】
+・殺人鯨旅團
+這個敵對派系是持續存在的，一些個體使用專用武器。
+在約5年的時間內不會襲擊玩家(可能會根據難度的設定而有所不同)。
+
+・虎鯨傭兵團
+友好的人魚姬的派系
+─────────────────────────────────────────────
+【有效的MOD】
+・「SwimmingKit」 或 「Biomes! Islands」
+這個MOD可以讓你以12的速度在海上游泳。
+─────────────────────────────────────────────
+【雖非必要但建議使用的MOD】
+・Camera+
+─────────────────────────────────────────────
+這兩個MOD都可解決當角色戴上頭部裝備時頭髮消失的問題：
+・Hats Display Selection
+・[KV] Show Hair With Hats or Hide All Hats
+【================================================】
+【人魚姬的特點】
+・壽命是人類的2倍
+・基本戰鬥能力高，專用武器性能也很優秀。
+・熱攻擊是弱點，容易受病毒和毒素攻擊，且很難增強免疫系統，容易變得飢餓。
+・由於身體構造與人類不同，所以能裝備的東西較少。
+【================================================】
+【請注意】
+・本MOD的規格可能會因更新而改變。
+・本MOD不與原版角色外貌相容，且無法裝備原版角色外貌的服飾。
+	</description>
+
+</ModMetaData>

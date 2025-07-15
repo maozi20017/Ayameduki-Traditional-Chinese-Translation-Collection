@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_NM_Hediff_Energy_a.label>赫斯緹雅熔爐</HAR_NM_Hediff_Energy_a.label>
+  <HAR_NM_Hediff_Energy_a.description>夜魔・涅墨西斯內建的特殊機能包括。
+消耗能量來生成精密機械的機能。
+
+能量本身會隨著時間慢慢充電。
+可以使用專用技能「急速充電」來快速充能一定量的能量。</HAR_NM_Hediff_Energy_a.description>
+  <HAR_NM_Hediff_Energy_a.stages.1.label>EN:10%</HAR_NM_Hediff_Energy_a.stages.1.label>
+  <HAR_NM_Hediff_Energy_a.stages.2.label>EN:20%</HAR_NM_Hediff_Energy_a.stages.2.label>
+  <HAR_NM_Hediff_Energy_a.stages.3.label>EN:30%</HAR_NM_Hediff_Energy_a.stages.3.label>
+  <HAR_NM_Hediff_Energy_a.stages.4.label>EN:40%</HAR_NM_Hediff_Energy_a.stages.4.label>
+  <HAR_NM_Hediff_Energy_a.stages.5.label>EN:50%</HAR_NM_Hediff_Energy_a.stages.5.label>
+  <HAR_NM_Hediff_Energy_a.stages.6.label>EN:60%</HAR_NM_Hediff_Energy_a.stages.6.label>
+  <HAR_NM_Hediff_Energy_a.stages.7.label>EN:70%</HAR_NM_Hediff_Energy_a.stages.7.label>
+  <HAR_NM_Hediff_Energy_a.stages.8.label>EN:80%</HAR_NM_Hediff_Energy_a.stages.8.label>
+  <HAR_NM_Hediff_Energy_a.stages.9.label>EN:90%</HAR_NM_Hediff_Energy_a.stages.9.label>
+  <HAR_NM_Hediff_Energy_a.stages.10.label>EN:100%</HAR_NM_Hediff_Energy_a.stages.10.label>
+
+  <HAR_NM_Hediff_Energy_b.label>充電副作用</HAR_NM_Hediff_Energy_b.label>
+  <HAR_NM_Hediff_Energy_b.description>急速充電的副作用。
+增加卡路里消耗，容易感到饑餓。
+
+副作用持續24小時。</HAR_NM_Hediff_Energy_b.description>
+
+
+</LanguageData>

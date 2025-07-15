@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_Nearmaere_d.label>夜魔・溫蓋特</HAR_Nearmaere_d.label>
+  <HAR_Nearmaere_d.description>散發著異質感的謎之夜魔。
+名為「溫蓋特」，但在資料庫中找不到這樣的人工種族。
+她聲稱「擁有靈魂和肉體兩個名字」、其他的資料則一片未知。
+
+具有類似生物學家的知識和技術，對醫療和藥物配方也很了解。
+如果能從屍體中提取藥材，她可能會為殖民地開發出有益的藥物。
+
+以夜魔自稱，但無法使用原有的召喚眷屬的能力。
+相反地，其肉體強度已改善至人類水準。
+此外，可能是由於經歷豐富，精神上非常堅強，在非極端情況下不會崩潰。
+
+
+根據舊有資訊，曾經有一位名為「溫蓋特」的女性是創造主的助手。
+在她去世後，夜魔開始以一種突然變得完全不同的方式出現，這似乎是在固定的周期內發生的。
+這些事件是否有關聯，真相仍然不明。</HAR_Nearmaere_d.description>
+  <HAR_Nearmaere_d.alienRace.generalSettings.alienPartGenerator.bodyAddons.0.name>角</HAR_Nearmaere_d.alienRace.generalSettings.alienPartGenerator.bodyAddons.0.name>
+  <HAR_Nearmaere_d.alienRace.generalSettings.alienPartGenerator.bodyAddons.1.name>角</HAR_Nearmaere_d.alienRace.generalSettings.alienPartGenerator.bodyAddons.1.name>
+  <HAR_Nearmaere_d.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>hair</HAR_Nearmaere_d.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <HAR_Nearmaere_d.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>skin</HAR_Nearmaere_d.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
+  <HAR_Nearmaere_d.tools.0.label>left fist</HAR_Nearmaere_d.tools.0.label>
+  <HAR_Nearmaere_d.tools.1.label>right fist</HAR_Nearmaere_d.tools.1.label>
+
+  <HAR_Nearmaere_d.comps.HAR_NM_Comp_Skill_a.CommandLabel>死體解剖</HAR_Nearmaere_d.comps.HAR_NM_Comp_Skill_a.CommandLabel>
+  <HAR_Nearmaere_d.comps.HAR_NM_Comp_Skill_a.CommandDesc>選擇射程內任意一格解剖半徑為2的死體，並採集藥材。
+    \n可獲得的藥材取決於解剖的死體。
+    \n再次使用需等待12小時。</HAR_Nearmaere_d.comps.HAR_NM_Comp_Skill_a.CommandDesc>
+
+  <HAR_Nearmaere_d.comps.HAR_NM_Comp_Skill_b.CommandLabel>古老的醫術</HAR_Nearmaere_d.comps.HAR_NM_Comp_Skill_b.CommandLabel>
+  <HAR_Nearmaere_d.comps.HAR_NM_Comp_Skill_b.CommandDesc>治療目標的傷口。
+    \n發動消耗：
+    \n液態藥材：30</HAR_Nearmaere_d.comps.HAR_NM_Comp_Skill_b.CommandDesc>
+
+  <HAR_Nearmaere_d.comps.HAR_NM_Comp_Skill_c.CommandLabel>亞克特拉的靈藥</HAR_Nearmaere_d.comps.HAR_NM_Comp_Skill_c.CommandLabel>
+  <HAR_Nearmaere_d.comps.HAR_NM_Comp_Skill_c.CommandDesc>強化目標。
+    \n發動消耗：
+    \n液態藥材：20
+    \n固態藥材：10</HAR_Nearmaere_d.comps.HAR_NM_Comp_Skill_c.CommandDesc>
+
+  <HAR_Nearmaere_d.comps.HAR_NM_Comp_Skill_d.CommandLabel>艾蒂涅的魔藥</HAR_Nearmaere_d.comps.HAR_NM_Comp_Skill_d.CommandLabel>
+  <HAR_Nearmaere_d.comps.HAR_NM_Comp_Skill_d.CommandDesc>強化目標。
+    \n發動消耗：
+    \n液態藥材：20
+    \n粉末藥材：10</HAR_Nearmaere_d.comps.HAR_NM_Comp_Skill_d.CommandDesc>
+
+  <HAR_Nearmaere_d.comps.HAR_NM_Comp_Skill_e.CommandLabel>可能性的秘藥</HAR_Nearmaere_d.comps.HAR_NM_Comp_Skill_e.CommandLabel>
+  <HAR_Nearmaere_d.comps.HAR_NM_Comp_Skill_e.CommandDesc>復活目標。
+    \n發動消耗：
+    \n液態藥材：100
+    \n固態藥材：100
+    \n粉末藥材：100</HAR_Nearmaere_d.comps.HAR_NM_Comp_Skill_e.CommandDesc>
+
+  <HAR_Nearmaere_d.comps.HAR_NM_Comp_Skill_z.CommandLabel>■■■的死藥</HAR_Nearmaere_d.comps.HAR_NM_Comp_Skill_z.CommandLabel>
+  <HAR_Nearmaere_d.comps.HAR_NM_Comp_Skill_z.CommandDesc>強化目標。但是...
+    \n發動消耗：
+    \n液態藥材：280
+    \n固態藥材：280
+    \n粉末藥材：280</HAR_Nearmaere_d.comps.HAR_NM_Comp_Skill_z.CommandDesc>
+
+
+</LanguageData>

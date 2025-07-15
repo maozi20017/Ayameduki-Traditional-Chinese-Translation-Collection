@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>[Aya]Idea Storyteller 繁中漢化</name>
+	<author>毛子</author>
+	<supportedVersions>
+        <li>1.4</li>
+        <li>1.5</li>
+		<li>1.6</li>
+	</supportedVersions>
+	<packageId>Maozi.ZH.ChinesePack.ideastoryteller</packageId>
+	<loadAfter>
+		<li>Ayameduki.ideastoryteller</li>
+	</loadAfter>
+  <description>
+漢化描述
+	
+【================================================】
+【新增的故事講述者】
+『伊迪亞·C·科拉克斯』
+自稱為人工種族的神秘女性。
+推薦居住且多人遊玩，並請努力確保即使有很多定居者也不會受到襲擊（通常情況下）。
+但是對於離開星球的人們毫不寬容（適合想嚐到地獄滋味的人）。
+【================================================】
+【伊迪亞·C·科拉克斯的特徵】
+・在達到50人之前有機會加入定居者
+・襲擊更易於發生，但規模通常為0.4倍左右
+・一定週期（約45天左右）可能會連續發生通常規模的襲擊
+・在反應爐防禦時，會經常發生大量襲擊
+・事件更易於發生
+・人類疾病發生事件將在半年後發生
+【================================================】
+【請注意】
+・本MOD的規格可能會因更新而改變。
+	</description>
+	
+</ModMetaData>

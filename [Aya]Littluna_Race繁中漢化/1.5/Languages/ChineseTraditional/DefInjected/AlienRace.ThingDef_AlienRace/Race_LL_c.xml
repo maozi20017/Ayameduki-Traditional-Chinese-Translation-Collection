@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_Littluna_c.label>偽神族・可能性</HAR_Littluna_c.label>
+  <HAR_Littluna_c.description>『神子種偽神族・可能性』是在創造主去世後為了抑制內部分裂而創造的偶像。
+    可能性的基因中含有創造主的基因，因此被人工種族視為真正的神之子。
+    作為初代神子，可能性擁有比伊娃莉特更高的地位，在大戰後的世界中成為王室權威的象徵，並在真理教會中擔任領袖角色。
+
+    由於被設計成精神能力特化，所以每個個體的意識都被統合成一個集體精神的結構。
+    其能力『思想崇拝』可以將對象引入精神空間，進行無時間概念的對話。
+    可能性可能會花費數分鐘，甚至數萬年的時間，與對象成為親密的朋友。
+
+    但這強大能力必帶來代價，可能性的身體比起原種更加脆弱，因此需要更加細心的照顧。
+
+    在人工種族的故鄉，迦南上，可能性展現了她作為神子的才能，
+    但卻遭到她的騎士屠殺而滅絕。
+    即使在現代，也無法理解為何與神子最親近的騎士們會做出這種暴行。
+
+    現在在場的可能性是盡可能再現原始版本的產物，性能稍微遜色。</HAR_Littluna_c.description>
+  <HAR_Littluna_c.alienRace.generalSettings.alienPartGenerator.bodyAddons.0.name>羽</HAR_Littluna_c.alienRace.generalSettings.alienPartGenerator.bodyAddons.0.name>
+  <HAR_Littluna_c.alienRace.generalSettings.alienPartGenerator.bodyAddons.1.name>角</HAR_Littluna_c.alienRace.generalSettings.alienPartGenerator.bodyAddons.1.name>
+  <HAR_Littluna_c.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>hair</HAR_Littluna_c.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <HAR_Littluna_c.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>skin</HAR_Littluna_c.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
+  <HAR_Littluna_c.tools.0.label>left fist</HAR_Littluna_c.tools.0.label>
+  <HAR_Littluna_c.tools.1.label>right fist</HAR_Littluna_c.tools.1.label>
+  <HAR_Littluna_c.tools.2.label>left fist</HAR_Littluna_c.tools.2.label>
+  <HAR_Littluna_c.tools.3.label>right fist</HAR_Littluna_c.tools.3.label>
+
+  <HAR_Littluna_c.comps.HAR_LL_Comp_Skill.commandLabel>你好 朋友!</HAR_Littluna_c.comps.HAR_LL_Comp_Skill.commandLabel>
+  <HAR_Littluna_c.comps.HAR_LL_Comp_Skill.commandDesc>將射程內任意一格目標變為朋友。</HAR_Littluna_c.comps.HAR_LL_Comp_Skill.commandDesc>
+
+  <HAR_Littluna_c.comps.HAR_LL_Comp_Skill_b.commandLabel>神子的騎士</HAR_Littluna_c.comps.HAR_LL_Comp_Skill_b.commandLabel>
+  <HAR_Littluna_c.comps.HAR_LL_Comp_Skill_b.commandDesc>選擇射程內的任意一個格子，強化該格子周圍半徑3格的目標。</HAR_Littluna_c.comps.HAR_LL_Comp_Skill_b.commandDesc>
+
+  <HAR_Littluna_c.comps.HAR_LL_Comp_Skill_c.commandLabel>神子的天眼</HAR_Littluna_c.comps.HAR_LL_Comp_Skill_c.commandLabel>
+  <HAR_Littluna_c.comps.HAR_LL_Comp_Skill_c.commandDesc>選擇任意一個格子，對該格子周圍半徑8格內的非友方目標造成致命傷害。
+    \n\n如果不想死的話，就趴在地上吧。</HAR_Littluna_c.comps.HAR_LL_Comp_Skill_c.commandDesc>
+
+</LanguageData>

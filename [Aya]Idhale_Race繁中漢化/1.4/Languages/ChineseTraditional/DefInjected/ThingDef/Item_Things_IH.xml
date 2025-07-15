@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_IH_Item_a.label>光輝石</HAR_IH_Item_a.label>
+  <HAR_IH_Item_a.description>曾經模仿創造主所發現的上位存在的外殼的物質。
+		只有在人工種族中的幽靈姬・罪孽神靈的外殼上使用。
+		
+		這種材料的處理難度很高，但性能卓越。
+		就像羽毛一樣輕盈，同時也非常堅固。
+		對於需要多次切割的敵人來說特別有效。
+		
+		
+		如藍天般清澈的閃耀，據說那是那隻鳥所見到的最後光景。</HAR_IH_Item_a.description>
+
+<HAR_IH_Archotech_a.label>天國之鑰</HAR_IH_Archotech_a.label>
+<HAR_IH_Archotech_a.description>創造主遺留的蔚藍色鑰匙，使得第三者能夠與罪孽神靈締結契約。
+\n使用該鑰匙可以召喚幽靈姬・罪孽神靈成為盟友。</HAR_IH_Archotech_a.description>
+<HAR_IH_Archotech_a.comps.0.useLabel>啟動 {0_label}</HAR_IH_Archotech_a.comps.0.useLabel>
+
+</LanguageData>

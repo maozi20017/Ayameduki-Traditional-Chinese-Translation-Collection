@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_SK_Flame.label>熾熱之槍</HAR_SK_Flame.label>
+  <HAR_SK_Flame.deathMessage>{0} 被殺死了。</HAR_SK_Flame.deathMessage>
+
+  <HAR_SK_Flame_b.label>熔岩發射器</HAR_SK_Flame_b.label>
+  <HAR_SK_Flame_b.deathMessage>{0} 被殺死了。</HAR_SK_Flame_b.deathMessage>
+
+  <HAR_SK_Scratch.label>超震動刀刃</HAR_SK_Scratch.label>
+  <HAR_SK_Scratch.deathMessage>{0} 被殺死了。</HAR_SK_Scratch.deathMessage>
+
+  <HAR_SK_Damage_a.label>反物質干涉</HAR_SK_Damage_a.label>
+  <HAR_SK_Damage_a.deathMessage>{0} 被碾壓致死。</HAR_SK_Damage_a.deathMessage>
+
+  <HAR_SK_Skill_Damage_b.label>狐靈附身</HAR_SK_Skill_Damage_b.label>
+  <HAR_SK_Skill_Damage_b.deathMessage>{0} 被碾壓致死。</HAR_SK_Skill_Damage_b.deathMessage>
+
+  <HAR_SK_Skill_Damage_c.label>蠱毒</HAR_SK_Skill_Damage_c.label>
+  <HAR_SK_Skill_Damage_c.deathMessage>{0} 被碾壓致死。</HAR_SK_Skill_Damage_c.deathMessage>
+
+
+</LanguageData>

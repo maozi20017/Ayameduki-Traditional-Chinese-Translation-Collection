@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <NM_M_NightStalker.label>Lv1.夜潛獵手</NM_M_NightStalker.label>
+  <NM_M_NightStalker.description>夜魔的眷屬，雖然它本身攻擊力不如座狼，但是更敏捷，敵人很難逃脫。它的爪子和獠牙中含有毒素，被盯上的人在擊敗它後也不得不注意自身的中毒程度。</NM_M_NightStalker.description>
+  <NM_M_NightStalker.tools.0.label>左爪</NM_M_NightStalker.tools.0.label>
+  <NM_M_NightStalker.tools.1.label>右爪</NM_M_NightStalker.tools.1.label>
+  <NM_M_NightStalker.tools.2.label>獠牙</NM_M_NightStalker.tools.2.label>
+
+  <NM_M_NightStalker_b.label>Lv2.夜潛獵手</NM_M_NightStalker_b.label>
+  <NM_M_NightStalker_b.description>夜魔的眷屬，雖然它本身攻擊力不如座狼，但是更敏捷，敵人很難逃脫。它的爪子和獠牙中含有毒素，被盯上的人在擊敗它後也不得不注意自身的中毒程度。</NM_M_NightStalker_b.description>
+  <NM_M_NightStalker_b.tools.0.label>左爪</NM_M_NightStalker_b.tools.0.label>
+  <NM_M_NightStalker_b.tools.1.label>右爪</NM_M_NightStalker_b.tools.1.label>
+  <NM_M_NightStalker_b.tools.2.label>獠牙</NM_M_NightStalker_b.tools.2.label>
+
+  <NM_M_NightStalker_c.label>Lv3.夜潛獵手</NM_M_NightStalker_c.label>
+  <NM_M_NightStalker_c.description>夜魔的眷屬，雖然它本身攻擊力不如座狼，但是更敏捷，敵人很難逃脫。它的爪子和獠牙中含有毒素，被盯上的人在擊敗它後也不得不注意自身的中毒程度。</NM_M_NightStalker_c.description>
+  <NM_M_NightStalker_c.tools.0.label>左爪</NM_M_NightStalker_c.tools.0.label>
+  <NM_M_NightStalker_c.tools.1.label>右爪</NM_M_NightStalker_c.tools.1.label>
+  <NM_M_NightStalker_c.tools.2.label>獠牙</NM_M_NightStalker_c.tools.2.label>
+
+  <NM_M_NightStalker_d.label>Lv4.夜潛獵手</NM_M_NightStalker_d.label>
+  <NM_M_NightStalker_d.description>夜魔的眷屬，雖然它本身攻擊力不如座狼，但是更敏捷，敵人很難逃脫。它的爪子和獠牙中含有毒素，被盯上的人在擊敗它後也不得不注意自身的中毒程度。</NM_M_NightStalker_d.description>
+  <NM_M_NightStalker_d.tools.0.label>左爪</NM_M_NightStalker_d.tools.0.label>
+  <NM_M_NightStalker_d.tools.1.label>右爪</NM_M_NightStalker_d.tools.1.label>
+  <NM_M_NightStalker_d.tools.2.label>獠牙</NM_M_NightStalker_d.tools.2.label>
+
+  <NM_M_NightStalker_e.label>Lv5.夜潛獵手</NM_M_NightStalker_e.label>
+  <NM_M_NightStalker_e.description>夜魔的眷屬，雖然它本身攻擊力不如座狼，但是更敏捷，敵人很難逃脫。它的爪子和獠牙中含有毒素，被盯上的人在擊敗它後也不得不注意自身的中毒程度。</NM_M_NightStalker_e.description>
+  <NM_M_NightStalker_e.tools.0.label>左爪</NM_M_NightStalker_e.tools.0.label>
+  <NM_M_NightStalker_e.tools.1.label>右爪</NM_M_NightStalker_e.tools.1.label>
+  <NM_M_NightStalker_e.tools.2.label>獠牙</NM_M_NightStalker_e.tools.2.label>
+
+  <NM_M_NightGaunts.label>Lv1.噩夢駭獸</NM_M_NightGaunts.label>
+  <NM_M_NightGaunts.description>夜魔的眷屬，它的觸手具有能帶來急劇溫度變化的構造和性質\n被它啃咬的目標會被快速奪走熱量或被注入足以自燃的熱量。</NM_M_NightGaunts.description>
+  <NM_M_NightGaunts.tools.0.label>左爪</NM_M_NightGaunts.tools.0.label>
+  <NM_M_NightGaunts.tools.1.label>右爪</NM_M_NightGaunts.tools.1.label>
+
+  <NM_M_NightGaunts_b.label>Lv2.噩夢駭獸</NM_M_NightGaunts_b.label>
+  <NM_M_NightGaunts_b.description>夜魔的眷屬，它的觸手具有能帶來急劇溫度變化的構造和性質\n被它啃咬的目標會被快速奪走熱量或被注入足以自燃的熱量。</NM_M_NightGaunts_b.description>
+  <NM_M_NightGaunts_b.tools.0.label>左爪</NM_M_NightGaunts_b.tools.0.label>
+  <NM_M_NightGaunts_b.tools.1.label>右爪</NM_M_NightGaunts_b.tools.1.label>
+
+  <NM_M_NightGaunts_c.label>Lv3.噩夢駭獸</NM_M_NightGaunts_c.label>
+  <NM_M_NightGaunts_c.description>夜魔的眷屬，它的觸手具有能帶來急劇溫度變化的構造和性質\n被它啃咬的目標會被快速奪走熱量或被注入足以自燃的熱量。</NM_M_NightGaunts_c.description>
+  <NM_M_NightGaunts_c.tools.0.label>左爪</NM_M_NightGaunts_c.tools.0.label>
+  <NM_M_NightGaunts_c.tools.1.label>右爪</NM_M_NightGaunts_c.tools.1.label>
+
+  <NM_M_NightGaunts_d.label>Lv4.噩夢駭獸</NM_M_NightGaunts_d.label>
+  <NM_M_NightGaunts_d.description>夜魔的眷屬，它的觸手具有能帶來急劇溫度變化的構造和性質\n被它啃咬的目標會被快速奪走熱量或被注入足以自燃的熱量。</NM_M_NightGaunts_d.description>
+  <NM_M_NightGaunts_d.tools.0.label>左爪</NM_M_NightGaunts_d.tools.0.label>
+  <NM_M_NightGaunts_d.tools.1.label>右爪</NM_M_NightGaunts_d.tools.1.label>
+
+  <NM_M_NightGaunts_e.label>Lv5.噩夢駭獸</NM_M_NightGaunts_e.label>
+  <NM_M_NightGaunts_e.description>夜魔的眷屬，它的觸手具有能帶來急劇溫度變化的構造和性質\n被它啃咬的目標會被快速奪走熱量或被注入足以自燃的熱量。</NM_M_NightGaunts_e.description>
+  <NM_M_NightGaunts_e.tools.0.label>左爪</NM_M_NightGaunts_e.tools.0.label>
+  <NM_M_NightGaunts_e.tools.1.label>右爪</NM_M_NightGaunts_e.tools.1.label>
+
+  <NM_M_Nearmaere.label>Lv1.永夜巨獸</NM_M_Nearmaere.label>
+  <NM_M_Nearmaere.description>夜魔的眷屬，以結識龐大的身軀和出色的防禦力為傲，它的巨大身軀攻擊可以無限壓制敵方的任何行動，即使是敵方的反擊也無法成功擺脫壓制。</NM_M_Nearmaere.description>
+  <NM_M_Nearmaere.tools.0.label>左爪</NM_M_Nearmaere.tools.0.label>
+  <NM_M_Nearmaere.tools.1.label>右爪</NM_M_Nearmaere.tools.1.label>
+  <NM_M_Nearmaere.tools.2.label>獠牙</NM_M_Nearmaere.tools.2.label>
+  <NM_M_Nearmaere.tools.3.label>head</NM_M_Nearmaere.tools.3.label>
+
+  <NM_M_Nightmare.label>Lv1.永夜巨獸</NM_M_Nightmare.label>
+  <NM_M_Nightmare.description>夜魔的眷屬，以結識龐大的身軀和出色的防禦力為傲，它的巨大身軀攻擊可以無限壓制敵方的任何行動，即使是敵方的反擊也無法成功擺脫壓制。</NM_M_Nightmare.description>
+  <NM_M_Nightmare.tools.0.label>左爪</NM_M_Nightmare.tools.0.label>
+  <NM_M_Nightmare.tools.1.label>右爪</NM_M_Nightmare.tools.1.label>
+  <NM_M_Nightmare.tools.2.label>獠牙</NM_M_Nightmare.tools.2.label>
+  <NM_M_Nightmare.tools.3.label>head</NM_M_Nightmare.tools.3.label>
+
+  <NM_M_Nightmare_b.label>Lv2.永夜巨獸</NM_M_Nightmare_b.label>
+  <NM_M_Nightmare_b.description>夜魔的眷屬，以結識龐大的身軀和出色的防禦力為傲，它的巨大身軀攻擊可以無限壓制敵方的任何行動，即使是敵方的反擊也無法成功擺脫壓制。</NM_M_Nightmare_b.description>
+  <NM_M_Nightmare_b.tools.0.label>左爪</NM_M_Nightmare_b.tools.0.label>
+  <NM_M_Nightmare_b.tools.1.label>右爪</NM_M_Nightmare_b.tools.1.label>
+  <NM_M_Nightmare_b.tools.2.label>獠牙</NM_M_Nightmare_b.tools.2.label>
+  <NM_M_Nightmare_b.tools.3.label>head</NM_M_Nightmare_b.tools.3.label>
+
+  <NM_M_Nightmare_c.label>Lv3.永夜巨獸</NM_M_Nightmare_c.label>
+  <NM_M_Nightmare_c.description>夜魔的眷屬，以結識龐大的身軀和出色的防禦力為傲，它的巨大身軀攻擊可以無限壓制敵方的任何行動，即使是敵方的反擊也無法成功擺脫壓制。</NM_M_Nightmare_c.description>
+  <NM_M_Nightmare_c.tools.0.label>左爪</NM_M_Nightmare_c.tools.0.label>
+  <NM_M_Nightmare_c.tools.1.label>右爪</NM_M_Nightmare_c.tools.1.label>
+  <NM_M_Nightmare_c.tools.2.label>獠牙</NM_M_Nightmare_c.tools.2.label>
+  <NM_M_Nightmare_c.tools.3.label>head</NM_M_Nightmare_c.tools.3.label>
+
+  <NM_M_Nightmare_d.label>Lv4.永夜巨獸</NM_M_Nightmare_d.label>
+  <NM_M_Nightmare_d.description>夜魔的眷屬，以結識龐大的身軀和出色的防禦力為傲，它的巨大身軀攻擊可以無限壓制敵方的任何行動，即使是敵方的反擊也無法成功擺脫壓制。</NM_M_Nightmare_d.description>
+  <NM_M_Nightmare_d.tools.0.label>左爪</NM_M_Nightmare_d.tools.0.label>
+  <NM_M_Nightmare_d.tools.1.label>右爪</NM_M_Nightmare_d.tools.1.label>
+  <NM_M_Nightmare_d.tools.2.label>獠牙</NM_M_Nightmare_d.tools.2.label>
+  <NM_M_Nightmare_d.tools.3.label>head</NM_M_Nightmare_d.tools.3.label>
+
+  <NM_M_Nightmare_e.label>Lv5.永夜巨獸</NM_M_Nightmare_e.label>
+  <NM_M_Nightmare_e.description>夜魔的眷屬，以結識龐大的身軀和出色的防禦力為傲，它的巨大身軀攻擊可以無限壓制敵方的任何行動，即使是敵方的反擊也無法成功擺脫壓制。</NM_M_Nightmare_e.description>
+  <NM_M_Nightmare_e.tools.0.label>左爪</NM_M_Nightmare_e.tools.0.label>
+  <NM_M_Nightmare_e.tools.1.label>右爪</NM_M_Nightmare_e.tools.1.label>
+  <NM_M_Nightmare_e.tools.2.label>獠牙</NM_M_Nightmare_e.tools.2.label>
+  <NM_M_Nightmare_e.tools.3.label>head</NM_M_Nightmare_e.tools.3.label>
+
+  <HAR_NM_M_KUT.label>教徒</HAR_NM_M_KUT.label>
+  <HAR_NM_M_KUT.description>夜魔的眷屬，是夜魔對創造主的信仰之心的化身。\n\n和通常的夜魔召喚出來的眷屬們相比，攻擊性更差但是持久性更好，可以維持3天的存在。\n另外，也許是因為憎恨機械生命體的緣故，它的攻擊具有使機械族短路的性質。</HAR_NM_M_KUT.description>
+  <HAR_NM_M_KUT.tools.0.label>拳擊</HAR_NM_M_KUT.tools.0.label>
+  <HAR_NM_M_KUT.tools.1.label>毆打</HAR_NM_M_KUT.tools.1.label>
+
+  <HAR_NM_M_KUT_b.label>教徒</HAR_NM_M_KUT_b.label>
+  <HAR_NM_M_KUT_b.description>夜魔的眷屬，是夜魔對創造主的信仰之心的化身。\n\n和通常的夜魔召喚出來的眷屬們相比，攻擊性更差但是持久性更好，可以維持3天的存在。\n另外，也許是因為憎恨機械生命體的緣故，它的攻擊具有使機械族短路的性質。</HAR_NM_M_KUT_b.description>
+  <HAR_NM_M_KUT_b.tools.0.label>拳擊</HAR_NM_M_KUT_b.tools.0.label>
+  <HAR_NM_M_KUT_b.tools.1.label>毆打</HAR_NM_M_KUT_b.tools.1.label>
+
+
+</LanguageData>

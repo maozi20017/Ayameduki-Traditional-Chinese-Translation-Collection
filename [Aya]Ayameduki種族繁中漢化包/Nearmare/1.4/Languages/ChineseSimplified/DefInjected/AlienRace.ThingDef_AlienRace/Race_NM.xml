@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_Nearmaere.label>夜魔</HAR_Nearmaere.label>
+  <HAR_Nearmaere.description>夜魔是宙族某一派系創造的人工種族。為了不讓她們建立國家或者大型派系，在其基因上進行了修改，使得她們只能生育出女性。最初的創建目的是『精神干涉型人形生物武器』，但由於諸如持續控制和能力強度等問題而被放棄，作為『間諜專家』而被啟用並接受培訓，在此期間開展情報活動。由於她們受過良好的教育和自由的生活，她們對人類沒有厭惡感。
+    \n由於內部的衝突，夜魔的勢力被瓦解，倖存下來的部分夜魔利用天生的力量潛伏在人類的部落或是城市中，維繫著她們的血脈。
+    \n精神干擾需要專用的放大器作為武器，也可以召喚眷屬。但是作為代價，她們的身體素質很低，所以必須活用眷屬為自己效力，並且與人類和其他種族的合作是必要的。</HAR_Nearmaere.description>
+  <HAR_Nearmaere.comps.CSS_CompSummonSLave.AutoLabel>召喚眷屬(自動召喚)</HAR_Nearmaere.comps.CSS_CompSummonSLave.AutoLabel>
+  <HAR_Nearmaere.comps.CSS_CompSummonSLave.AutoDesc>開啟自動召喚的時候，處於徵召狀態並且周圍有敵對生物就會自動召喚眷屬。眷屬召喚數量和等級根據『人工種族』的Lv變動，冷卻時間為2天。</HAR_Nearmaere.comps.CSS_CompSummonSLave.AutoDesc>
+  
+  <HAR_Nearmaere.comps.CSS_CompSummonSLave.CommandLabel>召喚眷屬(主動召喚)</HAR_Nearmaere.comps.CSS_CompSummonSLave.CommandLabel>
+  <HAR_Nearmaere.comps.CSS_CompSummonSLave.CommandDesc>主動召喚一些眷屬。眷屬召喚數量和等級根據根據『人工種族』的Lv變動，冷卻時間為2天。</HAR_Nearmaere.comps.CSS_CompSummonSLave.CommandDesc>
+
+
+  <HAR_Nearmaere_b.label>夜魔・信仰系</HAR_Nearmaere_b.label>
+  <HAR_Nearmaere_b.description>夜魔・信仰系是信仰心很深的夜魔們對創造主的作為進行信仰，自己通過反覆的變革·修剪獲得了新的性質的變異種。\n因為和通常的夜魔不同，心靈能力強又經過嚴格的修行，持續的改善著。\n召喚的眷屬也是根據信仰心召喚出來的信徒們的靈魂，持久性非常出色。</HAR_Nearmaere_b.description>
+
+  <HAR_Nearmaere_b.comps.CSS_CompSummonSLave.AutoLabel>召喚眷屬(自動召喚)</HAR_Nearmaere_b.comps.CSS_CompSummonSLave.AutoLabel>
+  <HAR_Nearmaere_b.comps.CSS_CompSummonSLave.AutoDesc>開啟自動召喚的時候，處於徵召狀態並且周圍有敵對生物就會自動召喚眷屬。眷屬召喚數量和等級根據『人工種族』的Lv變動，冷卻時間為1天。</HAR_Nearmaere_b.comps.CSS_CompSummonSLave.AutoDesc>
+
+  <HAR_Nearmaere_b.comps.CSS_CompSummonSLave.CommandLabel>召喚眷屬(主動召喚)</HAR_Nearmaere_b.comps.CSS_CompSummonSLave.CommandLabel>
+  <HAR_Nearmaere_b.comps.CSS_CompSummonSLave.CommandDesc>主動召喚一些眷屬。眷屬召喚數量和等級根據根據『人工種族』的Lv變動，冷卻時間為1天。</HAR_Nearmaere_b.comps.CSS_CompSummonSLave.CommandDesc>
+
+  <HAR_Nearmaere_c.label>夜魔・阿拉迪亞</HAR_Nearmaere_c.label>
+  <HAR_Nearmaere_c.description>『幻景種夜魔・阿拉迪亞』是從夜魔以後的人工種族得到的數據運用下被重新設計的夜魔完成形態的物種。因為不敢叫物種的名字，所以現在被稱為『棺之君主』，同族的人工種族們現在也很害怕。耐力和人類沒有太大的差別，但是精神干擾和召喚能力得到了極端強化，不僅僅是單純的召喚，還能驅使各種各樣的能量，而且還能把這些能量帶到很遠的地方。像魔法一樣操縱事物的身姿宛如魔女一般，在創造主健在的時代作為率領夜魔們的上位個體發揮著力量。
+    \n但是只聽創造主的命令而不聽從王族的命令，因此據說在當時的人工種族中有自己獨特的地位。創造主死後，她們自由自在地施展自己的力量，成為許多行星上災難的源頭。
+    \n最終被重視現狀的三大派系制服，並提出了以極刑根除阿拉迪亞系的方案，但作為最起碼的慈悲和憐憫，封印在魔女之棺中。封印解除後後的她表面上看起來像個有智慧的人，主要通過研究和醫術來支撐群體。
+    \n但是內心的想法誰也不知道，而且有可能因為魔性的美貌而使群體的人際關係崩潰。夜魔・阿拉迪亞系擁有被稱為『滅絕召喚』的禁術，如果要使用的話請注意『區域裡沒有她以外的殖民地的所有居民(包括動物)！！！！！！！。</HAR_Nearmaere_c.description>
+
+  <HAR_Nearmaere_c.comps.Comp_HAR_NM_Skill.CommandLabel>滅絕之劫</HAR_Nearmaere_c.comps.Comp_HAR_NM_Skill.CommandLabel>
+  <HAR_Nearmaere_c.comps.Comp_HAR_NM_Skill.CommandDesc>對可以使用該能力的範圍內的任意位置為中心，產生範圍3格的傷害化衝擊波。</HAR_Nearmaere_c.comps.Comp_HAR_NM_Skill.CommandDesc>
+
+  <HAR_Nearmaere_c.comps.Comp_HAR_NM_Skill_b.CommandLabel>毀滅之息</HAR_Nearmaere_c.comps.Comp_HAR_NM_Skill_b.CommandLabel>
+  <HAR_Nearmaere_c.comps.Comp_HAR_NM_Skill_b.CommandDesc>對可以使用該能力的範圍內的任意位置為中心，產生範圍3格的精神狂暴化衝擊波，該能力對友軍不構成敵對行為。冷卻時間為1天。</HAR_Nearmaere_c.comps.Comp_HAR_NM_Skill_b.CommandDesc>
+
+  <HAR_Nearmaere_c.comps.Comp_HAR_NM_Skill_c.CommandLabel>頹廢之咒</HAR_Nearmaere_c.comps.Comp_HAR_NM_Skill_c.CommandLabel>
+  <HAR_Nearmaere_c.comps.Comp_HAR_NM_Skill_c.CommandDesc>對可以使用該能力的範圍內的任意位置為中心，產生範圍3格的鈍化精神衝擊波。冷卻時間為1天。</HAR_Nearmaere_c.comps.Comp_HAR_NM_Skill_c.CommandDesc>
+
+  <HAR_Nearmaere_c.comps.Comp_HAR_NM_Skill_d.CommandLabel>極度之寒</HAR_Nearmaere_c.comps.Comp_HAR_NM_Skill_d.CommandLabel>
+  <HAR_Nearmaere_c.comps.Comp_HAR_NM_Skill_d.CommandDesc>對可以使用該能力的範圍內的任意位置為中心，產生範圍10格的持續造成冰凍傷害的極寒區域。冷卻時間為1天。</HAR_Nearmaere_c.comps.Comp_HAR_NM_Skill_d.CommandDesc>
+
+  <HAR_Nearmaere_c.comps.Comp_HAR_NM_Skill_e.CommandLabel>深淵之暗</HAR_Nearmaere_c.comps.Comp_HAR_NM_Skill_e.CommandLabel>
+  <HAR_Nearmaere_c.comps.Comp_HAR_NM_Skill_e.CommandDesc>對可以使用該能力的範圍內的任意位置為中心，產生範圍12格產生使目標防禦脆弱化的衝擊波。冷卻時間為1天。</HAR_Nearmaere_c.comps.Comp_HAR_NM_Skill_e.CommandDesc>
+
+  <HAR_Nearmaere_c.comps.CSS_CompSummonSLave.CommandLabel>遏絶召喚(主動召喚)</HAR_Nearmaere_c.comps.CSS_CompSummonSLave.CommandLabel>
+  <HAR_Nearmaere_c.comps.CSS_CompSummonSLave.CommandDesc>主動召喚1個超自然存在\n【推薦使用前保存】</HAR_Nearmaere_c.comps.CSS_CompSummonSLave.CommandDesc>
+
+  <HAR_Nearmaere_c.comps.CSS_CompSummonSLave.AutoLabel>遏絶召喚(自動召喚)</HAR_Nearmaere_c.comps.CSS_CompSummonSLave.AutoLabel>
+  <HAR_Nearmaere_c.comps.CSS_CompSummonSLave.AutoDesc>開啟自動召喚的時候，處於徵召狀態並且周圍有敵對生物就會自動召喚超自然存在。\n【推薦使用前保存】</HAR_Nearmaere_c.comps.CSS_CompSummonSLave.AutoDesc>
+
+</LanguageData>

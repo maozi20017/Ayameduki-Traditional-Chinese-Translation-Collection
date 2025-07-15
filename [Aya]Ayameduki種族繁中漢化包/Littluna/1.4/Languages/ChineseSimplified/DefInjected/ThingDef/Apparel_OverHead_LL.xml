@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ■リトルカチューシャ -->
+
+  <HAR_LL_H_a.label>小小髮箍(偽神族)</HAR_LL_H_a.label>
+  <HAR_LL_H_a.description>偽神族專用的頭部裝備。</HAR_LL_H_a.description>
+
+
+  <!-- ■リトルリボン -->
+
+  <HAR_LL_H_b.label>小小緞帶(偽神族)</HAR_LL_H_b.label>
+  <HAR_LL_H_b.description>偽神族專用的頭部裝備。</HAR_LL_H_b.description>
+
+
+  <!-- ■リトルクラウン -->
+
+  <HAR_LL_H_c.label>小小皇冠頭飾(偽神族)</HAR_LL_H_c.label>
+  <HAR_LL_H_c.description>偽神族專用的頭部裝備。</HAR_LL_H_c.description>
+
+
+  <!-- ■リトルマフラー -->
+
+  <HAR_LL_H_e.label>小小圍巾(偽神族)</HAR_LL_H_e.label>
+  <HAR_LL_H_e.description>偽神族專用的頭部裝備。</HAR_LL_H_e.description>
+
+
+  <!-- ■フォビドゥンヘルメット -->
+
+  <HAR_LL_H_f.label>禁斷頭盔(偽神族)</HAR_LL_H_f.label>
+  <HAR_LL_H_f.description>偽神族專用的頭盔。為身體脆弱的偽神族們定制的戰鬥用頭盔，但實際上從未被動用過。</HAR_LL_H_f.description>
+
+
+</LanguageData>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: フュラクスハット -->
+  <HAR_ZC_Heads_a.label>看守者帽子</HAR_ZC_Heads_a.label>
+  <!-- EN: ゾイコールが愛用している帽子。\nその厳格さを感じさせるデザインは、彼女達が秩序側の存在であることを主張している。 -->
+  <HAR_ZC_Heads_a.description>糾罪者愛用的帽子。\n其設計風格嚴謹莊重，彰顯了她們作為秩序陣營存在的立場。</HAR_ZC_Heads_a.description>
+  
+  <!-- EN: フュラクスマフラー -->
+  <HAR_ZC_Heads_b.label>看守者圍巾</HAR_ZC_Heads_b.label>
+  <!-- EN: ゾイコールが愛用しているマフラー。\n寒い地域では欠かせないもの。元々寒さに強い彼女たちにとってはおしゃれアイテムとして扱われている。 -->
+  <HAR_ZC_Heads_b.description>糾罪者愛用的圍巾。\n在寒冷地區是不可或缺的物品，對原本就耐寒的她們而言，則被當作時尚配件來使用。</HAR_ZC_Heads_b.description>
+  
+  <!-- EN: フュラクスティアラ -->
+  <HAR_ZC_Heads_c.label>看守者箍冠</HAR_ZC_Heads_c.label>
+  <!-- EN: ゾイコールが愛用しているティアラ。\n極寒の惑星を支配する彼女達には相応しい冠。 -->
+  <HAR_ZC_Heads_c.description>糾罪者愛用的箍冠。\n對於統治極寒星球的她們而言，這正是與其地位相稱的冠冕。</HAR_ZC_Heads_c.description>
+  
+  <!-- EN: ゲエンナヘルメット -->
+  <HAR_ZC_Heads_d.label>地獄頭盔</HAR_ZC_Heads_d.label>
+  <!-- EN: ゾイコールが看守として活動する際に身に着ける外套。\n顔を伺えぬ者から与えられる刑罰は罪人の恐怖をより煽り、故に効果的であった。 -->
+  <HAR_ZC_Heads_d.description>糾罪者擔任看守時所穿著的頭盔。\n來自無法看清面容之人的刑罰，更加深了罪人的恐懼，因此效果顯著。</HAR_ZC_Heads_d.description>
+  
+  <!-- EN: ケイオスマスク -->
+  <HAR_ZC_Heads_e.label>混沌面具</HAR_ZC_Heads_e.label>
+  <!-- EN: 暗い色の衣服を好むゾイコールには似つかわしい白い外套。\n盟友であるケイオーラたちから送られたもの。\n大事な行事がある際にこれを身に付けるという。 -->
+  <HAR_ZC_Heads_e.description>對喜愛暗色服裝的糾罪者而言，這件白色外套顯得格外特別。\n這是她的盟友混沌靈送給她的禮物。\n據說她會在重要儀式時穿上這件外套。</HAR_ZC_Heads_e.description>
+  
+</LanguageData>

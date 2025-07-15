@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_NC_Berserk.label>發狂</HAR_NC_Berserk.label>
+  <HAR_NC_Berserk.beginLetter>{0} 已經發狂。</HAR_NC_Berserk.beginLetter>
+  <HAR_NC_Berserk.recoveryMessage>{0} 恢復了平靜。</HAR_NC_Berserk.recoveryMessage>
+  <HAR_NC_Berserk.baseInspectLine>發狂</HAR_NC_Berserk.baseInspectLine>
+
+
+</LanguageData>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_NC_Item_a.label>血色蜂蜜酒</HAR_NC_Item_a.label>
+  <HAR_NC_Item_a.description>濃稠且紅色的蜂蜜酒。
+是某位工匠突然間瘋狂似地製作出的奇特作品。
+據說使用後會帶來極不祥的事情。
+
+
+這是一個帶有傳說的物品，據說是一個狂熱信徒為了與某種存在交流而使用的。
+然而，對方是無法理解的存在，該信徒最終被殘忍地殺害。
+如果持有者是一個明智之人，絕對不應打開封印。
+
+
+
+『為什麼我做出了這樣的東西。自從遇見那個東西後，我對自我產生了懷疑。有沒有人能夠幫我停止這無盡的耳語。我的夢境充滿了惡夢。』</HAR_NC_Item_a.description>
+  <HAR_NC_Item_a.comps.0.useLabel>Activate {0_label}</HAR_NC_Item_a.comps.0.useLabel>
+
+
+</LanguageData>

@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_IH_Hediff_EX_a.label>萬軍之主的存在</HAR_IH_Hediff_EX_a.label>
+  <HAR_IH_Hediff_EX_a.description>創造主賦予了幽靈姬・罪孽神靈超凡的力量。
+  \n這是一道擁有治癒和磨練萬物的榮耀之光，它能超越死亡。
+  \n隨著開放的程度增加，她們將變得超越凡人，但也有著限制，若完全開放到100％，就無法再次復活。
+  \n\n創造主的存在無處不在，已達到極致。
+  \n因此，創造主害怕自己的技術成為宇宙的癌症，為了未來的防止而留下了壓制的力量。
+  \n誰被視為潛在的敵人，只有創造主自己知道。</HAR_IH_Hediff_EX_a.description>
+  <HAR_IH_Hediff_EX_a.stages.0.label>20％</HAR_IH_Hediff_EX_a.stages.0.label>
+
+  <HAR_IH_Hediff_EX_b.label>萬軍之主的存在</HAR_IH_Hediff_EX_b.label>
+  <HAR_IH_Hediff_EX_b.description>創造主賦予了幽靈姬・罪孽神靈超凡的力量。
+  \n這是一道擁有治癒和磨練萬物的榮耀之光，它能超越死亡。
+  \n隨著開放的程度增加，她們將變得超越凡人，但也有著限制，若完全開放到100％，就無法再次復活。
+  \n\n創造主的存在無處不在，已達到極致。
+  \n因此，創造主害怕自己的技術成為宇宙的癌症，為了未來的防止而留下了壓制的力量。
+  \n誰被視為潛在的敵人，只有創造主自己知道。</HAR_IH_Hediff_EX_b.description>
+  <HAR_IH_Hediff_EX_b.stages.0.label>40％</HAR_IH_Hediff_EX_b.stages.0.label>
+
+  <HAR_IH_Hediff_EX_c.label>萬軍之主的存在</HAR_IH_Hediff_EX_c.label>
+  <HAR_IH_Hediff_EX_c.description>創造主賦予了幽靈姬・罪孽神靈超凡的力量。
+  \n這是一道擁有治癒和磨練萬物的榮耀之光，它能超越死亡。
+  \n隨著開放的程度增加，她們將變得超越凡人，但也有著限制，若完全開放到100％，就無法再次復活。
+  \n\n創造主的存在無處不在，已達到極致。
+  \n因此，創造主害怕自己的技術成為宇宙的癌症，為了未來的防止而留下了壓制的力量。
+  \n誰被視為潛在的敵人，只有創造主自己知道。</HAR_IH_Hediff_EX_c.description>
+  <HAR_IH_Hediff_EX_c.stages.0.label>60％</HAR_IH_Hediff_EX_c.stages.0.label>
+
+  <HAR_IH_Hediff_EX_d.label>萬軍之主的存在</HAR_IH_Hediff_EX_d.label>
+  <HAR_IH_Hediff_EX_d.description>創造主賦予了幽靈姬・罪孽神靈超凡的力量。
+  \n這是一道擁有治癒和磨練萬物的榮耀之光，它能超越死亡。
+  \n隨著開放的程度增加，她們將變得超越凡人，但也有著限制，若完全開放到100％，就無法再次復活。
+  \n\n創造主的存在無處不在，已達到極致。
+  \n因此，創造主害怕自己的技術成為宇宙的癌症，為了未來的防止而留下了壓制的力量。
+  \n誰被視為潛在的敵人，只有創造主自己知道。</HAR_IH_Hediff_EX_d.description>
+  <HAR_IH_Hediff_EX_d.stages.0.label>80％</HAR_IH_Hediff_EX_d.stages.0.label>
+
+  <HAR_IH_Hediff_EX_e.label>萬軍之主的存在</HAR_IH_Hediff_EX_e.label>
+  <HAR_IH_Hediff_EX_e.description>創造主賦予了幽靈姬・罪孽神靈超凡的力量。
+  \n這是一道擁有治癒和磨練萬物的榮耀之光，它能超越死亡。
+  \n隨著開放的程度增加，她們將變得超越凡人，但也有著限制，若完全開放到100％，就無法再次復活。
+  \n\n創造主的存在無處不在，已達到極致。
+  \n因此，創造主害怕自己的技術成為宇宙的癌症，為了未來的防止而留下了壓制的力量。
+  \n誰被視為潛在的敵人，只有創造主自己知道。</HAR_IH_Hediff_EX_e.description>
+  <HAR_IH_Hediff_EX_e.stages.0.label>100％</HAR_IH_Hediff_EX_e.stages.0.label>
+
+  <HAR_IH_Hediff_Death.label>死亡與重生</HAR_IH_Hediff_Death.label>
+  <HAR_IH_Hediff_Death.description>。</HAR_IH_Hediff_Death.description>
+
+  <HAR_IH_Hediff_ZZZ.label>對主的屈尊</HAR_IH_Hediff_ZZZ.label>
+  <HAR_IH_Hediff_ZZZ.description>幽靈姬・罪孽神靈的萬軍之主的存在所釋放的波動。
+  \n能使受影響的人無法行動，只能俯首伏地。
+  \n經過1天後會解除。</HAR_IH_Hediff_ZZZ.description>
+
+  <Idhale_Artificial.label>人工種族(幽靈姬)</Idhale_Artificial.label>
+  <Idhale_Artificial.description>幽靈姬由於靈體性質原因，物理干擾需要先進的技術支持，所以工作效率較低，而且對疾病的抵抗力和免疫力低下。
+  \n但是她們每天都在不斷的成長，一點點的克服自己的缺點，她們的強度取決於她們個人的Lv等級，大約1年提升1級(上限為5級)。</Idhale_Artificial.description>
+  <Idhale_Artificial.stages.0.label>Lv1</Idhale_Artificial.stages.0.label>
+  <Idhale_Artificial.stages.1.label>Lv2</Idhale_Artificial.stages.1.label>
+  <Idhale_Artificial.stages.2.label>Lv3</Idhale_Artificial.stages.2.label>
+  <Idhale_Artificial.stages.3.label>Lv4</Idhale_Artificial.stages.3.label>
+  <Idhale_Artificial.stages.4.label>Lv5</Idhale_Artificial.stages.4.label>
+
+  <Idhale_Artificial_b.label>人工上位種族(幽靈姬・罪孽神靈)</Idhale_Artificial_b.label>
+  <Idhale_Artificial_b.description>幽靈姬・罪孽神靈與不穩定的普通種不同，她們擁有穩定的幽體並擁有許多神秘的力量。
+  \n\n為了履行創造主的遺志，不斷重生並在星際間遊蕩的神靈。
+  \n我們的宿敵，那繼承了災禍之血的幼鳥，到底在何方呢？</Idhale_Artificial_b.description>
+
+
+</LanguageData>

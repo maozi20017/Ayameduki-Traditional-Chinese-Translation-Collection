@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_Solark_b.label>龍姬・赫雷勒夫</HAR_Solark_b.label>
+  <HAR_Solark_b.description>龍王種『龍姬・赫雷勒夫』是以龍姬為原型，進一步強化為目的而創造的上位種族。
+  \n在維持人形態的同時，成功地凝聚了龍和反物質的力量，除了可以武裝之外，反物質解放的間隔也變短了。
+  \n\n她本應該成為龍姬的統治者，但由於她需要長時間的休眠來穩定體內的龍之力量和反物質，因此未能在創造主所期望的時間內完成。
+  \n幸運的是，她現在已經穩定下來，並沒有失控的風險。
+  \n\n她最顯著的特點是可以通過『龍化』形成強大的戰鬥形態。
+  \n完全由反物質組成的龍身，能夠撕裂一切。
+  \n因為只是纏着龍體，所以龍化狀態是可以使用槍械，可以說是種族優勢吧。
+  \n\n由於具有強大無比的能力，所以需要比龍姬更多的能量，食量非常大。
+  \n\n因為是人型類型，所以可以穿夜魔的衣服。</HAR_Solark_b.description>
+  <HAR_Solark_b.alienRace.generalSettings.alienPartGenerator.bodyAddons.0.name>角</HAR_Solark_b.alienRace.generalSettings.alienPartGenerator.bodyAddons.0.name>
+  <HAR_Solark_b.alienRace.generalSettings.alienPartGenerator.bodyAddons.1.name>龍解放</HAR_Solark_b.alienRace.generalSettings.alienPartGenerator.bodyAddons.1.name>
+  <HAR_Solark_b.alienRace.generalSettings.alienPartGenerator.bodyAddons.2.name>龍解放</HAR_Solark_b.alienRace.generalSettings.alienPartGenerator.bodyAddons.2.name>
+  <HAR_Solark_b.tools.0.label>龍之衝擊</HAR_Solark_b.tools.0.label>
+  <HAR_Solark_b.tools.1.label>龍之衝擊</HAR_Solark_b.tools.1.label>
+  <HAR_Solark_b.tools.2.label>龍之衝擊</HAR_Solark_b.tools.2.label>
+
+  <HAR_Solark_b.comps.Solark_CompCommandExplosive.commandLabel>反物質爆炸</HAR_Solark_b.comps.Solark_CompCommandExplosive.commandLabel>
+  <HAR_Solark_b.comps.Solark_CompCommandExplosive.commandDesc>【範圍:大規模】將儲存在體內的大量反物質釋放到自身周圍，冷卻時間為1天。</HAR_Solark_b.comps.Solark_CompCommandExplosive.commandDesc>
+
+  <HAR_Solark_b.comps.Solark_CompCommandExplosive_b.commandLabel>龍化</HAR_Solark_b.comps.Solark_CompCommandExplosive_b.commandLabel>
+  <HAR_Solark_b.comps.Solark_CompCommandExplosive_b.commandDesc>化為龍身。冷卻時間為1天。</HAR_Solark_b.comps.Solark_CompCommandExplosive_b.commandDesc>
+</LanguageData>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_IH_NPC_Race_a.label>暴動之矛</HAR_IH_NPC_Race_a.label>
+  <HAR_IH_NPC_Race_a.description>幽靈姬・罪孽神靈的眷屬。
+  \n儘管本體性能較弱，但在一定時間後會引發巨大爆炸，摧毀自身以及周圍環境。</HAR_IH_NPC_Race_a.description>
+  <HAR_IH_NPC_Race_a.tools.0.label>左爪</HAR_IH_NPC_Race_a.tools.0.label>
+  <HAR_IH_NPC_Race_a.tools.1.label>右爪</HAR_IH_NPC_Race_a.tools.1.label>
+
+  <HAR_IH_NPC_Race_b.label>大型魔像</HAR_IH_NPC_Race_b.label>
+  <HAR_IH_NPC_Race_b.description>幽靈姬・罪孽神靈的眷屬。
+    \n憑藉堅固的身體抵擋攻擊，並以鋒利的手臂粉碎敵對者的神聖魔像。
+    \n召喚的大型魔像在經過一天後會消失。</HAR_IH_NPC_Race_b.description>
+  <HAR_IH_NPC_Race_b.tools.0.label>左爪</HAR_IH_NPC_Race_b.tools.0.label>
+  <HAR_IH_NPC_Race_b.tools.1.label>右爪</HAR_IH_NPC_Race_b.tools.1.label>
+
+</LanguageData>

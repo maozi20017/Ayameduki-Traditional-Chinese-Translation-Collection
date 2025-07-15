@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!--アルケーカードリッジ-->
+	<Idearn_Artificial_b.label>始基卡匣</Idearn_Artificial_b.label>
+	<!--イデアーンが生命活動するためのエネルギー残量。\n5％になると省エネモードに入って歩行できなくなり。\n0％になると死亡してしまう為、残量が減った場合新しいカードリッジに交換する必要があります。-->
+	<Idearn_Artificial_b.description>是艾蒂安維持生命活動的剩餘能量。\n當降低到5%時，會進入節能模式，這時候將會失去移動能力。\n如果繼續降低到達0%就會死亡，所以如果剩餘能量低時，建議及時更換始基卡匣。</Idearn_Artificial_b.description>
+	<Idearn_Artificial_b.stages.0.label>0％</Idearn_Artificial_b.stages.0.label>
+	<Idearn_Artificial_b.stages.1.label>5％</Idearn_Artificial_b.stages.1.label>
+	<Idearn_Artificial_b.stages.2.label>25％</Idearn_Artificial_b.stages.2.label>
+	<Idearn_Artificial_b.stages.3.label>50％</Idearn_Artificial_b.stages.3.label>
+	<Idearn_Artificial_b.stages.4.label>75％</Idearn_Artificial_b.stages.4.label>
+	<Idearn_Artificial_b.stages.5.label>100％</Idearn_Artificial_b.stages.5.label>
+	
+	<!--新生種族-->
+	<Idearn_Artificial.label>新生種族(艾蒂安)</Idearn_Artificial.label>
+	<!--イデアーンは生物と機械の混合存在であり優れた演算能力を持つ。\n年月を経るごとにその処理速度は最適・高速化していきあらゆる行動が的確なものになる。\nLvは約一年でLv1上昇する(Lv上限は5)。-->
+	<Idearn_Artificial.description>艾蒂安是生物與機械的混和體，擁有優秀的演算能力。\n隨著時間的推移，她的處理速度會得到優化和加速，每一個動作都會更加準確。大約1年提升1級(上限為5級)。</Idearn_Artificial.description>
+	<Idearn_Artificial.stages.0.label>Lv.1</Idearn_Artificial.stages.0.label>
+	<Idearn_Artificial.stages.1.label>Lv.2</Idearn_Artificial.stages.1.label>
+	<Idearn_Artificial.stages.2.label>Lv.3</Idearn_Artificial.stages.2.label>
+	<Idearn_Artificial.stages.3.label>Lv.4</Idearn_Artificial.stages.3.label>
+	<Idearn_Artificial.stages.4.label>Lv.5</Idearn_Artificial.stages.4.label>
+
+</LanguageData>

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_NM_Hediff_Potency_a.label>亞克特拉的靈藥</HAR_NM_Hediff_Potency_a.label>
+  <HAR_NM_Hediff_Potency_a.description>人造種族夜魔・阿拉迪亞之一的魔女，亞克特拉所創造的藥物效果。
+持續8小時發揮效果，之後會出現4小時的副作用。
+
+在藥物發揮效果期間，身體能力提升，攻擊力增強。
+在副作用期間，運動功能下降50％。
+
+
+
+誠實地說，阿拉迪亞確實不太可信，所以我也不太想依賴這種藥物。
+她們心中可能在嘲笑他人。</HAR_NM_Hediff_Potency_a.description>
+  <HAR_NM_Hediff_Potency_a.stages.0.label>副作用</HAR_NM_Hediff_Potency_a.stages.0.label>
+
+  <HAR_NM_Hediff_Potency_b.label>艾蒂涅的魔藥</HAR_NM_Hediff_Potency_b.label>
+  <HAR_NM_Hediff_Potency_b.description>人造種族亞人獸娘・母夜叉之一的女狐，艾蒂涅創造的藥物效果。
+持續8小時發揮效果，之後會出現4小時的副作用。
+
+在藥物發揮效果期間，身體能力提升，防禦力增強。
+在副作用期間，反而變得脆弱。
+
+
+
+藥物本身的效果很有益，而且使用起來也不錯。
+但是，要製作這種藥物，可能需要積累相當數量的宙族屍體吧...</HAR_NM_Hediff_Potency_b.description>
+  <HAR_NM_Hediff_Potency_b.stages.0.label>副作用</HAR_NM_Hediff_Potency_b.stages.0.label>
+
+  <HAR_NM_Hediff_Potency_c.label>可能性的秘藥</HAR_NM_Hediff_Potency_c.label>
+  <HAR_NM_Hediff_Potency_c.description>人造種族偽神族·可能性所創造的藥物效果。
+可以無副作用地使死者復活。
+
+在復活的副作用下，被復活者會永久強化。
+
+
+
+她從哪裡得到這樣的配方呢？
+就連她的父親也沒想到過。
+她聲稱可以與外宇宙交流，這看起來不像是在說謊。</HAR_NM_Hediff_Potency_c.description>
+
+  <HAR_NM_Hediff_Potency_z.label>■■■的死藥</HAR_NM_Hediff_Potency_z.label>
+  <HAR_NM_Hediff_Potency_z.description>溫蓋特與某個存在交易而獲得製作方法所製作的藥物效果。
+使用者會脫離生物的狀態，變成只能被支配的奉仕者。
+變成非生物後，雖然不再有需求或需要進食，但在工作和交流方面會出現致命的缺陷。
+
+傷口不再流血，受傷會慢慢地再生，但作為代價很容易感到飢餓。
+此外，個人價值下降。
+
+
+
+看來只能利用其效果，無法記錄製法和歷史。
+不知道是■■檢查嚴格，還是宇宙的■■拒絕了…
+唯一可以說的是，這個藥物對人類來說可能過於危險了。</HAR_NM_Hediff_Potency_z.description>
+
+
+</LanguageData>

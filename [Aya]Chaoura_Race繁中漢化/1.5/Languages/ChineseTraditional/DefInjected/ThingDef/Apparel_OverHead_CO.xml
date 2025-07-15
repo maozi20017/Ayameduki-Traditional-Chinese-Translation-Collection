@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: スキアリボン -->
+  <HAR_CO_Apparel_Head_a.label>影之緞帶(混沌靈)</HAR_CO_Apparel_Head_a.label>
+  <!-- EN: ケイオーラ専用のリボン、ケイオーラの影に潜む力に対応した代償として対物装甲を失っている。 -->
+  <HAR_CO_Apparel_Head_a.description>混沌靈專用的緞帶，為了充分發揮混沌靈潛藏在暗影中的力量，拋棄了物防屬性。</HAR_CO_Apparel_Head_a.description>
+  
+  <!-- EN: スキアフード -->
+  <HAR_CO_Apparel_Head_b.label>影之風帽(混沌靈)</HAR_CO_Apparel_Head_b.label>
+  <!-- EN: ケイオーラ専用のフード、ケイオーラの影に潜む力に対応した代償として対物装甲を失っている。 -->
+  <HAR_CO_Apparel_Head_b.description>混沌靈專用的風帽，為了充分發揮混沌靈潛藏在暗影中的力量，拋棄了物防屬性。</HAR_CO_Apparel_Head_b.description>
+  
+  <!-- EN: スキアヘルメット -->
+  <HAR_CO_Apparel_Head_c.label>影之頭盔(混沌靈)</HAR_CO_Apparel_Head_c.label>
+  <!-- EN: ケイオーラ専用のヘルメット、創造主時代に偵察・暗殺を主に活動していたケイオーラ達が被っていたもの。\n物理装甲こそ持たないが回避や移動を高める効果がある。 -->
+  <HAR_CO_Apparel_Head_c.description>混沌靈專用的頭盔，在創造主時代從事偵察、暗殺活動的混沌靈們穿戴的頭盔。\n    \n雖然沒有物理防護，但是能顯著提高閃避和移動速度。</HAR_CO_Apparel_Head_c.description>
+  
+</LanguageData>

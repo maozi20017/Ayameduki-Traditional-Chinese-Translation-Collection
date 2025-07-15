@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ■ゼノウェアA -->
+
+  <HAR_XO_AT_a.label>異度服裝A款(人魚姬)</HAR_XO_AT_a.label>
+  <HAR_XO_AT_a.description>人魚姬穿的特殊構造的衣服，能從中看出設計者為了不讓人魚姬們悶熱而付出的良苦用心。</HAR_XO_AT_a.description>
+
+
+  <!-- ■ゼノウェアB -->
+
+  <HAR_XO_AT_b.label>異度服裝B款(人魚姬)</HAR_XO_AT_b.label>
+  <HAR_XO_AT_b.description>人魚姬穿的特殊構造的衣服，能從中看出設計者為了不讓人魚姬們悶熱而付出的良苦用心。</HAR_XO_AT_b.description>
+
+
+  <!-- ■ゼノウェアC -->
+
+  <HAR_XO_AT_c.label>異度服裝C款(人魚姬)</HAR_XO_AT_c.label>
+  <HAR_XO_AT_c.description>人魚姬穿的特殊構造的衣服，能從中看出設計者為了不讓人魚姬們悶熱而付出的良苦用心。</HAR_XO_AT_c.description>
+
+
+  <!-- ■メイド服 -->
+
+  <HAR_XO_AT_d.label>女僕裝(人魚姬)</HAR_XO_AT_d.label>
+  <HAR_XO_AT_d.description>人魚姬穿的女僕裝，正兒八經的有在工作，所以稍微惡作劇一下會很可愛。</HAR_XO_AT_d.description>
+
+
+  <!-- ■巫女服 -->
+
+  <HAR_XO_AT_e.label>巫女服(人魚姬)</HAR_XO_AT_e.label>
+  <HAR_XO_AT_e.description>為人魚姬定制的一種傳統服裝。雖然有些難以移動，但因為其寒暑皆可穿、乾淨清爽的印象，能有效提高社交力。</HAR_XO_AT_e.description>
+
+
+  <!-- ■チャイナ服 -->
+
+  <HAR_XO_AT_f.label>旗袍(人魚姬)</HAR_XO_AT_f.label>
+  <HAR_XO_AT_f.description>為人魚姬定制的一種傳統服裝。裝飾極少，衣服本身顯瘦，因此對移動速度有加成。</HAR_XO_AT_f.description>
+
+
+  <!-- ■深淵之翼(人魚姬) -->
+
+  <HAR_XO_AT_x.label>深淵之翼(人魚姬)</HAR_XO_AT_x.label>
+  <HAR_XO_AT_x.description>專為人魚姬・海達諾亞所設計的特殊結構服裝。
+  \n考慮到在水中的活動，裝飾被極力簡化，以保持最低限度。</HAR_XO_AT_x.description>
+
+</LanguageData>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ■観賞用レクイーン -->
+
+  <HAR_RQ_Art_a.label>女王鎮魂</HAR_RQ_Art_a.label>
+  <HAR_RQ_Art_a.description>停止了生命活動和機能的女皇。經過漫長的星際流浪後降落到了這顆星球上，最終被你們鎮壓。已經不再被毫無意義的使命所束縛，今後只會迎來永眠。
+    \n\n\n\n母上終於完成了主的任務。</HAR_RQ_Art_a.description>
+
+  <!-- ■観賞用レクイーン・克里提亞斯 -->
+
+  <HAR_RQ_Art_z.label>雛鳥永住</HAR_RQ_Art_z.label>
+  <HAR_RQ_Art_z.description>女皇·克里提亞斯已經停止了生命活動，也證明了您的偉大成就。
+    \n雛鳥繼承了從其父母那裡遺傳下來的基因，肆意宣洩著力量。
+    \n但現在，它已經被你擊敗，遠渡星海的旅途在此終止，雛鳥將在這裡繼續沉睡而不會成為成鳥。
+    \n\n\n\n最終，人工種族們漫長的戰爭終於迎來了結束。</HAR_RQ_Art_z.description>
+
+</LanguageData>

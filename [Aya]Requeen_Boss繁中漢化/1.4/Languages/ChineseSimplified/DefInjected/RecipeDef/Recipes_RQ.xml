@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ■ワノメトリック発電を作成 -->
+
+  <HAR_RQ_Recipe_a.label>製作 虛空電池</HAR_RQ_Recipe_a.label>
+  <HAR_RQ_Recipe_a.description>製作 虛空電池</HAR_RQ_Recipe_a.description>
+  <HAR_RQ_Recipe_a.jobString>正在製作 虛空電池</HAR_RQ_Recipe_a.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BOSS_RQ_Scratch.label>超振動刀刃</BOSS_RQ_Scratch.label>
+  <BOSS_RQ_Scratch.description>超振動刀刃</BOSS_RQ_Scratch.description>
+  <BOSS_RQ_Scratch.comps.0.labelTendedWell>被包紮</BOSS_RQ_Scratch.comps.0.labelTendedWell>
+  <BOSS_RQ_Scratch.comps.0.labelTendedWellInner>被縫合</BOSS_RQ_Scratch.comps.0.labelTendedWellInner>
+  <BOSS_RQ_Scratch.comps.0.labelSolidTendedWell>安放</BOSS_RQ_Scratch.comps.0.labelSolidTendedWell>
+  <BOSS_RQ_Scratch.injuryProps.destroyedLabel>被撕掉</BOSS_RQ_Scratch.injuryProps.destroyedLabel>
+  <BOSS_RQ_Scratch.injuryProps.destroyedOutLabel>被撕毁</BOSS_RQ_Scratch.injuryProps.destroyedOutLabel>
+  <BOSS_RQ_Scratch.labelNoun>超振動刀刃</BOSS_RQ_Scratch.labelNoun>
+
+  <BOSS_RQ_Hediff_b.label>精神污染</BOSS_RQ_Hediff_b.label>
+  <BOSS_RQ_Hediff_b.description>對象的思維能力在精神干擾下受到嚴重影響，運動能力大幅度下降。</BOSS_RQ_Hediff_b.description>
+
+
+</LanguageData>

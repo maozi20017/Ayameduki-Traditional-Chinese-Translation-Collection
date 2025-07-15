@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ■マント(夜魔) -->
+
+  <HAR_NM_Sh_K.label>披衣(夜魔)</HAR_NM_Sh_K.label>
+  <HAR_NM_Sh_K.description>柔弱的夜魔們披著防刃防彈。雖然衣服本身強度相當大，但因為穿戴者太弱，所以沒有什麼實感。</HAR_NM_Sh_K.description>
+
+  <HAR_NM_Sh_Kb.label>披風(夜魔)</HAR_NM_Sh_Kb.label>
+  <HAR_NM_Sh_Kb.description>柔弱的夜魔們披著防刃防彈。雖然衣服本身強度相當大，但因為穿戴者太弱，所以沒有什麼實感。</HAR_NM_Sh_Kb.description>
+
+  <HAR_NM_Sh_Kc.label>大衣(夜魔)</HAR_NM_Sh_Kc.label>
+  <HAR_NM_Sh_Kc.description>柔弱的夜魔們披著防刃防彈。雖然衣服本身強度相當大，但因為穿戴者太弱，所以沒有什麼實感。</HAR_NM_Sh_Kc.description>
+
+  <HAR_NM_Sh_Kd.label>風衣(夜魔)</HAR_NM_Sh_Kd.label>
+  <HAR_NM_Sh_Kd.description>柔弱的夜魔們披著防刃防彈。雖然衣服本身強度相當大，但因為穿戴者太弱，所以沒有什麼實感。</HAR_NM_Sh_Kd.description>
+
+  <HAR_NM_Sh_Ke.label>外套(夜魔)</HAR_NM_Sh_Ke.label>
+  <HAR_NM_Sh_Ke.description>柔弱的夜魔們披著防刃防彈。雖然衣服本身強度相當大，但因為穿戴者太弱，所以沒有什麼實感。</HAR_NM_Sh_Ke.description>
+
+
+  <!-- ■羽織(夜魔) -->
+
+  <HAR_NM_Sh_Ho.label>羽織服(夜魔)</HAR_NM_Sh_Ho.label>
+  <HAR_NM_Sh_Ho.description>柔弱的夜魔們披著防刃防彈。雖然衣服本身強度相當大，但因為穿戴者太弱，所以沒有什麼實感。</HAR_NM_Sh_Ho.description>
+
+
+  <!-- ■ショートマント(夜魔) -->
+
+  <HAR_NM_Sh_SKo.label>短披風(夜魔)</HAR_NM_Sh_SKo.label>
+  <HAR_NM_Sh_SKo.description>柔弱的夜魔們披著防刃防彈。雖然衣服本身強度相當大，但因為穿戴者太弱，所以沒有什麼實感。</HAR_NM_Sh_SKo.description>
+
+
+  <!-- ■バリアコート(夜魔) -->
+
+  <HAR_NM_Sh_BKo.label>外套屏障(夜魔)</HAR_NM_Sh_BKo.label>
+  <HAR_NM_Sh_BKo.description>以夜魔獨特的能量作為能源而具有強力的傷害減輕效果的屏障發生裝置，戰鬥非常有用，但是缺點是非常容易壞掉且溫度耐性完全沒有。</HAR_NM_Sh_BKo.description>
+
+
+  <!-- ■フィーンドクリスタル -->
+
+  <HAR_NM_Sh_Cry.label>魔女水晶(夜魔)</HAR_NM_Sh_Cry.label>
+  <HAR_NM_Sh_Cry.description>魔女種夜魔・阿拉迪亞系愛用的謎之水晶。流淌環繞著有像是水一樣的神秘液體，可以用來抵擋敵對者的攻擊。</HAR_NM_Sh_Cry.description>
+
+
+</LanguageData>

@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!--センスアウト-->
+	<HAR_IA_Skill_Hediff_a.label>感官掉線</HAR_IA_Skill_Hediff_a.label>
+	<!--イデアーン・メネクセノスA型が散布しているナノマシン、敵対存在の戦闘技術を削ぐ効力がある。\n効果は半日まで続きイデアーン・メネクセノスA型の効果範囲内であれば永続的に続きます。-->
+	<HAR_IA_Skill_Hediff_a.description>艾蒂安・美涅克塞努A型散佈的奈米機械，具有降低敵對實體戰鬥技能的效果。\n效果持續0.5天，但如果位於艾蒂安・美涅克塞努A型的效果範圍內，則會永遠持續。</HAR_IA_Skill_Hediff_a.description>
+
+	<!--ホプリゾンプラクシス-->
+	<HAR_IA_Skill_Hediff_b.label>天地之際</HAR_IA_Skill_Hediff_b.label>
+	<!--イデアーン・テアイテトスA型が散布しているナノマシン、影響を受けた者の身体能力を向上させます。\n効果は半日まで続きます。-->
+	<HAR_IA_Skill_Hediff_b.description>艾蒂安・泰阿泰德A型散佈的奈米機械，能夠提高受影響者的身體能力。\n效果持續0.5天。</HAR_IA_Skill_Hediff_b.description>
+
+	<!--エリスロスエクスシア-->
+	<HAR_IA_Skill_Hediff_c.label>腥紅能天使</HAR_IA_Skill_Hediff_c.label>
+	<!--イデアーン・テアイテトスB型が散布しているナノマシン、敵対存在の運動能力を大きく減らし、傷口から多量の出血を強います。\n効果は半日まで続きダメージフィールドの効果範囲内であれば永続的に続きます。-->
+	<HAR_IA_Skill_Hediff_c.description>艾蒂安・泰阿泰德B型散佈的奈米機械，大幅降低敵對實體的運動能力並迫使傷口大量出血。\n效果持續0.5天，但如果位於傷害領域的效果範圍內，則會永遠持續。</HAR_IA_Skill_Hediff_c.description>
+
+	<!--キュアノスエクスシア-->
+	<HAR_IA_Skill_Hediff_d.label>靛藍能天使</HAR_IA_Skill_Hediff_d.label>
+	<!--イデアーン・テアイテトスB型が散布しているナノマシン、敵対存在に浸食型のアセンションナノマシンを潜伏させ数時間後に即死させます。\n一度浸食されると助かる術はないので注意してください。-->
+	<HAR_IA_Skill_Hediff_d.description>艾蒂安・泰阿泰德B型散佈的奈米機械，讓侵蝕型的昇天奈米機械潛伏在敵對實體體內，並在幾個小時後立即殺死他們。\n請注意，一旦被侵蝕，就束手無策了。</HAR_IA_Skill_Hediff_d.description>
+	<!--昇天-->
+	<HAR_IA_Skill_Hediff_d.stages.1.label>昇天</HAR_IA_Skill_Hediff_d.stages.1.label>
+	<!--潜伏-->
+	<HAR_IA_Skill_Hediff_d.stages.2.label>潜伏</HAR_IA_Skill_Hediff_d.stages.2.label>
+
+	<!--クリノバシレイア-->
+	<HAR_IA_Skill_Hediff_e.label>天國之傾</HAR_IA_Skill_Hediff_e.label>
+	<!--創造主が庫利菈・至高種に実装出来なかったレガリア機能の一つ。\nイデアーン・克里提亞斯が展開してる空間圧縮フィールド、敵対存在に様々な影響を与えます。\n一度浸食されると助かる術はないので注意してください。-->
+	<HAR_IA_Skill_Hediff_e.description>創造主未能在庫利菈・凱特爾身上實裝的王權之一。\n艾蒂安・克里提亞斯展開的壓縮空間領域，對敵對體會有各種影響。\n請注意，一旦被侵蝕，就束手無策了。</HAR_IA_Skill_Hediff_e.description>
+
+	<!--空跡-->
+	<HAR_IA_Gunshot.label>空跡</HAR_IA_Gunshot.label>
+	<!--空跡-->
+	<HAR_IA_Gunshot.labelNoun>空跡</HAR_IA_Gunshot.labelNoun>
+	<!--クリノバシレイアの空間圧縮によって引き起こされたロシュ限界による傷。-->
+	<HAR_IA_Gunshot.description>天國之傾的空間壓縮導致超過洛希極限而造成的傷害。</HAR_IA_Gunshot.description>
+	<!--Shot off-->
+	<HAR_IA_Gunshot.injuryProps.destroyedLabel>Shot off</HAR_IA_Gunshot.injuryProps.destroyedLabel>
+	<!--Shot out-->
+	<HAR_IA_Gunshot.injuryProps.destroyedOutLabel>Shot out</HAR_IA_Gunshot.injuryProps.destroyedOutLabel>
+
+	<!--テロスバシレイア-->
+	<HAR_IA_Skill_Hediff_f.label>天國之意</HAR_IA_Skill_Hediff_f.label>
+	<!--創造主が庫利菈・至高種に実装出来なかったレガリア機能の一つ。\nテロスバシレイアから生じた力場の影響を受けている状態。\n空間圧縮により事象認識に致命的なズレが発生し、罹患者はそれを知覚してしまったことで脳組織を破壊されてしまい精神が崩壊している。\n\nテロスバシレイアの効果では痴呆に似た現象を引き起こし辺りを放浪するようになる。-->
+	<HAR_IA_Skill_Hediff_f.description>創造主未能在庫利菈・凱特爾身上實裝的王權之一。\n受到天國之意產生的領域影響狀態。\n空間壓縮導致事物認知產生致命差距，受影響的人的腦組織因感知混亂而被破壞，進而導致精神崩潰。\n\n天國之意的作用會導致類似於癡呆症的現象並使其四處遊蕩。</HAR_IA_Skill_Hediff_f.description>
+	<!--人格崩壊-->
+	<HAR_IA_Skill_Hediff_f.stages.1.label>人格崩壊</HAR_IA_Skill_Hediff_f.stages.1.label>
+
+	<!--トゥレラバシレイア-->
+	<HAR_IA_Skill_Hediff_g.label>天國之躁</HAR_IA_Skill_Hediff_g.label>
+	<!--創造主が庫利菈・至高種に実装出来なかったレガリア機能の一つ。\nトゥレラバシレイアから生じた力場の影響を受けている状態。\n空間圧縮により事象認識に致命的なズレが発生し、罹患者はそれを知覚してしまったことで脳組織を破壊されてしまい精神が崩壊している。\n\nトゥレラバシレイアの効果では脳内物質の乱れにより狂暴化を発生させ敵味方問わず攻撃するようになる。-->
+	<HAR_IA_Skill_Hediff_g.description>創造主未能在庫利菈・凱特爾身上實裝的王權之一。\n受到天國之躁產生的領域影響狀態。\n空間壓縮導致事物認知產生致命差距，受影響的人的腦組織因感知混亂而被破壞，進而導致精神崩潰。\n\n天國之躁的效果會擾亂腦內分泌物質，使其變得兇猛並狂暴化，進而引發其無差別攻擊。</HAR_IA_Skill_Hediff_g.description>
+	<!--狂暴化-->
+	<HAR_IA_Skill_Hediff_g.stages.1.label>狂暴化</HAR_IA_Skill_Hediff_g.stages.1.label>
+
+	<!--ステイシスバシレイア-->
+	<HAR_IA_Skill_Hediff_h.label>天國之遲</HAR_IA_Skill_Hediff_h.label>
+	<!--創造主が庫利菈・至高種に実装出来なかったレガリア機能の一つ。\nイデアーン・克里提亞斯が展開してる空間圧縮フィールド、敵対存在の時の流れを極限的にまで遅くさせます。\nこの状態は半日すると解除されます。-->
+	<HAR_IA_Skill_Hediff_h.description>創造主未能在庫利菈・凱特爾身上實裝的王權之一。\n艾蒂安・克里提亞斯展開的壓縮空間領域，能夠極大幅度降低敵對實體的時間流速。\n狀態會持續半天。</HAR_IA_Skill_Hediff_h.description>
+
+	<!--シュステーマ克里提亞斯-->
+	<HAR_IA_Skill_Hediff_z.label>克里提亞斯系統</HAR_IA_Skill_Hediff_z.label>
+	<!--克里提亞斯が対上位者決戦兵器として元々内蔵していたシステム。\n干渉してきた相手を自動的に捕捉、構造を解析していき完了と同時に対象を虚数空間へと追放する。-->
+	<HAR_IA_Skill_Hediff_z.description>最初是克里提亞斯內建的系統，作為對上位者的決戰武器。\n能夠自動捕獲干擾者並解析其構造，解析完畢後，將其放逐至虛數空間。</HAR_IA_Skill_Hediff_z.description>
+
+</LanguageData>

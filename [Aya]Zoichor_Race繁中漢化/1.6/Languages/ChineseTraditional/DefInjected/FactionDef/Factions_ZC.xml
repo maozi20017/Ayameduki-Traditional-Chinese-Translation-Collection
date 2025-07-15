@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 糾罪者の隠れ里 -->
+  <Zoichor_P_Faction.label>糾罪者的隱居地</Zoichor_P_Faction.label>
+  <!-- EN: 糾罪者達が集まってひっそりと暮らしている里 -->
+  <Zoichor_P_Faction.description>糾罪者們聚集在一起平和的隱居著的聚落。</Zoichor_P_Faction.description>
+  <!-- EN: leader -->
+  <Zoichor_P_Faction.leaderTitle>領袖</Zoichor_P_Faction.leaderTitle>
+  <!-- EN: 糾罪者 -->
+  <Zoichor_P_Faction.pawnSingular>糾罪者</Zoichor_P_Faction.pawnSingular>
+  <!-- EN: 糾罪者達 -->
+  <Zoichor_P_Faction.pawnsPlural>糾罪者們</Zoichor_P_Faction.pawnsPlural>
+  
+</LanguageData>

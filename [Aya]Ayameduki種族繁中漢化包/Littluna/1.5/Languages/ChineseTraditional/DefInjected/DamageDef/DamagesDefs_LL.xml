@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_LL_EX_Damage_a.label>昏暗之血</HAR_LL_EX_Damage_a.label>
+  <HAR_LL_EX_Damage_a.deathMessage>{0} 死於一場爆炸。</HAR_LL_EX_Damage_a.deathMessage>
+
+  <HAR_LL_EX_Damage_b.label>聖母之血</HAR_LL_EX_Damage_b.label>
+  <HAR_LL_EX_Damage_b.deathMessage>{0} 死於一場爆炸。</HAR_LL_EX_Damage_b.deathMessage>
+
+  <HAR_LL_Damage_Attack.label>馬吉特斯的誕生</HAR_LL_Damage_Attack.label>
+  <HAR_LL_Damage_Attack.deathMessage>{0} 被輾壓致死。</HAR_LL_Damage_Attack.deathMessage>
+
+  <HAR_LL_LC_Damage_a.label>銀色的羽毛</HAR_LL_LC_Damage_a.label>
+  <HAR_LL_LC_Damage_a.deathMessage>{0} 死於一場爆炸。</HAR_LL_LC_Damage_a.deathMessage>
+
+  <HAR_LL_LC_Damage_b.label>懺悔</HAR_LL_LC_Damage_b.label>
+  <HAR_LL_LC_Damage_b.deathMessage>{0} 死於一場爆炸。</HAR_LL_LC_Damage_b.deathMessage>
+
+  <HAR_LL_LC_Damage_c.label>神子的哭聲</HAR_LL_LC_Damage_c.label>
+  <HAR_LL_LC_Damage_c.deathMessage>{0} 死於一場爆炸。</HAR_LL_LC_Damage_c.deathMessage>
+
+  <HAR_LL_Skill_MIKO_Damage_a.label>你好 朋友！</HAR_LL_Skill_MIKO_Damage_a.label>
+  <HAR_LL_Skill_MIKO_Damage_a.deathMessage>{0} 被輾壓致死。</HAR_LL_Skill_MIKO_Damage_a.deathMessage>
+
+  <HAR_LL_Skill_MIKO_Damage_b.label>神子的騎士</HAR_LL_Skill_MIKO_Damage_b.label>
+  <HAR_LL_Skill_MIKO_Damage_b.deathMessage>{0} 被輾壓致死。</HAR_LL_Skill_MIKO_Damage_b.deathMessage>
+
+</LanguageData>

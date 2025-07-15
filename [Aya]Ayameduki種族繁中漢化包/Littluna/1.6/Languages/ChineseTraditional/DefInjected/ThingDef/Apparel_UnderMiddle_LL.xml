@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ■リトルシャツ -->
+
+  <HAR_LL_T_a.label>小小汗衫(偽神族)</HAR_LL_T_a.label>
+  <HAR_LL_T_a.description>偽神族專用的裝備。</HAR_LL_T_a.description>
+
+
+  <!-- ■リトルブラウス -->
+
+  <HAR_LL_T_b.label>小小襯衫(偽神族)</HAR_LL_T_b.label>
+  <HAR_LL_T_b.description>偽神族專用的裝備。</HAR_LL_T_b.description>
+
+
+  <!-- ■リトルシーツ -->
+
+  <HAR_LL_T_c.label>小小披巾(偽神族)</HAR_LL_T_c.label>
+  <HAR_LL_T_c.description>偽神族專用的裝備。</HAR_LL_T_c.description>
+
+
+  <!-- ■リトルブレザー -->
+
+  <HAR_LL_T_e.label>小小夾克(偽神族)</HAR_LL_T_e.label>
+  <HAR_LL_T_e.description>偽神族專用的裝備。</HAR_LL_T_e.description>
+
+
+</LanguageData>

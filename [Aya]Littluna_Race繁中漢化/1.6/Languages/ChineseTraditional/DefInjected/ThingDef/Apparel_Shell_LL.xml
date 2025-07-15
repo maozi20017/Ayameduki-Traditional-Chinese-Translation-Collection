@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ■リトルコート -->
+
+  <HAR_LL_S_a.label>小小外套(偽神族)</HAR_LL_S_a.label>
+  <HAR_LL_S_a.description>偽神族專用的裝備。</HAR_LL_S_a.description>
+
+
+  <!-- ■リトルケープ -->
+
+  <HAR_LL_S_b.label>小小斗篷(偽神族)</HAR_LL_S_b.label>
+  <HAR_LL_S_b.description>偽神族專用的裝備。</HAR_LL_S_b.description>
+
+
+  <!-- ■リトルマント -->
+
+  <HAR_LL_S_c.label>小小披風(偽神族)</HAR_LL_S_c.label>
+  <HAR_LL_S_c.description>偽神族專用的裝備。</HAR_LL_S_c.description>
+
+
+  <!-- ■リトルローブ -->
+
+  <HAR_LL_S_e.label>小小長袍(偽神族)</HAR_LL_S_e.label>
+  <HAR_LL_S_e.description>偽神族專用的裝備。</HAR_LL_S_e.description>
+
+
+</LanguageData>

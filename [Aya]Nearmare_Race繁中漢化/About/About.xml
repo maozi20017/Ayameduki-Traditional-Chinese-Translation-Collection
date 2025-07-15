@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<ModMetaData>
+	<name>[Aya]Nearmare Race 繁中漢化</name>
+	<author>毛子</author>
+	<supportedVersions>
+        <li>1.4</li>
+        <li>1.5</li>
+		<li>1.6</li>
+	</supportedVersions>
+	<packageId>Maozi.ZH.ChinesePack.HARNearmare</packageId>
+	<loadAfter>
+		<li>Ayameduki.AyaRacePremise</li>
+		<li>Ayameduki.HARNearmare</li>
+		<li>ayameduki.harnearmareex</li>
+	</loadAfter>
+	<description>
+以[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2928115625]苍白而蔷薇大佬的[1.4]Nearmare Race-汉化(及皇权DLC补丁)[/url]為基底修改而成的繁中漢化
+感謝[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2963150745]无声飞雪大佬的技能漢化[/url]
+
+漢化描述:
+
+【新增的種族】
+・夜魔(Nearmare)
+―――――――――――――――――――――――――――――
+【雖非必要但建議使用的MOD】
+・ Camera +
+―――――――――――――――――――――――――――――
+【有效的MOD】
+・ Maid Project (使角色能夠穿著女僕服裝)
+【================================================】
+【夜魔的特點】
+・壽命是人類的2倍
+・可以召喚強大的物種
+・身體素質和耐力較差，容易受到疾病和毒素的影響，且免疫力較差
+・移動速度略快於人類
+・擅長外交和貿易
+・敏感度為人類的一半，較不易受到影響
+【================================================】
+【請注意】
+・本MOD的規格可能會因更新而改變。
+・本MOD不與原版角色外貌相容，且無法裝備原版角色外貌的服飾。
+	</description>
+</ModMetaData>

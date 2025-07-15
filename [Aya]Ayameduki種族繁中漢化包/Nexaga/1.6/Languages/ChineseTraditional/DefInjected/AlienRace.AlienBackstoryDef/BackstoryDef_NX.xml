@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ■↓幼少期のバックストーリー -->
+
+  <HAR_NX_Backstory_C1.title>混血夜魔</HAR_NX_Backstory_C1.title>
+  <HAR_NX_Backstory_C1.titleShort>混血夜魔</HAR_NX_Backstory_C1.titleShort>
+  <HAR_NX_Backstory_C1.description>[PAWN_nameDef] 是夜魔與其他種族的混血兒，[PAWN_pronoun]通過母親或隔代遺傳繼承了人類與人工種族的血統。</HAR_NX_Backstory_C1.description>
+
+  <HAR_NX_Backstory_C2.title>混血人魚姬</HAR_NX_Backstory_C2.title>
+  <HAR_NX_Backstory_C2.titleShort>混血人魚姬</HAR_NX_Backstory_C2.titleShort>
+  <HAR_NX_Backstory_C2.description>[PAWN_nameDef] 是人魚姬與其他種族的混血兒，[PAWN_pronoun]通過母親或隔代遺傳繼承了人類與人工種族的血統。</HAR_NX_Backstory_C2.description>
+
+  <HAR_NX_Backstory_C3.title>混血幽靈姬</HAR_NX_Backstory_C3.title>
+  <HAR_NX_Backstory_C3.titleShort>混血幽靈姬</HAR_NX_Backstory_C3.titleShort>
+  <HAR_NX_Backstory_C3.description>[PAWN_nameDef] 是幽靈姬與其他種族的混血兒，[PAWN_pronoun]通過母親或隔代遺傳繼承了人類與人工種族的血統。</HAR_NX_Backstory_C3.description>
+
+  <HAR_NX_Backstory_C4.title>混血亞人獸娘</HAR_NX_Backstory_C4.title>
+  <HAR_NX_Backstory_C4.titleShort>混血亞人獸娘</HAR_NX_Backstory_C4.titleShort>
+  <HAR_NX_Backstory_C4.description>[PAWN_nameDef] 是亞人獸娘與其他種族的混血兒，[PAWN_pronoun]通過母親或隔代遺傳繼承了人類與人工種族的血統。</HAR_NX_Backstory_C4.description>
+
+  <HAR_NX_Backstory_C5.title>混血牧菌妖姬</HAR_NX_Backstory_C5.title>
+  <HAR_NX_Backstory_C5.titleShort>混血牧菌妖姬</HAR_NX_Backstory_C5.titleShort>
+  <HAR_NX_Backstory_C5.description>[PAWN_nameDef] 是牧菌妖姬與其他種族的混血兒，[PAWN_pronoun]通過母親或隔代遺傳繼承了人類與人工種族的血統。</HAR_NX_Backstory_C5.description>
+
+  <HAR_NX_Backstory_C6.title>混血偽神族</HAR_NX_Backstory_C6.title>
+  <HAR_NX_Backstory_C6.titleShort>混血偽神族</HAR_NX_Backstory_C6.titleShort>
+  <HAR_NX_Backstory_C6.description>[PAWN_nameDef] 是偽神族與其他種族的混血兒，[PAWN_pronoun]通過母親或隔代遺傳繼承了人類與人工種族的血統。</HAR_NX_Backstory_C6.description>
+
+  <HAR_NX_Backstory_C7.title>混血龍姬</HAR_NX_Backstory_C7.title>
+  <HAR_NX_Backstory_C7.titleShort>混血龍姬</HAR_NX_Backstory_C7.titleShort>
+  <HAR_NX_Backstory_C7.description>[PAWN_nameDef] 是龍姬與其他種族的混血兒，[PAWN_pronoun]通過母親或隔代遺傳繼承了人類與人工種族的血統。</HAR_NX_Backstory_C7.description>
+
+  <HAR_NX_Backstory_C8.title>混血飛蛾姬</HAR_NX_Backstory_C8.title>
+  <HAR_NX_Backstory_C8.titleShort>混血飛蛾姬</HAR_NX_Backstory_C8.titleShort>
+  <HAR_NX_Backstory_C8.description>[PAWN_nameDef] 是飛蛾姬與其他種族的混血兒，[PAWN_pronoun]通過母親或隔代遺傳繼承了人類與人工種族的血統。</HAR_NX_Backstory_C8.description>
+
+  <HAR_NX_Backstory_C9.title>混血庫利菈</HAR_NX_Backstory_C9.title>
+  <HAR_NX_Backstory_C9.titleShort>混血庫利菈</HAR_NX_Backstory_C9.titleShort>
+  <HAR_NX_Backstory_C9.description>[PAWN_nameDef] 是庫利菈與其他種族的混血兒，[PAWN_pronoun]通過母親或隔代遺傳繼承了人類與人工種族的血統。</HAR_NX_Backstory_C9.description>
+
+  <HAR_NX_Backstory_CS1.title>混血混沌靈</HAR_NX_Backstory_CS1.title>
+  <HAR_NX_Backstory_CS1.titleShort>混血混沌靈</HAR_NX_Backstory_CS1.titleShort>
+  <HAR_NX_Backstory_CS1.description>[PAWN_nameDef] 是混沌靈與其他種族的混血兒，[PAWN_pronoun]通過母親或隔代遺傳繼承了人類與人工種族的血統。</HAR_NX_Backstory_CS1.description>
+
+
+  <!-- ■↓成人期のバックストーリー -->
+
+  <HAR_NX_Backstory_A1.title>士兵的混血種</HAR_NX_Backstory_A1.title>
+  <HAR_NX_Backstory_A1.titleShort>士兵</HAR_NX_Backstory_A1.titleShort>
+  <HAR_NX_Backstory_A1.description>[PAWN_nameDef] 已經覺醒了作為混血種的力量。</HAR_NX_Backstory_A1.description>
+
+  <HAR_NX_Backstory_A2.title>商人的混血種</HAR_NX_Backstory_A2.title>
+  <HAR_NX_Backstory_A2.titleShort>商人</HAR_NX_Backstory_A2.titleShort>
+  <HAR_NX_Backstory_A2.description>[PAWN_nameDef] 已經覺醒了作為混血種的力量。</HAR_NX_Backstory_A2.description>
+
+  <HAR_NX_Backstory_A3.title>工匠的混血種</HAR_NX_Backstory_A3.title>
+  <HAR_NX_Backstory_A3.titleShort>工匠</HAR_NX_Backstory_A3.titleShort>
+  <HAR_NX_Backstory_A3.description>[PAWN_nameDef] 已經覺醒了作為混血種的力量。</HAR_NX_Backstory_A3.description>
+
+  <HAR_NX_Backstory_A4.title>農民的混血種</HAR_NX_Backstory_A4.title>
+  <HAR_NX_Backstory_A4.titleShort>農民</HAR_NX_Backstory_A4.titleShort>
+  <HAR_NX_Backstory_A4.description>[PAWN_nameDef] 已經覺醒了作為混血種的力量。</HAR_NX_Backstory_A4.description>
+
+
+</LanguageData>

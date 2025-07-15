@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_EL_Monster_Kind_a.label>梅亞</HAR_EL_Monster_Kind_a.label>
+  <HAR_EL_Monster_Kind_a.labelPlural>梅亞們</HAR_EL_Monster_Kind_a.labelPlural>
+  <HAR_EL_Monster_Kind_a.labelMale>玩偶</HAR_EL_Monster_Kind_a.labelMale>
+  <HAR_EL_Monster_Kind_a.labelMalePlural>玩偶們</HAR_EL_Monster_Kind_a.labelMalePlural>
+  <HAR_EL_Monster_Kind_a.labelFemale>玩偶</HAR_EL_Monster_Kind_a.labelFemale>
+  <HAR_EL_Monster_Kind_a.labelFemalePlural>玩偶們</HAR_EL_Monster_Kind_a.labelFemalePlural>
+
+  <HAR_EL_Monster_Kind_b.label>露卡</HAR_EL_Monster_Kind_b.label>
+  <HAR_EL_Monster_Kind_b.labelPlural>露卡們</HAR_EL_Monster_Kind_b.labelPlural>
+  <HAR_EL_Monster_Kind_b.labelMale>玩偶</HAR_EL_Monster_Kind_b.labelMale>
+  <HAR_EL_Monster_Kind_b.labelMalePlural>玩偶們</HAR_EL_Monster_Kind_b.labelMalePlural>
+  <HAR_EL_Monster_Kind_b.labelFemale>玩偶</HAR_EL_Monster_Kind_b.labelFemale>
+  <HAR_EL_Monster_Kind_b.labelFemalePlural>玩偶們</HAR_EL_Monster_Kind_b.labelFemalePlural>
+
+  <HAR_EL_Monster_Kind_c.label>琪拉</HAR_EL_Monster_Kind_c.label>
+  <HAR_EL_Monster_Kind_c.labelPlural>琪拉們</HAR_EL_Monster_Kind_c.labelPlural>
+  <HAR_EL_Monster_Kind_c.labelMale>玩偶</HAR_EL_Monster_Kind_c.labelMale>
+  <HAR_EL_Monster_Kind_c.labelMalePlural>玩偶們</HAR_EL_Monster_Kind_c.labelMalePlural>
+  <HAR_EL_Monster_Kind_c.labelFemale>玩偶</HAR_EL_Monster_Kind_c.labelFemale>
+  <HAR_EL_Monster_Kind_c.labelFemalePlural>玩偶們</HAR_EL_Monster_Kind_c.labelFemalePlural>
+
+
+</LanguageData>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_SK_Weapon_a.label>豐收大鐮刀</HAR_SK_Weapon_a.label>
+  <HAR_SK_Weapon_a.description>雖然很難掌控，但是在農業和戰鬥中都能派上用場的大鐮刀。裝備後會提升裝備者的種植能力。</HAR_SK_Weapon_a.description>
+  <HAR_SK_Weapon_a.tools.0.label>握把</HAR_SK_Weapon_a.tools.0.label>
+  <HAR_SK_Weapon_a.tools.1.label>刀尖</HAR_SK_Weapon_a.tools.1.label>
+  <HAR_SK_Weapon_a.tools.2.label>刀刃</HAR_SK_Weapon_a.tools.2.label>
+
+  <HAR_SK_Weapon_b.label>勤勉者掃帚</HAR_SK_Weapon_b.label>
+  <HAR_SK_Weapon_b.description>無法作為武器使用的生活掃帚，對不依賴移動速度和技能等級的工作有一定的工作速度加成。</HAR_SK_Weapon_b.description>
+  <HAR_SK_Weapon_b.tools.0.label>握把</HAR_SK_Weapon_b.tools.0.label>
+
+  <Gun_AssaultRifle_SK.label>熾熱之槍</Gun_AssaultRifle_SK.label>
+  <Gun_AssaultRifle_SK.description>亞人工業製造的特種槍。子彈具有點燃性質，可以點著被擊中的對手。</Gun_AssaultRifle_SK.description>
+  <Gun_AssaultRifle_SK.tools.0.label>槍托</Gun_AssaultRifle_SK.tools.0.label>
+  <Gun_AssaultRifle_SK.tools.1.label>槍管</Gun_AssaultRifle_SK.tools.1.label>
+
+  <Bullet_Gun_AssaultRifle_SK.label>熾熱之槍</Bullet_Gun_AssaultRifle_SK.label>
+
+  <Gun_IncendiaryLauncher_SK.label>熔岩發射器</Gun_IncendiaryLauncher_SK.label>
+  <Gun_IncendiaryLauncher_SK.description>亞人工業製造的特種槍。雖然可以通過在點燃粘性油的同時噴灑來在大範圍內噴吐火焰，但是由於其極難操作，所以射擊速度很慢。</Gun_IncendiaryLauncher_SK.description>
+  <Gun_IncendiaryLauncher_SK.tools.0.label>槍托</Gun_IncendiaryLauncher_SK.tools.0.label>
+  <Gun_IncendiaryLauncher_SK.tools.1.label>槍管</Gun_IncendiaryLauncher_SK.tools.1.label>
+
+  <Bullet_IncendiaryLauncher_SK.label>熔岩發射器</Bullet_IncendiaryLauncher_SK.label>
+
+
+</LanguageData>

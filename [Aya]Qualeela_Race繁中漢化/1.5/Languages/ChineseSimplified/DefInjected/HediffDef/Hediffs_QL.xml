@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_QL_Hediff_a.label>王權強化</HAR_QL_Hediff_a.label>
+  <HAR_QL_Hediff_a.description>庫利菈的王權技能之一『王權強化』的效果。
+    \n與周圍的盟友簽訂暫時性的契約，對雙方進行戲劇性的身體強化。\
+    n由於協議內容簡單，因此效果只能持續數小時。</HAR_QL_Hediff_a.description>
+
+  <HAR_QL_Hediff_b.label>王權屏障</HAR_QL_Hediff_b.label>
+  <HAR_QL_Hediff_b.description>庫利菈的王權技能之一『王權屏障』的效果。
+    \n祝福周圍的盟友擊退攻擊，提高防禦力。
+    \n由於協議內容簡單，因此效果只能持續數小時。</HAR_QL_Hediff_b.description>
+
+  <HAR_QL_Hediff_c.label>王權束縛</HAR_QL_Hediff_c.label>
+  <HAR_QL_Hediff_c.description>庫利菈的王權技能之一『王權束縛』的效果。
+    \n封住敵對者的强化並施加心理壓力，使其處於極度緊張的狀態。</HAR_QL_Hediff_c.description>
+
+  <HAR_QL_Hediff_d.label>王權干涉</HAR_QL_Hediff_d.label>
+  <HAR_QL_Hediff_d.description>庫利菈的王權技能之一『王權干涉』的效果。
+    \n讓敵人出現幻覺和幻聽，使他們失去知覺。</HAR_QL_Hediff_d.description>
+
+  <HAR_QL_Hediff_e.label>揚升聖痕</HAR_QL_Hediff_e.label>
+  <HAR_QL_Hediff_e.description>至這是由至高種的神器刻印的聖痕。
+    \n當傷口數量超過一定數量時，該個體會立即升天。
+    \n據說這是真理協會持有的揚升納米機器的再現原件。</HAR_QL_Hediff_e.description>
+  <HAR_QL_Hediff_e.stages.0.label>潛伏</HAR_QL_Hediff_e.stages.0.label>
+  <HAR_QL_Hediff_e.stages.1.label>昇天</HAR_QL_Hediff_e.stages.1.label>
+
+  <Qualeela_Artificial.label>人工上位種族(庫利菈)</Qualeela_Artificial.label>
+  <Qualeela_Artificial.description>庫利菈是人工製造出來的種族，擁有統帥其他人工種族存在所匹配的精神力。
+    \n\n同時，庫利菈・至高種擁有召喚眷屬的能力，可以召喚她們的眷屬與敵人戰鬥。召喚的數量取決於她們作為庫利菈的等級，Lv大約每過2年就會上升Lv.1(Lv上限為5)。</Qualeela_Artificial.description>
+  <Qualeela_Artificial.stages.0.label>Lv1</Qualeela_Artificial.stages.0.label>
+  <Qualeela_Artificial.stages.1.label>Lv2</Qualeela_Artificial.stages.1.label>
+  <Qualeela_Artificial.stages.2.label>Lv3</Qualeela_Artificial.stages.2.label>
+  <Qualeela_Artificial.stages.3.label>Lv4</Qualeela_Artificial.stages.3.label>
+  <Qualeela_Artificial.stages.4.label>Lv5</Qualeela_Artificial.stages.4.label>
+
+
+</LanguageData>

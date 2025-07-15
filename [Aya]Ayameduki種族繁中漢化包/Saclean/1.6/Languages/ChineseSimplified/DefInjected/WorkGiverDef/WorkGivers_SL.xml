@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_Saclean_Milk.label>飛蛾姬產奶中</HAR_Saclean_Milk.label>
+  <HAR_Saclean_Milk.verb>產奶</HAR_Saclean_Milk.verb>
+  <HAR_Saclean_Milk.gerund>正在產奶</HAR_Saclean_Milk.gerund>
+
+  <HAR_Saclean_Shear.label>飛蛾姬吐絲中</HAR_Saclean_Shear.label>
+  <HAR_Saclean_Shear.verb>吐絲</HAR_Saclean_Shear.verb>
+  <HAR_Saclean_Shear.gerund>正在吐絲</HAR_Saclean_Shear.gerund>
+
+
+</LanguageData>

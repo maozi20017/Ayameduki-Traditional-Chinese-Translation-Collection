@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_NM_Skill_Damage_b_a.label>死體解剖</HAR_NM_Skill_Damage_b_a.label>
+  <HAR_NM_Skill_Damage_b_a.deathMessage>{0} 被輾壓致死。</HAR_NM_Skill_Damage_b_a.deathMessage>
+
+  <HAR_NM_Skill_Damage_b_b.label>古老的醫術</HAR_NM_Skill_Damage_b_b.label>
+  <HAR_NM_Skill_Damage_b_b.deathMessage>{0} 被輾壓致死。</HAR_NM_Skill_Damage_b_b.deathMessage>
+
+  <HAR_NM_Skill_Damage_b_c.label>亞克特拉的靈藥</HAR_NM_Skill_Damage_b_c.label>
+  <HAR_NM_Skill_Damage_b_c.deathMessage>{0} 被輾壓致死。</HAR_NM_Skill_Damage_b_c.deathMessage>
+
+  <HAR_NM_Skill_Damage_b_d.label>艾蒂涅的魔藥</HAR_NM_Skill_Damage_b_d.label>
+  <HAR_NM_Skill_Damage_b_d.deathMessage>{0} 被輾壓致死。</HAR_NM_Skill_Damage_b_d.deathMessage>
+
+  <HAR_NM_Skill_Damage_b_e.label>可能性的秘藥</HAR_NM_Skill_Damage_b_e.label>
+  <HAR_NM_Skill_Damage_b_e.deathMessage>{0} 被輾壓致死。</HAR_NM_Skill_Damage_b_e.deathMessage>
+
+  <HAR_NM_Skill_Damage_b_z.label>■■■的死藥</HAR_NM_Skill_Damage_b_z.label>
+  <HAR_NM_Skill_Damage_b_z.deathMessage>{0} 被輾壓致死。</HAR_NM_Skill_Damage_b_z.deathMessage>
+
+
+</LanguageData>

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_XO_Hediff_a.label>深淵之怖</HAR_XO_Hediff_a.label>
+  <HAR_XO_Hediff_a.description>人魚姬・海達諾亞的昏暗陷阱。
+  \n將射擊敵人的感覺拖入深海之中。
+  \n\n在海底，引導之光無法透過，你的聲音無法傳達給任何人。</HAR_XO_Hediff_a.description>
+
+  <HAR_XO_Hediff_b.label>深淵之懼</HAR_XO_Hediff_b.label>
+  <HAR_XO_Hediff_b.description>人魚姬・海達諾亞所籠罩的領域。
+  \n將比深海更深的超深海壓力強加給對手。
+  \n\n這裡是母親之海的深淵，無論誰都無法征服的黑暗宮殿。</HAR_XO_Hediff_b.description>
+
+  <HAR_XO_Hediff_c.label>帝國秩序</HAR_XO_Hediff_c.label>
+  <HAR_XO_Hediff_c.description>人魚姬·海達諾亞卓越的指揮。
+    如果統率者是英傑，那麼即使是雜兵也會成為經歷百戰鍛鍊的雄兵。</HAR_XO_Hediff_c.description>
+
+  <HAR_XO_Hediff_d.label>深淵之襲</HAR_XO_Hediff_d.label>
+  <HAR_XO_Hediff_d.description>人魚姬・海達諾亞釋放的攻擊。
+    \n雖然是短暫的時間，但會失去移動能力，而且受到攻擊的人如果是玩家派系的話，會被吹飛到附近的某個地方。
+    \n\n為了獵取獵物，在剎那之間發動的一擊可以輕易地擊飛任何敵人。
+    \n這裡已經是充滿鮮血和死亡的戰場，不要認為可以畏縮的堅守城池。</HAR_XO_Hediff_d.description>
+
+  <HAR_XO_Hediff_e.label>墮落聖痕</HAR_XO_Hediff_e.label>
+  <HAR_XO_Hediff_e.description>被深淵之咀切割後產生的聖痕。
+    \n會剝奪護甲並且如果聖痕數量超過一定程度，此人將立即喪命。</HAR_XO_Hediff_e.description>
+  <HAR_XO_Hediff_e.stages.0.label>潛伏</HAR_XO_Hediff_e.stages.0.label>
+  <HAR_XO_Hediff_e.stages.1.label>昇天</HAR_XO_Hediff_e.stages.1.label>
+
+  <Xenoorca_Artificial.label>人工種族(人魚姬)</Xenoorca_Artificial.label>
+  <Xenoorca_Artificial.description>人魚姬是一個人造的種族，由於戰鬥特化的原因，肉體得到了強化；但是作為人工生物的她們對疾病等的耐性和免疫力都很低。另外，其強度由她們各自的人魚姬等級決定，Lv大約每過1年就會上升Lv.1(Lv上限為10)。</Xenoorca_Artificial.description>
+  <Xenoorca_Artificial.stages.0.label>Lv1</Xenoorca_Artificial.stages.0.label>
+  <Xenoorca_Artificial.stages.1.label>Lv2</Xenoorca_Artificial.stages.1.label>
+  <Xenoorca_Artificial.stages.2.label>Lv3</Xenoorca_Artificial.stages.2.label>
+  <Xenoorca_Artificial.stages.3.label>Lv4</Xenoorca_Artificial.stages.3.label>
+  <Xenoorca_Artificial.stages.4.label>Lv5</Xenoorca_Artificial.stages.4.label>
+  <Xenoorca_Artificial.stages.5.label>Lv6</Xenoorca_Artificial.stages.5.label>
+  <Xenoorca_Artificial.stages.6.label>Lv7</Xenoorca_Artificial.stages.6.label>
+  <Xenoorca_Artificial.stages.7.label>Lv8</Xenoorca_Artificial.stages.7.label>
+  <Xenoorca_Artificial.stages.8.label>Lv9</Xenoorca_Artificial.stages.8.label>
+  <Xenoorca_Artificial.stages.9.label>Lv10</Xenoorca_Artificial.stages.9.label>
+
+  <Xenoorca_Artificial_b.label>人工上位種族(人魚姬・海達諾亞)</Xenoorca_Artificial_b.label>
+  <Xenoorca_Artificial_b.description>人魚姬・海達諾亞擁有足夠的生命力，即使遭受集中火力攻擊也能夠忍受。其強度由她們各自的人魚姬等級決定，Lv大約每過1年就會上升Lv.1(Lv上限為5)。</Xenoorca_Artificial_b.description>
+  <Xenoorca_Artificial_b.stages.0.label>Lv1</Xenoorca_Artificial_b.stages.0.label>
+  <Xenoorca_Artificial_b.stages.1.label>Lv2</Xenoorca_Artificial_b.stages.1.label>
+  <Xenoorca_Artificial_b.stages.2.label>Lv3</Xenoorca_Artificial_b.stages.2.label>
+  <Xenoorca_Artificial_b.stages.3.label>Lv4</Xenoorca_Artificial_b.stages.3.label>
+  <Xenoorca_Artificial_b.stages.4.label>Lv5</Xenoorca_Artificial_b.stages.4.label>
+
+</LanguageData>

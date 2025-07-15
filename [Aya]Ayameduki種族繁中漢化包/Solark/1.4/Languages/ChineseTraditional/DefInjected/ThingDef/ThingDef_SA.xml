@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_SA_Archotech_a.label>反物質隔離單元</HAR_SA_Archotech_a.label>
+  <HAR_SA_Archotech_a.description>使用了高度技術的老舊單元，內部似乎封存了人工種族，開啟後可以讓他們加入殖民地。
+    \n由於使用了與反物質有關的材料，這些單元似乎是來自龍姬的產物。</HAR_SA_Archotech_a.description>
+  <HAR_SA_Archotech_a.comps.0.useLabel>激活 {0_label}</HAR_SA_Archotech_a.comps.0.useLabel>
+
+
+</LanguageData>

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Nearmaere_Base_Faction.leaderTitle>領袖</Nearmaere_Base_Faction.leaderTitle>
+
+  <Nearmaere_P_Faction.label>夜魔的隱居之鄉</Nearmaere_P_Faction.label>
+  <Nearmaere_P_Faction.description>夜魔們聚集在一起平和的隱居著的聚落。</Nearmaere_P_Faction.description>
+  <Nearmaere_P_Faction.pawnsPlural>夜魔們</Nearmaere_P_Faction.pawnsPlural>
+
+  <Nearmaere_Faction_NPC.label>夜魔派系</Nearmaere_Faction_NPC.label>
+  <Nearmaere_Faction_NPC.description>以夜魔為主、摻雜著其他種族的稀有派系。</Nearmaere_Faction_NPC.description>
+  <Nearmaere_Faction_NPC.fixedName>夜魔的派系</Nearmaere_Faction_NPC.fixedName>
+  <Nearmaere_Faction_NPC.pawnsPlural>夜魔</Nearmaere_Faction_NPC.pawnsPlural>
+  <Nearmaere_Faction_NPC.leaderTitle>領袖</Nearmaere_Faction_NPC.leaderTitle>
+
+  <Nearmaere_Faction_NPC_b.label>幽魂遺民</Nearmaere_Faction_NPC_b.label>
+  <Nearmaere_Faction_NPC_b.description>這是對抗拋棄他們的創造主的宙族的夜魔派系，由於憎恨宙族，他們無法區分敵人和朋友，對我們也持敵對態度。\n他們擁有夜魔的特點，即召喚眷屬，但他們將眷屬用於遠征和補給路線的維護，因此在戰鬥中並不使用眷屬。\n他們並不是不可溝通的，只要持續努力改善關係，最終可能會與我們建立同盟。</Nearmaere_Faction_NPC_b.description>
+  <Nearmaere_Faction_NPC_b.fixedName>幽魂遺民</Nearmaere_Faction_NPC_b.fixedName>
+  <Nearmaere_Faction_NPC_b.pawnsPlural>夜魔</Nearmaere_Faction_NPC_b.pawnsPlural>
+  <Nearmaere_Faction_NPC_b.leaderTitle>領袖</Nearmaere_Faction_NPC_b.leaderTitle>
+
+  <Nearmaere_Faction_NPC_c.label>真理教會</Nearmaere_Faction_NPC_c.label>
+  <Nearmaere_Faction_NPC_c.description>這是一個崇拜創造自己的創造主為神的派系，也是在宇宙廣泛分布的人工種族中最繁榮最大的宗教。
+    \n現在從已經滅亡的偉大創造主那裡繼承了『知識』作為遺產。\n\n『將創造主的偉業傳播到世間』\n『徹底破壞反叛創造主的造物』\n『每天提高自己作為創造物的水平』\n以以上三原則為基礎活動。\n\n只要不是敵對的，與任何派系都可以交流，但對機械生命體卻有著徹底反對的態度，並擁有許多對抗它們的手段。對同為創造主創造的種族，作為繼承者繼承了『技術』的亞人種族有著很深的交流。</Nearmaere_Faction_NPC_c.description>
+  <Nearmaere_Faction_NPC_c.fixedName>真理教會</Nearmaere_Faction_NPC_c.fixedName>
+  <Nearmaere_Faction_NPC_c.pawnsPlural>夜魔</Nearmaere_Faction_NPC_c.pawnsPlural>
+  <Nearmaere_Faction_NPC_c.leaderTitle>領袖</Nearmaere_Faction_NPC_c.leaderTitle>
+  
+  <Nearmaere_Faction_NPC_e.label>邊境惑星保全機構-ETHOS-</Nearmaere_Faction_NPC_e.label>
+  <Nearmaere_Faction_NPC_e.description>在大戰結束後，偽神族・可能性成立的機構。
+其目的是阻止外部文明的介入，並監視行星直到其自然發展。
+
+不像隱德來希那樣激進，對於降落在這個星球上的遇難者表現出寬容的態度。
+只要遇難者不對其造成危害，便不會有敵對的情況。
+
+穿戴著迦南製造的最先進裝備，召喚她們作為援軍將成為強大的盟友。</Nearmaere_Faction_NPC_e.description>
+  <Nearmaere_Faction_NPC_e.fixedName>邊境惑星保全機構-ETHOS-</Nearmaere_Faction_NPC_e.fixedName>
+  <Nearmaere_Faction_NPC_e.pawnsPlural>夜魔</Nearmaere_Faction_NPC_e.pawnsPlural>
+  <Nearmaere_Faction_NPC_e.leaderTitle>司令官</Nearmaere_Faction_NPC_e.leaderTitle>
+
+  
+</LanguageData>

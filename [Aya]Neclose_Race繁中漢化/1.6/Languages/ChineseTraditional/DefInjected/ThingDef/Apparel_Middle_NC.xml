@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ■ルナティックアーマー(耐久型) -->
+
+  <HAR_NC_Armor_a.label>血月盔甲(耐久型)(牧菌妖姬)</HAR_NC_Armor_a.label>
+  <HAR_NC_Armor_a.description>牧菌妖姬的專用盔甲，性能側重於接近對方並使其感染露娜病菌。原本是作為創造主麾下的戰鬥人員時穿著的戰鬥盔甲。</HAR_NC_Armor_a.description>
+
+
+  <!-- ■ルナティックアーマー(突撃型) -->
+
+  <HAR_NC_Armor_b.label>血月盔甲(突襲型)(牧菌妖姬)</HAR_NC_Armor_b.label>
+  <HAR_NC_Armor_b.description>牧菌妖姬的專用盔甲，性能側重於接近對方並使其感染露娜病菌。原本是作為創造主麾下的戰鬥人員時穿著的戰鬥盔甲。</HAR_NC_Armor_b.description>
+
+
+  <!-- ■ルナティックアーマー(標準型) -->
+
+  <HAR_NC_Armor_c.label>血月盔甲(標準型)(牧菌妖姬)</HAR_NC_Armor_c.label>
+  <HAR_NC_Armor_c.description>牧菌妖姬的專用盔甲，性能側重於接近對方並使其感染露娜病菌。原本是作為創造主麾下的戰鬥人員時穿著的戰鬥盔甲。</HAR_NC_Armor_c.description>
+
+
+  <!-- ■異端者盔甲(牧菌妖姬・虛偽之物) -->
+
+  <HAR_NC_Armor_z.label>異端者盔甲(牧菌妖姬・虛偽之物)</HAR_NC_Armor_z.label>
+  <HAR_NC_Armor_z.description>牧菌妖姬・虛偽之物專用的盔甲。
+    \n外觀看起來有點像太空服。</HAR_NC_Armor_z.description>
+
+
+</LanguageData>
