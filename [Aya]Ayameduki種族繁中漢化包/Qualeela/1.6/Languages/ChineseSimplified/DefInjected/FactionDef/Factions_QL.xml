@@ -1,8 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Qualeela_Base_Faction.leaderTitle>領袖</Qualeela_Base_Faction.leaderTitle>
-
   <Qualeela_P_Faction.label>庫利菈的隱居之鄉</Qualeela_P_Faction.label>
   <Qualeela_P_Faction.description>庫利菈們聚集在一起平和的隱居著的聚落。</Qualeela_P_Faction.description>
   <Qualeela_P_Faction.pawnsPlural>庫利菈們</Qualeela_P_Faction.pawnsPlural>

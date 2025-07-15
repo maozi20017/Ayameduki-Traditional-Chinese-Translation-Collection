@@ -1,8 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Solark_Base_Faction.leaderTitle>領袖</Solark_Base_Faction.leaderTitle>
-
   <Solark_P_Faction.label>龍姬的隱居之鄉</Solark_P_Faction.label>
   <Solark_P_Faction.description>龍姬們聚集在一起平和的隱居著的聚落。</Solark_P_Faction.description>
   <Solark_P_Faction.pawnsPlural>龍姬</Solark_P_Faction.pawnsPlural>

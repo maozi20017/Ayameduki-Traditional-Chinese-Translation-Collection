@@ -1,8 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Idhale_Base_Faction.leaderTitle>領袖</Idhale_Base_Faction.leaderTitle>
-
   <Idhale_P_Faction.label>幽靈姬的隱居之鄉</Idhale_P_Faction.label>
   <Idhale_P_Faction.description>幽靈姬們聚集在一起平和的隱居著的聚落。</Idhale_P_Faction.description>
   <Idhale_P_Faction.pawnsPlural>幽靈姬們</Idhale_P_Faction.pawnsPlural>

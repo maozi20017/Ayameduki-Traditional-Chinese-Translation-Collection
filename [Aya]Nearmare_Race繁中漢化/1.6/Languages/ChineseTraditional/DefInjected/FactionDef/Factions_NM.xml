@@ -1,8 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Nearmaere_Base_Faction.leaderTitle>領袖</Nearmaere_Base_Faction.leaderTitle>
-
   <Nearmaere_P_Faction.label>夜魔的隱居之鄉</Nearmaere_P_Faction.label>
   <Nearmaere_P_Faction.description>夜魔們聚集在一起平和的隱居著的聚落。</Nearmaere_P_Faction.description>
   <Nearmaere_P_Faction.pawnsPlural>夜魔們</Nearmaere_P_Faction.pawnsPlural>

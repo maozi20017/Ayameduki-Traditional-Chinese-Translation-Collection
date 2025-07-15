@@ -1,8 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Littluna_Base_Faction.leaderTitle>領袖</Littluna_Base_Faction.leaderTitle>
-
   <Littluna_P_Faction.label>偽神族的隱居之鄉</Littluna_P_Faction.label>
   <Littluna_P_Faction.description>偽神族們聚集在一起平和的隱居著的聚落。</Littluna_P_Faction.description>
   <Littluna_P_Faction.pawnsPlural>偽神族們</Littluna_P_Faction.pawnsPlural>
