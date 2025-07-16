@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 賄いのパンケーキを作る(四人前) -->
+  <HAR_ZC_Cook_a.label>烹調員工餐的鬆餅x4</HAR_ZC_Cook_a.label>
+  <!-- EN: 米を調理して四人前の賄いのパンケーキを作ります。 -->
+  <HAR_ZC_Cook_a.description>將米煮熟，製作出四人份員工餐的鬆餅。</HAR_ZC_Cook_a.description>
+  <!-- EN: 賄いのパンケーキを作る(四人前) -->
+  <HAR_ZC_Cook_a.jobString>烹調員工餐的鬆餅x4</HAR_ZC_Cook_a.jobString>
+  
+  <!-- EN: 地獄のシチューを作る(四人前) -->
+  <HAR_ZC_Cook_b.label>烹調地獄濃湯x4</HAR_ZC_Cook_b.label>
+  <!-- EN: 米を調理して四人前の地獄のシチューを作ります。 -->
+  <HAR_ZC_Cook_b.description>將米煮熟，製作出四人份地獄濃湯。</HAR_ZC_Cook_b.description>
+  <!-- EN: 地獄のシチューを作る(四人前) -->
+  <HAR_ZC_Cook_b.jobString>烹調地獄濃湯x4</HAR_ZC_Cook_b.jobString>
+  
+</LanguageData>
