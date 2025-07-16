@@ -1,15 +1,28 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Solark_P_Faction.label>龍姬的隱居之鄉</Solark_P_Faction.label>
-  <Solark_P_Faction.description>龍姬們聚集在一起平和的隱居著的聚落。</Solark_P_Faction.description>
-  <Solark_P_Faction.pawnsPlural>龍姬</Solark_P_Faction.pawnsPlural>
-
+  
+  <!-- EN: Solark_Faction -->
   <Solark_Faction_NPC.label>龍姬派系</Solark_Faction_NPC.label>
+  <!-- EN: ソルアークで構成された中立的な派閥であり危害を加えない限りは敵対することはないでしょう。\n種族特徴である強力な身体能力のほかに全員強力なアーマーを装備しているため戦闘力は非常に高い。 -->
   <Solark_Faction_NPC.description>由龍姬組成的中立派系，除非對她們造成傷害，否則不會敵對。\n除了擁有種族特有的強大身體機能外，她們都配備了強大的盔甲，因此戰鬥力非常高。</Solark_Faction_NPC.description>
+  <!-- EN: アドライグイベル -->
   <Solark_Faction_NPC.fixedName>阿德萊·玲龍</Solark_Faction_NPC.fixedName>
-  <Solark_Faction_NPC.pawnsPlural>龍姬</Solark_Faction_NPC.pawnsPlural>
+  <!-- EN: Leader -->
   <Solark_Faction_NPC.leaderTitle>領袖</Solark_Faction_NPC.leaderTitle>
-
-
+  <!-- EN: ソルアーク -->
+  <Solark_Faction_NPC.pawnSingular>龍姬</Solark_Faction_NPC.pawnSingular>
+  <!-- EN: ソルアーク -->
+  <Solark_Faction_NPC.pawnsPlural>龍姬</Solark_Faction_NPC.pawnsPlural>
+  
+  <!-- EN: ソルアークの隠れ里 -->
+  <Solark_P_Faction.label>龍姬的隱居之鄉</Solark_P_Faction.label>
+  <!-- EN: ソルアーク達が集まってひっそりと暮らしている里 -->
+  <Solark_P_Faction.description>龍姬們聚集在一起平和的隱居著的聚落。</Solark_P_Faction.description>
+  <!-- EN: leader -->
+  <Solark_P_Faction.leaderTitle>領袖</Solark_P_Faction.leaderTitle>
+  <!-- EN: ソルアーク -->
+  <Solark_P_Faction.pawnSingular>龍姬</Solark_P_Faction.pawnSingular>
+  <!-- EN: ソルアーク達 -->
+  <Solark_P_Faction.pawnsPlural>龍姬</Solark_P_Faction.pawnsPlural>
+  
 </LanguageData>

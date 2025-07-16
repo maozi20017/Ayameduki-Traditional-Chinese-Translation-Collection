@@ -1,20 +1,41 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Xenoorca_P_Faction.label>人魚姬的隱居地</Xenoorca_P_Faction.label>
-  <Xenoorca_P_Faction.description>人魚姬們聚集在一起平和的隱居著的聚落。</Xenoorca_P_Faction.description>
-  <Xenoorca_P_Faction.pawnsPlural>人魚姬們</Xenoorca_P_Faction.pawnsPlural>
-
-  <Xenoorca_Faction_NPC_b.label>虎鯨傭兵團</Xenoorca_Faction_NPC_b.label>
-  <Xenoorca_Faction_NPC_b.description>形成團體、在世界各地徘徊的人魚姬傭兵團。和殺人鯨旅團不同，她們表現出了足夠的善意；她們的援軍將為你提供強大的火力支援。</Xenoorca_Faction_NPC_b.description>
-  <Xenoorca_Faction_NPC_b.fixedName>虎鯨傭兵團</Xenoorca_Faction_NPC_b.fixedName>
-  <Xenoorca_Faction_NPC_b.pawnsPlural>人魚姬</Xenoorca_Faction_NPC_b.pawnsPlural>
-  <Xenoorca_Faction_NPC_b.leaderTitle>領袖</Xenoorca_Faction_NPC_b.leaderTitle>
-
+  
+  <!-- EN: Xenoorca_Faction -->
   <Xenoorca_Faction_NPC.label>殺人鯨旅團</Xenoorca_Faction_NPC.label>
+  <!-- EN: 各地を彷徨いながら略奪を繰り返している派閥。\n『淵叢主』と呼ばれる存在が率いているゼノオーカの戦闘集団。\n狡猾で残虐な彼女たちは独自の改造を施した火器を使い特殊な鎧を身に纏っています。 -->
   <Xenoorca_Faction_NPC.description>在世界各地徘徊、反復進行掠奪的派系，一旦被她們盯上就會演變成不死不休的局面。狡猾又暴虐的人魚姬們使用私自改造的火器、身穿特殊鎧甲進行戰鬥。</Xenoorca_Faction_NPC.description>
+  <!-- EN: オルキヌス旅団 -->
   <Xenoorca_Faction_NPC.fixedName>殺人鯨旅團</Xenoorca_Faction_NPC.fixedName>
-  <Xenoorca_Faction_NPC.pawnsPlural>人魚姬</Xenoorca_Faction_NPC.pawnsPlural>
+  <!-- EN: 旅団長 -->
   <Xenoorca_Faction_NPC.leaderTitle>領袖</Xenoorca_Faction_NPC.leaderTitle>
-
+  <!-- EN: ゼノオーカ -->
+  <Xenoorca_Faction_NPC.pawnSingular>人魚姬</Xenoorca_Faction_NPC.pawnSingular>
+  <!-- EN: ゼノオーカ -->
+  <Xenoorca_Faction_NPC.pawnsPlural>人魚姬</Xenoorca_Faction_NPC.pawnsPlural>
+  
+  <!-- EN: Xenoorca_Faction_b -->
+  <Xenoorca_Faction_NPC_b.label>虎鯨傭兵團</Xenoorca_Faction_NPC_b.label>
+  <!-- EN: 群れを形成し各地を彷徨っているゼノオーカの傭兵団。オルキヌス旅団と違って友好的であり、援軍としても心強い味方となるでしょう。 -->
+  <Xenoorca_Faction_NPC_b.description>形成團體、在世界各地徘徊的人魚姬傭兵團。和殺人鯨旅團不同，她們表現出了足夠的善意；她們的援軍將為你提供強大的火力支援。</Xenoorca_Faction_NPC_b.description>
+  <!-- EN: オルカ傭兵団 -->
+  <Xenoorca_Faction_NPC_b.fixedName>虎鯨傭兵團</Xenoorca_Faction_NPC_b.fixedName>
+  <!-- EN: Leader -->
+  <Xenoorca_Faction_NPC_b.leaderTitle>領袖</Xenoorca_Faction_NPC_b.leaderTitle>
+  <!-- EN: ゼノオーカ -->
+  <Xenoorca_Faction_NPC_b.pawnSingular>人魚姬</Xenoorca_Faction_NPC_b.pawnSingular>
+  <!-- EN: ゼノオーカ -->
+  <Xenoorca_Faction_NPC_b.pawnsPlural>人魚姬</Xenoorca_Faction_NPC_b.pawnsPlural>
+  
+  <!-- EN: ゼノオーカの隠れ里 -->
+  <Xenoorca_P_Faction.label>人魚姬的隱居地</Xenoorca_P_Faction.label>
+  <!-- EN: ゼノオーカ達が集まってひっそりと暮らしている里 -->
+  <Xenoorca_P_Faction.description>人魚姬們聚集在一起平和的隱居著的聚落。</Xenoorca_P_Faction.description>
+  <!-- EN: leader -->
+  <Xenoorca_P_Faction.leaderTitle>領袖</Xenoorca_P_Faction.leaderTitle>
+  <!-- EN: ゼノオーカ -->
+  <Xenoorca_P_Faction.pawnSingular>人魚姬</Xenoorca_P_Faction.pawnSingular>
+  <!-- EN: ゼノオーカ達 -->
+  <Xenoorca_P_Faction.pawnsPlural>人魚姬們</Xenoorca_P_Faction.pawnsPlural>
+  
 </LanguageData>

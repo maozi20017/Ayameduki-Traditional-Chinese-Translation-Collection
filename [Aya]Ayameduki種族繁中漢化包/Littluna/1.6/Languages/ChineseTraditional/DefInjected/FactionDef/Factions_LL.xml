@@ -1,21 +1,41 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Littluna_P_Faction.label>偽神族的隱居之鄉</Littluna_P_Faction.label>
-  <Littluna_P_Faction.description>偽神族們聚集在一起平和的隱居著的聚落。</Littluna_P_Faction.description>
-  <Littluna_P_Faction.pawnsPlural>偽神族們</Littluna_P_Faction.pawnsPlural>
-
+  
+  <!-- EN: Littluna_Faction -->
   <Littluna_Faction_NPC.label>偽神族派系</Littluna_Faction_NPC.label>
+  <!-- EN: 基本的に他種族に混じる中リトルーナが主要となって出来た珍しい派閥 -->
   <Littluna_Faction_NPC.description>以偽神族為主、摻雜著其他種族的稀有派系。</Littluna_Faction_NPC.description>
+  <!-- EN: リトルーナの派閥 -->
   <Littluna_Faction_NPC.fixedName>偽神族的派系</Littluna_Faction_NPC.fixedName>
-  <Littluna_Faction_NPC.pawnsPlural>偽神族</Littluna_Faction_NPC.pawnsPlural>
+  <!-- EN: Leader -->
   <Littluna_Faction_NPC.leaderTitle>領袖</Littluna_Faction_NPC.leaderTitle>
-
+  <!-- EN: リトルーナ -->
+  <Littluna_Faction_NPC.pawnSingular>偽神族</Littluna_Faction_NPC.pawnSingular>
+  <!-- EN: リトルーナ -->
+  <Littluna_Faction_NPC.pawnsPlural>偽神族</Littluna_Faction_NPC.pawnsPlural>
+  
+  <!-- EN: 狂乱の童女 -->
   <Littluna_Faction_NPC_b.label>狂亂的童女</Littluna_Faction_NPC_b.label>
+  <!-- EN: か弱いはずのリトルーナの敵対派閥。決して近づくことなかれ。 -->
   <Littluna_Faction_NPC_b.description>偽神族敵對派系，雖然看似脆弱，但千萬不要靠近。</Littluna_Faction_NPC_b.description>
+  <!-- EN: 狂乱の童女 -->
   <Littluna_Faction_NPC_b.fixedName>狂亂的童女</Littluna_Faction_NPC_b.fixedName>
-  <Littluna_Faction_NPC_b.pawnsPlural>偽神族</Littluna_Faction_NPC_b.pawnsPlural>
+  <!-- EN: 童女 -->
   <Littluna_Faction_NPC_b.leaderTitle>童女</Littluna_Faction_NPC_b.leaderTitle>
-
-
+  <!-- EN: リトルーナ -->
+  <Littluna_Faction_NPC_b.pawnSingular>偽神族</Littluna_Faction_NPC_b.pawnSingular>
+  <!-- EN: リトルーナ -->
+  <Littluna_Faction_NPC_b.pawnsPlural>偽神族</Littluna_Faction_NPC_b.pawnsPlural>
+  
+  <!-- EN: リトルーナの隠れ里 -->
+  <Littluna_P_Faction.label>偽神族的隱居之鄉</Littluna_P_Faction.label>
+  <!-- EN: リトルーナ達が集まってひっそりと暮らしている里 -->
+  <Littluna_P_Faction.description>偽神族們聚集在一起平和的隱居著的聚落。</Littluna_P_Faction.description>
+  <!-- EN: leader -->
+  <Littluna_P_Faction.leaderTitle>領袖</Littluna_P_Faction.leaderTitle>
+  <!-- EN: リトルーナ -->
+  <Littluna_P_Faction.pawnSingular>偽神族</Littluna_P_Faction.pawnSingular>
+  <!-- EN: リトルーナ達 -->
+  <Littluna_P_Faction.pawnsPlural>偽神族們</Littluna_P_Faction.pawnsPlural>
+  
 </LanguageData>

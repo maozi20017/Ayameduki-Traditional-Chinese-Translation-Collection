@@ -1,15 +1,28 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Silkiera_P_Faction.label>亞人獸娘的隱居之鄉</Silkiera_P_Faction.label>
-  <Silkiera_P_Faction.description>亞人獸娘們聚集在一起平和的隱居著的聚落。</Silkiera_P_Faction.description>
-  <Silkiera_P_Faction.pawnsPlural>亞人獸娘們</Silkiera_P_Faction.pawnsPlural>
-
+  
+  <!-- EN: Silkiera_Faction -->
   <Silkiera_Faction_NPC.label>亞人獸娘派系</Silkiera_Faction_NPC.label>
+  <!-- EN: シルキーラ達で構成・運営されている製造プラントを纏める企業、高い文明レベルと豊富な人員を保有しその物量を生かした戦いを得意としているようです。あなた達にとても友好な派閥ではありますが敵対すると物量で攻めてくるので喧嘩は売らないほうがいいでしょう。\n\n他の派閥より友好度が戻りやすく襲撃に困ったときは援軍を要請してみるのもありかもしれません、しかし注意点として亜人工業は敵を打ち倒すためなら周囲の被害は試みません……コロニー周辺が炎に包まれる覚悟と対策はしておいた方がいいでしょう。 -->
   <Silkiera_Faction_NPC.description>一家由亞人獸娘們構成、運營的武器製造企業。不僅有著高度發達的文明和大量的人口，更有著匹配其文明等級及人口的恐怖戰鬥力。雖然是對玩家非常友好的派系，可一旦敵對的話，就要做好被海量重裝戰士剿滅的覺悟。\n\n比其他派系更容易恢復友好度，遇到困難候可以試著向她們申請增援——但請注意，亞人工業的戰士們為了打倒敵人，向來是對周遭的環境不管不顧的……你要做好殖民地的周邊被火焰吞噬的覺悟和對策。</Silkiera_Faction_NPC.description>
+  <!-- EN: 亜人工業 -->
   <Silkiera_Faction_NPC.fixedName>亞人工業</Silkiera_Faction_NPC.fixedName>
-  <Silkiera_Faction_NPC.pawnsPlural>亞人獸娘</Silkiera_Faction_NPC.pawnsPlural>
+  <!-- EN: Leader -->
   <Silkiera_Faction_NPC.leaderTitle>領袖</Silkiera_Faction_NPC.leaderTitle>
-
-
+  <!-- EN: シルキーラ -->
+  <Silkiera_Faction_NPC.pawnSingular>亞人獸娘</Silkiera_Faction_NPC.pawnSingular>
+  <!-- EN: シルキーラ -->
+  <Silkiera_Faction_NPC.pawnsPlural>亞人獸娘</Silkiera_Faction_NPC.pawnsPlural>
+  
+  <!-- EN: シルキーラの隠れ里 -->
+  <Silkiera_P_Faction.label>亞人獸娘的隱居之鄉</Silkiera_P_Faction.label>
+  <!-- EN: シルキーラ達が集まってひっそりと暮らしている里 -->
+  <Silkiera_P_Faction.description>亞人獸娘們聚集在一起平和的隱居著的聚落。</Silkiera_P_Faction.description>
+  <!-- EN: leader -->
+  <Silkiera_P_Faction.leaderTitle>領袖</Silkiera_P_Faction.leaderTitle>
+  <!-- EN: シルキーラ -->
+  <Silkiera_P_Faction.pawnSingular>亞人獸娘</Silkiera_P_Faction.pawnSingular>
+  <!-- EN: シルキーラ達 -->
+  <Silkiera_P_Faction.pawnsPlural>亞人獸娘們</Silkiera_P_Faction.pawnsPlural>
+  
 </LanguageData>

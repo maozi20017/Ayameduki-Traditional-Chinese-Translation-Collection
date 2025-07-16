@@ -1,14 +1,26 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Nexaga_P_Faction.label>混血种的隐居之乡</Nexaga_P_Faction.label>
-  <Nexaga_P_Faction.description>混血种们聚集在一起平和的隐居着的聚落。</Nexaga_P_Faction.description>
-  <Nexaga_P_Faction.pawnsPlural>混血种们</Nexaga_P_Faction.pawnsPlural>
-
+  
+  <!-- EN: Nexaga_Faction -->
   <Nexaga_Faction_NPC.label>混血种的派系</Nexaga_Faction_NPC.label>
+  <!-- EN: ネクサーガで構成された中立的な派閥。 -->
   <Nexaga_Faction_NPC.description>由混血种组成的中立派系。</Nexaga_Faction_NPC.description>
-  <Nexaga_Faction_NPC.pawnsPlural>混血种</Nexaga_Faction_NPC.pawnsPlural>
+  <!-- EN: Leader -->
   <Nexaga_Faction_NPC.leaderTitle>领袖</Nexaga_Faction_NPC.leaderTitle>
-
-
+  <!-- EN: ネクサーガ -->
+  <Nexaga_Faction_NPC.pawnSingular>混血种</Nexaga_Faction_NPC.pawnSingular>
+  <!-- EN: ネクサーガ -->
+  <Nexaga_Faction_NPC.pawnsPlural>混血种</Nexaga_Faction_NPC.pawnsPlural>
+  
+  <!-- EN: ネクサーガの隠れ里 -->
+  <Nexaga_P_Faction.label>混血种的隐居之乡</Nexaga_P_Faction.label>
+  <!-- EN: ネクサーガ達が集まってひっそりと暮らしている里 -->
+  <Nexaga_P_Faction.description>混血种们聚集在一起平和的隐居着的聚落。</Nexaga_P_Faction.description>
+  <!-- EN: leader -->
+  <Nexaga_P_Faction.leaderTitle>领袖</Nexaga_P_Faction.leaderTitle>
+  <!-- EN: ネクサーガ -->
+  <Nexaga_P_Faction.pawnSingular>混血种</Nexaga_P_Faction.pawnSingular>
+  <!-- EN: ネクサーガ達 -->
+  <Nexaga_P_Faction.pawnsPlural>混血种们</Nexaga_P_Faction.pawnsPlural>
+  
 </LanguageData>

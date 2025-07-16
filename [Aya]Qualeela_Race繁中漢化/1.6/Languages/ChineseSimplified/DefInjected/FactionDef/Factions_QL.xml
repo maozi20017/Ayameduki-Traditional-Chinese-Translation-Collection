@@ -1,15 +1,28 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Qualeela_P_Faction.label>庫利菈的隱居之鄉</Qualeela_P_Faction.label>
-  <Qualeela_P_Faction.description>庫利菈們聚集在一起平和的隱居著的聚落。</Qualeela_P_Faction.description>
-  <Qualeela_P_Faction.pawnsPlural>庫利菈們</Qualeela_P_Faction.pawnsPlural>
-
+  
+  <!-- EN: エンテレケイア -->
   <Qualeela_Faction_NPC_c.label>隱德來希</Qualeela_Faction_NPC_c.label>
+  <!-- EN: 『生命をより強くより広く』という創造主の願いを継承したクオリーラ達が支配する国。\n本来人工種族はその生態上国規模の人口まで増やすことができないが創造主が残した生体プラントを継承した権限を用いて制御・運用することで克服。\n以後着実に勢力を拡大させ現在は数多の銀河で活動が可能になるほどにまで成長した。\n\n他の派閥には攻撃的な姿勢だが小規模な派閥は基本的に見逃がす傾向にある。\nしかし異常なほど資産価値を高めている派閥に対しては危険分子としてみなし侵略を行う。\n\n戦力も規模も異常な国ではあるが侵略基準は危険であるかどうかであるため対話や交渉等で和解することが可能。 -->
   <Qualeela_Faction_NPC_c.description>一個由庫利菈主導的國家，她們繼承了創造主那『讓生命更強大』的願望。本來人工種族在生態上不能增長到國家規模所需的人口，但是通過繼承和運用創造主遺留下來的生物設施克服了這個問題。此後勢力逐步擴大，現在已經成長到可以在數個星系之間活動的程度。雖然對所有派系持有侵略性態度，但對於小派系往往視而不見。但是對於財富價值異常高的派系視為危險分子進行侵略。雖然是戰鬥力和規模都異常強盛的國家，但侵略與否可以通過對話和交涉來進行調解。</Qualeela_Faction_NPC_c.description>
+  <!-- EN: エンテレケイア -->
   <Qualeela_Faction_NPC_c.fixedName>隱德來希</Qualeela_Faction_NPC_c.fixedName>
-  <Qualeela_Faction_NPC_c.pawnsPlural>庫利菈</Qualeela_Faction_NPC_c.pawnsPlural>
+  <!-- EN: 聖王 -->
   <Qualeela_Faction_NPC_c.leaderTitle>聖王</Qualeela_Faction_NPC_c.leaderTitle>
-
-
+  <!-- EN: クオリーラ -->
+  <Qualeela_Faction_NPC_c.pawnSingular>庫利菈</Qualeela_Faction_NPC_c.pawnSingular>
+  <!-- EN: クオリーラ -->
+  <Qualeela_Faction_NPC_c.pawnsPlural>庫利菈</Qualeela_Faction_NPC_c.pawnsPlural>
+  
+  <!-- EN: クオリーラの隠れ里 -->
+  <Qualeela_P_Faction.label>庫利菈的隱居之鄉</Qualeela_P_Faction.label>
+  <!-- EN: クオリーラ達が集まってひっそりと暮らしている里 -->
+  <Qualeela_P_Faction.description>庫利菈們聚集在一起平和的隱居著的聚落。</Qualeela_P_Faction.description>
+  <!-- EN: leader -->
+  <Qualeela_P_Faction.leaderTitle>領袖</Qualeela_P_Faction.leaderTitle>
+  <!-- EN: クオリーラ -->
+  <Qualeela_P_Faction.pawnSingular>庫利菈</Qualeela_P_Faction.pawnSingular>
+  <!-- EN: クオリーラ達 -->
+  <Qualeela_P_Faction.pawnsPlural>庫利菈們</Qualeela_P_Faction.pawnsPlural>
+  
 </LanguageData>

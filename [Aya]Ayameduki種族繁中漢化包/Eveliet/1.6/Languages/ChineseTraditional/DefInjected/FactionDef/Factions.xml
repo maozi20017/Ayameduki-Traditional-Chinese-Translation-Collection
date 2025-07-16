@@ -1,9 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: イヴリートの隠れ里 -->
   <Eveliet_P_Faction.label>伊娃莉特的隱居之鄉</Eveliet_P_Faction.label>
+  <!-- EN: イヴリート達が集まってひっそりと暮らしている里 -->
   <Eveliet_P_Faction.description>伊娃莉特們聚集在一起平和的隱居著的聚落</Eveliet_P_Faction.description>
+  <!-- EN: leader -->
+  <Eveliet_P_Faction.leaderTitle>領袖</Eveliet_P_Faction.leaderTitle>
+  <!-- EN: イヴリート -->
+  <Eveliet_P_Faction.pawnSingular>伊娃莉特</Eveliet_P_Faction.pawnSingular>
+  <!-- EN: イヴリート達 -->
   <Eveliet_P_Faction.pawnsPlural>伊娃莉特們</Eveliet_P_Faction.pawnsPlural>
-
-
+  
 </LanguageData>
