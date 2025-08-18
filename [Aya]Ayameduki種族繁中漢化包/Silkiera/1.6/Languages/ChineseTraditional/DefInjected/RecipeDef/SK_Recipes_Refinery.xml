@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 岩石から化学燃料を作る -->
+  <HAR_SK_Recipe_Refinery_a.label>從岩石中製造化合燃料</HAR_SK_Recipe_Refinery_a.label>
+  <!-- EN: 岩石を液状化させて化学燃料を作ります。 -->
+  <HAR_SK_Recipe_Refinery_a.description>將岩石液化後製成化合燃料。</HAR_SK_Recipe_Refinery_a.description>
+  <!-- EN: 製油中 -->
+  <HAR_SK_Recipe_Refinery_a.jobString>製油中</HAR_SK_Recipe_Refinery_a.jobString>
+  
+</LanguageData>

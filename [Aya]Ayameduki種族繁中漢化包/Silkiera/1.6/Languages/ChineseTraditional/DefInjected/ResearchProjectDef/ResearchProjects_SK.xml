@@ -37,5 +37,9 @@
   <HAR_SK_I_M_Research_Recycle_A.label>亞人工業回收店</HAR_SK_I_M_Research_Recycle_A.label>
   <HAR_SK_I_M_Research_Recycle_A.description>學習在殖民地建造亞人工業回收店的技術。</HAR_SK_I_M_Research_Recycle_A.description>
 
+  <!-- EN: 亜人工業製油機 -->
+  <HAR_SK_I_M_Research_Refinery_A.label>亞人工業製油機</HAR_SK_I_M_Research_Refinery_A.label>
+  <!-- EN: コロニーに亜人工業の製油機を作る技術を学ぶ。 -->
+  <HAR_SK_I_M_Research_Refinery_A.description>學習在殖民地建造亞人工業製油機的技術。</HAR_SK_I_M_Research_Refinery_A.description>
 
 </LanguageData>
