@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: アウターム -->
+  <HAR_Outerm.label>域外者</HAR_Outerm.label>
+  <!-- EN: アウタームは近年宇宙各地で姿を見せるようになった人工種族の一種。\n妖しく輝く真紅の光暈と、歪み捻じれたカラスの翼が特徴的。\nその存在は人工種族の母星カナンのデータベースには記録されておらず、謎の多い種族です。\n\n他の人工種族と同じく時を経つ毎に力を増していき、\nその段階に応じてさまざまな異能を獲得します。\n\n血湧き肉躍る暴力と、溺れるような肉欲を愉しむ退廃的な感性を持ち、非常に攻撃的。\n厳格な秩序や法を嫌い、堕落と退廃を好む危険思想を持っています。\n刹那主義なこともあり、人生や生死に対してとても希薄なようです。\n\n一方で信心深く、姿なき神『虚空の■■■』を信仰しています。\n神託の内容が何であれ彼女達は喜んで従い、死すら厭わないとも。\n\n裏社会ではシンジケート『ハオス』を築き、麻薬と暴力でならず者たちを支配しています。\n神の導きもあり、潤沢な資金と資源を武器に今なお勢力を拡大し続けているようです。\n\nアウタームは天性的に生殖能力がなく、子供を産むことができません。\n生産プラントもない彼女たちがどうやって個体数を増やしているのか…真相は未だ闇の中です。\n\n\n\n\n善は悪の後からやって来る。\n血塗られた道を、人たる道に舗装するように。 -->
+  <HAR_Outerm.description>域外者是近年來在宇宙各地出現的一種人工種族。\n以妖異閃耀的猩紅光暈和扭曲變形的烏鴉之翼為特徵。\n其存在未被記錄於人工種族母星迦南的資料庫中，是極具謎團的種族。\n\n與其他人工種族相同，域外者會隨著時間增強力量，\n並在不同階段獲得各式各樣的異能。\n\n她們擁有沉溺於熱血暴力與肉慾享樂的頹廢感性，非常具攻擊性。\n厭惡嚴苛的秩序與法規，崇尚墮落與頹廢，持有危險的思想。\n加之信奉刹那主義，對人生與生死抱持著極為淡漠的態度。\n\n另一方面，她們卻又虔誠信仰，崇拜著無形之神『虛空的■■■』。\n無論神託內容為何，她們皆欣然遵從，甚至不畏死亡。\n\n在地下社會，她們建立了辛迪加組織『混沌』，以毒品與暴力統治亡命之徒。\n在神的引導下，憑藉充足的資金與資源，至今仍持續擴張勢力。\n\n域外者天生不具生殖能力，無法誕下子嗣。\n既無生產設施，她們究竟是如何增加個體數量的……真相至今仍深埋黑暗之中。\n\n\n\n\n善，在惡之後降臨。\n如同將血染之路，鋪砌為人之坦途。</HAR_Outerm.description>
+  
+  	<!-- ヴリコラカス -->
+	<HAR_Outerm.comps.HAR_OT_Comp_Skill_a.commandLabel>維克拉卡斯</HAR_Outerm.comps.HAR_OT_Comp_Skill_a.commandLabel>
+	<!-- 相手一体に噛みついて吸血する。\n発動条件　：人工種族Lv1\n再使用　　：30分 -->
+	<HAR_Outerm.comps.HAR_OT_Comp_Skill_a.commandDesc>對單一目標發動噬咬並吸取血液。\n發動條件　：人工種族(域外者)Lv.1\n冷卻時間　：30分鐘</HAR_Outerm.comps.HAR_OT_Comp_Skill_a.commandDesc>
+	<!-- ウペレテス -->
+	<HAR_Outerm.comps.HAR_OT_Comp_Skill_b.commandLabel>美伯拉</HAR_Outerm.comps.HAR_OT_Comp_Skill_b.commandLabel>
+	<!-- 狂暴化したカラスを三体召喚する。\n発動条件　：人工種族Lv2\n再使用　　：3時間 -->
+	<HAR_Outerm.comps.HAR_OT_Comp_Skill_b.commandDesc>召喚三隻狂暴化的烏鴉。\n發動條件　：人工種族(域外者)Lv.2\n冷卻時間　：3小時</HAR_Outerm.comps.HAR_OT_Comp_Skill_b.commandDesc>
+	<!-- アキノイア -->
+	<HAR_Outerm.comps.HAR_OT_Comp_Skill_c.commandLabel>鋒刃之心智</HAR_Outerm.comps.HAR_OT_Comp_Skill_c.commandLabel>
+	<!-- 確率回避状態となる。\n発動条件　：人工種族Lv3\n再使用　　：1日 -->
+	<HAR_Outerm.comps.HAR_OT_Comp_Skill_c.commandDesc>進入機率迴避狀態。\n發動條件　：人工種族(域外者)Lv.3\n冷卻時間　：1天</HAR_Outerm.comps.HAR_OT_Comp_Skill_c.commandDesc>
+	<!-- カタリュシス -->
+	<HAR_Outerm.comps.HAR_OT_Comp_Skill_d.commandLabel>催化</HAR_Outerm.comps.HAR_OT_Comp_Skill_d.commandLabel>
+	<!-- 相手一体の一部機能を一時的に麻痺させる。\n発動条件　：人工種族Lv4\n再使用　　：1時間 -->
+	<HAR_Outerm.comps.HAR_OT_Comp_Skill_d.commandDesc>暫時麻痺單一目標的部分機能。\n發動條件　：人工種族(域外者)Lv.4\n冷卻時間　：1小時</HAR_Outerm.comps.HAR_OT_Comp_Skill_d.commandDesc>
+	<!-- アポストロス -->
+	<HAR_Outerm.comps.HAR_OT_Comp_Skill_e.commandLabel>使徒</HAR_Outerm.comps.HAR_OT_Comp_Skill_e.commandLabel>
+	<!-- 高次から力を受けて強化状態となる。\n発動条件　：人工種族Lv5\n再使用　　：3日 -->
+	<HAR_Outerm.comps.HAR_OT_Comp_Skill_e.commandDesc>獲得來自更高次元的力量並進入強化狀態。\n發動條件　：人工種族(域外者)Lv.5\n冷卻時間　：3天</HAR_Outerm.comps.HAR_OT_Comp_Skill_e.commandDesc>
+
+</LanguageData>

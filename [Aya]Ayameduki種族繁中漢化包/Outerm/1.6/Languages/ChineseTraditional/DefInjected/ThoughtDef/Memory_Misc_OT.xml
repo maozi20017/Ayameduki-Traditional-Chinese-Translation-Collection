@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 命の実感(微) -->
+  <HAR_OT_Pain.stages.0.label>生命的實感（微）</HAR_OT_Pain.stages.0.label>
+  <!-- EN: 微かな痛みを感じる。実感を得るにはまだ遠い。 -->
+  <HAR_OT_Pain.stages.0.description>感受到些微的痛楚。距離真正獲得實感仍相當遙遠。</HAR_OT_Pain.stages.0.description>
+  <!-- EN: 命の実感(小) -->
+  <HAR_OT_Pain.stages.1.label>生命的實感（小）</HAR_OT_Pain.stages.1.label>
+  <!-- EN: 刺さるような痛みが走る。悪くない心地だ。 -->
+  <HAR_OT_Pain.stages.1.description>一陣刺骨的疼痛竄過全身。感覺倒也不壞。</HAR_OT_Pain.stages.1.description>
+  <!-- EN: 命の実感(中) -->
+  <HAR_OT_Pain.stages.2.label>生命的實感（中）</HAR_OT_Pain.stages.2.label>
+  <!-- EN: 抉れるような痛みで身体が歓喜に震える。 -->
+  <HAR_OT_Pain.stages.2.description>彷彿被撕裂般的劇痛，身體因歡喜而顫抖。</HAR_OT_Pain.stages.2.description>
+  <!-- EN: 命の実感(大) -->
+  <HAR_OT_Pain.stages.3.label>生命的實感（大）</HAR_OT_Pain.stages.3.label>
+  <!-- EN: 私は今や血みどろだ！生きているとはまさにこのことだろう！ -->
+  <HAR_OT_Pain.stages.3.description>我如今已是滿身鮮血！這才是活著的感覺！</HAR_OT_Pain.stages.3.description>
+  
+</LanguageData>

@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+	<name>[Aya]Outerm Race 繁中漢化</name>
+	<author>毛子</author>
+	<supportedVersions>
+		<li>1.6</li>
+	</supportedVersions>
+	<packageId>Maozi.ZH.ChinesePack.HAROuterm</packageId>
+	<description>
+漢化描述:
+
+──────────────────────────────────
+【新增的種族】
+・域外者（Outerm）
+──────────────────────────────────
+【雖非必要但建議使用的MOD】
+・Camera+
+──────────────────────────────────
+【域外者的特徵】
+・與人類相比，壽命為3倍，體力為1.5倍。
+・不會懷孕。
+・擁有與其他人工種族不同的基因。
+・隨著年歲增長緩慢變強（最大Lv為10）
+・每提升Lv便會解鎖技能
+　維克拉卡斯(Lv1)
+　-咬住對手使其陷入出血狀態。同時治癒自身一處傷口（包含舊傷）。
+　美伯拉(Lv2)
+　-召喚三隻狂暴化的烏鴉。
+　鋒刃之心智(Lv3)
+　-進入機率迴避狀態。根據攻擊種類迴避機率有所不同。
+　催化(Lv4)
+　-使對手陷入弱化狀態的攻擊。
+　使徒(Lv5)
+　-進入強化狀態。同時可自我復活一次。
+
+──────────────────────────────────
+【新增派系:混沌】
+・45天後開始襲擊的隱藏派系。
+・隨遊戲內時間經過而提升Lv。
+・會在反擊時使用技能。
+──────────────────────────────────
+【請注意】
+・本MOD的規格可能會因更新而改變。
+・本MOD不與原版角色外貌相容，且無法裝備原版角色外貌的服飾。
+</description>
+
+
+<modDependenciesByVersion>
+	<v1.5>
+		<li>
+			<packageId>brrainz.harmony</packageId>
+			<displayName>Harmony</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+		</li>
+		<li>
+			<packageId>erdelf.HumanoidAlienRaces</packageId>
+			<displayName>Humanoid Alien Races 2.0</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=839005762</steamWorkshopUrl>
+		</li>
+	</v1.5>
+	<v1.6>
+		<li>
+			<packageId>brrainz.harmony</packageId>
+			<displayName>Harmony</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+		</li>
+		<li>
+			<packageId>erdelf.HumanoidAlienRaces</packageId>
+			<displayName>Humanoid Alien Races 2.0</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=839005762</steamWorkshopUrl>
+		</li>
+		<li>
+			<packageId>Ayameduki.AyaRacePremise</packageId>
+			<displayName>[Aya]Aya Premise Core</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3505571618</steamWorkshopUrl>
+		</li>
+		<li>
+			<packageId>Ayameduki.HAROuterm</packageId>
+			<displayName>[Aya]Outerm Race</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3675887482</steamWorkshopUrl>
+		</li>
+	</v1.6>
+</modDependenciesByVersion>
+<loadAfterByVersion>
+	<v1.5>
+		<li>brrainz.harmony</li>
+		<li>Ludeon.RimWorld</li>
+		<li>erdelf.HumanoidAlienRaces</li>
+	</v1.5>
+	<v1.6>
+		<li>brrainz.harmony</li>
+		<li>Ludeon.RimWorld</li>
+		<li>erdelf.HumanoidAlienRaces</li>
+		<li>Ayameduki.AyaRacePremise</li>
+		<li>Ayameduki.HAROuterm</li>
+	</v1.6>
+</loadAfterByVersion>
+
+
+</ModMetaData>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: カキストスウェアA -->
+  <HAR_OT_Apparel_T_a.label>極惡裝束A(域外者)</HAR_OT_Apparel_T_a.label>
+  <!-- EN: アウターム達が好んで着用する上着。彼女達の感性故か、どこか退廃的。 -->
+  <HAR_OT_Apparel_T_a.description>域外者們偏好穿著的上衣，因其獨特的美感而散發出一種頹廢氣息。</HAR_OT_Apparel_T_a.description>
+  
+  <!-- EN: カキストスウェアB -->
+  <HAR_OT_Apparel_T_b.label>極惡裝束B(域外者)</HAR_OT_Apparel_T_b.label>
+  <!-- EN: アウターム達が好んで着用する上着。彼女達の感性故か、どこか退廃的。 -->
+  <HAR_OT_Apparel_T_b.description>域外者們偏好穿著的上衣，因其獨特的美感而散發出一種頹廢氣息。</HAR_OT_Apparel_T_b.description>
+  
+  <!-- EN: カキストスウェアC -->
+  <HAR_OT_Apparel_T_c.label>極惡裝束C(域外者)</HAR_OT_Apparel_T_c.label>
+  <!-- EN: アウターム達が好んで着用する上着。彼女達の感性故か、どこか退廃的。 -->
+  <HAR_OT_Apparel_T_c.description>域外者們偏好穿著的上衣，因其獨特的美感而散發出一種頹廢氣息。</HAR_OT_Apparel_T_c.description>
+  
+  <!-- EN: カキストスウェアD -->
+  <HAR_OT_Apparel_T_d.label>極惡裝束D(域外者)</HAR_OT_Apparel_T_d.label>
+  <!-- EN: アウターム達が好んで着用する上着。彼女達の感性故か、どこか退廃的。 -->
+  <HAR_OT_Apparel_T_d.description>域外者們偏好穿著的上衣，因其獨特的美感而散發出一種頹廢氣息。</HAR_OT_Apparel_T_d.description>
+  
+  <!-- EN: カキストスウェアE -->
+  <HAR_OT_Apparel_T_e.label>極惡裝束E(域外者)</HAR_OT_Apparel_T_e.label>
+  <!-- EN: アウターム達が好んで着用する上着。彼女達の感性故か、どこか退廃的。 -->
+  <HAR_OT_Apparel_T_e.description>域外者們偏好穿著的上衣，因其獨特的美感而散發出一種頹廢氣息。</HAR_OT_Apparel_T_e.description>
+  
+  <!-- EN: カキストススーツ -->
+  <HAR_OT_Apparel_T_Suit_a.label>極惡西裝(域外者)</HAR_OT_Apparel_T_Suit_a.label>
+  <!-- EN: アウターム達が好んで着用する上着。扇情的な衣服を好むアウタームと言えど、幹部クラスともなると身だしなみを気を付けるようだ。 -->
+  <HAR_OT_Apparel_T_Suit_a.description>域外者們偏好穿著的上衣。即便域外者普遍喜歡煽情的服裝，但到了幹部級別，似乎也會注意自己的儀容。</HAR_OT_Apparel_T_Suit_a.description>
+  
+</LanguageData>

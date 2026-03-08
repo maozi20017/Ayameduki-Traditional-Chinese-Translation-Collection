@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: カキストスハット -->
+  <HAR_OT_Apparel_H_a.label>極惡帽子(域外者)</HAR_OT_Apparel_H_a.label>
+  <!-- EN: アウターム達が好んで着用する頭装備。 -->
+  <HAR_OT_Apparel_H_a.description>域外者們喜歡穿著的頭部裝備。</HAR_OT_Apparel_H_a.description>
+  
+  <!-- EN: カキストスマスク -->
+  <HAR_OT_Apparel_H_b.label>極惡面具(域外者)</HAR_OT_Apparel_H_b.label>
+  <!-- EN: アウターム達が好んで着用する頭装備。 -->
+  <HAR_OT_Apparel_H_b.description>域外者們喜歡穿著的頭部裝備。</HAR_OT_Apparel_H_b.description>
+  
+  <!-- EN: カキストスマフラー -->
+  <HAR_OT_Apparel_H_c.label>極惡圍巾(域外者)</HAR_OT_Apparel_H_c.label>
+  <!-- EN: アウターム達が好んで着用する頭装備。 -->
+  <HAR_OT_Apparel_H_c.description>域外者們喜歡穿著的頭部裝備。</HAR_OT_Apparel_H_c.description>
+  
+  <!-- EN: カキストスヘッドフォン -->
+  <HAR_OT_Apparel_H_d.label>極惡耳機(域外者)</HAR_OT_Apparel_H_d.label>
+  <!-- EN: アウターム達が好んで着用する頭装備。 -->
+  <HAR_OT_Apparel_H_d.description>域外者們喜歡穿著的頭部裝備。</HAR_OT_Apparel_H_d.description>
+  
+  <!-- EN: カキストスギア -->
+  <HAR_OT_Apparel_H_e.label>極惡裝備(域外者)</HAR_OT_Apparel_H_e.label>
+  <!-- EN: アウターム達が好んで着用する頭装備。 -->
+  <HAR_OT_Apparel_H_e.description>域外者們喜歡穿著的頭部裝備。</HAR_OT_Apparel_H_e.description>
+  
+</LanguageData>

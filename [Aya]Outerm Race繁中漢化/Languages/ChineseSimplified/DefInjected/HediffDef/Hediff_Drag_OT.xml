@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: アンゲロカイン -->
+  <HAR_OT_Hediff_Drag_a.label>天使該隱</HAR_OT_Hediff_Drag_a.label>
+  <!-- EN: アンゲロカインを摂取した状態。\n薬物によってコントロールされたアルコールが多幸感を齎す。\n感情の浮き沈みが激しくなるので、喧嘩っ早くなることに注意。 -->
+  <HAR_OT_Hediff_Drag_a.description>攝取了天使該隱後的狀態。\n藥物控制的酒精會帶來強烈的幸福感。\n由於情緒起伏劇烈，需要注意容易變得好鬥。</HAR_OT_Hediff_Drag_a.description>
+  <!-- EN: アンゲロカイン -->
+  <HAR_OT_Hediff_Drag_a.labelNoun>天使該隱</HAR_OT_Hediff_Drag_a.labelNoun>
+  
+</LanguageData>

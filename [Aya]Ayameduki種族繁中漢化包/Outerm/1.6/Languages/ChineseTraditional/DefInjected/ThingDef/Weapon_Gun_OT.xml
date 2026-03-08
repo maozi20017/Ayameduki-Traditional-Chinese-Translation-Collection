@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ティリオントフェキ(弾丸) -->
+  <HAR_OT_Bullet_AssaultRifle_a.label>推羅火槍(子彈)</HAR_OT_Bullet_AssaultRifle_a.label>
+  
+  <!-- EN: ティリオンカノン(弾丸) -->
+  <HAR_OT_Bullet_AssaultRifle_b.label>推羅火炮(子彈)</HAR_OT_Bullet_AssaultRifle_b.label>
+  
+  <!-- EN: ティリオントフェキ -->
+  <HAR_OT_Weapon_Gun_a.label>推羅火槍</HAR_OT_Weapon_Gun_a.label>
+  <!-- EN: アウタームが扱うアサルトライフル。\n高い貫通能力と、毒を含んだ弾丸が特徴。\nどの距離でも平均的な命中率をしている。\n最大の特徴は取り回しの良さであり、短い間隔で攻撃を続けることが可能。 -->
+  <HAR_OT_Weapon_Gun_a.description>域外者所使用的突擊步槍。\n其特點是擁有極高的貫穿能力，以及含有毒素的子彈。\n在任何距離下均能保持穩定的命中率。\n最大的特徵是操控靈活，能夠以短暫的間隔持續發動攻擊。</HAR_OT_Weapon_Gun_a.description>
+  <!-- EN: stock -->
+  <HAR_OT_Weapon_Gun_a.tools.stock.label>槍托</HAR_OT_Weapon_Gun_a.tools.stock.label>
+  <!-- EN: barrel -->
+  <HAR_OT_Weapon_Gun_a.tools.barrel.label>槍管</HAR_OT_Weapon_Gun_a.tools.barrel.label>
+  <!-- EN: ティリオントフェキ -->
+  <HAR_OT_Weapon_Gun_a.verbs.Verb_Shoot.label>推羅火槍</HAR_OT_Weapon_Gun_a.verbs.Verb_Shoot.label>
+  
+  <!-- EN: ティリオンカノン -->
+  <HAR_OT_Weapon_Gun_b.label>推羅火炮</HAR_OT_Weapon_Gun_b.label>
+  <!-- EN: アウタームが扱う超長距離用のスナイパーライフル。\n高い貫通能力と、毒を含んだ弾丸が特徴。\n遠い位置から相手を撃ち抜くことに長けているが、\n近距離の相手を狙う事は不得意。 -->
+  <HAR_OT_Weapon_Gun_b.description>域外者所使用的超遠距離狙擊步槍。\n其特點是擁有極高的貫穿能力，以及含有毒素的子彈。\n擅長從遠處狙擊目標，\n但不擅長應對近距離的敵人。</HAR_OT_Weapon_Gun_b.description>
+  <!-- EN: stock -->
+  <HAR_OT_Weapon_Gun_b.tools.stock.label>槍托</HAR_OT_Weapon_Gun_b.tools.stock.label>
+  <!-- EN: barrel -->
+  <HAR_OT_Weapon_Gun_b.tools.barrel.label>槍管</HAR_OT_Weapon_Gun_b.tools.barrel.label>
+  <!-- EN: ティリオンカノン -->
+  <HAR_OT_Weapon_Gun_b.verbs.Verb_Shoot.label>推羅火炮</HAR_OT_Weapon_Gun_b.verbs.Verb_Shoot.label>
+  
+</LanguageData>

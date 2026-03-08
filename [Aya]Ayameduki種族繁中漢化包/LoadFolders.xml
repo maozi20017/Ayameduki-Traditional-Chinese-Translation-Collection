@@ -56,5 +56,6 @@
     <li IfModActive="ayameduki.ideastoryteller">Ideastoryteller/1.6</li>
     <li IfModActive="ayameduki.harzoichor">Zoichor/1.6</li>
     <li IfModActive="ayameduki.ayaracepremise">AyaRacePremise/1.6</li>
+    <li IfModActive="ayameduki.harouterm">Outerm/1.6</li>
   </v1.6>
 </loadFolders>

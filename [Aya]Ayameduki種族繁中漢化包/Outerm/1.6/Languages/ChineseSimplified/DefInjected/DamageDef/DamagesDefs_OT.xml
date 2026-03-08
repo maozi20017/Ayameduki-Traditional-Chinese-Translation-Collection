@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ヴリコラカス -->
+  <HAR_OT_Damage_a.label>維克拉卡斯</HAR_OT_Damage_a.label>
+  <!-- EN: {0} has died in an explosion. -->
+  <HAR_OT_Damage_a.deathMessage>{0} 死於一場爆炸。</HAR_OT_Damage_a.deathMessage>
+  
+  <!-- EN: bullet -->
+  <HAR_OT_Damage_Bullet_a.label>子彈</HAR_OT_Damage_Bullet_a.label>
+  <!-- EN: {0} has been shot to death. -->
+  <HAR_OT_Damage_Bullet_a.deathMessage>{0} 被射殺了。</HAR_OT_Damage_Bullet_a.deathMessage>
+  
+  <!-- EN: カタリュシス -->
+  <HAR_OT_Damage_d.label>催化</HAR_OT_Damage_d.label>
+  <!-- EN: {0} has died in an explosion. -->
+  <HAR_OT_Damage_d.deathMessage>{0} 死於一場爆炸。</HAR_OT_Damage_d.deathMessage>
+  
+  <!-- EN: ダメージ(無) -->
+  <HAR_OT_Damage_null.label>傷害(無)</HAR_OT_Damage_null.label>
+  <!-- EN: {0} has died in an explosion. -->
+  <HAR_OT_Damage_null.deathMessage>{0} 死於一場爆炸。</HAR_OT_Damage_null.deathMessage>
+  
+  <!-- EN: ミセロスイノス -->
+  <HAR_OT_Damage_Weapon_a.label>悲慘之人</HAR_OT_Damage_Weapon_a.label>
+  <!-- EN: {0} has been shot to death. -->
+  <HAR_OT_Damage_Weapon_a.deathMessage>{0} 被射殺了。</HAR_OT_Damage_Weapon_a.deathMessage>
+  
+</LanguageData>

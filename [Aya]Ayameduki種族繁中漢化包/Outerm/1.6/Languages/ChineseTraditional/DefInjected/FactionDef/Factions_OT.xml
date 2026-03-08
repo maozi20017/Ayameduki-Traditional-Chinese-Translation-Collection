@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ハオス -->
+  <Outerm_Faction.label>混沌</Outerm_Faction.label>
+  <!-- EN: アウタームで構成された裏社会のシンジケート。\n残忍な派閥としてしられ、その凶悪度はオルキヌス旅団以上とも言われている。\n殺戮と略奪に酔いしれ、相手か自分が死ぬまでその凶行を止めることはない。\n\n全ては甘く蕩ける悦楽と、大いなる神の御心のままに。 -->
+  <Outerm_Faction.description>由域外者所組成的地下社會辛迪加組織。\n以殘忍派系聞名，據說其兇暴程度甚至在殺人鯨旅團之上。\n沉醉於殺戮與掠奪之中，直到對方或自己死亡為止，都不會停止那殘虐行徑。\n\n一切皆為了甜蜜消融的愉悅，以及遵循偉大神祇的意志。</Outerm_Faction.description>
+  <!-- EN: ハオス -->
+  <Outerm_Faction.fixedName>混沌</Outerm_Faction.fixedName>
+  <!-- EN: Leader -->
+  <Outerm_Faction.leaderTitle>領袖</Outerm_Faction.leaderTitle>
+  <!-- EN: アウターム -->
+  <Outerm_Faction.pawnSingular>域外者</Outerm_Faction.pawnSingular>
+  <!-- EN: アウターム -->
+  <Outerm_Faction.pawnsPlural>域外者們</Outerm_Faction.pawnsPlural>
+  
+  <!-- EN: ■■■■ -->
+  <Outerm_Faction_Player.label>■■■■</Outerm_Faction_Player.label>
+  <!-- EN: 。 -->
+  <Outerm_Faction_Player.description>。</Outerm_Faction_Player.description>
+  <!-- EN: leader -->
+  <Outerm_Faction_Player.leaderTitle>領袖</Outerm_Faction_Player.leaderTitle>
+  <!-- EN: アウターム -->
+  <Outerm_Faction_Player.pawnSingular>TODO</Outerm_Faction_Player.pawnSingular>
+  <!-- EN: アウターム -->
+  <Outerm_Faction_Player.pawnsPlural>TODO</Outerm_Faction_Player.pawnsPlural>
+  
+</LanguageData>
