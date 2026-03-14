@@ -6,6 +6,11 @@
   <!-- EN: アウターム達が好んで着用する上着。彼女達の感性故か、どこか退廃的。 -->
   <HAR_OT_Apparel_T_a.description>域外者們偏好穿著的上衣，因其獨特的美感而散發出一種頹廢氣息。</HAR_OT_Apparel_T_a.description>
   
+  <!-- EN: ディアフトラアーマー -->
+  <HAR_OT_Apparel_T_Armor_a.label>腐滅盔甲(域外者)</HAR_OT_Apparel_T_Armor_a.label>
+  <!-- EN: アウターム専用のアーマー。インプットされた自動補正機能により精密な動きが可能。 -->
+  <HAR_OT_Apparel_T_Armor_a.description>域外者專用的盔甲。透過內建的自動校正功能，得以實現精密的動作。</HAR_OT_Apparel_T_Armor_a.description>
+
   <!-- EN: カキストスウェアB -->
   <HAR_OT_Apparel_T_b.label>極惡裝束B(域外者)</HAR_OT_Apparel_T_b.label>
   <!-- EN: アウターム達が好んで着用する上着。彼女達の感性故か、どこか退廃的。 -->

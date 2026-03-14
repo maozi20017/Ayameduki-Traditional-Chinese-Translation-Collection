@@ -2,24 +2,33 @@
 <LanguageData>
   
   <!-- EN: ロングヘア -->
-  <HAR_OT_Hair_1.label>長髮</HAR_OT_Hair_1.label>
+  <HAR_OT_Hair_1.label>長髮(域外者)</HAR_OT_Hair_1.label>
+
+  <!-- EN: ポニーテール -->
+  <HAR_OT_Hair_10.label>馬尾(域外者)</HAR_OT_Hair_10.label>
   
   <!-- EN: セミロングヘア -->
-  <HAR_OT_Hair_2.label>中長髮</HAR_OT_Hair_2.label>
+  <HAR_OT_Hair_2.label>中長髮(域外者)</HAR_OT_Hair_2.label>
   
   <!-- EN: ショートヘア -->
-  <HAR_OT_Hair_3.label>短髮</HAR_OT_Hair_3.label>
+  <HAR_OT_Hair_3.label>短髮(域外者)</HAR_OT_Hair_3.label>
   
   <!-- EN: ツインテール -->
-  <HAR_OT_Hair_4.label>雙馬尾</HAR_OT_Hair_4.label>
+  <HAR_OT_Hair_4.label>雙馬尾(域外者)</HAR_OT_Hair_4.label>
   
   <!-- EN: ルーズサイドテール -->
-  <HAR_OT_Hair_5.label>側馬尾</HAR_OT_Hair_5.label>
+  <HAR_OT_Hair_5.label>側馬尾(域外者)</HAR_OT_Hair_5.label>
   
   <!-- EN: クラゲヘア -->
-  <HAR_OT_Hair_6.label>水母頭</HAR_OT_Hair_6.label>
+  <HAR_OT_Hair_6.label>水母頭(域外者)</HAR_OT_Hair_6.label>
   
   <!-- EN: ツーサイドアップヘア -->
-  <HAR_OT_Hair_7.label>雙側上髮</HAR_OT_Hair_7.label>
+  <HAR_OT_Hair_7.label>雙側上髮(域外者)</HAR_OT_Hair_7.label>
+
+  <!-- EN: エアインテーク -->
+  <HAR_OT_Hair_8.label>進氣口髮型(域外者)</HAR_OT_Hair_8.label>
+  
+  <!-- EN: ボブカット -->
+  <HAR_OT_Hair_9.label>鮑伯短髮(域外者)</HAR_OT_Hair_9.label>
   
 </LanguageData>

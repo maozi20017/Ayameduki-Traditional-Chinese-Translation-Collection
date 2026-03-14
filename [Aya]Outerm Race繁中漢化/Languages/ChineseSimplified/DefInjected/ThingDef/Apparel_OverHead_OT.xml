@@ -25,5 +25,10 @@
   <HAR_OT_Apparel_H_e.label>極惡裝備(域外者)</HAR_OT_Apparel_H_e.label>
   <!-- EN: アウターム達が好んで着用する頭装備。 -->
   <HAR_OT_Apparel_H_e.description>域外者們喜歡穿著的頭部裝備。</HAR_OT_Apparel_H_e.description>
+
+  <!-- EN: ディアフトラヘルメット -->
+  <HAR_OT_Apparel_H_z.label>腐滅頭盔(域外者)</HAR_OT_Apparel_H_z.label>
+  <!-- EN: アウターム専用のヘルメット。インプットされた自動補正機能により精密な動きが可能。 -->
+  <HAR_OT_Apparel_H_z.description>域外者專用的頭盔。透過內建的自動校正功能，得以實現精密的動作。</HAR_OT_Apparel_H_z.description>
   
 </LanguageData>

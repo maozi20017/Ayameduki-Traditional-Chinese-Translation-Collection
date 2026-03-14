@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: エリオーン -->
+  <Aya_Race_Gene_ChaouraUB.label>至高神</Aya_Race_Gene_ChaouraUB.label>
+  <!-- EN: 人工種族の遺伝子から変異したと思われる特異遺伝子。代謝を上げるが非常に複雑。 -->
+  <Aya_Race_Gene_ChaouraUB.description>從人工種族基因變異而來的特異基因，提升代謝但極為複雜</Aya_Race_Gene_ChaouraUB.description>
+  <!-- EN: artificial -->
+  <Aya_Race_Gene_ChaouraUB.symbolPack.prefixSymbols.0.symbol>人造的</Aya_Race_Gene_ChaouraUB.symbolPack.prefixSymbols.0.symbol>
+  
+</LanguageData>
