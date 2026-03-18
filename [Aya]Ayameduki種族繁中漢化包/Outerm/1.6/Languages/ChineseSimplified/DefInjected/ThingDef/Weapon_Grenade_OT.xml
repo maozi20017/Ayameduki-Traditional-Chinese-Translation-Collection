@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 朱い毒 -->
+  <HAR_OT_Gas_ToxicCustom.label>朱紅之毒</HAR_OT_Gas_ToxicCustom.label>
+  
+  <!-- EN: ティリオンエクリクシ -->
+  <HAR_OT_Proj_GrenadeFrag.label>朱紅爆彈</HAR_OT_Proj_GrenadeFrag.label>
+  
+  <!-- EN: ティリオンエクリクシ -->
+  <HAR_OT_Weapon_GrenadeFrag.label>朱紅爆彈</HAR_OT_Weapon_GrenadeFrag.label>
+  <!-- EN: アウタームが扱う毒ガスグレネード。\nアウタームの血を含んでいるためか、彼女達はこの毒ガスで汚染されることは稀。\nまた軽度の腐食性と爆発力があり、扉などの開閉の仕組みを持つ建造物に特効がある。 -->
+  <HAR_OT_Weapon_GrenadeFrag.description>域外者所使用的毒氣手榴彈。\n或許是因為含有域外者的血液，她們極少被這種毒氣所污染。\n此外具有輕度腐蝕性與爆炸力，對擁有開關機制的建築物（如門等）有特效。</HAR_OT_Weapon_GrenadeFrag.description>
+  <!-- EN: グレネードを投げる -->
+  <HAR_OT_Weapon_GrenadeFrag.verbs.0.label>投擲手榴彈</HAR_OT_Weapon_GrenadeFrag.verbs.0.label>
+  
+</LanguageData>

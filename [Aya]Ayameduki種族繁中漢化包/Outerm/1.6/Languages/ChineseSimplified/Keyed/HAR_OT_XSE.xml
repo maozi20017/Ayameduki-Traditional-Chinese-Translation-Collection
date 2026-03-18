@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HAR_OT_XSE_Title>伽藍洞之骸</HAR_OT_XSE_Title>
+  <HAR_OT_Interfere>干涉</HAR_OT_Interfere>
+  <HAR_OT_XSE_InitialDesc>一具朽壞的機械靜靜佇立在你眼前。\n然而，從那理應空無一物的內部，隱約傳來細微的聲音。\n本能告訴你不應涉入其中，但與此同時，好奇心又悄悄撩撥著你的心。\n\n接觸還是放置，一切由你決定。</HAR_OT_XSE_InitialDesc>
+  <HAR_OT_XSE_Contract>接觸</HAR_OT_XSE_Contract>
+
+  <HAR_OT_XSE_ContractTitle>虛空之聲</HAR_OT_XSE_ContractTitle>
+  <HAR_OT_XSE_ContractDesc>那聲音開始清晰地迴響在你腦海之中。\n「哎呀，抱著試試看的心態呼喚了一下，還真有用。你能聽見我的聲音嗎？」\n那聲音雖然友善，卻蘊含著深沉的虛無，令你深感不安。</HAR_OT_XSE_ContractDesc>
+
+  <HAR_OT_XSE_Status>伽藍洞之骸中傳來愉快的聲音……\n\n「看來你正在這片邊境之地為難著呢。\n　如果你正為力量所苦，不妨試著將屍體塞進這具朽壞的機械裡。\n　只要湊齊足夠的數量，或許我就能助你一臂之力。\n　屍體的數量嘛……就這樣吧，大概1000具左右？」\n\n\n\n目前已獻上的屍體數量：{0}</HAR_OT_XSE_Status>
+
+  <HAR_OT_XSE_PointMaxTitle>嘎吱作響的骸殼</HAR_OT_XSE_PointMaxTitle>
+  <HAR_OT_XSE_PointMaxDesc>獻上了大量屍體的骸殼開始發出嘎吱的聲響。\n「呵呵，看來它很高興呢。這樣的話啟動應該沒問題了。可以請你過來這邊嗎？」\n從那愉快的語氣來看，似乎還有一番波折等在前頭。</HAR_OT_XSE_PointMaxDesc>
+
+  <HAR_OT_XSE_ReadyRitual>伽藍洞之骸中傳來愉快的聲音……\n\n「嗯，有這些應該就夠了。\n　開闢一條能與我接觸之路的準備已經完成了。\n　不過，準備期間宇宙的法則會從中阻撓你。\n　時間嘛……30天，應該會是一場漫長的戰鬥。\n\n　是否開始，就交給你來決定吧。」</HAR_OT_XSE_ReadyRitual>
+  <HAR_OT_XSE_StartRitual>啟動機械</HAR_OT_XSE_StartRitual>
+  <HAR_OT_XSE_Hold>離開</HAR_OT_XSE_Hold>
+
+  <HAR_OT_XSE_RitualActiveDesc>骸殼發出微弱的嘎吱聲。啟動似乎尚未完成。</HAR_OT_XSE_RitualActiveDesc>
+
+  <HAR_OT_XSE_Msg_RitualFinished>距啟動完成</HAR_OT_XSE_Msg_RitualFinished>
+  <HAR_OT_XSE_RitualRemaining>距啟動完成</HAR_OT_XSE_RitualRemaining>
+
+  <HAR_OT_XSE_RitualEndTitle>通往虛空之路</HAR_OT_XSE_RitualEndTitle>
+  <HAR_OT_XSE_RitualEndDesc>骸殼發出怪異的聲響，開始蠕動起來。通往虛空的道路似乎已經開闢完成。</HAR_OT_XSE_RitualEndDesc>
+
+  <HAR_OT_XSE_RitualFinishedDesc>伽藍洞之骸中傳來愉快的聲音……\n\n「辛苦了。也多虧了你的努力，道路終於開通了。\n　只有一人能夠向我靠近。\n　我在等著你。」</HAR_OT_XSE_RitualFinishedDesc>
+  <HAR_OT_XSE_IntoAbyss>墜入虛空</HAR_OT_XSE_IntoAbyss>
+  <HAR_OT_XSE_InAbyssDesc>現在可以將先行進入的人召回，重新選擇與我接觸的人選。</HAR_OT_XSE_InAbyssDesc>
+  <HAR_OT_XSE_ReturnFromAbyss>從虛空召回</HAR_OT_XSE_ReturnFromAbyss>
+  <HAR_OT_XSE_PawnReturned>{0} 從虛空歸來。</HAR_OT_XSE_PawnReturned>
+  <HAR_OT_Abyss_MapDissolved>虛空消散，徹底湮滅。</HAR_OT_Abyss_MapDissolved>
+
+  <HAR_OT_Abyss_IdeaTitle>■■■</HAR_OT_Abyss_IdeaTitle>
+  <HAR_OT_TouchIdea>接觸</HAR_OT_TouchIdea>
+  <HAR_OT_Abyss_IdeaDesc>「嗨，終於見面了。以影身之姿失禮了。\n　現在我可以將力量賜予你所引領而來的這個人。\n　不過，你心裡應該也隱約感覺到了吧？\n　我是一個危險的存在。\n\n　你有兩個選擇。\n　締結契約，賜予此人力量，使其成為魔人。\n　或者拒絕，從這顆星球上消除一個威脅，使此人成為英雄。\n\n　選你喜歡的吧。我會尊重你的意志。」</HAR_OT_Abyss_IdeaDesc>
+  <HAR_OT_Abyss_AcceptContract>締結契約</HAR_OT_Abyss_AcceptContract>
+  <HAR_OT_Abyss_RejectContract>拒絕契約</HAR_OT_Abyss_RejectContract>
+
+  <HAR_OT_GeneratingEnding>.</HAR_OT_GeneratingEnding>
+  <HAR_OT_EndingA_Text>「與我締結契約的人，你是第二個了。願我們長久相伴。」\n話音剛落，龐大的力量便毫不留情地蹂躪了那具身軀。虛空瞬間侵蝕肉體，從內部將人性一點一點抹去。那人以一種冷漠的意識凝視著自己逐漸改變的模樣，彷彿在看著一個陌生人，而後靜靜地闔上了雙眼。\n\n再次睜開眼時，已無法保證自己仍是一個人。即便如此，落下這段故事的帷幕，還為時過早。\n\n只要留在這顆星球上，舞台上的演員便永無謝幕之日。</HAR_OT_EndingA_Text>
+  <HAR_OT_EndingB_Text>「那我就從這顆星球上抽身了。後會有期。」\n虛空之主的話語迴響的同時，眷屬們紛紛消散，其身影飛逝至虛空之中。伽藍洞之骸無聲地崩塌，通往虛空的道路永遠封閉。\n\n撼動星球的災厄已被驅散。然而，這段故事的帷幕並未就此落下。終結之中，永遠孕育著新的開始。\n\n在星球引力的引領下，將那確實的成就感交付給了內心深處。</HAR_OT_EndingB_Text>
+
+  <HAR_OT_XSE_EndingDesc>伽藍洞之骸中傳來愉快的聲音……\n\n「非常期待你今後的表現。\n　你將成就何事、殺死誰、留下誰，實在令人期待不已。」</HAR_OT_XSE_EndingDesc>
+  
+</LanguageData>

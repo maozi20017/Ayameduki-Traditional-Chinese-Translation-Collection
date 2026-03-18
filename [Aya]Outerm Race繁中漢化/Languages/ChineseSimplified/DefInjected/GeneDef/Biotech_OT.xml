@@ -6,6 +6,6 @@
   <!-- EN: アウタームの細胞に刻まれている遺伝子。人工種族の遺伝子ベレシートに酷似しているという。代謝を上げるが非常に複雑。 -->
   <HAR_OT_Gene_a.description>刻印在域外者細胞中的基因。據說與人工種族的基因「創世紀」極為相似。能提升代謝，但結構非常複雜。</HAR_OT_Gene_a.description>
   <!-- EN: artificial -->
-  <HAR_OT_Gene_a.symbolPack.prefixSymbols.0.symbol>TODO</HAR_OT_Gene_a.symbolPack.prefixSymbols.0.symbol>
+  <HAR_OT_Gene_a.symbolPack.prefixSymbols.0.symbol>人造的</HAR_OT_Gene_a.symbolPack.prefixSymbols.0.symbol>
   
 </LanguageData>

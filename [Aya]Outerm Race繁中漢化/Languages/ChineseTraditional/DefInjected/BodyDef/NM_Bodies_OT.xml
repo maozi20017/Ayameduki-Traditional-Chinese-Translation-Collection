@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: アウターム -->
-  <HAR_Outerm_Body.label>TODO</HAR_Outerm_Body.label>
+  <HAR_Outerm_Body.label>域外者</HAR_Outerm_Body.label>
   <!-- EN: Wing -->
   <HAR_Outerm_Body.corePart.parts.Wing.customLabel>翅膀</HAR_Outerm_Body.corePart.parts.Wing.customLabel>
   <!-- EN: left lung -->

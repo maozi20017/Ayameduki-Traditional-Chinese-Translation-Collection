@@ -19,7 +19,21 @@
   <HAR_OT_Incident_c.label>走私者過境</HAR_OT_Incident_c.label>
   <!-- EN: 運び屋の通過 -->
   <HAR_OT_Incident_c.letterLabel>走私者過境</HAR_OT_Incident_c.letterLabel>
-  <!-- EN: 貴重なアイテムを運ぶハオスの構成員がコロニーの近くを通過しようとしています。そのまま見送るか、あるいは奪い取るかはあなた次第です。 -->
+  <!-- EN: 貴重なアイテムを運ぶハオスの構成員がコロニーの近くを通過しようとしています。\nそのまま見送るか、あるいは奪い取るかはあなた次第です。 -->
   <HAR_OT_Incident_c.letterText>運送貴重物品的混沌成員正試圖通過殖民地附近。是就此放行，還是出手劫奪，全憑你的決斷。</HAR_OT_Incident_c.letterText>
+  
+  <!-- EN: シャトル墜落 -->
+  <HAR_OT_Incident_d.label>穿梭艇墜落</HAR_OT_Incident_d.label>
+  <!-- EN: シャトル墜落 -->
+  <HAR_OT_Incident_d.letterLabel>穿梭艇墜落</HAR_OT_Incident_d.letterLabel>
+  <!-- EN: ハオスが襲撃したシャトルがコロニー付近に緊急着陸したようです。\nコロニーとは無関係の出来事ですが、被害者を助けることも可能です。 -->
+  <HAR_OT_Incident_d.letterText>遭混沌襲擊的穿梭艇似乎緊急迫降在殖民地附近。\n雖與殖民地無直接關聯，但也可以選擇援救受害者。</HAR_OT_Incident_d.letterText>
+  
+  <!-- EN: 伽藍洞の骸 -->
+  <HAR_OT_Incident_e.label>伽藍洞之骸</HAR_OT_Incident_e.label>
+  <!-- EN: 伽藍洞之骸 -->
+  <HAR_OT_Incident_e.letterLabel>伽藍洞之骸</HAR_OT_Incident_e.letterLabel>
+  <!-- EN: コロニー付近に謎の構造体が出現しました。\n無害のようですが、異様な雰囲気を纏っています。 -->
+  <HAR_OT_Incident_e.letterText>殖民地附近出現了神秘的構造體。\n看似無害，卻散發著異樣的氛圍。</HAR_OT_Incident_e.letterText>
   
 </LanguageData>

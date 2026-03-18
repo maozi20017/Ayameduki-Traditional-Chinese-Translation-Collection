@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 死体を捧げる -->
+  <HAR_OT_Recipe_DevoteCorpse.label>獻上屍體</HAR_OT_Recipe_DevoteCorpse.label>
+  <!-- EN: 伽藍洞の骸に死体を投げ入れます。\n対価として幾らかのスチールとプラスチールが手に入ります。 -->
+  <HAR_OT_Recipe_DevoteCorpse.description>將屍體投入伽藍洞之骸中。\n作為回報，可以獲得一些鋼鐵與塑鋼。</HAR_OT_Recipe_DevoteCorpse.description>
+  <!-- EN: 死体を捧げている -->
+  <HAR_OT_Recipe_DevoteCorpse.jobString>正在獻上屍體</HAR_OT_Recipe_DevoteCorpse.jobString>
+  
+</LanguageData>

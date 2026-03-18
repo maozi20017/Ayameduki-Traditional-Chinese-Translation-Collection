@@ -21,8 +21,13 @@
   <!-- EN: {0} has died in an explosion. -->
   <HAR_OT_Damage_null.deathMessage>{0} 死於一場爆炸。</HAR_OT_Damage_null.deathMessage>
   
+  <!-- EN: 朱い毒 -->
+  <HAR_OT_Damage_Smoke.label>朱紅之毒</HAR_OT_Damage_Smoke.label>
+  <!-- EN: {0} has been killed. -->
+  <HAR_OT_Damage_Smoke.deathMessage>{0} 被殺死了。</HAR_OT_Damage_Smoke.deathMessage>
+  
   <!-- EN: ミセロスイノス -->
-  <HAR_OT_Damage_Weapon_a.label>悲慘之人</HAR_OT_Damage_Weapon_a.label>
+  <HAR_OT_Damage_Weapon_a.label>悲慘之刃</HAR_OT_Damage_Weapon_a.label>
   <!-- EN: {0} has been shot to death. -->
   <HAR_OT_Damage_Weapon_a.deathMessage>{0} 被射殺了。</HAR_OT_Damage_Weapon_a.deathMessage>
   
