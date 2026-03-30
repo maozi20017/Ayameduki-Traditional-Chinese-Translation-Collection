@@ -22,6 +22,18 @@
   <HAR_OT_XSE_Msg_RitualFinished>距啟動完成</HAR_OT_XSE_Msg_RitualFinished>
   <HAR_OT_XSE_RitualRemaining>距啟動完成</HAR_OT_XSE_RitualRemaining>
 
+  <HAR_OT_XSE_CountProgress_Title_a>虛空棺蓋（20%）</HAR_OT_XSE_CountProgress_Title_a>
+  <HAR_OT_XSE_CountProgress_Desc_a>伽藍洞之骸中傳來愉快的聲音……\n\n「開局看來相當順利呢。\n　這顆星球上不愁找不到殺戮的對象，所以一邊培育殖民地，一邊繼續推進吧。\n　就算不去主動尋找目標，你越是壯大，在周圍眼中就越顯得魅力十足，不是嗎？」</HAR_OT_XSE_CountProgress_Desc_a>
+
+  <HAR_OT_XSE_CountProgress_Title_b>虛空棺蓋（40%）</HAR_OT_XSE_CountProgress_Title_b>
+  <HAR_OT_XSE_CountProgress_Desc_b>伽藍洞之骸中傳來愉快的聲音……\n\n「差不多到了對殺死敵人不再感到抵抗的時候了吧？\n　在這片土地上，道德不過是累贅。像那些女孩們……像域外者那樣，隨心所欲地殺戮與掠奪，我想那樣會更有趣。\n　……嗯？我與域外者之間的關係？\n　呵呵，這個就讓它作為秘密吧。」</HAR_OT_XSE_CountProgress_Desc_b>
+
+  <HAR_OT_XSE_CountProgress_Title_c>虛空棺蓋（60%）</HAR_OT_XSE_CountProgress_Title_c>
+  <HAR_OT_XSE_CountProgress_Desc_c>伽藍洞之骸中傳來愉快的聲音……\n\n「說不定你還真有殺戮的天賦呢？呵呵，當然這是誇獎。\n　無論是侵略還是防衛，殺得越多，其價值就越高。\n　假如就這樣持續殺戮，奪取了1000條生命，那個人便是真正的英雄。\n　而我認為，你正是應當獲得如此讚譽之人。」</HAR_OT_XSE_CountProgress_Desc_c>
+
+  <HAR_OT_XSE_CountProgress_Title_d>虛空棺蓋（80%）</HAR_OT_XSE_CountProgress_Title_d>
+  <HAR_OT_XSE_CountProgress_Desc_d>伽藍洞之骸中傳來愉快的聲音……\n\n「多虧了你獻上的屍體，能量開始流經這具朽壞的軀殼了。\n　看著這副身軀，那段被那個孩子率領的軍勢打得落花流水的記憶，似乎快要浮現了。\n　要是沒有小露娜，現在會變成什麼樣子呢……\n　……啊，這是我自己的事，不用放在心上。」</HAR_OT_XSE_CountProgress_Desc_d>
+  
   <HAR_OT_XSE_RitualEndTitle>通往虛空之路</HAR_OT_XSE_RitualEndTitle>
   <HAR_OT_XSE_RitualEndDesc>骸殼發出怪異的聲響，開始蠕動起來。通往虛空的道路似乎已經開闢完成。</HAR_OT_XSE_RitualEndDesc>
 
@@ -41,6 +53,12 @@
   <HAR_OT_GeneratingEnding>.</HAR_OT_GeneratingEnding>
   <HAR_OT_EndingA_Text>「與我締結契約的人，你是第二個了。願我們長久相伴。」\n話音剛落，龐大的力量便毫不留情地蹂躪了那具身軀。虛空瞬間侵蝕肉體，從內部將人性一點一點抹去。那人以一種冷漠的意識凝視著自己逐漸改變的模樣，彷彿在看著一個陌生人，而後靜靜地闔上了雙眼。\n\n再次睜開眼時，已無法保證自己仍是一個人。即便如此，落下這段故事的帷幕，還為時過早。\n\n只要留在這顆星球上，舞台上的演員便永無謝幕之日。</HAR_OT_EndingA_Text>
   <HAR_OT_EndingB_Text>「那我就從這顆星球上抽身了。後會有期。」\n虛空之主的話語迴響的同時，眷屬們紛紛消散，其身影飛逝至虛空之中。伽藍洞之骸無聲地崩塌，通往虛空的道路永遠封閉。\n\n撼動星球的災厄已被驅散。然而，這段故事的帷幕並未就此落下。終結之中，永遠孕育著新的開始。\n\n在星球引力的引領下，將那確實的成就感交付給了內心深處。</HAR_OT_EndingB_Text>
+
+  <HAR_OT_XSE_EndingTitle_a>虛空之契約</HAR_OT_XSE_EndingTitle_a>
+  <HAR_OT_XSE_EndingDesc_a>與潛伏於虛空之中者的契約已然締結。\n而見證了這份契約的人，似乎獲得了堪稱禁忌的不死之力。\n立定新的目標，試試這股力量吧！</HAR_OT_XSE_EndingDesc_a>
+
+  <HAR_OT_XSE_EndingTitle_b>鳥歸去</HAR_OT_XSE_EndingTitle_b>
+  <HAR_OT_XSE_EndingDesc_b>順應你的意志，那虛空的威脅已離開了這顆星球。\n與此同時，伽藍洞之骸消滅，由域外者率領的混沌也似乎停止了積極的破壞活動。\n消息透過風聲傳開，許多派系得知此事後，都非常高興！</HAR_OT_XSE_EndingDesc_b>
 
   <HAR_OT_XSE_EndingDesc>伽藍洞之骸中傳來愉快的聲音……\n\n「非常期待你今後的表現。\n　你將成就何事、殺死誰、留下誰，實在令人期待不已。」</HAR_OT_XSE_EndingDesc>
   

@@ -26,5 +26,13 @@
 	<HAR_Outerm.comps.HAR_OT_Comp_Skill_e.commandLabel>使徒</HAR_Outerm.comps.HAR_OT_Comp_Skill_e.commandLabel>
 	<!-- 高次から力を受けて強化状態となる。\n発動条件　：人工種族Lv5\n再使用　　：3日 -->
 	<HAR_Outerm.comps.HAR_OT_Comp_Skill_e.commandDesc>獲得來自更高次元的力量並進入強化狀態。\n發動條件　：人工種族(域外者)Lv.5\n冷卻時間　：3天</HAR_Outerm.comps.HAR_OT_Comp_Skill_e.commandDesc>
+	<!-- ティフォナス -->
+	<HAR_Outerm.comps.HAR_OT_Comp_Skill_f.commandLabel>堤豐</HAR_Outerm.comps.HAR_OT_Comp_Skill_f.commandLabel>
+	<!-- 指定したマスに向かって飛翔する。\n発動条件　：人工種族Lv6\n再使用　　：30分 -->
+	<HAR_Outerm.comps.HAR_OT_Comp_Skill_f.commandDesc>朝指定格子飛翔而去。\n發動條件　：人工種族(域外者)Lv.6\n冷卻時間　：30分鐘</HAR_Outerm.comps.HAR_OT_Comp_Skill_f.commandDesc>
+	<!-- エモラギア -->
+	<HAR_Outerm.comps.HAR_OT_Comp_Skill_g.commandLabel>血裂</HAR_Outerm.comps.HAR_OT_Comp_Skill_g.commandLabel>
+	<!-- 指定マスまでノックバックを発生させる扇状の衝撃波を放つ。\n発動条件　：人工種族Lv7\n再使用　　：30分　　：30分 -->
+	<HAR_Outerm.comps.HAR_OT_Comp_Skill_g.commandDesc>朝指定格子釋放造成擊退效果的扇形衝擊波。\n發動條件　：人工種族(域外者)Lv.7\n冷卻時間　：30分鐘</HAR_Outerm.comps.HAR_OT_Comp_Skill_g.commandDesc>
 
 </LanguageData>
