@@ -16,6 +16,11 @@
   <!-- EN: {0} has died in an explosion. -->
   <HAR_OT_Damage_d.deathMessage>{0} 死於一場爆炸。</HAR_OT_Damage_d.deathMessage>
   
+  <!-- EN: エモラギア -->
+  <HAR_OT_Damage_g.label>血裂</HAR_OT_Damage_g.label>
+  <!-- EN: {0} has died in an explosion. -->
+  <HAR_OT_Damage_g.deathMessage>{0} 被射殺了。</HAR_OT_Damage_g.deathMessage>
+  
   <!-- EN: ダメージ(無) -->
   <HAR_OT_Damage_null.label>傷害(無)</HAR_OT_Damage_null.label>
   <!-- EN: {0} has died in an explosion. -->

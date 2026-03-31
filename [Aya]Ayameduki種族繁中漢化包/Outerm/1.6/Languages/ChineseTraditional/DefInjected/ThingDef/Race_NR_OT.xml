@@ -32,7 +32,19 @@
 	<HAR_Outerm.comps.HAR_OT_Comp_Skill_f.commandDesc>朝指定格子飛翔而去。\n發動條件　：人工種族(域外者)Lv.6\n冷卻時間　：30分鐘</HAR_Outerm.comps.HAR_OT_Comp_Skill_f.commandDesc>
 	<!-- エモラギア -->
 	<HAR_Outerm.comps.HAR_OT_Comp_Skill_g.commandLabel>血裂</HAR_Outerm.comps.HAR_OT_Comp_Skill_g.commandLabel>
-	<!-- 指定マスまでノックバックを発生させる扇状の衝撃波を放つ。\n発動条件　：人工種族Lv7\n再使用　　：30分　　：30分 -->
+	<!-- 指定マスまでノックバックを発生させる扇状の衝撃波を放つ。\n発動条件　：人工種族Lv7\n再使用　　：30分 -->
 	<HAR_Outerm.comps.HAR_OT_Comp_Skill_g.commandDesc>朝指定格子釋放造成擊退效果的扇形衝擊波。\n發動條件　：人工種族(域外者)Lv.7\n冷卻時間　：30分鐘</HAR_Outerm.comps.HAR_OT_Comp_Skill_g.commandDesc>
+	<!-- ティシフォネ -->
+	<HAR_Outerm.comps.HAR_OT_Comp_Skill_h.commandLabel>提西福涅</HAR_Outerm.comps.HAR_OT_Comp_Skill_h.commandLabel>
+	<!-- 反撃状態となる。\n発動条件　：人工種族Lv8\n再使用　　：1日-->
+	<HAR_Outerm.comps.HAR_OT_Comp_Skill_h.commandDesc>進入反擊狀態。\n發動條件　：人工種族(域外者)Lv.8\n冷卻時間　：1天</HAR_Outerm.comps.HAR_OT_Comp_Skill_h.commandDesc>
+	<!-- アルパクティコ -->
+	<HAR_Outerm.comps.HAR_OT_Comp_Skill_i.commandLabel>掠食者</HAR_Outerm.comps.HAR_OT_Comp_Skill_i.commandLabel>
+	<!-- 死体を捕食して強化する。\n発動条件　：人工種族Lv9\n再使用　　：30分 -->
+	<HAR_Outerm.comps.HAR_OT_Comp_Skill_i.commandDesc>捕食屍體以獲得強化。\n發動條件　：人工種族(域外者)Lv.9\n冷卻時間　：30分鐘</HAR_Outerm.comps.HAR_OT_Comp_Skill_i.commandDesc>
+	<!-- ケリュフォス -->
+	<HAR_Outerm.comps.HAR_OT_Comp_Skill_j.commandLabel>逆卡巴拉</HAR_Outerm.comps.HAR_OT_Comp_Skill_j.commandLabel>
+	<!-- 覚醒状態となる。\n発動条件　：人工種族Lv10\n再使用　　：1日 -->
+	<HAR_Outerm.comps.HAR_OT_Comp_Skill_j.commandDesc>進入覺醒狀態。\n發動條件　：人工種族(域外者)Lv.10\n冷卻時間　：1天</HAR_Outerm.comps.HAR_OT_Comp_Skill_j.commandDesc>
 
 </LanguageData>
