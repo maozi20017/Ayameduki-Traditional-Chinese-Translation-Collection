@@ -1,58 +1,59 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- ■マント(夜魔) -->
-
-  <HAR_NM_Sh_K.label>披衣(夜魔)</HAR_NM_Sh_K.label>
-  <HAR_NM_Sh_K.description>柔弱的夜魔們披著防刃防彈。雖然衣服本身強度相當大，但因為穿戴者太弱，所以沒有什麼實感。</HAR_NM_Sh_K.description>
-
-  <HAR_NM_Sh_Kb.label>披風(夜魔)</HAR_NM_Sh_Kb.label>
-  <HAR_NM_Sh_Kb.description>柔弱的夜魔們披著防刃防彈。雖然衣服本身強度相當大，但因為穿戴者太弱，所以沒有什麼實感。</HAR_NM_Sh_Kb.description>
-
-  <HAR_NM_Sh_Kc.label>大衣(夜魔)</HAR_NM_Sh_Kc.label>
-  <HAR_NM_Sh_Kc.description>柔弱的夜魔們披著防刃防彈。雖然衣服本身強度相當大，但因為穿戴者太弱，所以沒有什麼實感。</HAR_NM_Sh_Kc.description>
-
-  <HAR_NM_Sh_Kd.label>風衣(夜魔)</HAR_NM_Sh_Kd.label>
-  <HAR_NM_Sh_Kd.description>柔弱的夜魔們披著防刃防彈。雖然衣服本身強度相當大，但因為穿戴者太弱，所以沒有什麼實感。</HAR_NM_Sh_Kd.description>
-
-  <HAR_NM_Sh_Ke.label>外套(夜魔)</HAR_NM_Sh_Ke.label>
-  <HAR_NM_Sh_Ke.description>柔弱的夜魔們披著防刃防彈。雖然衣服本身強度相當大，但因為穿戴者太弱，所以沒有什麼實感。</HAR_NM_Sh_Ke.description>
-
-
-  <!-- ■羽織(夜魔) -->
-
-  <HAR_NM_Sh_Ho.label>羽織服(夜魔)</HAR_NM_Sh_Ho.label>
-  <HAR_NM_Sh_Ho.description>柔弱的夜魔們披著防刃防彈。雖然衣服本身強度相當大，但因為穿戴者太弱，所以沒有什麼實感。</HAR_NM_Sh_Ho.description>
-
-
-  <!-- ■ショートマント(夜魔) -->
-
-  <HAR_NM_Sh_SKo.label>短披風(夜魔)</HAR_NM_Sh_SKo.label>
-  <HAR_NM_Sh_SKo.description>柔弱的夜魔們披著防刃防彈。雖然衣服本身強度相當大，但因為穿戴者太弱，所以沒有什麼實感。</HAR_NM_Sh_SKo.description>
-
-
-  <!-- ■バリアコート(夜魔) -->
-
+  
+  <!-- EN: バリアコート(ニアメーア) -->
   <HAR_NM_Sh_BKo.label>外套屏障(夜魔)</HAR_NM_Sh_BKo.label>
+  <!-- EN: ニアメーア独自のエネルギーを燃料に強力なダメージ軽減効果を持つバリア発生装置、戦闘ではとても役に立つが壊れやすく温度耐性が皆無なのが欠点。 -->
   <HAR_NM_Sh_BKo.description>以夜魔獨特的能量作為能源而具有強力的傷害減輕效果的屏障發生裝置，戰鬥非常有用，但是缺點是非常容易壞掉且溫度耐性完全沒有。</HAR_NM_Sh_BKo.description>
-
-
-  <!-- ■フィーンドクリスタル -->
-
+  
+  <!-- EN: フィーンドクリスタル -->
   <HAR_NM_Sh_Cry.label>魔女水晶(夜魔)</HAR_NM_Sh_Cry.label>
+  <!-- EN: ニアメーア・アラディアが愛用している謎のクリスタル。水のような液体を纏っており敵対者からの攻撃を受け止めてくれる。 -->
   <HAR_NM_Sh_Cry.description>魔女種夜魔・阿拉迪亞系愛用的謎之水晶。流淌環繞著有像是水一樣的神秘液體，可以用來抵擋敵對者的攻擊。</HAR_NM_Sh_Cry.description>
-
-
-  <!-- ■エクスプロアマント -->
-
-  <HAR_NM_Sh_x.label>探索斗篷(夜魔)</HAR_NM_Sh_x.label>
-  <HAR_NM_Sh_x.description>夜魔・溫蓋特專用的外套。為了能夠承受長途旅行而製作。</HAR_NM_Sh_x.description>
-
-
-  <!-- ■センチネルサポーター -->
-
+  
+  <!-- EN: 羽織(ニアメーア) -->
+  <HAR_NM_Sh_Ho.label>羽織服(夜魔)</HAR_NM_Sh_Ho.label>
+  <!-- EN: か弱いニアメーア達が防刃防弾として羽織っている。なかなかの強度を持つが何分着ている本人が弱いためあまり実感が持てない。 -->
+  <HAR_NM_Sh_Ho.description>柔弱的夜魔們披著防刃防彈。雖然衣服本身強度相當大，但因為穿戴者太弱，所以沒有什麼實感。</HAR_NM_Sh_Ho.description>
+  
+  <!-- EN: マント(ニアメーア) -->
+  <HAR_NM_Sh_K.label>披衣(夜魔)</HAR_NM_Sh_K.label>
+  <!-- EN: か弱いニアメーア達が防刃防弾として羽織っている。なかなかの強度を持つが何分着ている本人が弱いためあまり実感が持てない。 -->
+  <HAR_NM_Sh_K.description>柔弱的夜魔們披著防刃防彈。雖然衣服本身強度相當大，但因為穿戴者太弱，所以沒有什麼實感。</HAR_NM_Sh_K.description>
+  
+  <!-- EN: ケープ(ニアメーア) -->
+  <HAR_NM_Sh_Kb.label>披風(夜魔)</HAR_NM_Sh_Kb.label>
+  <!-- EN: か弱いニアメーア達が防刃防弾として羽織っている。なかなかの強度を持つが何分着ている本人が弱いためあまり実感が持てない。 -->
+  <HAR_NM_Sh_Kb.description>柔弱的夜魔們披著防刃防彈。雖然衣服本身強度相當大，但因為穿戴者太弱，所以沒有什麼實感。</HAR_NM_Sh_Kb.description>
+  
+  <!-- EN: コート(ニアメーア) -->
+  <HAR_NM_Sh_Kc.label>大衣(夜魔)</HAR_NM_Sh_Kc.label>
+  <!-- EN: か弱いニアメーア達が防刃防弾として羽織っている。なかなかの強度を持つが何分着ている本人が弱いためあまり実感が持てない。 -->
+  <HAR_NM_Sh_Kc.description>柔弱的夜魔們披著防刃防彈。雖然衣服本身強度相當大，但因為穿戴者太弱，所以沒有什麼實感。</HAR_NM_Sh_Kc.description>
+  
+  <!-- EN: ダスター(ニアメーア) -->
+  <HAR_NM_Sh_Kd.label>風衣(夜魔)</HAR_NM_Sh_Kd.label>
+  <!-- EN: か弱いニアメーア達が防刃防弾として羽織っている。なかなかの強度を持つが何分着ている本人が弱いためあまり実感が持てない。 -->
+  <HAR_NM_Sh_Kd.description>柔弱的夜魔們披著防刃防彈。雖然衣服本身強度相當大，但因為穿戴者太弱，所以沒有什麼實感。</HAR_NM_Sh_Kd.description>
+  
+  <!-- EN: ダッフル(ニアメーア) -->
+  <HAR_NM_Sh_Ke.label>外套(夜魔)</HAR_NM_Sh_Ke.label>
+  <!-- EN: か弱いニアメーア達が防刃防弾として羽織っている。なかなかの強度を持つが何分着ている本人が弱いためあまり実感が持てない。 -->
+  <HAR_NM_Sh_Ke.description>柔弱的夜魔們披著防刃防彈。雖然衣服本身強度相當大，但因為穿戴者太弱，所以沒有什麼實感。</HAR_NM_Sh_Ke.description>
+  
+  <!-- EN: センチネルサポーター -->
   <HAR_NM_Sh_r.label>哨兵護具(夜魔)</HAR_NM_Sh_r.label>
-  <HAR_NM_Sh_r.description>。</HAR_NM_Sh_r.description>
-
-
+  <!-- EN: 人工種族の故郷である惑星カナンで開発された最新鋭の装備。\n「辺境惑星保全機構-ETHOS-」が戦闘用装備として運用している。 -->
+  <HAR_NM_Sh_r.description>在人工種族故鄉迦南上開發的最新銳裝備。\n由「邊境惑星保全機構-ETHOS-」作為戰鬥用裝備運用。</HAR_NM_Sh_r.description>
+  
+  <!-- EN: ショートマント(ニアメーア) -->
+  <HAR_NM_Sh_SKo.label>短披風(夜魔)</HAR_NM_Sh_SKo.label>
+  <!-- EN: か弱いニアメーア達が防刃防弾として羽織っている。なかなかの強度を持つが何分着ている本人が弱いためあまり実感が持てない。 -->
+  <HAR_NM_Sh_SKo.description>柔弱的夜魔們披著防刃防彈。雖然衣服本身強度相當大，但因為穿戴者太弱，所以沒有什麼實感。</HAR_NM_Sh_SKo.description>
+  
+  <!-- EN: エクスプロアマント -->
+  <HAR_NM_Sh_x.label>探索斗篷(夜魔)</HAR_NM_Sh_x.label>
+  <!-- EN: ニアメーア・ウィンゲイト専用の外套。長旅にも耐えられるよう丈夫に作られている。 -->
+  <HAR_NM_Sh_x.description>夜魔・溫蓋特專用的外套。為了能夠承受長途旅行而製作。</HAR_NM_Sh_x.description>
+  
 </LanguageData>

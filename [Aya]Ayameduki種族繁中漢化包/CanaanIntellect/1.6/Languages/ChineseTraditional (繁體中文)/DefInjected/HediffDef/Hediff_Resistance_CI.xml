@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 創造の光 -->
+  <Aya_CI_Hediff_Resistance.label>創造之光</Aya_CI_Hediff_Resistance.label>
+  <!-- EN: 世界の責め苦から対象者を守る暖かな光。\n熱や毒に強くなり、生存能力が向上している。\n\nこの状態は6日間継続する。\n\n\n\n創造主がイドヘールの特性から着想を得て開発した技術。\n特に脆い構造をしているリトルーナを庇護するために重宝したという。 -->
+  <Aya_CI_Hediff_Resistance.description>保護對象免受世界折磨的溫暖光芒。\n增強對熱與毒的抗性，提升生存能力。\n\n此狀態將持續6天。\n\n\n\n創造主從幽靈姬的特性中獲得靈感而開發出的技術。\n據說特別常用於保護身軀脆弱的偽神族們。</Aya_CI_Hediff_Resistance.description>
+  
+</LanguageData>

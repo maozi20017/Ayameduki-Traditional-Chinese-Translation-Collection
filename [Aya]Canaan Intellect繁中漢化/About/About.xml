@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+	<name>[Aya]Canaan Intellect 繁中漢化</name>
+	<author>毛子</author>
+	<supportedVersions>
+		<li>1.6</li>
+	</supportedVersions>
+	<packageId>Maozi.ZH.ChinesePack.AyaCanaanIntellect</packageId>
+	<description>
+漢化描述:
+
+此MOD是讓角色能夠獲得強化的MOD。
+雖然是與人工種族相關的MOD，但若僅單獨使用此MOD，並不需要HAR。
+
+
+────────────────────────────────────────
+【新增事件】
+・造物之一
+殖民地附近會突然出現一座工坊。此工坊可以變更設置位置。
+────────────────────────────────────────
+【工坊】
+工坊擁有獨自的點數，每天會增加1點。
+此外，當發生威脅事件時會增加3點。（點數上限為120）
+
+消耗點數即可獲得特殊的恩惠。
+────────────────────────────────────────
+【新增物品】
+以下為工坊中可製作的物品。
+
+・生物的靈油（以各類毛皮為素材）
+・植物的靈油（以木材為素材）
+・礦物的靈油（以鋼鐵、黃金或白銀為素材）
+
+
+
+・生命的聖餐藥（強化各部位耐久值）
+・祝福的聖餐藥（強化身體機能等）
+・智慧的聖餐藥（強化意識等）
+
+・特殊製造許可證（製作聖餐藥所需）
+
+</description>
+<modDependencies>
+	<li>
+		<packageId>Ayameduki.AyaCanaanIntellect</packageId>
+		<displayName>[Aya]Canaan Intellect</displayName>
+		<steamWorkshopUrl>steam://url/CommunityFilePage/3750626266</steamWorkshopUrl>
+	</li>
+</modDependencies>
+<loadAfter>
+	<li>Ayameduki.AyaCanaanIntellect</li>
+</loadAfter>
+
+</ModMetaData>

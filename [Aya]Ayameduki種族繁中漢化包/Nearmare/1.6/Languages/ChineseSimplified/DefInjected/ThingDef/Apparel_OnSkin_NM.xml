@@ -1,46 +1,39 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- ■內衣A款 -->
-
+  
+  <!-- EN: 下着A(ニアメーア) -->
   <HAR_NM_Os_P.label>內衣A款(夜魔)</HAR_NM_Os_P.label>
+  <!-- EN: ニアメーア達が好んで着用する下着、布面積が少なく色っぽいのが特徴。 -->
   <HAR_NM_Os_P.description>夜魔們很喜歡穿的內衣，特點是布料遮蓋面積少，顏色也很艷麗。</HAR_NM_Os_P.description>
-
-
-  <!-- ■內衣B款 -->
-
+  
+  <!-- EN: 下着B(ニアメーア) -->
   <HAR_NM_Os_Pb.label>內衣B款(夜魔)</HAR_NM_Os_Pb.label>
+  <!-- EN: ニアメーア達が好んで着用する下着、布面積が少なく色っぽいのが特徴。 -->
   <HAR_NM_Os_Pb.description>夜魔們很喜歡穿的內衣，特點是布料遮蓋面積少，顏色也很艷麗。</HAR_NM_Os_Pb.description>
-
-
-  <!-- ■內衣C款 -->
-
+  
+  <!-- EN: 下着C(ニアメーア) -->
   <HAR_NM_Os_Pc.label>內衣C款(夜魔)</HAR_NM_Os_Pc.label>
+  <!-- EN: ニアメーア達が好んで着用する下着、布面積が少なく色っぽいのが特徴。 -->
   <HAR_NM_Os_Pc.description>夜魔們很喜歡穿的內衣，特點是布料遮蓋面積少，顏色也很艷麗。</HAR_NM_Os_Pc.description>
-
-
-  <!-- ■內衣D款 -->
-
+  
+  <!-- EN: 下着D(ニアメーア) -->
   <HAR_NM_Os_Pd.label>內衣D款(夜魔)</HAR_NM_Os_Pd.label>
+  <!-- EN: ニアメーア達が好んで着用する下着、布面積が少なく色っぽいのが特徴。 -->
   <HAR_NM_Os_Pd.description>夜魔們很喜歡穿的內衣，特點是布料遮蓋面積少，顏色也很艷麗。</HAR_NM_Os_Pd.description>
-
-
-  <!-- ■內衣E款 -->
-
+  
+  <!-- EN: 下着E(ニアメーア) -->
   <HAR_NM_Os_Pe.label>內衣E款(夜魔)</HAR_NM_Os_Pe.label>
+  <!-- EN: ニアメーア達が好んで着用する下着、布面積が少なく色っぽいのが特徴。 -->
   <HAR_NM_Os_Pe.description>夜魔們很喜歡穿的內衣，特點是布料遮蓋面積少，顏色也很艷麗。</HAR_NM_Os_Pe.description>
-
-
-  <!-- ■フィーンドランジェリー -->
-
+  
+  <!-- EN: フィーンドランジェリー -->
   <HAR_NM_Os_Pf.label>內衣・魔女款式(夜魔)</HAR_NM_Os_Pf.label>
-  <HAR_NM_Os_Pf.description>夜魔・阿拉迪亞系很喜歡穿的內衣，特點是布料遮蓋面積少，顏色也很艷麗。</HAR_NM_Os_Pf.description>
-
-
-  <!-- ■センチネルスーツ -->
-
+  <!-- EN: ニアメーア・アラディア達が好んで着用する下着、布面積が少なく色っぽいのが特徴。 -->
+  <HAR_NM_Os_Pf.description>夜魔・阿拉迪亞們很喜歡穿的內衣，特點是布料遮蓋面積少，顏色也很艷麗。</HAR_NM_Os_Pf.description>
+  
+  <!-- EN: センチネルスーツ -->
   <HAR_NM_Os_Pg.label>哨兵服(夜魔)</HAR_NM_Os_Pg.label>
-  <HAR_NM_Os_Pg.description>。</HAR_NM_Os_Pg.description>
-
-
+  <!-- EN: 人工種族の故郷である惑星カナンで開発された最新鋭の装備。\n「辺境惑星保全機構-ETHOS-」が戦闘用装備として運用している。 -->
+  <HAR_NM_Os_Pg.description>在人工種族故鄉迦南上開發的最新銳裝備。\n由「邊境惑星保全機構-ETHOS-」作為戰鬥用裝備運用。</HAR_NM_Os_Pg.description>
+  
 </LanguageData>
