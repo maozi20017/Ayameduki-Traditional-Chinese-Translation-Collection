@@ -36,6 +36,13 @@
   <!-- EN: 製造依頼中 -->
   <Aya_CI_Recipe_Artifact_MechSerumResurrector.jobString>委託製造中</Aya_CI_Recipe_Artifact_MechSerumResurrector.jobString>
   
+  <!-- EN: 「光暈の聖餐薬」の製造依頼する -->
+  <Aya_CI_Recipe_Artifact_x.label>委託製造「光暈的聖餐藥」</Aya_CI_Recipe_Artifact_x.label>
+  <!-- EN: 専用素材を提供して「光暈の聖餐薬」を製造をしてもらう。 -->
+  <Aya_CI_Recipe_Artifact_x.description>提供專用素材，委託製造「光暈的聖餐藥」。</Aya_CI_Recipe_Artifact_x.description>
+  <!-- EN: 製造依頼中 -->
+  <Aya_CI_Recipe_Artifact_x.jobString>委託製造中</Aya_CI_Recipe_Artifact_x.jobString>
+  
   <!-- EN: 「生物の霊油」の製造依頼する -->
   <Aya_CI_Recipe_Material_a.label>委託製造「生物的靈油」</Aya_CI_Recipe_Material_a.label>
   <!-- EN: 皮を提供して「生物の霊油」を製造をしてもらう。 -->

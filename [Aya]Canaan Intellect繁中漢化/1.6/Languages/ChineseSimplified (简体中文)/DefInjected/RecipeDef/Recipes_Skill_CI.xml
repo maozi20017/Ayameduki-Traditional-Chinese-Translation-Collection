@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 「始原の澱:ケイオストラベル」の製造依頼する -->
+  <Aya_CI_Recipe_Skill_Gain_a.label>委託製造「始原之澱：混沌躍遷」</Aya_CI_Recipe_Skill_Gain_a.label>
+  <!-- EN: 専用素材を提供して「始原の澱:ケイオストラベル」を製造をしてもらう。 -->
+  <Aya_CI_Recipe_Skill_Gain_a.description>提供專用素材，委託製造「始原之澱：混沌躍遷」。</Aya_CI_Recipe_Skill_Gain_a.description>
+  <!-- EN: 製造依頼中 -->
+  <Aya_CI_Recipe_Skill_Gain_a.jobString>委託製造中</Aya_CI_Recipe_Skill_Gain_a.jobString>
+  
+  <!-- EN: 「始原の澱:インヴァーテッドノヴァ」の製造依頼する -->
+  <Aya_CI_Recipe_Skill_Gain_b.label>委託製造「始原之澱：反物質新星」</Aya_CI_Recipe_Skill_Gain_b.label>
+  <!-- EN: 専用素材を提供して「始原の澱:インヴァーテッドノヴァ」を製造をしてもらう。 -->
+  <Aya_CI_Recipe_Skill_Gain_b.description>提供專用素材，委託製造「始原之澱：反物質新星」。</Aya_CI_Recipe_Skill_Gain_b.description>
+  <!-- EN: 製造依頼中 -->
+  <Aya_CI_Recipe_Skill_Gain_b.jobString>委託製造中</Aya_CI_Recipe_Skill_Gain_b.jobString>
+  
+  <!-- EN: 「始原の澱:コンフラグレイション」の製造依頼する -->
+  <Aya_CI_Recipe_Skill_Gain_c.label>委託製造「始原之澱：烈焰爆炎」</Aya_CI_Recipe_Skill_Gain_c.label>
+  <!-- EN: 専用素材を提供して「始原の澱:コンフラグレイション」を製造をしてもらう。 -->
+  <Aya_CI_Recipe_Skill_Gain_c.description>提供專用素材，委託製造「始原之澱：烈焰爆炎」。</Aya_CI_Recipe_Skill_Gain_c.description>
+  <!-- EN: 製造依頼中 -->
+  <Aya_CI_Recipe_Skill_Gain_c.jobString>委託製造中</Aya_CI_Recipe_Skill_Gain_c.jobString>
+  
+  <!-- EN: 「始原の澱:ブレインハック」の製造依頼する -->
+  <Aya_CI_Recipe_Skill_Gain_d.label>委託製造「始原之澱：腦部駭入」</Aya_CI_Recipe_Skill_Gain_d.label>
+  <!-- EN: 専用素材を提供して「始原の澱:ブレインハック」を製造をしてもらう。 -->
+  <Aya_CI_Recipe_Skill_Gain_d.description>提供專用素材，委託製造「始原之澱：腦部駭入」。</Aya_CI_Recipe_Skill_Gain_d.description>
+  <!-- EN: 製造依頼中 -->
+  <Aya_CI_Recipe_Skill_Gain_d.jobString>委託製造中</Aya_CI_Recipe_Skill_Gain_d.jobString>
+  
+  <!-- EN: 「始原の澱:クルエリィエッジ」の製造依頼する -->
+  <Aya_CI_Recipe_Skill_Gain_e.label>委託製造「始原之澱：殘酷之刃」</Aya_CI_Recipe_Skill_Gain_e.label>
+  <!-- EN: 専用素材を提供して「始原の澱:クルエリィエッジ」を製造をしてもらう。 -->
+  <Aya_CI_Recipe_Skill_Gain_e.description>提供專用素材，委託製造「始原之澱：殘酷之刃」。</Aya_CI_Recipe_Skill_Gain_e.description>
+  <!-- EN: 製造依頼中 -->
+  <Aya_CI_Recipe_Skill_Gain_e.jobString>委託製造中</Aya_CI_Recipe_Skill_Gain_e.jobString>
+  
+  <!-- EN: 「始原の澱:セプロフォビア」の製造依頼する -->
+  <Aya_CI_Recipe_Skill_Gain_f.label>委託製造「始原之澱：腐敗恐懼」</Aya_CI_Recipe_Skill_Gain_f.label>
+  <!-- EN: 専用素材を提供して「始原の澱:セプロフォビア」を製造をしてもらう。 -->
+  <Aya_CI_Recipe_Skill_Gain_f.description>提供專用素材，委託製造「始原之澱：腐敗恐懼」。</Aya_CI_Recipe_Skill_Gain_f.description>
+  <!-- EN: 製造依頼中 -->
+  <Aya_CI_Recipe_Skill_Gain_f.jobString>委託製造中</Aya_CI_Recipe_Skill_Gain_f.jobString>
+  
+  <!-- EN: 「始原の澱:フェイズフィルム」の製造依頼する -->
+  <Aya_CI_Recipe_Skill_Gain_g.label>委託製造「始原之澱：相位薄膜」</Aya_CI_Recipe_Skill_Gain_g.label>
+  <!-- EN: 専用素材を提供して「始原の澱:フェイズフィルム」を製造をしてもらう。 -->
+  <Aya_CI_Recipe_Skill_Gain_g.description>提供專用素材，委託製造「始原之澱：相位薄膜」。</Aya_CI_Recipe_Skill_Gain_g.description>
+  <!-- EN: 製造依頼中 -->
+  <Aya_CI_Recipe_Skill_Gain_g.jobString>委託製造中</Aya_CI_Recipe_Skill_Gain_g.jobString>
+  
+  <!-- EN: 「始原の澱:マーシフルショット」の製造依頼する -->
+  <Aya_CI_Recipe_Skill_Gain_h.label>委託製造「始原之澱：仁慈的一擊」</Aya_CI_Recipe_Skill_Gain_h.label>
+  <!-- EN: 専用素材を提供して「始原の澱:マーシフルショット」を製造をしてもらう。 -->
+  <Aya_CI_Recipe_Skill_Gain_h.description>提供專用素材，委託製造「始原之澱：仁慈的一擊」。</Aya_CI_Recipe_Skill_Gain_h.description>
+  <!-- EN: 製造依頼中 -->
+  <Aya_CI_Recipe_Skill_Gain_h.jobString>委託製造中</Aya_CI_Recipe_Skill_Gain_h.jobString>
+  
+  <!-- EN: 「始原の澱:グッバイペイン！」の製造依頼する -->
+  <Aya_CI_Recipe_Skill_Gain_i.label>委託製造「始原之澱：再見了，痛苦！」</Aya_CI_Recipe_Skill_Gain_i.label>
+  <!-- EN: 専用素材を提供して「始原の澱:グッバイペイン！」を製造をしてもらう。 -->
+  <Aya_CI_Recipe_Skill_Gain_i.description>提供專用素材，委託製造「始原之澱：再見了，痛苦！」。</Aya_CI_Recipe_Skill_Gain_i.description>
+  <!-- EN: 製造依頼中 -->
+  <Aya_CI_Recipe_Skill_Gain_i.jobString>委託製造中</Aya_CI_Recipe_Skill_Gain_i.jobString>
+  
+  <!-- EN: 「始原の澱:ソヴリングレイス」の製造依頼する -->
+  <Aya_CI_Recipe_Skill_Gain_j.label>委託製造「始原之澱：君主恩典」</Aya_CI_Recipe_Skill_Gain_j.label>
+  <!-- EN: 専用素材を提供して「始原の澱:ソヴリングレイス」を製造をしてもらう。 -->
+  <Aya_CI_Recipe_Skill_Gain_j.description>提供專用素材，委託製造「始原之澱：君主恩典」。</Aya_CI_Recipe_Skill_Gain_j.description>
+  <!-- EN: 製造依頼中 -->
+  <Aya_CI_Recipe_Skill_Gain_j.jobString>委託製造中</Aya_CI_Recipe_Skill_Gain_j.jobString>
+  
+</LanguageData>
