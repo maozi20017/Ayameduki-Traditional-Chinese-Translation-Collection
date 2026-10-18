@@ -26,6 +26,11 @@
   <!-- EN: アウターム達が好んで着用する頭装備。 -->
   <HAR_OT_Apparel_H_e.description>域外者們喜歡穿著的頭部裝備。</HAR_OT_Apparel_H_e.description>
 
+  <!-- EN: アポリアオブシディアン -->
+  <HAR_OT_Apparel_H_lvx.label>困境黑曜(域外者)</HAR_OT_Apparel_H_lvx.label>
+  <!-- EN: ハオスの中でも選ばれたアウタームのみ、身に付けることが許される髪飾り。\n。 -->
+  <HAR_OT_Apparel_H_lvx.description>即便在混沌之中，也只有被選中的域外者才被允許佩戴的髮飾。</HAR_OT_Apparel_H_lvx.description>
+  
   <!-- EN: ディアフトラヘルメット -->
   <HAR_OT_Apparel_H_z.label>腐滅頭盔(域外者)</HAR_OT_Apparel_H_z.label>
   <!-- EN: アウターム専用のヘルメット。インプットされた自動補正機能により精密な動きが可能。 -->

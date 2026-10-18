@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Outerm.SpawnLevelLimit>域外者生成時人工種族Lv上限：{0}</Outerm.SpawnLevelLimit>
+
+  <Outerm.SpawnLevelBoost>域外者生成時人工種族Lv加成（加成至上限為止）：{0}</Outerm.SpawnLevelBoost>
+
+  <Outerm.DisableNpcSkillA>禁止NPC使用維克拉卡斯</Outerm.DisableNpcSkillA>
+  <Outerm.DisableNpcSkillA_Desc>開啟後，NPC域外者將不再使用維克拉卡斯（噬咬技能）。</Outerm.DisableNpcSkillA_Desc>
+
+  <Outerm.DisableNpcSkillB>禁止NPC使用美伯拉</Outerm.DisableNpcSkillB>
+  <Outerm.DisableNpcSkillB_Desc>開啟後，NPC域外者將不再使用美伯拉（召喚技能）。</Outerm.DisableNpcSkillB_Desc>
+
+  <Outerm.DisableNpcSkillC>禁止NPC使用鋒刃之心智</Outerm.DisableNpcSkillC>
+  <Outerm.DisableNpcSkillC_Desc>開啟後，NPC域外者將不再使用鋒刃之心智（迴避技能）。</Outerm.DisableNpcSkillC_Desc>
+
+  <Outerm.DisableNpcSkillD>禁止NPC使用催化</Outerm.DisableNpcSkillD>
+  <Outerm.DisableNpcSkillD_Desc>開啟後，NPC域外者將不再使用催化（弱化攻擊技能）。</Outerm.DisableNpcSkillD_Desc>
+
+  <Outerm.DisableNpcSkillE>禁止NPC使用使徒</Outerm.DisableNpcSkillE>
+  <Outerm.DisableNpcSkillE_Desc>開啟後，NPC域外者將不再使用使徒（強化技能）。</Outerm.DisableNpcSkillE_Desc>
+
+  <Outerm.DisableNpcSkillF>禁止NPC使用堤豐</Outerm.DisableNpcSkillF>
+  <Outerm.DisableNpcSkillF_Desc>開啟後，NPC域外者將不再使用堤豐（跳躍技能）。</Outerm.DisableNpcSkillF_Desc>
+
+  <Outerm.DisableNpcSkillG>禁止NPC使用血裂</Outerm.DisableNpcSkillG>
+  <Outerm.DisableNpcSkillG_Desc>開啟後，NPC域外者將不再使用血裂（扇形衝擊波技能）。</Outerm.DisableNpcSkillG_Desc>
+
+  <Outerm.DisableNpcSkillH>禁止NPC使用提西福涅</Outerm.DisableNpcSkillH>
+  <Outerm.DisableNpcSkillH_Desc>開啟後，NPC域外者將不再使用提西福涅（反擊技能）。</Outerm.DisableNpcSkillH_Desc>
+
+  <Outerm.DisableNpcSkillI>禁止NPC使用掠食者</Outerm.DisableNpcSkillI>
+  <Outerm.DisableNpcSkillI_Desc>開啟後，NPC域外者將不再使用掠食者（屍體捕食技能）。</Outerm.DisableNpcSkillI_Desc>
+
+  <Outerm.DisableNpcSkillJ>禁止NPC使用逆卡巴拉</Outerm.DisableNpcSkillJ>
+  <Outerm.DisableNpcSkillJ_Desc>開啟後，NPC域外者將不再使用逆卡巴拉（覺醒技能）。</Outerm.DisableNpcSkillJ_Desc> 
+</LanguageData>

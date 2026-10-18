@@ -10,7 +10,12 @@
   <HAR_OT_Apparel_T_Armor_a.label>腐滅盔甲(域外者)</HAR_OT_Apparel_T_Armor_a.label>
   <!-- EN: アウターム専用のアーマー。インプットされた自動補正機能により精密な動きが可能。 -->
   <HAR_OT_Apparel_T_Armor_a.description>域外者專用的盔甲。透過內建的自動校正功能，得以實現精密的動作。</HAR_OT_Apparel_T_Armor_a.description>
-
+  
+  <!-- EN: アポリアドレス -->
+  <HAR_OT_Apparel_T_Armor_lvx.label>困境禮服(域外者)</HAR_OT_Apparel_T_Armor_lvx.label>
+  <!-- EN: ハオスの中でも選ばれたアウタームのみ、身に付けることが許される礼服。\n清廉な白と青を基調とした彼女達らしからぬその衣装から、彼女達に信心深い一面が確かにあることを思わせる。 -->
+  <HAR_OT_Apparel_T_Armor_lvx.description>即便在混沌之中，也只有被選中的域外者才被允許穿著的禮服。\n以純潔的白與藍為基調、與她們平時風格迥異的服裝，卻令人確實感受到她們虔誠信仰的一面。</HAR_OT_Apparel_T_Armor_lvx.description>
+   
   <!-- EN: カキストスウェアB -->
   <HAR_OT_Apparel_T_b.label>極惡裝束B(域外者)</HAR_OT_Apparel_T_b.label>
   <!-- EN: アウターム達が好んで着用する上着。彼女達の感性故か、どこか退廃的。 -->

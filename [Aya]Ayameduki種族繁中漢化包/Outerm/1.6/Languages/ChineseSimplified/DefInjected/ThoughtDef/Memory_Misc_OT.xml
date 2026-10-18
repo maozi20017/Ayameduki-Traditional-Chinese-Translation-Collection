@@ -18,4 +18,9 @@
   <!-- EN: 私は今や血みどろだ！生きているとはまさにこのことだろう！ -->
   <HAR_OT_Pain.stages.3.description>我如今已是滿身鮮血！這才是活著的感覺！</HAR_OT_Pain.stages.3.description>
   
+  <!-- EN: 雌烏の虜 -->
+  <HAR_OT_Thought_a.stages.0.label>雌烏的俘虜</HAR_OT_Thought_a.stages.0.label>
+  <!-- EN: あの溺れるような快楽が、今も忘れられずにいる… -->
+  <HAR_OT_Thought_a.stages.0.description>那令人沉溺的歡愉，至今仍無法忘懷……</HAR_OT_Thought_a.stages.0.description>
+
 </LanguageData>
