@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!--アルケーカードリッジ-->
+	<HAR_IA_Item_ArcheCartridge.label>始基卡匣</HAR_IA_Item_ArcheCartridge.label>
+	<!--イデアーンが生命活動するために必要なエネルギーを内包したカードリッジ。\n１シーズン一回交換を必要とする。\n枯渇状態になると身動き取れなくなるため早めの交換を推薦します。-->
+	<HAR_IA_Item_ArcheCartridge.description>含有艾蒂安維持生命活動所需能量的卡匣。
+	\n需要每季更換1次。
+	\n建議盡早更換，因為能量枯竭就無法活動身體了。</HAR_IA_Item_ArcheCartridge.description>
+	<!--{0}を交換する-->
+	<HAR_IA_Item_ArcheCartridge.ingestible.ingestCommandString>更換{0}</HAR_IA_Item_ArcheCartridge.ingestible.ingestCommandString>
+	<!--{0}を交換している-->
+	<HAR_IA_Item_ArcheCartridge.ingestible.ingestReportString>正在更換{0}</HAR_IA_Item_ArcheCartridge.ingestible.ingestReportString>
+	<!--bottle-->
+	<HAR_IA_Item_ArcheCartridge.tools.0.label>卡匣</HAR_IA_Item_ArcheCartridge.tools.0.label>
+
+</LanguageData>

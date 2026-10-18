@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Aya_Race_HumanlikeBaby.label>嬰兒</Aya_Race_HumanlikeBaby.label>
+  <Aya_Race_HumanlikeChild.label>兒童</Aya_Race_HumanlikeChild.label>
+  <Aya_Race_HumanlikePreTeenager.label>少年</Aya_Race_HumanlikePreTeenager.label>
+
+  <Aya_Race_HumanlikeTeenager.label>青少年</Aya_Race_HumanlikeTeenager.label>
+  <Aya_Race_HumanlikeTeenager.adjective>青少年</Aya_Race_HumanlikeTeenager.adjective>
+
+  <Aya_Race_HumanlikeAdult.label>成人</Aya_Race_HumanlikeAdult.label>
+
+
+</LanguageData>

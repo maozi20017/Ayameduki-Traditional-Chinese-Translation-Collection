@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: カタリュシス -->
+  <HAR_OT_Hediff_d.label>催化</HAR_OT_Hediff_d.label>
+  <!-- EN: アウタームの邪悪な一撃を受けた状態。\n\n不可視のエネルギーを叩き込まれたことで、心身が不安定になっている。\nどのような働きでそうなっているのか判明しておらず、ただただ不快と恐怖が募る。\n\nこの状態は数時間で完治する。 -->
+  <HAR_OT_Hediff_d.description>受到域外者邪惡的一擊後的狀態。\n\n由於被灌入不可視的能量，身心變得不穩定。\n目前尚未查明是透過何種機制造成的，只是不適與恐懼不斷加劇。\n\n此狀態會在數小時後完全恢復。</HAR_OT_Hediff_d.description>
+  
+</LanguageData>

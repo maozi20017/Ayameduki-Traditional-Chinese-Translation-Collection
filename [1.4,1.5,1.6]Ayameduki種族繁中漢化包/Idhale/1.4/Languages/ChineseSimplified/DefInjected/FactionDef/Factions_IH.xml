@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Idhale_Base_Faction.leaderTitle>領袖</Idhale_Base_Faction.leaderTitle>
+
+  <Idhale_P_Faction.label>幽靈姬的隱居之鄉</Idhale_P_Faction.label>
+  <Idhale_P_Faction.description>幽靈姬們聚集在一起平和的隱居著的聚落。</Idhale_P_Faction.description>
+  <Idhale_P_Faction.pawnsPlural>幽靈姬們</Idhale_P_Faction.pawnsPlural>
+
+  <Idhale_Faction_NPC.label>幽靈姬的隱居之鄉</Idhale_Faction_NPC.label>
+  <Idhale_Faction_NPC.description>幽靈姬們聚集在一起平和的隱居著的聚落。</Idhale_Faction_NPC.description>
+  <Idhale_Faction_NPC.pawnsPlural>幽靈姬們</Idhale_Faction_NPC.pawnsPlural>
+  <Idhale_Faction_NPC.leaderTitle>領袖</Idhale_Faction_NPC.leaderTitle>
+
+  <Idhale_Faction_NPC_b.label>幽靈姬的派系</Idhale_Faction_NPC_b.label>
+  <Idhale_Faction_NPC_b.description>一個擔負著特定使命的幽靈姬派系。
+  \n通常情況下他們隱身不露面，只襲擊著積聚了巨大財富的殖民地。</Idhale_Faction_NPC_b.description>
+  <Idhale_Faction_NPC_b.fixedName>蒼穹之靈</Idhale_Faction_NPC_b.fixedName>
+  <Idhale_Faction_NPC_b.pawnsPlural>幽靈姬</Idhale_Faction_NPC_b.pawnsPlural>
+  <Idhale_Faction_NPC_b.leaderTitle>使徒</Idhale_Faction_NPC_b.leaderTitle>
+
+
+</LanguageData>

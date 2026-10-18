@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 砕けたロディシアン -->
+  <HAR_ZC_Item_a.label>碎裂的羅迪西昂</HAR_ZC_Item_a.label>
+  <!-- EN: ジオフォラスから生成した青い柘榴。\nゾイコールに使用することで蒼褪めた太陽を強化することができる。\n蒼褪めた太陽の段階が上がるたびに必要となるロディシアンは増える。\n\n砕けたロディシアンは蒼褪めた太陽を少し強化する。 -->
+  <HAR_ZC_Item_a.description>從地之佛拉斯生成的藍色石榴。\n當使用於糾罪者時，可以強化蒼褪的太陽。\n每當蒼褪的太陽的階段提升時，所需的羅迪西昂會增加。\n\n碎裂的羅迪西昂可以稍微強化蒼褪的太陽。</HAR_ZC_Item_a.description>
+  <!-- EN: Activate {0_label} -->
+  <HAR_ZC_Item_a.comps.CompUsable.useLabel>啟用 {0_label}</HAR_ZC_Item_a.comps.CompUsable.useLabel>
+  
+  <!-- EN: 欠けたロディシアン -->
+  <HAR_ZC_Item_b.label>缺失的羅迪西昂</HAR_ZC_Item_b.label>
+  <!-- EN: ジオフォラスから生成した青い柘榴。\nゾイコールに使用することで蒼褪めた太陽を強化することができる。\n蒼褪めた太陽の段階が上がるたびに必要となるロディシアンは増える。\n\n欠けたロディシアンは蒼褪めた太陽を強化する。 -->
+  <HAR_ZC_Item_b.description>從地之佛拉斯生成的藍色石榴。\n當使用於糾罪者時，可以強化蒼褪的太陽。\n每當蒼褪的太陽的階段提升時，所需的羅迪西昂會增加。碎裂的羅迪西昂可以強化蒼褪的太陽。</HAR_ZC_Item_b.description>
+  <!-- EN: Activate {0_label} -->
+  <HAR_ZC_Item_b.comps.CompUsable.useLabel>啟用 {0_label}</HAR_ZC_Item_b.comps.CompUsable.useLabel>
+  
+  <!-- EN: 完全なロディシアン -->
+  <HAR_ZC_Item_c.label>完整的羅迪西昂</HAR_ZC_Item_c.label>
+  <!-- EN: ジオフォラスから生成した青い柘榴。\nゾイコールに使用することで蒼褪めた太陽を強化することができる。\n蒼褪めた太陽の段階が上がるたびに必要となるロディシアンは増える。\n\n完全なロディシアンは蒼褪めた太陽をかなり強化する。 -->
+  <HAR_ZC_Item_c.description>從地之佛拉斯生成的藍色石榴。\n當使用於糾罪者時，可以強化蒼褪的太陽。\n每當蒼褪的太陽的階段提升時，所需的羅迪西昂會增加。完整的羅迪西昂可以強化蒼褪的太陽。</HAR_ZC_Item_c.description>
+  <!-- EN: Activate {0_label} -->
+  <HAR_ZC_Item_c.comps.CompUsable.useLabel>啟用 {0_label}</HAR_ZC_Item_c.comps.CompUsable.useLabel>
+  
+</LanguageData>

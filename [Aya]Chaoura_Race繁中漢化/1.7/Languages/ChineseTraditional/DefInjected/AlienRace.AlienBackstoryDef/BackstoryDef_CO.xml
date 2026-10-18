@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ■↓幼少期のバックストーリー -->
+
+  <HAR_CO_Backstory_C1.title>宇宙之子</HAR_CO_Backstory_C1.title>
+  <HAR_CO_Backstory_C1.titleShort>嬰兒</HAR_CO_Backstory_C1.titleShort>
+  <HAR_CO_Backstory_C1.description>[PAWN_nameDef]在宇宙的加護下誕生，對黑暗有很高的適應性。</HAR_CO_Backstory_C1.description>
+
+
+  <!-- ■↓成人期のバックストーリー -->
+
+  <HAR_CO_Backstory_A1.title>深淵窺視之影</HAR_CO_Backstory_A1.title>
+  <HAR_CO_Backstory_A1.titleShort>深淵</HAR_CO_Backstory_A1.titleShort>
+  <HAR_CO_Backstory_A1.description>[PAWN_nameDef]能夠發揮出混沌靈的全部力量，特別是在戰斗方面。</HAR_CO_Backstory_A1.description>
+
+<!-- EN: [PAWN_nameDef]は大命を胸に秘めています。使命を果たすためならば命も厭わないでしょう。 -->
+  <HAR_CO_UB_Backstory_A1.description>[PAWN_nameDef]懷抱著偉大的使命。為了完成使命，即使犧牲性命也在所不惜。</HAR_CO_UB_Backstory_A1.description>
+  <!-- EN: 白亜の殉教者 -->
+  <HAR_CO_UB_Backstory_A1.title>白堊的殉教者</HAR_CO_UB_Backstory_A1.title>
+  <!-- EN: 殉教者 -->
+  <HAR_CO_UB_Backstory_A1.titleShort>殉教者</HAR_CO_UB_Backstory_A1.titleShort>
+  
+  <!-- EN: [PAWN_nameDef]は人工種族の頂点として生を受けました。その身には多くの可能性を内包しています。 -->
+  <HAR_CO_UB_Backstory_C1.description>[PAWN_nameDef]作為人工種族的頂點而誕生，體內蘊藏著無限的可能性。</HAR_CO_UB_Backstory_C1.description>
+  <!-- EN: シンセプライム -->
+  <HAR_CO_UB_Backstory_C1.title>萬靈之長</HAR_CO_UB_Backstory_C1.title>
+  <!-- EN: 総霊 -->
+  <HAR_CO_UB_Backstory_C1.titleShort>總靈</HAR_CO_UB_Backstory_C1.titleShort>
+  
+</LanguageData>

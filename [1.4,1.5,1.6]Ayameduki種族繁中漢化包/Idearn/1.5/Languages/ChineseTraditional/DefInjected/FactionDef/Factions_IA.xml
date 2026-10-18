@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Idearn_Base_Faction.leaderTitle>領袖</Idearn_Base_Faction.leaderTitle>
+	<!--イデアーンの隠れ里-->
+	<Idearn_P_Faction.label>艾蒂安的隱居之鄉</Idearn_P_Faction.label>
+	<!--イデアーン-->
+	<Idearn_P_Faction.pawnSingular>艾蒂安</Idearn_P_Faction.pawnSingular>
+	<!--イデアーン達-->
+	<Idearn_P_Faction.pawnsPlural>艾蒂安們</Idearn_P_Faction.pawnsPlural>
+	<!--イデアーン達が集まってひっそりと暮らしている里-->
+	<Idearn_P_Faction.description>艾蒂安們聚集在一起平和的隱居著的聚落。</Idearn_P_Faction.description>
+
+</LanguageData>

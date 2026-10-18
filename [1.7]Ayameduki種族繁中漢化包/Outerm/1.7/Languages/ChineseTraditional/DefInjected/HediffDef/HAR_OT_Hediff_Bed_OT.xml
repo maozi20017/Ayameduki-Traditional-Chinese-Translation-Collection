@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 愛欲貪る雌鳥 -->
+  <HAR_OT_Hediff_Bed_a.label>貪求愛慾的雌鳥</HAR_OT_Hediff_Bed_a.label>
+  <!-- EN: アウタームが肉欲を得た状態。\n肉体が活性化し一時的に身体能力が高まっている。\n\nアウタームは遺伝子的に性欲が強いため、一度や二度では満足しない。\n獲物を喰らう肉食獣のように貪り、ただひたすらに快楽を求め続ける。\n\nこの状態は半日で終了する。 -->
+  <HAR_OT_Hediff_Bed_a.description>域外者獲得肉慾的狀態。\n肉體被活化，身體能力暫時提升。\n\n域外者在基因上性慾極強，一次兩次根本無法滿足。\n如同捕食獵物的肉食野獸般貪婪，只是一味地持續追求快感。\n\n此狀態將在半天後結束。</HAR_OT_Hediff_Bed_a.description>
+  
+  <!-- EN: 悦楽浸る獲物 -->
+  <HAR_OT_Hediff_Bed_b.label>沉溺悅樂的獵物</HAR_OT_Hediff_Bed_b.label>
+  <!-- EN: アウタームに性的に貪られた状態。\n\n相手の体力など微塵も気にしないアウタームの攻めは相手の理性をボロボロに崩す。\n彼女たちを伴侶にする者は相応の覚悟が求められるだろう。\n\nこの状態は数時間で完治する。 -->
+  <HAR_OT_Hediff_Bed_b.description>被域外者縱情貪食的狀態。\n\n域外者絲毫不顧及對方的體力，其猛烈的攻勢將對方的理性摧毀得支離破碎。\n將她們作為伴侶的人，想必需要做好相應的覺悟吧。\n\n此狀態將在數小時後完全恢復。</HAR_OT_Hediff_Bed_b.description>
+  
+</LanguageData>

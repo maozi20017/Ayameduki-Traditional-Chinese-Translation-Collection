@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ■メタリックアーマー -->
+
+  <HAR_SK_A_a.label>黑鋼盔甲(亞人獸娘)</HAR_SK_A_a.label>
+  <HAR_SK_A_a.description>亞人獸娘專用的盔甲，最初是為了在嚴峻環境下工作而製作的防護服。因此作為盔甲來說，物理防禦性能不是很強，但是對熱有極高的耐性。</HAR_SK_A_a.description>
+
+
+  <!-- ■妖狐の着物 -->
+
+  <HAR_SK_A_b.label>妖狐的衣物(亞人獸娘)</HAR_SK_A_b.label>
+  <HAR_SK_A_b.description>亞人獸娘・母夜叉的專用衣物。據說作為亞人工業質量最高的物品，在部分衣物愛好者之間大受歡迎。</HAR_SK_A_b.description>
+
+
+</LanguageData>

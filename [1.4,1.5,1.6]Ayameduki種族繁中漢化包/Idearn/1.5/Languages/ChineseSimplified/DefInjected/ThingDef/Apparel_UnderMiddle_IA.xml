@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!--メカネウェアA-->
+	<HAR_IA_tops_a.label>機械服A款(艾蒂安)</HAR_IA_tops_a.label>
+	<!--イデアーン専用装備、基本性能が高い彼女達にとって服の重要性は高くなく必要最低限に留められている。-->
+	<HAR_IA_tops_a.description>艾蒂安的專用裝備，對於基礎性能很高的她們來說，衣服不是很重要，只保留了最低限度的穿著。</HAR_IA_tops_a.description>
+
+	<!--メカネウェアB-->
+	<HAR_IA_tops_b.label>機械服B款(艾蒂安)</HAR_IA_tops_b.label>
+	<!--イデアーン専用装備、基本性能が高い彼女達にとって服の重要性は高くなく必要最低限に留められている。-->
+	<HAR_IA_tops_b.description>艾蒂安的專用裝備，對於基礎性能很高的她們來說，衣服不是很重要，只保留了最低限度的穿著。</HAR_IA_tops_b.description>
+
+	<!--メカネウェアC-->
+	<HAR_IA_tops_c.label>機械服C款(艾蒂安)</HAR_IA_tops_c.label>
+	<!--イデアーン専用装備、基本性能が高い彼女達にとって服の重要性は高くなく必要最低限に留められている。-->
+	<HAR_IA_tops_c.description>艾蒂安的專用裝備，對於基礎性能很高的她們來說，衣服不是很重要，只保留了最低限度的穿著。</HAR_IA_tops_c.description>
+
+</LanguageData>

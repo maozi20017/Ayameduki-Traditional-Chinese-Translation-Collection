@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 死体を捧げる -->
+  <HAR_OT_WorkGiver_Devote.label>獻上屍體</HAR_OT_WorkGiver_Devote.label>
+  <!-- EN: 捧げている -->
+  <HAR_OT_WorkGiver_Devote.gerund>正在獻上</HAR_OT_WorkGiver_Devote.gerund>
+  <!-- EN: 捧げる -->
+  <HAR_OT_WorkGiver_Devote.verb>獻上</HAR_OT_WorkGiver_Devote.verb>
+  
+</LanguageData>

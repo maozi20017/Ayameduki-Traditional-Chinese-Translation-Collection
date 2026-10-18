@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <!--ミュステリオン-->
+	<HAR_IA_Things_Mysterion.label>洗禮</HAR_IA_Things_Mysterion.label>
+    <!--研究により再現したイデアーンを製造するための機械。かつて創造主の手を離れ大惨事を引き起こしたという曰く付きの品。-->
+	<HAR_IA_Things_Mysterion.description>透過研究而再現的製造艾蒂安的機械。據說這機器曾經因離開創造主之手而造成重大災難。</HAR_IA_Things_Mysterion.description>
+
+</LanguageData>

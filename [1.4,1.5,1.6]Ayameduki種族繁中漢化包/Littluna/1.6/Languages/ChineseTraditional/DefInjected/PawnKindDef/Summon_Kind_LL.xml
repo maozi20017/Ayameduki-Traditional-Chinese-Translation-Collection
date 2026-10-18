@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_LL_M_a_Kind.label>空天之海</HAR_LL_M_a_Kind.label>
+  <HAR_LL_M_a_Kind.labelPlural>空天之海們</HAR_LL_M_a_Kind.labelPlural>
+  <HAR_LL_M_a_Kind.labelMale>男性 空天之海</HAR_LL_M_a_Kind.labelMale>
+  <HAR_LL_M_a_Kind.labelMalePlural>男性 空天之海們</HAR_LL_M_a_Kind.labelMalePlural>
+  <HAR_LL_M_a_Kind.labelFemale>女性 空天之海</HAR_LL_M_a_Kind.labelFemale>
+  <HAR_LL_M_a_Kind.labelFemalePlural>女性 空天之海們</HAR_LL_M_a_Kind.labelFemalePlural>
+
+  <HAR_LL_M_z_Kind.label>偽神族・琉刻</HAR_LL_M_z_Kind.label>
+  <HAR_LL_M_z_Kind.labelPlural>偽神族・琉刻們</HAR_LL_M_z_Kind.labelPlural>
+  <HAR_LL_M_z_Kind.labelMale>男性 偽神族・琉刻</HAR_LL_M_z_Kind.labelMale>
+  <HAR_LL_M_z_Kind.labelMalePlural>男性 偽神族・琉刻們</HAR_LL_M_z_Kind.labelMalePlural>
+  <HAR_LL_M_z_Kind.labelFemale>女性 偽神族・琉刻</HAR_LL_M_z_Kind.labelFemale>
+  <HAR_LL_M_z_Kind.labelFemalePlural>女性 偽神族・琉刻們</HAR_LL_M_z_Kind.labelFemalePlural>
+
+  <HAR_LL_M_LC_Kind.label>使徒</HAR_LL_M_LC_Kind.label>
+  <HAR_LL_M_LC_Kind.labelPlural>使徒們</HAR_LL_M_LC_Kind.labelPlural>
+  <HAR_LL_M_LC_Kind.labelMale>男性 使徒</HAR_LL_M_LC_Kind.labelMale>
+  <HAR_LL_M_LC_Kind.labelMalePlural>男性 使徒們</HAR_LL_M_LC_Kind.labelMalePlural>
+  <HAR_LL_M_LC_Kind.labelFemale>女性 使徒</HAR_LL_M_LC_Kind.labelFemale>
+  <HAR_LL_M_LC_Kind.labelFemalePlural>女性 使徒們</HAR_LL_M_LC_Kind.labelFemalePlural>
+
+</LanguageData>

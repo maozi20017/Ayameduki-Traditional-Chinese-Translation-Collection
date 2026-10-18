@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 砕けた羅迪西昂 -->
+  <HAR_ZC_Recipe_a.label>碎裂的羅迪西昂</HAR_ZC_Recipe_a.label>
+  <!-- EN: ジオフォラスから羅迪西昂を生成する。 -->
+  <HAR_ZC_Recipe_a.description>從地之佛拉斯生成羅迪西昂。</HAR_ZC_Recipe_a.description>
+  <!-- EN: 創造中 -->
+  <HAR_ZC_Recipe_a.jobString>創造中</HAR_ZC_Recipe_a.jobString>
+  
+  <!-- EN: 欠けた羅迪西昂 -->
+  <HAR_ZC_Recipe_b.label>缺失的羅迪西昂</HAR_ZC_Recipe_b.label>
+  <!-- EN: ジオフォラスから羅迪西昂を生成する。 -->
+  <HAR_ZC_Recipe_b.description>從地之佛拉斯生成羅迪西昂。</HAR_ZC_Recipe_b.description>
+  <!-- EN: 創造中 -->
+  <HAR_ZC_Recipe_b.jobString>創造中</HAR_ZC_Recipe_b.jobString>
+  
+  <!-- EN: 完全な羅迪西昂 -->
+  <HAR_ZC_Recipe_c.label>完整的羅迪西昂</HAR_ZC_Recipe_c.label>
+  <!-- EN: ジオフォラスから羅迪西昂を生成する。 -->
+  <HAR_ZC_Recipe_c.description>從地之佛拉斯生成羅迪西昂。</HAR_ZC_Recipe_c.description>
+  <!-- EN: 創造中 -->
+  <HAR_ZC_Recipe_c.jobString>創造中</HAR_ZC_Recipe_c.jobString>
+  
+</LanguageData>

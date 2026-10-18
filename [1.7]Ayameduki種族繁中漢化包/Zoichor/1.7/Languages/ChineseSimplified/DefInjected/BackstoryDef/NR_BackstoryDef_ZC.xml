@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef]は看守として大成しました。罪人たちは彼女を恐怖の象徴として見ているようです。 -->
+  <HAR_ZC_Backstory_a_A1.description>[PAWN_nameDef]作為看守已經有所成就。罪人們似乎將她視為恐怖的象徵。</HAR_ZC_Backstory_a_A1.description>
+  <!-- EN: 悪魔の看守長 -->
+  <HAR_ZC_Backstory_a_A1.title>惡魔看守長</HAR_ZC_Backstory_a_A1.title>
+  <!-- EN: 看守長 -->
+  <HAR_ZC_Backstory_a_A1.titleShort>看守長</HAR_ZC_Backstory_a_A1.titleShort>
+  
+  <!-- EN: [PAWN_nameDef]は監獄惑星梅拉芙で生まれ育ちました。看守として必要な技術と知識を学んでいます。 -->
+  <HAR_ZC_Backstory_a_C1.description>[PAWN_nameDef] 在監獄星球梅拉芙上出生並成長。她正在學習作為看守所需的技術與知識。</HAR_ZC_Backstory_a_C1.description>
+  <!-- EN: 梅拉芙の看守 -->
+  <HAR_ZC_Backstory_a_C1.title>梅拉芙的看守</HAR_ZC_Backstory_a_C1.title>
+  <!-- EN: 看守 -->
+  <HAR_ZC_Backstory_a_C1.titleShort>看守</HAR_ZC_Backstory_a_C1.titleShort>
+  
+</LanguageData>

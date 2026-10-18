@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 深淵の門 -->
+  <HAR_CO_UB_Research_A.label>深淵之門</HAR_CO_UB_Research_A.label>
+  <!-- EN: 白亜の殉教者と出会う為の研究。 -->
+  <HAR_CO_UB_Research_A.description>為了與白堊的殉道者相遇而進行研究。</HAR_CO_UB_Research_A.description>
+  
+  <!-- EN: 秘匿された盟約 -->
+  <HAR_CO_UB_Research_B.label>被秘藏的盟約</HAR_CO_UB_Research_B.label>
+  <!-- EN: 白亜の殉教者と出会う為の研究。 -->
+  <HAR_CO_UB_Research_B.description>為了與白堊的殉道者相遇而進行研究。</HAR_CO_UB_Research_B.description>
+  
+  <!-- EN: 看守との交渉 -->
+  <HAR_CO_UB_Research_C.label>與看守的交涉</HAR_CO_UB_Research_C.label>
+  <!-- EN: 白亜の殉教者と出会う為の研究。 -->
+  <HAR_CO_UB_Research_C.description>為了與白堊的殉道者相遇而進行研究。</HAR_CO_UB_Research_C.description>
+  
+  <!-- EN: 霊長種族 -->
+  <HAR_CO_UB_Research_D.label>靈長種族</HAR_CO_UB_Research_D.label>
+  <!-- EN: 白亜の殉教者と出会う為の研究。 -->
+  <HAR_CO_UB_Research_D.description>為了與白堊的殉道者相遇而進行研究。</HAR_CO_UB_Research_D.description>
+  
+  <!-- EN: 盟約の果て -->
+  <HAR_CO_UB_Research_E.label>盟約的終焉</HAR_CO_UB_Research_E.label>
+  <!-- EN: 白亜の殉教者と出会う為の研究。 -->
+  <HAR_CO_UB_Research_E.description>為了與白堊的殉道者相遇而進行研究。</HAR_CO_UB_Research_E.description>
+  <!-- EN: あるゾイコールが静かに語る。\n「激しい戦いになるでしょう\n　持てる力を尽くしてください」 -->
+  <HAR_CO_UB_Research_E.discoveredLetterText>某位糾罪者靜靜地說道：\n「將會是一場激烈的戰鬥\n　請竭盡你所擁有的力量吧」</HAR_CO_UB_Research_E.discoveredLetterText>
+  <!-- EN: 証書 -->
+  <HAR_CO_UB_Research_E.discoveredLetterTitle>證書</HAR_CO_UB_Research_E.discoveredLetterTitle>
+  
+</LanguageData>

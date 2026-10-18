@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: adult -->
+  <Aya_Race_HumanlikeAdult_ZC.label>成人</Aya_Race_HumanlikeAdult_ZC.label>
+  
+  <!-- EN: baby -->
+  <Aya_Race_HumanlikeBaby_ZC.label>嬰兒</Aya_Race_HumanlikeBaby_ZC.label>
+  <!-- EN: Mood represents how happy or stressed someone is. Babies with low mood are more likely to cry, while babies with a high mood are more likely to giggle. -->
+  <Aya_Race_HumanlikeBaby_ZC.customMoodTipString>情緒代表了某人有多開心或多麼有壓力。情緒低落的嬰兒更容易哭泣，而情緒高漲的嬰兒則更容易咯咯笑。</Aya_Race_HumanlikeBaby_ZC.customMoodTipString>
+  
+  <!-- EN: child -->
+  <Aya_Race_HumanlikeChild_ZC.label>兒童</Aya_Race_HumanlikeChild_ZC.label>
+  
+  <!-- EN: preteen -->
+  <Aya_Race_HumanlikePreTeenager_ZC.label>少年</Aya_Race_HumanlikePreTeenager_ZC.label>
+  
+  <!-- EN: teenager -->
+  <Aya_Race_HumanlikeTeenager_ZC.label>青少年</Aya_Race_HumanlikeTeenager_ZC.label>
+  <!-- EN: teenage -->
+  <Aya_Race_HumanlikeTeenager_ZC.adjective>青少年</Aya_Race_HumanlikeTeenager_ZC.adjective>
+  
+</LanguageData>

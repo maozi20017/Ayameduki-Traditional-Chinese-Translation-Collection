@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_Neclose_Player.label>牧菌妖姬殖民者</HAR_Neclose_Player.label>
+  <HAR_Neclose_Player.labelPlural>牧菌妖姬殖民者們</HAR_Neclose_Player.labelPlural>
+  <HAR_Neclose_Player.labelMale>男性 牧菌妖姬殖民者</HAR_Neclose_Player.labelMale>
+  <HAR_Neclose_Player.labelMalePlural>男性 牧菌妖姬殖民者們</HAR_Neclose_Player.labelMalePlural>
+  <HAR_Neclose_Player.labelFemale>女性 牧菌妖姬殖民者</HAR_Neclose_Player.labelFemale>
+  <HAR_Neclose_Player.labelFemalePlural>女性 牧菌妖姬殖民者們</HAR_Neclose_Player.labelFemalePlural>
+
+
+  <!-- ■NPC -->
+
+  <HAR_Neclose_NPC_Leader.label>牧菌妖姬領袖</HAR_Neclose_NPC_Leader.label>
+  <HAR_Neclose_NPC_Leader.labelPlural>牧菌妖姬領袖們</HAR_Neclose_NPC_Leader.labelPlural>
+  <HAR_Neclose_NPC_Leader.labelMale>男性 牧菌妖姬領袖</HAR_Neclose_NPC_Leader.labelMale>
+  <HAR_Neclose_NPC_Leader.labelMalePlural>男性 牧菌妖姬領袖們</HAR_Neclose_NPC_Leader.labelMalePlural>
+  <HAR_Neclose_NPC_Leader.labelFemale>女性 牧菌妖姬領袖</HAR_Neclose_NPC_Leader.labelFemale>
+  <HAR_Neclose_NPC_Leader.labelFemalePlural>女性 牧菌妖姬領袖們</HAR_Neclose_NPC_Leader.labelFemalePlural>
+
+  <HAR_Neclose_NPC_Soldier.label>牧菌妖姬戰士</HAR_Neclose_NPC_Soldier.label>
+  <HAR_Neclose_NPC_Soldier.labelPlural>牧菌妖姬戰士們</HAR_Neclose_NPC_Soldier.labelPlural>
+  <HAR_Neclose_NPC_Soldier.labelMale>男性 牧菌妖姬戰士</HAR_Neclose_NPC_Soldier.labelMale>
+  <HAR_Neclose_NPC_Soldier.labelMalePlural>男性 牧菌妖姬戰士們</HAR_Neclose_NPC_Soldier.labelMalePlural>
+  <HAR_Neclose_NPC_Soldier.labelFemale>女性 牧菌妖姬戰士</HAR_Neclose_NPC_Soldier.labelFemale>
+  <HAR_Neclose_NPC_Soldier.labelFemalePlural>女性 牧菌妖姬戰士們</HAR_Neclose_NPC_Soldier.labelFemalePlural>
+
+  <HAR_Neclose_NPC_Trader.label>牧菌妖姬商人</HAR_Neclose_NPC_Trader.label>
+  <HAR_Neclose_NPC_Trader.labelPlural>牧菌妖姬商人們</HAR_Neclose_NPC_Trader.labelPlural>
+  <HAR_Neclose_NPC_Trader.labelMale>男性 牧菌妖姬商人</HAR_Neclose_NPC_Trader.labelMale>
+  <HAR_Neclose_NPC_Trader.labelMalePlural>男性 牧菌妖姬商人們</HAR_Neclose_NPC_Trader.labelMalePlural>
+  <HAR_Neclose_NPC_Trader.labelFemale>女性 牧菌妖姬商人</HAR_Neclose_NPC_Trader.labelFemale>
+  <HAR_Neclose_NPC_Trader.labelFemalePlural>女性 牧菌妖姬商人們</HAR_Neclose_NPC_Trader.labelFemalePlural>
+
+  <HAR_Neclose_NPC_Resident.label>牧菌妖姬居民</HAR_Neclose_NPC_Resident.label>
+  <HAR_Neclose_NPC_Resident.labelPlural>牧菌妖姬居民們</HAR_Neclose_NPC_Resident.labelPlural>
+  <HAR_Neclose_NPC_Resident.labelMale>男性 牧菌妖姬居民</HAR_Neclose_NPC_Resident.labelMale>
+  <HAR_Neclose_NPC_Resident.labelMalePlural>男性 牧菌妖姬居民們</HAR_Neclose_NPC_Resident.labelMalePlural>
+  <HAR_Neclose_NPC_Resident.labelFemale>女性 牧菌妖姬居民</HAR_Neclose_NPC_Resident.labelFemale>
+  <HAR_Neclose_NPC_Resident.labelFemalePlural>女性 牧菌妖姬居民們</HAR_Neclose_NPC_Resident.labelFemalePlural>
+
+
+</LanguageData>

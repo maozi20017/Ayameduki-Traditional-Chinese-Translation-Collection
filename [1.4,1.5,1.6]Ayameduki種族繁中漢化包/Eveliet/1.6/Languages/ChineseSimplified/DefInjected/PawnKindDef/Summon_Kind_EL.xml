@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: メア -->
+  <HAR_EL_Monster_Kind_a.label>梅亞</HAR_EL_Monster_Kind_a.label>
+  <!-- EN: ぬいぐるみ -->
+  <HAR_EL_Monster_Kind_a.labelFemale>玩偶</HAR_EL_Monster_Kind_a.labelFemale>
+  <HAR_EL_Monster_Kind_a.labelFemalePlural>玩偶們</HAR_EL_Monster_Kind_a.labelFemalePlural>
+  <!-- EN: ぬいぐるみ -->
+  <HAR_EL_Monster_Kind_a.labelMale>玩偶</HAR_EL_Monster_Kind_a.labelMale>
+  <HAR_EL_Monster_Kind_a.labelMalePlural>玩偶們</HAR_EL_Monster_Kind_a.labelMalePlural>
+  <HAR_EL_Monster_Kind_a.labelPlural>梅亞們</HAR_EL_Monster_Kind_a.labelPlural>
+  
+  <!-- EN: ルカ -->
+  <HAR_EL_Monster_Kind_b.label>露卡</HAR_EL_Monster_Kind_b.label>
+  <!-- EN: ぬいぐるみ -->
+  <HAR_EL_Monster_Kind_b.labelFemale>玩偶</HAR_EL_Monster_Kind_b.labelFemale>
+  <HAR_EL_Monster_Kind_b.labelFemalePlural>玩偶們</HAR_EL_Monster_Kind_b.labelFemalePlural>
+  <!-- EN: ぬいぐるみ -->
+  <HAR_EL_Monster_Kind_b.labelMale>玩偶</HAR_EL_Monster_Kind_b.labelMale>
+  <HAR_EL_Monster_Kind_b.labelMalePlural>玩偶們</HAR_EL_Monster_Kind_b.labelMalePlural>
+  <HAR_EL_Monster_Kind_b.labelPlural>露卡們</HAR_EL_Monster_Kind_b.labelPlural>
+  
+  <!-- EN: キラ -->
+  <HAR_EL_Monster_Kind_c.label>琪拉</HAR_EL_Monster_Kind_c.label>
+  <!-- EN: ぬいぐるみ -->
+  <HAR_EL_Monster_Kind_c.labelFemale>玩偶</HAR_EL_Monster_Kind_c.labelFemale>
+  <HAR_EL_Monster_Kind_c.labelFemalePlural>玩偶們</HAR_EL_Monster_Kind_c.labelFemalePlural>
+  <!-- EN: ぬいぐるみ -->
+  <HAR_EL_Monster_Kind_c.labelMale>玩偶</HAR_EL_Monster_Kind_c.labelMale>
+  <HAR_EL_Monster_Kind_c.labelMalePlural>玩偶們</HAR_EL_Monster_Kind_c.labelMalePlural>
+  <HAR_EL_Monster_Kind_c.labelPlural>琪拉們</HAR_EL_Monster_Kind_c.labelPlural>
+  
+  <!-- EN: ソル -->
+  <HAR_EL_Monster_Kind_d.label>TODO</HAR_EL_Monster_Kind_d.label>
+  <!-- EN: ぬいぐるみ -->
+  <HAR_EL_Monster_Kind_d.labelFemale>TODO</HAR_EL_Monster_Kind_d.labelFemale>
+  <!-- EN: ぬいぐるみ -->
+  <HAR_EL_Monster_Kind_d.labelMale>TODO</HAR_EL_Monster_Kind_d.labelMale>
+  
+  <!-- EN: ユウ -->
+  <HAR_EL_Monster_Kind_e.label>TODO</HAR_EL_Monster_Kind_e.label>
+  <!-- EN: ぬいぐるみ -->
+  <HAR_EL_Monster_Kind_e.labelFemale>TODO</HAR_EL_Monster_Kind_e.labelFemale>
+  <!-- EN: ぬいぐるみ -->
+  <HAR_EL_Monster_Kind_e.labelMale>TODO</HAR_EL_Monster_Kind_e.labelMale>
+  
+  <!-- EN: ルナ -->
+  <HAR_EL_Monster_Kind_f.label>TODO</HAR_EL_Monster_Kind_f.label>
+  <!-- EN: ぬいぐるみ -->
+  <HAR_EL_Monster_Kind_f.labelFemale>TODO</HAR_EL_Monster_Kind_f.labelFemale>
+  <!-- EN: ぬいぐるみ -->
+  <HAR_EL_Monster_Kind_f.labelMale>TODO</HAR_EL_Monster_Kind_f.labelMale>
+  
+</LanguageData>

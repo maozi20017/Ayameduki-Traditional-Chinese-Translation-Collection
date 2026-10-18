@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 人工種族 -->
+  <Outerm_Artificial.label>人工種族(域外者)</Outerm_Artificial.label>
+  <!-- EN: アウタームは起源が不明の人工種族です。\n他の人工種族と同じく時間経過でゆっくりと強くなっていきます。\n\nどのような仕組みで強くなっているのかは現状解明されておらず、\n一説には高次の力が働いているとも言われています。\n\n約1年毎にLvが1上昇する。(Lv上限は10) -->
+  <Outerm_Artificial.description>域外者是一種起源不明的人工種族。\n和其他人工種族相同，會隨著時間經過而增強力量。\n\n目前尚未解明是透過什麼機制增強的，\n有一種說法認為是受到更高次元力量的作用。\n\n大約1年提升1級(上限為10級)。</Outerm_Artificial.description>
+  <!-- EN: Lv1 -->
+  <Outerm_Artificial.stages.Lv1.label>Lv1</Outerm_Artificial.stages.Lv1.label>
+  <!-- EN: Lv2 -->
+  <Outerm_Artificial.stages.Lv2.label>Lv2</Outerm_Artificial.stages.Lv2.label>
+  <!-- EN: Lv3 -->
+  <Outerm_Artificial.stages.Lv3.label>Lv3</Outerm_Artificial.stages.Lv3.label>
+  <!-- EN: Lv4 -->
+  <Outerm_Artificial.stages.Lv4.label>Lv4</Outerm_Artificial.stages.Lv4.label>
+  <!-- EN: Lv5 -->
+  <Outerm_Artificial.stages.Lv5.label>Lv5</Outerm_Artificial.stages.Lv5.label>
+  <!-- EN: Lv6 -->
+  <Outerm_Artificial.stages.Lv6.label>Lv6</Outerm_Artificial.stages.Lv6.label>
+  <!-- EN: Lv7 -->
+  <Outerm_Artificial.stages.Lv7.label>Lv7</Outerm_Artificial.stages.Lv7.label>
+  <!-- EN: Lv8 -->
+  <Outerm_Artificial.stages.Lv8.label>Lv8</Outerm_Artificial.stages.Lv8.label>
+  <!-- EN: Lv9 -->
+  <Outerm_Artificial.stages.Lv9.label>Lv9</Outerm_Artificial.stages.Lv9.label>
+  <!-- EN: Lv10 -->
+  <Outerm_Artificial.stages.Lv10.label>Lv10</Outerm_Artificial.stages.Lv10.label>
+  
+</LanguageData>

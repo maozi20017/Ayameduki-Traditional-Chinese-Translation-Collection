@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ドレイクウェアA -->
+
+  <HAR_SA_Tops_a.label>龍之內衣A(龍姬)</HAR_SA_Tops_a.label>
+  <HAR_SA_Tops_a.description>龍姬專用的內衣。因為龍姬的身體能力很高，所以只起到遮羞功能。</HAR_SA_Tops_a.description>
+
+
+  <!-- ドレイクウェアB -->
+
+  <HAR_SA_Tops_b.label>龍之內衣B(龍姬)</HAR_SA_Tops_b.label>
+  <HAR_SA_Tops_b.description>龍姬專用的內衣。因為龍姬的身體能力很高，所以只起到遮羞功能。</HAR_SA_Tops_b.description>
+
+
+  <!-- ドレイクウェアC -->
+
+  <HAR_SA_Tops_c.label>龍之內衣C(龍姬)</HAR_SA_Tops_c.label>
+  <HAR_SA_Tops_c.description>龍姬專用的內衣。因為龍姬的身體能力很高，所以只起到遮羞功能。</HAR_SA_Tops_c.description>
+
+  <!-- ■シェメシュドレス -->
+
+  <HAR_SA_Tops_d.label>謝梅什連衣裙(龍姬)</HAR_SA_Tops_d.label>
+  <HAR_SA_Tops_d.description>龍姬・赫雷勒夫專用的禮服，也許是因為其身體能力就很高，所以只有作為衣服的基本功能。</HAR_SA_Tops_d.description>
+
+</LanguageData>

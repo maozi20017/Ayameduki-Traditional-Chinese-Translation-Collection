@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <!--イデアーン・ラケス-->
+	<HAR_Idearn_Laches_a.label>艾蒂安・拉凱斯</HAR_Idearn_Laches_a.label><!--■ゲーム上の名前 -->
+    <!--イデアーンは人工種族の同胞ということと断片的な技術以外記録に残されていない謎の多い種族です。\n幽体と思われていたイドヘールの特性を科学的に再現した技術が導入されており、極限的環境でも活動が可能になっています。\n\n１シーズンの一回『アルケーカードリッジ(ドラック品)』を交換する必要があり、できなければ活動停止し死亡してしまいます。\n\nラケスはイデアーンの基礎型らしく基本性能しか持っていないようです、しかしそれでも人間より遥かに優れているといえるでしょう。-->
+	<HAR_Idearn_Laches_a.description>艾蒂安是一支神秘的種族，除了她們是人工種族的同胞和她們零散的技術外，沒有其他記錄。\n\n使用科學技術再現了幽靈般的幽靈姬的特性，即使在極端環境下也能活動。\n\n每季需要更換1次『始基卡匣(藥品)』，否則會因為身體機能停止而死亡。\n\n艾蒂安・拉凱斯似乎是艾蒂安的基礎型態，只有基本的性能，但即便如此，其能力還是遠勝於人類。</HAR_Idearn_Laches_a.description>
+	<HAR_Idearn_Laches_a.alienRace.generalSettings.alienPartGenerator.bodyAddons.0.name>外殻</HAR_Idearn_Laches_a.alienRace.generalSettings.alienPartGenerator.bodyAddons.0.name>
+	<HAR_Idearn_Laches_a.alienRace.generalSettings.alienPartGenerator.bodyAddons.1.name>外殻</HAR_Idearn_Laches_a.alienRace.generalSettings.alienPartGenerator.bodyAddons.1.name>
+	<!--left fist-->
+	<HAR_Idearn_Laches_a.tools.0.label>左拳</HAR_Idearn_Laches_a.tools.0.label>
+	<!--right fist-->
+	<HAR_Idearn_Laches_a.tools.1.label>右拳</HAR_Idearn_Laches_a.tools.1.label>
+
+</LanguageData>

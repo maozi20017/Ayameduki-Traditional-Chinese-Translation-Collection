@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_M_Kind_a.label>密特拉天使(夜魔)</HAR_M_Kind_a.label>
+  <HAR_M_Kind_a.labelPlural>密特拉天使(夜魔)們</HAR_M_Kind_a.labelPlural>
+  <HAR_M_Kind_a.labelMale>密特拉天使</HAR_M_Kind_a.labelMale>
+  <HAR_M_Kind_a.labelMalePlural>密特拉天使們</HAR_M_Kind_a.labelMalePlural>
+  <HAR_M_Kind_a.labelFemale>密特拉天使</HAR_M_Kind_a.labelFemale>
+  <HAR_M_Kind_a.labelFemalePlural>密特拉天使們</HAR_M_Kind_a.labelFemalePlural>
+
+  <HAR_M_Kind_NPC_a.label>密特拉天使(夜魔)</HAR_M_Kind_NPC_a.label>
+  <HAR_M_Kind_NPC_a.labelPlural>密特拉天使(夜魔)們</HAR_M_Kind_NPC_a.labelPlural>
+  <HAR_M_Kind_NPC_a.labelMale>密特拉天使</HAR_M_Kind_NPC_a.labelMale>
+  <HAR_M_Kind_NPC_a.labelMalePlural>密特拉天使們</HAR_M_Kind_NPC_a.labelMalePlural>
+  <HAR_M_Kind_NPC_a.labelFemale>密特拉天使</HAR_M_Kind_NPC_a.labelFemale>
+  <HAR_M_Kind_NPC_a.labelFemalePlural>密特拉天使們</HAR_M_Kind_NPC_a.labelFemalePlural>
+
+  <HAR_M_Kind_b.label>密特拉天使(人魚姬)</HAR_M_Kind_b.label>
+  <HAR_M_Kind_b.labelPlural>密特拉天使(人魚姬)們</HAR_M_Kind_b.labelPlural>
+  <HAR_M_Kind_b.labelMale>密特拉天使</HAR_M_Kind_b.labelMale>
+  <HAR_M_Kind_b.labelMalePlural>密特拉天使們</HAR_M_Kind_b.labelMalePlural>
+  <HAR_M_Kind_b.labelFemale>密特拉天使</HAR_M_Kind_b.labelFemale>
+  <HAR_M_Kind_b.labelFemalePlural>密特拉天使們</HAR_M_Kind_b.labelFemalePlural>
+
+  <HAR_M_Kind_NPC_b.label>密特拉天使(人魚姬)</HAR_M_Kind_NPC_b.label>
+  <HAR_M_Kind_NPC_b.labelPlural>密特拉天使(人魚姬)們</HAR_M_Kind_NPC_b.labelPlural>
+  <HAR_M_Kind_NPC_b.labelMale>密特拉天使</HAR_M_Kind_NPC_b.labelMale>
+  <HAR_M_Kind_NPC_b.labelMalePlural>密特拉天使們</HAR_M_Kind_NPC_b.labelMalePlural>
+  <HAR_M_Kind_NPC_b.labelFemale>密特拉天使</HAR_M_Kind_NPC_b.labelFemale>
+  <HAR_M_Kind_NPC_b.labelFemalePlural>密特拉天使們</HAR_M_Kind_NPC_b.labelFemalePlural>
+
+  <HAR_M_Kind_c.label>密特拉天使(亞人獸娘)</HAR_M_Kind_c.label>
+  <HAR_M_Kind_c.labelPlural>密特拉天使(亞人獸娘)們</HAR_M_Kind_c.labelPlural>
+  <HAR_M_Kind_c.labelMale>密特拉天使</HAR_M_Kind_c.labelMale>
+  <HAR_M_Kind_c.labelMalePlural>密特拉天使們</HAR_M_Kind_c.labelMalePlural>
+  <HAR_M_Kind_c.labelFemale>密特拉天使</HAR_M_Kind_c.labelFemale>
+  <HAR_M_Kind_c.labelFemalePlural>密特拉天使們</HAR_M_Kind_c.labelFemalePlural>
+
+  <HAR_M_Kind_NPC_c.label>密特拉天使(亞人獸娘)</HAR_M_Kind_NPC_c.label>
+  <HAR_M_Kind_NPC_c.labelPlural>密特拉天使(亞人獸娘)們</HAR_M_Kind_NPC_c.labelPlural>
+  <HAR_M_Kind_NPC_c.labelMale>密特拉天使</HAR_M_Kind_NPC_c.labelMale>
+  <HAR_M_Kind_NPC_c.labelMalePlural>密特拉天使們</HAR_M_Kind_NPC_c.labelMalePlural>
+  <HAR_M_Kind_NPC_c.labelFemale>密特拉天使</HAR_M_Kind_NPC_c.labelFemale>
+  <HAR_M_Kind_NPC_c.labelFemalePlural>密特拉天使們</HAR_M_Kind_NPC_c.labelFemalePlural>
+
+  <HAR_M_Kind_d.label>密特拉天使(牧菌妖姬)</HAR_M_Kind_d.label>
+  <HAR_M_Kind_d.labelPlural>密特拉天使(牧菌妖姬)們</HAR_M_Kind_d.labelPlural>
+  <HAR_M_Kind_d.labelMale>密特拉天使</HAR_M_Kind_d.labelMale>
+  <HAR_M_Kind_d.labelMalePlural>密特拉天使們</HAR_M_Kind_d.labelMalePlural>
+  <HAR_M_Kind_d.labelFemale>密特拉天使</HAR_M_Kind_d.labelFemale>
+  <HAR_M_Kind_d.labelFemalePlural>密特拉天使們</HAR_M_Kind_d.labelFemalePlural>
+
+  <HAR_M_Kind_NPC_d.label>密特拉天使(牧菌妖姬)</HAR_M_Kind_NPC_d.label>
+  <HAR_M_Kind_NPC_d.labelPlural>密特拉天使(牧菌妖姬)們</HAR_M_Kind_NPC_d.labelPlural>
+  <HAR_M_Kind_NPC_d.labelMale>密特拉天使</HAR_M_Kind_NPC_d.labelMale>
+  <HAR_M_Kind_NPC_d.labelMalePlural>密特拉天使們</HAR_M_Kind_NPC_d.labelMalePlural>
+  <HAR_M_Kind_NPC_d.labelFemale>密特拉天使</HAR_M_Kind_NPC_d.labelFemale>
+  <HAR_M_Kind_NPC_d.labelFemalePlural>密特拉天使們</HAR_M_Kind_NPC_d.labelFemalePlural>
+
+  <HAR_M_Kind_e.label>密特拉天使(龍姬)</HAR_M_Kind_e.label>
+  <HAR_M_Kind_e.labelPlural>密特拉天使(龍姬)們</HAR_M_Kind_e.labelPlural>
+  <HAR_M_Kind_e.labelMale>密特拉天使</HAR_M_Kind_e.labelMale>
+  <HAR_M_Kind_e.labelMalePlural>密特拉天使們</HAR_M_Kind_e.labelMalePlural>
+  <HAR_M_Kind_e.labelFemale>密特拉天使</HAR_M_Kind_e.labelFemale>
+  <HAR_M_Kind_e.labelFemalePlural>密特拉天使們</HAR_M_Kind_e.labelFemalePlural>
+
+  <HAR_M_Kind_NPC_e.label>密特拉天使(龍姬)</HAR_M_Kind_NPC_e.label>
+  <HAR_M_Kind_NPC_e.labelPlural>密特拉天使(龍姬)們</HAR_M_Kind_NPC_e.labelPlural>
+  <HAR_M_Kind_NPC_e.labelMale>密特拉天使</HAR_M_Kind_NPC_e.labelMale>
+  <HAR_M_Kind_NPC_e.labelMalePlural>密特拉天使們</HAR_M_Kind_NPC_e.labelMalePlural>
+  <HAR_M_Kind_NPC_e.labelFemale>密特拉天使</HAR_M_Kind_NPC_e.labelFemale>
+  <HAR_M_Kind_NPC_e.labelFemalePlural>密特拉天使們</HAR_M_Kind_NPC_e.labelFemalePlural>
+
+
+</LanguageData>

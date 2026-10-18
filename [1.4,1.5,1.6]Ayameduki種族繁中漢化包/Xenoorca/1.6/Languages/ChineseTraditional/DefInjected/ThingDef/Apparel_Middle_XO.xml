@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ■オルキヌスアーマー -->
+
+  <HAR_XO_AM_a.label>殺人鯨盔甲(人魚姬)</HAR_XO_AM_a.label>
+  <HAR_XO_AM_a.description>殺人鯨旅團的團員配備的盔甲，能夠有效抵禦攻擊，但是犧牲了速度，且難以應付高溫。曾經是在創造主的麾下擔任戰鬥人員時穿的戰鬥服。</HAR_XO_AM_a.description>
+
+
+  <!-- ■オルカアーマー -->
+
+  <HAR_XO_AM_b.label>虎鯨盔甲(人魚姬)</HAR_XO_AM_b.label>
+  <HAR_XO_AM_b.description>人魚姬迎合自己的體型製造出的鎧甲，能有效抵禦打擊和槍擊，但是難以抵擋高溫。</HAR_XO_AM_b.description>
+
+
+  <!-- ■帝國盔甲 -->
+
+  <HAR_XO_AM_c.label>帝國盔甲(人魚姬)</HAR_XO_AM_c.label>
+  <HAR_XO_AM_c.description>曾經被創造主賜予給人魚姬・海達諾亞的至高鎧甲。
+  \n\n在那鎧甲所散發的光芒之中，人們聲稱看見了
+  \n一位純潔而崇高的騎士，她昔日的模樣。</HAR_XO_AM_c.description>
+
+
+</LanguageData>

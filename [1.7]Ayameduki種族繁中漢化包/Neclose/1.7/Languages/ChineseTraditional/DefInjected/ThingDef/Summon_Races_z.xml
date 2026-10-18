@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_NC_M_y_race_NPC.label>新芽血屍</HAR_NC_M_y_race_NPC.label>
+  <HAR_NC_M_y_race_NPC.description>牧菌妖姬・虛偽之物的眷屬。由生物的屍體重新構成而成的物體。
+    \n它應該是不具有生命活動的，但是它如何移動仍然是個謎。
+    \n\n它們雖然體型小且弱小，但卻能組成群體並迅速行動。</HAR_NC_M_y_race_NPC.description>
+  <HAR_NC_M_y_race_NPC.tools.0.label>獠牙</HAR_NC_M_y_race_NPC.tools.0.label>
+
+  <HAR_NC_M_z_race_NPC.label>撕肉血屍</HAR_NC_M_z_race_NPC.label>
+  <HAR_NC_M_z_race_NPC.description>牧菌妖姬・虛偽之物的眷屬。由生物的屍體重新構成而成的物體。
+    \n它應該是不具有生命活動的，但是它如何移動仍然是個謎。
+    \n\n它們非常耐打，通常不會因為一般攻擊而死亡。</HAR_NC_M_z_race_NPC.description>
+  <HAR_NC_M_z_race_NPC.tools.0.label>左爪</HAR_NC_M_z_race_NPC.tools.0.label>
+  <HAR_NC_M_z_race_NPC.tools.1.label>右爪</HAR_NC_M_z_race_NPC.tools.1.label>
+  <HAR_NC_M_z_race_NPC.tools.2.label>獠牙</HAR_NC_M_z_race_NPC.tools.2.label>
+
+
+</LanguageData>

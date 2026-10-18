@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 淵源純化:光暈 -->
+  <Aya_CI_Hediff_x.label>淵源純化:光暈</Aya_CI_Hediff_x.label>
+  <!-- EN: 見た目や人格をそのままに作り変えられた状態。\n肉体や霊体は変化していない、しかし性能だけが向上している。\nそれは生物学的に本来あり得ないことで、もはや奇蹟や魔法の域である。\n\n効果としてLvの分だけ与えるダメージが約1.2倍になる(Lv50で10倍)。 -->
+  <Aya_CI_Hediff_x.description>外觀與人格維持原樣，卻被重新塑造的狀態。\n肉體與靈體並未產生變化，唯獨性能獲得了提升。\n這在生物學上不該成立，已達奇蹟或魔法的領域。\n\n效果為造成的傷害依照Lv提升約1.2倍（Lv50時為10倍）。</Aya_CI_Hediff_x.description>
+  
+</LanguageData>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_SK_I_M_Research_A.label>亞人工業的烹飪食譜A</HAR_SK_I_M_Research_A.label>
+  <HAR_SK_I_M_Research_A.description>學習亞人工業的烹飪食譜。</HAR_SK_I_M_Research_A.description>
+
+  <HAR_SK_I_M_Research_B.label>亞人工業的豪華烹飪食譜B</HAR_SK_I_M_Research_B.label>
+  <HAR_SK_I_M_Research_B.description>學習亞人工業的豪華烹飪食譜。</HAR_SK_I_M_Research_B.description>
+
+  <HAR_SK_I_M_Research_C.label>亞人工業的健康烹飪食譜</HAR_SK_I_M_Research_C.label>
+  <HAR_SK_I_M_Research_C.description>學習對中毒和疾病有預防和免疫作用的健康食譜。</HAR_SK_I_M_Research_C.description>
+
+  <HAR_SK_I_M_Research_D.label>亞人工業的絕密加工法</HAR_SK_I_M_Research_D.label>
+  <HAR_SK_I_M_Research_D.description>學習如何美味地加工腐爛肉和人肉的方法。</HAR_SK_I_M_Research_D.description>
+
+  <HAR_SK_I_M_Research_Medicine_A.label>亞人工業的醫療技術A</HAR_SK_I_M_Research_Medicine_A.label>
+  <HAR_SK_I_M_Research_Medicine_A.description>學習亞人工業的醫療品配方。</HAR_SK_I_M_Research_Medicine_A.description>
+
+  <HAR_SK_I_M_Research_drug_A.label>亞人工業的成癮品配方A</HAR_SK_I_M_Research_drug_A.label>
+  <HAR_SK_I_M_Research_drug_A.description>學習亞人工業的成癮品配方。</HAR_SK_I_M_Research_drug_A.description>
+
+  <HAR_SK_I_M_Research_Shop_A.label>亞人工業商店(食品店)</HAR_SK_I_M_Research_Shop_A.label>
+  <HAR_SK_I_M_Research_Shop_A.description>學習在殖民地建造亞人工業商店的技術。</HAR_SK_I_M_Research_Shop_A.description>
+
+  <HAR_SK_I_M_Research_Shop_B.label>亞人工業商店(材料店)</HAR_SK_I_M_Research_Shop_B.label>
+  <HAR_SK_I_M_Research_Shop_B.description>學習在殖民地建造亞人工業商店的技術。</HAR_SK_I_M_Research_Shop_B.description>
+
+  <HAR_SK_I_M_Research_Shop_C.label>亞人工業商店(家具店)</HAR_SK_I_M_Research_Shop_C.label>
+  <HAR_SK_I_M_Research_Shop_C.description>學習在殖民地建造亞人工業商店的技術。</HAR_SK_I_M_Research_Shop_C.description>
+
+  <HAR_SK_I_M_Research_Shop_D.label>亞人工業商店(家畜店)</HAR_SK_I_M_Research_Shop_D.label>
+  <HAR_SK_I_M_Research_Shop_D.description>學習在殖民地建造亞人工業商店的技術。</HAR_SK_I_M_Research_Shop_D.description>
+
+  <HAR_SK_I_M_Research_Shop_E.label>亞人工業商店(奴隸店)</HAR_SK_I_M_Research_Shop_E.label>
+  <HAR_SK_I_M_Research_Shop_E.description>學習在殖民地建造亞人工業商店的技術。</HAR_SK_I_M_Research_Shop_E.description>
+
+  <HAR_SK_I_M_Research_Recycle_A.label>亞人工業回收店</HAR_SK_I_M_Research_Recycle_A.label>
+  <HAR_SK_I_M_Research_Recycle_A.description>學習在殖民地建造亞人工業回收店的技術。</HAR_SK_I_M_Research_Recycle_A.description>
+
+
+</LanguageData>

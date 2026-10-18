@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 死体を捧げている。 -->
+  <HAR_OT_Job_Devote.reportString>正在獻上屍體。</HAR_OT_Job_Devote.reportString>
+  
+  <!-- EN: 伽藍洞の骸に干渉中 -->
+  <HAR_OT_Job_InterfereXSE.reportString>正在干涉伽藍洞之骸</HAR_OT_Job_InterfereXSE.reportString>
+  
+</LanguageData>

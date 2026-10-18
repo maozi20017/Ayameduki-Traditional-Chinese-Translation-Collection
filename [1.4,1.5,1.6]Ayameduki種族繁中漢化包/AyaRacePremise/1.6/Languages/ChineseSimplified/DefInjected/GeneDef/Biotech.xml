@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ベレシート -->
+  <Aya_Race_Gene_a.label>創世紀</Aya_Race_Gene_a.label>
+  <!-- EN: 人工種族達の創造主がある星で見つけたという超存在の残骸から抽出した遺伝子。女王種はこれを基に作られたとも言われ、その子である人工種族達にも遺伝している。代謝を上げるが非常に複雑。 -->
+  <Aya_Race_Gene_a.description>這些遺傳基因是從在某顆星球上發現的一具超然存在的殘骸中提取出來的，這個殘骸被認為是人工種族的創造主。據說女王種是以這些遺傳基因為基礎創造的，並且這些遺傳基因也傳承給了人工種族的後代。這些遺傳基因可以提高代謝率，但非常複雜。</Aya_Race_Gene_a.description>
+  <!-- EN: artificial -->
+  <Aya_Race_Gene_a.symbolPack.prefixSymbols.0.symbol>人造的</Aya_Race_Gene_a.symbolPack.prefixSymbols.0.symbol>
+  
+</LanguageData>

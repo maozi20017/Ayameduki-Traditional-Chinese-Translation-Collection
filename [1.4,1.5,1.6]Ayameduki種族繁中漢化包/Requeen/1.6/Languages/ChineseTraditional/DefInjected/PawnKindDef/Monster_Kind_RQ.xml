@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BOSS_RQ_Monster_Kind_Summon_a.label>先鋒種</BOSS_RQ_Monster_Kind_Summon_a.label>
+  <BOSS_RQ_Monster_Kind_Summon_a.labelPlural>先鋒種們</BOSS_RQ_Monster_Kind_Summon_a.labelPlural>
+  <BOSS_RQ_Monster_Kind_Summon_a.labelMale>男性 先鋒種</BOSS_RQ_Monster_Kind_Summon_a.labelMale>
+  <BOSS_RQ_Monster_Kind_Summon_a.labelMalePlural>男性 先鋒種們</BOSS_RQ_Monster_Kind_Summon_a.labelMalePlural>
+  <BOSS_RQ_Monster_Kind_Summon_a.labelFemale>女性 先鋒種</BOSS_RQ_Monster_Kind_Summon_a.labelFemale>
+  <BOSS_RQ_Monster_Kind_Summon_a.labelFemalePlural>女性 先鋒種們</BOSS_RQ_Monster_Kind_Summon_a.labelFemalePlural>
+
+  <BOSS_RQ_Monster_Kind_Summon_b.label>狙擊種</BOSS_RQ_Monster_Kind_Summon_b.label>
+  <BOSS_RQ_Monster_Kind_Summon_b.labelPlural>狙擊種們</BOSS_RQ_Monster_Kind_Summon_b.labelPlural>
+  <BOSS_RQ_Monster_Kind_Summon_b.labelMale>男性 狙擊種</BOSS_RQ_Monster_Kind_Summon_b.labelMale>
+  <BOSS_RQ_Monster_Kind_Summon_b.labelMalePlural>男性 狙擊種們</BOSS_RQ_Monster_Kind_Summon_b.labelMalePlural>
+  <BOSS_RQ_Monster_Kind_Summon_b.labelFemale>女性 狙擊種</BOSS_RQ_Monster_Kind_Summon_b.labelFemale>
+  <BOSS_RQ_Monster_Kind_Summon_b.labelFemalePlural>女性 狙擊種們</BOSS_RQ_Monster_Kind_Summon_b.labelFemalePlural>
+
+  <BOSS_RQ_Monster_Kind_Summon_c.label>火力種</BOSS_RQ_Monster_Kind_Summon_c.label>
+  <BOSS_RQ_Monster_Kind_Summon_c.labelPlural>火力種們</BOSS_RQ_Monster_Kind_Summon_c.labelPlural>
+  <BOSS_RQ_Monster_Kind_Summon_c.labelMale>男性 火力種</BOSS_RQ_Monster_Kind_Summon_c.labelMale>
+  <BOSS_RQ_Monster_Kind_Summon_c.labelMalePlural>男性 火力種們</BOSS_RQ_Monster_Kind_Summon_c.labelMalePlural>
+  <BOSS_RQ_Monster_Kind_Summon_c.labelFemale>女性 火力種</BOSS_RQ_Monster_Kind_Summon_c.labelFemale>
+  <BOSS_RQ_Monster_Kind_Summon_c.labelFemalePlural>女性 火力種們</BOSS_RQ_Monster_Kind_Summon_c.labelFemalePlural>
+
+  <BOSS_RQ_Monster_Kind_Summon_d.label>污染種</BOSS_RQ_Monster_Kind_Summon_d.label>
+  <BOSS_RQ_Monster_Kind_Summon_d.labelPlural>污染種們</BOSS_RQ_Monster_Kind_Summon_d.labelPlural>
+  <BOSS_RQ_Monster_Kind_Summon_d.labelMale>男性 污染種</BOSS_RQ_Monster_Kind_Summon_d.labelMale>
+  <BOSS_RQ_Monster_Kind_Summon_d.labelMalePlural>男性 污染種們</BOSS_RQ_Monster_Kind_Summon_d.labelMalePlural>
+  <BOSS_RQ_Monster_Kind_Summon_d.labelFemale>女性 污染種</BOSS_RQ_Monster_Kind_Summon_d.labelFemale>
+  <BOSS_RQ_Monster_Kind_Summon_d.labelFemalePlural>女性 污染種們</BOSS_RQ_Monster_Kind_Summon_d.labelFemalePlural>
+
+  <BOSS_RQ_Monster_Kind_Summon_e.label>爆彈種</BOSS_RQ_Monster_Kind_Summon_e.label>
+  <BOSS_RQ_Monster_Kind_Summon_e.labelPlural>爆彈種們</BOSS_RQ_Monster_Kind_Summon_e.labelPlural>
+  <BOSS_RQ_Monster_Kind_Summon_e.labelMale>男性 爆彈種</BOSS_RQ_Monster_Kind_Summon_e.labelMale>
+  <BOSS_RQ_Monster_Kind_Summon_e.labelMalePlural>男性 爆彈種們</BOSS_RQ_Monster_Kind_Summon_e.labelMalePlural>
+  <BOSS_RQ_Monster_Kind_Summon_e.labelFemale>女性 爆彈種</BOSS_RQ_Monster_Kind_Summon_e.labelFemale>
+  <BOSS_RQ_Monster_Kind_Summon_e.labelFemalePlural>女性 爆彈種們</BOSS_RQ_Monster_Kind_Summon_e.labelFemalePlural>
+
+  <BOSS_RQ_Monster_Kind_Summon_f.label>裁決種</BOSS_RQ_Monster_Kind_Summon_f.label>
+  <BOSS_RQ_Monster_Kind_Summon_f.labelPlural>裁決種們</BOSS_RQ_Monster_Kind_Summon_f.labelPlural>
+  <BOSS_RQ_Monster_Kind_Summon_f.labelMale>男性 裁決種</BOSS_RQ_Monster_Kind_Summon_f.labelMale>
+  <BOSS_RQ_Monster_Kind_Summon_f.labelMalePlural>男性 裁決種們</BOSS_RQ_Monster_Kind_Summon_f.labelMalePlural>
+  <BOSS_RQ_Monster_Kind_Summon_f.labelFemale>女性 裁決種</BOSS_RQ_Monster_Kind_Summon_f.labelFemale>
+  <BOSS_RQ_Monster_Kind_Summon_f.labelFemalePlural>女性 裁決種們</BOSS_RQ_Monster_Kind_Summon_f.labelFemalePlural>
+
+  <BOSS_RQ_Monster_Kind_Summon_g.label>突擊種</BOSS_RQ_Monster_Kind_Summon_g.label>
+  <BOSS_RQ_Monster_Kind_Summon_g.labelPlural>突擊種們</BOSS_RQ_Monster_Kind_Summon_g.labelPlural>
+  <BOSS_RQ_Monster_Kind_Summon_g.labelMale>男性 突擊種</BOSS_RQ_Monster_Kind_Summon_g.labelMale>
+  <BOSS_RQ_Monster_Kind_Summon_g.labelMalePlural>男性 突擊種們</BOSS_RQ_Monster_Kind_Summon_g.labelMalePlural>
+  <BOSS_RQ_Monster_Kind_Summon_g.labelFemale>女性 突擊種</BOSS_RQ_Monster_Kind_Summon_g.labelFemale>
+  <BOSS_RQ_Monster_Kind_Summon_g.labelFemalePlural>女性 突擊種們</BOSS_RQ_Monster_Kind_Summon_g.labelFemalePlural>
+
+  <BOSS_RQ_Monster_Kind_Summon_h.label>斥候種</BOSS_RQ_Monster_Kind_Summon_h.label>
+  <BOSS_RQ_Monster_Kind_Summon_h.labelPlural>斥候種們</BOSS_RQ_Monster_Kind_Summon_h.labelPlural>
+  <BOSS_RQ_Monster_Kind_Summon_h.labelMale>男性 斥候種</BOSS_RQ_Monster_Kind_Summon_h.labelMale>
+  <BOSS_RQ_Monster_Kind_Summon_h.labelMalePlural>男性 斥候種們</BOSS_RQ_Monster_Kind_Summon_h.labelMalePlural>
+  <BOSS_RQ_Monster_Kind_Summon_h.labelFemale>女性 斥候種</BOSS_RQ_Monster_Kind_Summon_h.labelFemale>
+  <BOSS_RQ_Monster_Kind_Summon_h.labelFemalePlural>女性 斥候種們</BOSS_RQ_Monster_Kind_Summon_h.labelFemalePlural>
+
+  <BOSS_RQ_Monster_Kind_Summon_y.label>破損的眷屬</BOSS_RQ_Monster_Kind_Summon_y.label>
+  <BOSS_RQ_Monster_Kind_Summon_y.labelPlural>破損的眷屬們</BOSS_RQ_Monster_Kind_Summon_y.labelPlural>
+  <BOSS_RQ_Monster_Kind_Summon_y.labelMale>男性 破損的眷屬</BOSS_RQ_Monster_Kind_Summon_y.labelMale>
+  <BOSS_RQ_Monster_Kind_Summon_y.labelMalePlural>男性 破損的眷屬們</BOSS_RQ_Monster_Kind_Summon_y.labelMalePlural>
+  <BOSS_RQ_Monster_Kind_Summon_y.labelFemale>女性 破損的眷屬</BOSS_RQ_Monster_Kind_Summon_y.labelFemale>
+  <BOSS_RQ_Monster_Kind_Summon_y.labelFemalePlural>女性 破損的眷屬們</BOSS_RQ_Monster_Kind_Summon_y.labelFemalePlural>
+
+  <BOSS_RQ_Monster_Kind_Summon_z.label>元型種</BOSS_RQ_Monster_Kind_Summon_z.label>
+  <BOSS_RQ_Monster_Kind_Summon_z.labelPlural>元型種們</BOSS_RQ_Monster_Kind_Summon_z.labelPlural>
+  <BOSS_RQ_Monster_Kind_Summon_z.labelMale>男性 元型種</BOSS_RQ_Monster_Kind_Summon_z.labelMale>
+  <BOSS_RQ_Monster_Kind_Summon_z.labelMalePlural>男性 元型種們</BOSS_RQ_Monster_Kind_Summon_z.labelMalePlural>
+  <BOSS_RQ_Monster_Kind_Summon_z.labelFemale>女性 元型種</BOSS_RQ_Monster_Kind_Summon_z.labelFemale>
+  <BOSS_RQ_Monster_Kind_Summon_z.labelFemalePlural>女性 元型種們</BOSS_RQ_Monster_Kind_Summon_z.labelFemalePlural>
+
+
+</LanguageData>

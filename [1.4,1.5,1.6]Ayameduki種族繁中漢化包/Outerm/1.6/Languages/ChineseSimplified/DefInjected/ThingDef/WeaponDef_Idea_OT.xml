@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: アタナシア -->
+  <HAR_OT_Weapon_Idea.label>阿塔納西亞</HAR_OT_Weapon_Idea.label>
+  <!-- EN: 「虚空の■■■」から授かった禍々しい槍。\n虚空の力を持ち、一振りで周囲の5マス以内にいる全ての敵を攻撃する。\nまた生物を殺すほど、その切れ味は際限なく増していく。\n\n構成物質が「星渡りの鳥クリティアス」の外殻のものと酷似している。\nまるで生き物のように熱を持ちまた蠢く。\n\n幾万幾億の魂を取り込んでいるとも云われ、耳をすませば苦しみ悶える霊の声が聞こえるという。\n\n\n\n\n\nかつて私だったものの一部なんだ、好きに使って欲しいな。 -->
+  <HAR_OT_Weapon_Idea.description>從「虛空的■■■」那獲賜的災禍之槍。\n蘊含虛空之力，揮舞一次即可攻擊周圍 5 格內的所有敵人。\n並且，殺死的生物越多，其鋒利程度便無止境地增強。\n\n其構成物質與「遠渡星海之鳥克里提亞斯」的外殼極為相似。\n宛如活物般散發著熱度，並且不斷蠕動。\n\n據說吞噬了數萬數億的靈魂，若側耳傾聽，便能聽見靈魂痛苦掙扎的哀嚎。\n\n\n\n\n\n這曾經是我的一部分，請隨你喜歡地使用它吧。</HAR_OT_Weapon_Idea.description>
+  <!-- EN: アタナシア -->
+  <HAR_OT_Weapon_Idea.verbs.HAR_OT_Idea_Verb_MeleeAreaAttack.label>阿塔納西亞</HAR_OT_Weapon_Idea.verbs.HAR_OT_Idea_Verb_MeleeAreaAttack.label>
+  
+</LanguageData>

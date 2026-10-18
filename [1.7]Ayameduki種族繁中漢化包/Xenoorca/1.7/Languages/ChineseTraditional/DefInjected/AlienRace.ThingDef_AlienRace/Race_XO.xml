@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_Xenoorca.label>人魚姬</HAR_Xenoorca.label>
+  <HAR_Xenoorca.description>人魚姬是由宙族某一派系創造的人工種族。為了不讓她們建立國家或者大型派系，在其基因上進行了修改，使得她們只能生育出女性。由於人魚姬是以『戰鬥用生物兵器』為基本理念，在原基因中嵌入大量海洋生物的基因改造而成的，所以有著類似海洋哺乳類動物的下半身和特殊的肌肉構造，這使得她們擁有強大的力量。皮膚比人類堅韌，更耐低溫，但是有點吃不消高溫；同時，她們那強力的軀體也導致了更快的能量消耗——她們很容易餓肚子！ \n\n因為是戰鬥用種族，所以人魚姬有著狡猾且冷酷的性格，對敵人毫不留情。脫離創造主的掌控後，志同道合的人魚們結群開始以燒殺擄掠為樂。一部分加入了其他種族的殖民地中，人們也得以認識到她們『愛搞惡作劇、開朗』的一面。\n\n和人工種族『夜魔』出生於同一個工廠，算是她們的同鄉。</HAR_Xenoorca.description>
+  <HAR_Xenoorca.alienRace.generalSettings.alienPartGenerator.bodyAddons.0.name>魚鰭</HAR_Xenoorca.alienRace.generalSettings.alienPartGenerator.bodyAddons.0.name>
+  <HAR_Xenoorca.alienRace.generalSettings.alienPartGenerator.bodyAddons.1.name>魚鰓</HAR_Xenoorca.alienRace.generalSettings.alienPartGenerator.bodyAddons.1.name>
+
+</LanguageData>

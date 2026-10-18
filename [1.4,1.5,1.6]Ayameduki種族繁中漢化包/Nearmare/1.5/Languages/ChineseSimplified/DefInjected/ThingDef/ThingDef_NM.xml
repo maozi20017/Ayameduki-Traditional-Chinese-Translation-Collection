@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_NM_Archotech_a.label>魔女之棺</HAR_NM_Archotech_a.label>
+  <HAR_NM_Archotech_a.description>封印了被人工種族們稱為『棺之君主』的魔女之棺。
+    \n被認為是罪不可赦的大罪人，據說能自行使用獨特的法術。
+    \n如果解開封印的話可以解放她並且讓她加入殖民地。
+    \n\n作為魔女，她會對殖民地的人際關係產生很大的影響。</HAR_NM_Archotech_a.description>
+  <HAR_NM_Archotech_a.comps.CompUsable.useLabel>解封 {0_label}</HAR_NM_Archotech_a.comps.CompUsable.useLabel>
+
+  <HAR_NM_Archotech_b.label>ETHOS通信機(派遣要請)</HAR_NM_Archotech_b.label>
+  <HAR_NM_Archotech_b.description>ETHOS的人員派遣通信機。
+    \n使用後，夜魔・涅墨西斯將會加入殖民地。</HAR_NM_Archotech_b.description>
+  <HAR_NM_Archotech_b.comps.0.useLabel>啟用 {0_label}</HAR_NM_Archotech_b.comps.0.useLabel>
+
+  <HAR_NM_Proj_GrenadeFrag.label>諾托斯手榴彈</HAR_NM_Proj_GrenadeFrag.label>
+
+  <HAR_NM_BroadshieldProjector.label>阿克里西俄斯護盾</HAR_NM_BroadshieldProjector.label>
+  <HAR_NM_BroadshieldProjector.description>對於簡單子彈有效的小型低角度護盾。
+    \n與傳統的低角度護盾相比，雖然範圍較窄，但展開時間是其3倍。
+    \n缺點是由於護盾較小，對爆炸波的抵抗力較弱。</HAR_NM_BroadshieldProjector.description>
+
+  <HAR_NM_TrapIED_HighExplosive.label>安塔瑞斯地雷</HAR_NM_TrapIED_HighExplosive.label>
+  <HAR_NM_TrapIED_HighExplosive.description>夜魔・涅墨西斯召喚的地雷。
+    \n踩踏或施加衝擊時，會發生半徑6格的爆炸。</HAR_NM_TrapIED_HighExplosive.description>
+
+  <HAR_NM_Bullet_Shell_HighExplosive_a.label>歐律托斯加農</HAR_NM_Bullet_Shell_HighExplosive_a.label>
+  <HAR_NM_Bullet_Shell_HighExplosive_b.label>歐律托斯加農</HAR_NM_Bullet_Shell_HighExplosive_b.label>
+  <HAR_NM_Bullet_Shell_HighExplosive_c.label>歐律托斯加農</HAR_NM_Bullet_Shell_HighExplosive_c.label>
+  <HAR_NM_Bullet_Shell_HighExplosive_d.label>歐律托斯加農</HAR_NM_Bullet_Shell_HighExplosive_d.label>
+  <HAR_NM_Bullet_Shell_HighExplosive_e.label>歐律托斯加農</HAR_NM_Bullet_Shell_HighExplosive_e.label>
+  <HAR_NM_Bullet_Shell_HighExplosive_f.label>歐律托斯加農</HAR_NM_Bullet_Shell_HighExplosive_f.label>
+  <HAR_NM_Bullet_Shell_HighExplosive_g.label>歐律托斯加農</HAR_NM_Bullet_Shell_HighExplosive_g.label>
+  <HAR_NM_Bullet_Shell_HighExplosive_h.label>歐律托斯加農</HAR_NM_Bullet_Shell_HighExplosive_h.label>
+
+  <HAR_NM_VanometricPowerCell.label>宇宙發電機</HAR_NM_VanometricPowerCell.label>
+  <HAR_NM_VanometricPowerCell.description>人工種族的神子偽神族・可能性開發的發電機。
+    \n利用持續膨脹的宇宙引力發電，不需要燃料。
+    \n在殖民地運營中非常有效，但需注意其資產價值很高。</HAR_NM_VanometricPowerCell.description>
+
+
+</LanguageData>

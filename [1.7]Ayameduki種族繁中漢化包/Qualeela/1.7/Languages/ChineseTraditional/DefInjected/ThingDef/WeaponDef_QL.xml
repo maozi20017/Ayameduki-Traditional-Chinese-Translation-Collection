@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_QL_Weapon_a.label>大地之劍</HAR_QL_Weapon_a.label>
+  <HAR_QL_Weapon_a.description>這是創造主為庫利菈而製作的劍。它不僅能夠斬擊，還可以從刀身射出激光束。
+    \n根據所使用的特殊納米機器材料，即使有餘裕的身體也可能因此致死。</HAR_QL_Weapon_a.description>
+  <HAR_QL_Weapon_a.tools.0.label>大地之劍</HAR_QL_Weapon_a.tools.0.label>
+
+  <HAR_QL_Projectile_a.label>大地之劍</HAR_QL_Projectile_a.label>
+
+  <HAR_QL_Weapon_a_Grenade.label>大地之劍</HAR_QL_Weapon_a_Grenade.label>
+  <HAR_QL_Weapon_a_Grenade.description>。</HAR_QL_Weapon_a_Grenade.description>
+  <HAR_QL_Weapon_a_Grenade.verbs.0.label>大地之劍の力場</HAR_QL_Weapon_a_Grenade.verbs.0.label>
+
+  <HAR_QL_Weapon_b.label>統御之槍</HAR_QL_Weapon_b.label>
+  <HAR_QL_Weapon_b.description>這是創造主為庫利菈而製作的標槍。它即使只是單純的刺擊，也具有極高的威力，但它的真正價值在於投擲。
+    \n投擲出去的統御之槍會穿過多個幻影和障礙物，直接貫穿目標，將其殺死。
+    \n根據所使用的特殊納米機器材料，即使有餘裕的身體也可能因此致死。</HAR_QL_Weapon_b.description>
+  <HAR_QL_Weapon_b.tools.0.label>統御之槍</HAR_QL_Weapon_b.tools.0.label>
+
+  <HAR_QL_Weapon_b_Bullet.label>統御之槍</HAR_QL_Weapon_b_Bullet.label>
+
+
+</LanguageData>

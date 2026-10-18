@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_EL_Hediff_a.label>救贖的血杯</HAR_EL_Hediff_a.label>
+  <HAR_EL_Hediff_a.description>伊娃莉特外殻中擁有的血之杯，可以透過猩紅之吻來補充。
+    同時，它也被用作進行身體強化或發揮特殊能力時的代價。
+    最大可補充至400。</HAR_EL_Hediff_a.description>
+  <HAR_EL_Hediff_a.stages.1.label>10</HAR_EL_Hediff_a.stages.1.label>
+  <HAR_EL_Hediff_a.stages.2.label>20</HAR_EL_Hediff_a.stages.2.label>
+  <HAR_EL_Hediff_a.stages.3.label>30</HAR_EL_Hediff_a.stages.3.label>
+  <HAR_EL_Hediff_a.stages.4.label>40</HAR_EL_Hediff_a.stages.4.label>
+  <HAR_EL_Hediff_a.stages.5.label>50</HAR_EL_Hediff_a.stages.5.label>
+  <HAR_EL_Hediff_a.stages.6.label>60</HAR_EL_Hediff_a.stages.6.label>
+  <HAR_EL_Hediff_a.stages.7.label>70</HAR_EL_Hediff_a.stages.7.label>
+  <HAR_EL_Hediff_a.stages.8.label>80</HAR_EL_Hediff_a.stages.8.label>
+  <HAR_EL_Hediff_a.stages.9.label>90</HAR_EL_Hediff_a.stages.9.label>
+  <HAR_EL_Hediff_a.stages.10.label>100</HAR_EL_Hediff_a.stages.10.label>
+  <HAR_EL_Hediff_a.stages.11.label>110</HAR_EL_Hediff_a.stages.11.label>
+  <HAR_EL_Hediff_a.stages.12.label>120</HAR_EL_Hediff_a.stages.12.label>
+  <HAR_EL_Hediff_a.stages.13.label>130</HAR_EL_Hediff_a.stages.13.label>
+  <HAR_EL_Hediff_a.stages.14.label>140</HAR_EL_Hediff_a.stages.14.label>
+  <HAR_EL_Hediff_a.stages.15.label>150</HAR_EL_Hediff_a.stages.15.label>
+  <HAR_EL_Hediff_a.stages.16.label>160</HAR_EL_Hediff_a.stages.16.label>
+  <HAR_EL_Hediff_a.stages.17.label>170</HAR_EL_Hediff_a.stages.17.label>
+  <HAR_EL_Hediff_a.stages.18.label>180</HAR_EL_Hediff_a.stages.18.label>
+  <HAR_EL_Hediff_a.stages.19.label>190</HAR_EL_Hediff_a.stages.19.label>
+  <HAR_EL_Hediff_a.stages.20.label>200</HAR_EL_Hediff_a.stages.20.label>
+  <HAR_EL_Hediff_a.stages.21.label>210</HAR_EL_Hediff_a.stages.21.label>
+  <HAR_EL_Hediff_a.stages.22.label>220</HAR_EL_Hediff_a.stages.22.label>
+  <HAR_EL_Hediff_a.stages.23.label>230</HAR_EL_Hediff_a.stages.23.label>
+  <HAR_EL_Hediff_a.stages.24.label>240</HAR_EL_Hediff_a.stages.24.label>
+  <HAR_EL_Hediff_a.stages.25.label>250</HAR_EL_Hediff_a.stages.25.label>
+  <HAR_EL_Hediff_a.stages.26.label>260</HAR_EL_Hediff_a.stages.26.label>
+  <HAR_EL_Hediff_a.stages.27.label>270</HAR_EL_Hediff_a.stages.27.label>
+  <HAR_EL_Hediff_a.stages.28.label>280</HAR_EL_Hediff_a.stages.28.label>
+  <HAR_EL_Hediff_a.stages.29.label>290</HAR_EL_Hediff_a.stages.29.label>
+  <HAR_EL_Hediff_a.stages.30.label>300</HAR_EL_Hediff_a.stages.30.label>
+  <HAR_EL_Hediff_a.stages.31.label>310</HAR_EL_Hediff_a.stages.31.label>
+  <HAR_EL_Hediff_a.stages.32.label>320</HAR_EL_Hediff_a.stages.32.label>
+  <HAR_EL_Hediff_a.stages.33.label>330</HAR_EL_Hediff_a.stages.33.label>
+  <HAR_EL_Hediff_a.stages.34.label>340</HAR_EL_Hediff_a.stages.34.label>
+  <HAR_EL_Hediff_a.stages.35.label>350</HAR_EL_Hediff_a.stages.35.label>
+  <HAR_EL_Hediff_a.stages.36.label>360</HAR_EL_Hediff_a.stages.36.label>
+  <HAR_EL_Hediff_a.stages.37.label>370</HAR_EL_Hediff_a.stages.37.label>
+  <HAR_EL_Hediff_a.stages.38.label>380</HAR_EL_Hediff_a.stages.38.label>
+  <HAR_EL_Hediff_a.stages.39.label>390</HAR_EL_Hediff_a.stages.39.label>
+  <HAR_EL_Hediff_a.stages.40.label>400</HAR_EL_Hediff_a.stages.40.label>
+
+
+</LanguageData>

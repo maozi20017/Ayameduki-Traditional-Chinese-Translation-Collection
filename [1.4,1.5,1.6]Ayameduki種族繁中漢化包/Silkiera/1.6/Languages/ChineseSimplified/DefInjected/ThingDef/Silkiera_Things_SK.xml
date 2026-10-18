@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ■ガラステーブル(2x2) -->
+
+  <HAR_SK_Table2x2c.label>玻璃桌(2X2)</HAR_SK_Table2x2c.label>
+  <HAR_SK_Table2x2c.description>亞人工業製造的桌子，中央是由透明玻璃做的，看起來很高級。</HAR_SK_Table2x2c.description>
+
+
+  <!-- ■ガラステーブル(3x3) -->
+
+  <HAR_SK_Table3x3c.label>玻璃桌(3X3)</HAR_SK_Table3x3c.label>
+  <HAR_SK_Table3x3c.description>亞人工業製造的桌子，中央是由透明玻璃做的，看起來很高級。</HAR_SK_Table3x3c.description>
+
+  <HAR_SK_Lamp.label>面板燈</HAR_SK_Lamp.label>
+  <HAR_SK_Lamp.description>亞人工業製作的電燈，製作時使用了兩倍以上的素材，但能照亮相應的範圍。</HAR_SK_Lamp.description>
+  <HAR_SK_Lamp_Blueprint.label>面板燈 (藍圖)</HAR_SK_Lamp_Blueprint.label>
+  <HAR_SK_Lamp_Blueprint_Install.label>面板燈 (藍圖)</HAR_SK_Lamp_Blueprint_Install.label>
+  <HAR_SK_Lamp_Frame.label>面板燈 (建造中)</HAR_SK_Lamp_Frame.label>
+  <HAR_SK_Lamp_Frame.description>亞人工業製作的電燈，製作時使用了兩倍以上的素材，但能照亮相應的範圍。</HAR_SK_Lamp_Frame.description>
+
+  <HAR_SK_City_Light.label>亞人工業路燈</HAR_SK_City_Light.label>
+  <HAR_SK_City_Light.description>『隨時都會照亮您的殖民地！\n完全不需要電的高科技路燈！』\n\n亞人工業使用的路燈。發光部位用的並非電力，而是某種神秘能源，能夠一直發光。</HAR_SK_City_Light.description>
+
+
+  <!-- ■観賞用トラック -->
+
+  <HAR_SK_Art_a.label>觀賞用卡車</HAR_SK_Art_a.label>
+  <HAR_SK_Art_a.description>某外星球上用來運輸的交通工具。遺憾的是並不兼容邊緣世界的燃料，因此它無法移動。</HAR_SK_Art_a.description>
+
+
+</LanguageData>

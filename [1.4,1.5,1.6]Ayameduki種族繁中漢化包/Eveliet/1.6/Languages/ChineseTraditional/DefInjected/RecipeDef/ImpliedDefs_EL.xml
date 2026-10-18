@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 製作至高者盔甲(伊娃莉特) -->
+  <Make_HAR_EL_Apparel_Armor_a.label>製作 至高者盔甲(伊娃莉特)</Make_HAR_EL_Apparel_Armor_a.label>
+  <!-- EN: 製作至高者盔甲(伊娃莉特) -->
+  <Make_HAR_EL_Apparel_Armor_a.description>製作 至高者盔甲(伊娃莉特)。</Make_HAR_EL_Apparel_Armor_a.description>
+  <!-- EN: 正在製作至高者盔甲(伊娃莉特) -->
+  <Make_HAR_EL_Apparel_Armor_a.jobString>正在製作 至高者盔甲(伊娃莉特)</Make_HAR_EL_Apparel_Armor_a.jobString>
+  
+  <!-- EN: 製作救贖主頭飾(伊娃莉特) -->
+  <Make_HAR_EL_Apparel_Head_a.label>製作 救贖主頭飾(伊娃莉特)</Make_HAR_EL_Apparel_Head_a.label>
+  <!-- EN: 製作救贖主頭飾(伊娃莉特) -->
+  <Make_HAR_EL_Apparel_Head_a.description>製作 救贖主頭飾(伊娃莉特)。</Make_HAR_EL_Apparel_Head_a.description>
+  <!-- EN: 正在製作救贖主頭飾(伊娃莉特) -->
+  <Make_HAR_EL_Apparel_Head_a.jobString>正在製作 救贖主頭飾(伊娃莉特)</Make_HAR_EL_Apparel_Head_a.jobString>
+  
+  <!-- EN: 製作救贖主頭盔(伊娃莉特) -->
+  <Make_HAR_EL_Apparel_Head_b.label>製作 救贖主頭盔(伊娃莉特)</Make_HAR_EL_Apparel_Head_b.label>
+  <!-- EN: 製作救贖主頭盔(伊娃莉特) -->
+  <Make_HAR_EL_Apparel_Head_b.description>製作 救贖主頭盔(伊娃莉特)。</Make_HAR_EL_Apparel_Head_b.description>
+  <!-- EN: 正在製作救贖主頭盔(伊娃莉特) -->
+  <Make_HAR_EL_Apparel_Head_b.jobString>正在製作 救贖主頭盔(伊娃莉特)</Make_HAR_EL_Apparel_Head_b.jobString>
+  
+  <!-- EN: 製作救贖主首飾(伊娃莉特) -->
+  <Make_HAR_EL_Apparel_Head_c.label>製作 救贖主首飾(伊娃莉特)</Make_HAR_EL_Apparel_Head_c.label>
+  <!-- EN: 製作救贖主首飾(伊娃莉特) -->
+  <Make_HAR_EL_Apparel_Head_c.description>製作 救贖主首飾(伊娃莉特)。</Make_HAR_EL_Apparel_Head_c.description>
+  <!-- EN: 正在製作救贖主首飾(伊娃莉特) -->
+  <Make_HAR_EL_Apparel_Head_c.jobString>正在製作 救贖主首飾(伊娃莉特)</Make_HAR_EL_Apparel_Head_c.jobString>
+  
+  <!-- EN: 製作至高者頭盔(伊娃莉特) -->
+  <Make_HAR_EL_Apparel_Head_d.label>製作 至高者頭盔(伊娃莉特)</Make_HAR_EL_Apparel_Head_d.label>
+  <!-- EN: 製作至高者頭盔(伊娃莉特) -->
+  <Make_HAR_EL_Apparel_Head_d.description>製作 至高者頭盔(伊娃莉特)。</Make_HAR_EL_Apparel_Head_d.description>
+  <!-- EN: 正在製作至高者頭盔(伊娃莉特) -->
+  <Make_HAR_EL_Apparel_Head_d.jobString>正在製作 至高者頭盔(伊娃莉特)</Make_HAR_EL_Apparel_Head_d.jobString>
+  
+  <!-- EN: 製作救贖主面紗(伊娃莉特) -->
+  <Make_HAR_EL_Apparel_Head_e.label>製作 救贖主面紗(伊娃莉特)</Make_HAR_EL_Apparel_Head_e.label>
+  <!-- EN: 製作救贖主面紗(伊娃莉特) -->
+  <Make_HAR_EL_Apparel_Head_e.description>製作 救贖主面紗(伊娃莉特)。</Make_HAR_EL_Apparel_Head_e.description>
+  <!-- EN: 正在製作救贖主面紗(伊娃莉特) -->
+  <Make_HAR_EL_Apparel_Head_e.jobString>正在製作 救贖主面紗(伊娃莉特)</Make_HAR_EL_Apparel_Head_e.jobString>
+  
+  <!-- EN: 製作救贖主絲襪(伊娃莉特) -->
+  <Make_HAR_EL_Apparel_onskin_a.label>製作 救贖主絲襪(伊娃莉特)</Make_HAR_EL_Apparel_onskin_a.label>
+  <!-- EN: 製作救贖主絲襪(伊娃莉特) -->
+  <Make_HAR_EL_Apparel_onskin_a.description>製作 救贖主絲襪(伊娃莉特)。</Make_HAR_EL_Apparel_onskin_a.description>
+  <!-- EN: 正在製作救贖主絲襪(伊娃莉特) -->
+  <Make_HAR_EL_Apparel_onskin_a.jobString>正在製作 救贖主絲襪(伊娃莉特)</Make_HAR_EL_Apparel_onskin_a.jobString>
+  
+  <!-- EN: 製作救贖主夾克A(伊娃莉特) -->
+  <Make_HAR_EL_Apparel_Shell_a.label>製作 救贖主夾克A(伊娃莉特)</Make_HAR_EL_Apparel_Shell_a.label>
+  <!-- EN: 製作救贖主夾克A(伊娃莉特) -->
+  <Make_HAR_EL_Apparel_Shell_a.description>製作 救贖主夾克A(伊娃莉特)。</Make_HAR_EL_Apparel_Shell_a.description>
+  <!-- EN: 正在製作救贖主夾克A(伊娃莉特) -->
+  <Make_HAR_EL_Apparel_Shell_a.jobString>正在製作 救贖主夾克A(伊娃莉特)</Make_HAR_EL_Apparel_Shell_a.jobString>
+  
+  <!-- EN: 製作救贖主夾克B(伊娃莉特) -->
+  <Make_HAR_EL_Apparel_Shell_b.label>製作 救贖主夾克B(伊娃莉特)</Make_HAR_EL_Apparel_Shell_b.label>
+  <!-- EN: 製作救贖主夾克B(伊娃莉特) -->
+  <Make_HAR_EL_Apparel_Shell_b.description>製作 救贖主夾克B(伊娃莉特)。</Make_HAR_EL_Apparel_Shell_b.description>
+  <!-- EN: 正在製作救贖主夾克B(伊娃莉特) -->
+  <Make_HAR_EL_Apparel_Shell_b.jobString>正在製作 救贖主夾克B(伊娃莉特)</Make_HAR_EL_Apparel_Shell_b.jobString>
+  
+  <!-- EN: 製作救贖主夾克C(伊娃莉特) -->
+  <Make_HAR_EL_Apparel_Shell_c.label>製作 救贖主夾克C(伊娃莉特)</Make_HAR_EL_Apparel_Shell_c.label>
+  <!-- EN: 製作救贖主夾克C(伊娃莉特) -->
+  <Make_HAR_EL_Apparel_Shell_c.description>製作 救贖主夾克C(伊娃莉特)。</Make_HAR_EL_Apparel_Shell_c.description>
+  <!-- EN: 正在製作救贖主夾克C(伊娃莉特) -->
+  <Make_HAR_EL_Apparel_Shell_c.jobString>正在製作 救贖主夾克C(伊娃莉特)</Make_HAR_EL_Apparel_Shell_c.jobString>
+  
+  <!-- EN: 製作救贖主長袍(伊娃莉特) -->
+  <Make_HAR_EL_Apparel_Shell_d.label>製作 救贖主長袍</Make_HAR_EL_Apparel_Shell_d.label>
+  <!-- EN: 製作救贖主長袍(伊娃莉特) -->
+  <Make_HAR_EL_Apparel_Shell_d.description>製作 救贖主長袍。</Make_HAR_EL_Apparel_Shell_d.description>
+  <!-- EN: 正在製作救贖主長袍(伊娃莉特) -->
+  <Make_HAR_EL_Apparel_Shell_d.jobString>正在製作 救贖主長袍</Make_HAR_EL_Apparel_Shell_d.jobString>
+  
+  <!-- EN: 製作救贖主禮服A(伊娃莉特) -->
+  <Make_HAR_EL_Apparel_Tops_a.label>製作 救贖主禮服A(伊娃莉特)</Make_HAR_EL_Apparel_Tops_a.label>
+  <!-- EN: 製作救贖主禮服A(伊娃莉特) -->
+  <Make_HAR_EL_Apparel_Tops_a.description>製作 救贖主禮服A(伊娃莉特)。</Make_HAR_EL_Apparel_Tops_a.description>
+  <!-- EN: 正在製作救贖主禮服A(伊娃莉特) -->
+  <Make_HAR_EL_Apparel_Tops_a.jobString>正在製作 救贖主禮服A(伊娃莉特)</Make_HAR_EL_Apparel_Tops_a.jobString>
+  
+  <!-- EN: 製作救贖主禮服B(伊娃莉特) -->
+  <Make_HAR_EL_Apparel_Tops_b.label>製作 救贖主禮服B(伊娃莉特)</Make_HAR_EL_Apparel_Tops_b.label>
+  <!-- EN: 製作救贖主禮服B(伊娃莉特) -->
+  <Make_HAR_EL_Apparel_Tops_b.description>製作 救贖主禮服B(伊娃莉特)。</Make_HAR_EL_Apparel_Tops_b.description>
+  <!-- EN: 正在製作救贖主禮服B(伊娃莉特) -->
+  <Make_HAR_EL_Apparel_Tops_b.jobString>正在製作 救贖主禮服B(伊娃莉特)</Make_HAR_EL_Apparel_Tops_b.jobString>
+  
+  <!-- EN: 製作救贖主禮服C(伊娃莉特) -->
+  <Make_HAR_EL_Apparel_Tops_c.label>製作 救贖主禮服C(伊娃莉特)</Make_HAR_EL_Apparel_Tops_c.label>
+  <!-- EN: 製作救贖主禮服C(伊娃莉特) -->
+  <Make_HAR_EL_Apparel_Tops_c.description>製作 救贖主禮服C(伊娃莉特)。</Make_HAR_EL_Apparel_Tops_c.description>
+  <!-- EN: 正在製作救贖主禮服C(伊娃莉特) -->
+  <Make_HAR_EL_Apparel_Tops_c.jobString>正在製作 救贖主禮服C(伊娃莉特)</Make_HAR_EL_Apparel_Tops_c.jobString>
+  
+  <!-- EN: 製作救贖主禮服D(伊娃莉特) -->
+  <Make_HAR_EL_Apparel_Tops_d.label>製作 救贖主禮服D(伊娃莉特)</Make_HAR_EL_Apparel_Tops_d.label>
+  <!-- EN: 製作救贖主禮服D(伊娃莉特) -->
+  <Make_HAR_EL_Apparel_Tops_d.description>製作 救贖主禮服D(伊娃莉特)。</Make_HAR_EL_Apparel_Tops_d.description>
+  <!-- EN: 正在製作救贖主禮服D(伊娃莉特) -->
+  <Make_HAR_EL_Apparel_Tops_d.jobString>正在製作 救贖主禮服D(伊娃莉特)</Make_HAR_EL_Apparel_Tops_d.jobString>
+  
+  <!-- EN: 製作救贖主禮服E(伊娃莉特) -->
+  <Make_HAR_EL_Apparel_Tops_e.label>製作 救贖主禮服E(伊娃莉特)</Make_HAR_EL_Apparel_Tops_e.label>
+  <!-- EN: 製作救贖主禮服E(伊娃莉特) -->
+  <Make_HAR_EL_Apparel_Tops_e.description>製作 救贖主禮服E(伊娃莉特)。</Make_HAR_EL_Apparel_Tops_e.description>
+  <!-- EN: 正在製作救贖主禮服E(伊娃莉特) -->
+  <Make_HAR_EL_Apparel_Tops_e.jobString>正在製作 救贖主禮服E(伊娃莉特)</Make_HAR_EL_Apparel_Tops_e.jobString>
+  
+  <!-- EN: 製作夜魔的光之僕 -->
+  <Make_HAR_EL_EyeCover_a.label>製作 夜魔的光之僕</Make_HAR_EL_EyeCover_a.label>
+  <!-- EN: 製作夜魔的光之僕 -->
+  <Make_HAR_EL_EyeCover_a.description>製作 夜魔的光之僕。</Make_HAR_EL_EyeCover_a.description>
+  <!-- EN: 正在製作夜魔的光之僕 -->
+  <Make_HAR_EL_EyeCover_a.jobString>正在製作 夜魔的光之僕</Make_HAR_EL_EyeCover_a.jobString>
+  
+  <!-- EN: 製作人魚的光之僕 -->
+  <Make_HAR_EL_EyeCover_b.label>製作 人魚的光之僕</Make_HAR_EL_EyeCover_b.label>
+  <!-- EN: 製作人魚的光之僕 -->
+  <Make_HAR_EL_EyeCover_b.description>製作 人魚的光之僕。</Make_HAR_EL_EyeCover_b.description>
+  <!-- EN: 正在製作人魚的光之僕 -->
+  <Make_HAR_EL_EyeCover_b.jobString>正在製作 人魚的光之僕</Make_HAR_EL_EyeCover_b.jobString>
+  
+  <!-- EN: 製作幽鬼的光之僕 -->
+  <Make_HAR_EL_EyeCover_c.label>製作 幽鬼的光之僕</Make_HAR_EL_EyeCover_c.label>
+  <!-- EN: 製作幽鬼的光之僕 -->
+  <Make_HAR_EL_EyeCover_c.description>製作 幽鬼的光之僕。</Make_HAR_EL_EyeCover_c.description>
+  <!-- EN: 正在製作幽鬼的光之僕 -->
+  <Make_HAR_EL_EyeCover_c.jobString>正在製作 幽鬼的光之僕</Make_HAR_EL_EyeCover_c.jobString>
+  
+  <!-- EN: 製作細菌的光之僕 -->
+  <Make_HAR_EL_EyeCover_d.label>製作 細菌的光之僕</Make_HAR_EL_EyeCover_d.label>
+  <!-- EN: 製作細菌的光之僕 -->
+  <Make_HAR_EL_EyeCover_d.description>製作 細菌的光之僕。</Make_HAR_EL_EyeCover_d.description>
+  <!-- EN: 正在製作細菌的光之僕 -->
+  <Make_HAR_EL_EyeCover_d.jobString>正在製作 細菌的光之僕</Make_HAR_EL_EyeCover_d.jobString>
+  
+  <!-- EN: 製作龍人的光之僕 -->
+  <Make_HAR_EL_EyeCover_e.label>製作 龍人的光之僕</Make_HAR_EL_EyeCover_e.label>
+  <!-- EN: 製作龍人的光之僕 -->
+  <Make_HAR_EL_EyeCover_e.description>製作 龍人的光之僕。</Make_HAR_EL_EyeCover_e.description>
+  <!-- EN: 正在製作龍人的光之僕 -->
+  <Make_HAR_EL_EyeCover_e.jobString>正在製作 龍人的光之僕</Make_HAR_EL_EyeCover_e.jobString>
+  
+  <!-- EN: 製作宇宙的光之僕 -->
+  <Make_HAR_EL_EyeCover_f.label>製作 宇宙的光之僕</Make_HAR_EL_EyeCover_f.label>
+  <!-- EN: 製作宇宙的光之僕 -->
+  <Make_HAR_EL_EyeCover_f.description>製作 宇宙的光之僕。</Make_HAR_EL_EyeCover_f.description>
+  <!-- EN: 正在製作宇宙的光之僕 -->
+  <Make_HAR_EL_EyeCover_f.jobString>正在製作 宇宙的光之僕</Make_HAR_EL_EyeCover_f.jobString>
+  
+  <!-- EN: 製作王族的光之僕 -->
+  <Make_HAR_EL_EyeCover_g.label>製作 王族的光之僕</Make_HAR_EL_EyeCover_g.label>
+  <!-- EN: 製作王族的光之僕 -->
+  <Make_HAR_EL_EyeCover_g.description>製作 王族的光之僕。</Make_HAR_EL_EyeCover_g.description>
+  <!-- EN: 正在製作王族的光之僕 -->
+  <Make_HAR_EL_EyeCover_g.jobString>正在製作 王族的光之僕</Make_HAR_EL_EyeCover_g.jobString>
+  
+  <!-- EN: 製作混沌的光之僕 -->
+  <Make_HAR_EL_EyeCover_h.label>製作 混沌的光之僕</Make_HAR_EL_EyeCover_h.label>
+  <!-- EN: 製作混沌的光之僕 -->
+  <Make_HAR_EL_EyeCover_h.description>製作 混沌的光之僕。</Make_HAR_EL_EyeCover_h.description>
+  <!-- EN: 正在製作混沌的光之僕 -->
+  <Make_HAR_EL_EyeCover_h.jobString>正在製作 混沌的光之僕</Make_HAR_EL_EyeCover_h.jobString>
+  
+  <!-- EN: 製作獸人的光之僕 -->
+  <Make_HAR_EL_EyeCover_i.label>製作 獸人的光之僕</Make_HAR_EL_EyeCover_i.label>
+  <!-- EN: 製作獸人的光之僕 -->
+  <Make_HAR_EL_EyeCover_i.description>製作 獸人的光之僕。</Make_HAR_EL_EyeCover_i.description>
+  <!-- EN: 正在製作獸人的光之僕 -->
+  <Make_HAR_EL_EyeCover_i.jobString>正在製作 獸人的光之僕</Make_HAR_EL_EyeCover_i.jobString>
+  
+</LanguageData>

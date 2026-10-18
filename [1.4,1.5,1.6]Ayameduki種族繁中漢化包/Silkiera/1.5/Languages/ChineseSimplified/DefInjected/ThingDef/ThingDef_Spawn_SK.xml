@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_SK_Archotech_a.label>亞人工業白金券</HAR_SK_Archotech_a.label>
+  <HAR_SK_Archotech_a.description>『那邊的艱難維持殖民地的小哥！\n我們將為你提供棒極了的人才！』\n\n使用後能召喚高品質亞人獸娘的券。\n沒人知道它是基於何種原理起作用的，但是至少在『它將為你的殖民地帶來人才』這一點上，是毋庸置疑的。</HAR_SK_Archotech_a.description>
+  <HAR_SK_Archotech_a.comps.0.useLabel>激活 {0_label}</HAR_SK_Archotech_a.comps.0.useLabel>
+
+  <HAR_SK_Archotech_b.label>亞人工業黑色券</HAR_SK_Archotech_b.label>
+  <HAR_SK_Archotech_b.description>『為尊貴的客戶提供貴重的人才\n今後也請多多關照！』\n\n使用後能召喚特別的亞人獸娘的券。\n沒人知道它是基於何種原理起作用的，但是至少在『它將為你的殖民地帶來人才』這一點上，是毋庸置疑的。</HAR_SK_Archotech_b.description>
+  <HAR_SK_Archotech_b.comps.0.useLabel>激活 {0_label}</HAR_SK_Archotech_b.comps.0.useLabel>
+
+  <HAR_SK_Archotech_c.label>寵物券</HAR_SK_Archotech_c.label>
+  <HAR_SK_Archotech_c.description>『殖民地需要心靈上的治愈嗎？ \n你需要一隻黏人的小貓！』使用後能召喚出柔順的貓的券。\n沒人知道它是基於何種原理起作用的。</HAR_SK_Archotech_c.description>
+  <HAR_SK_Archotech_c.comps.0.useLabel>激活 {0_label}</HAR_SK_Archotech_c.comps.0.useLabel>
+
+  <HAR_SK_Archotech_d.label>飛蛾姬券</HAR_SK_Archotech_d.label>
+  <HAR_SK_Archotech_d.description>『為人手不足的你帶來一個好消息！\n奴根性全開的社畜製作完成！』\n\n使用後能召喚飛蛾姬的券。\n沒人知道它是基於何種原理起作用的。\n\n\n\n譯者註：飛蛾姬出自作者的另一個mod：Saclean</HAR_SK_Archotech_d.description>
+  <HAR_SK_Archotech_d.comps.0.useLabel>激活 {0_label}</HAR_SK_Archotech_d.comps.0.useLabel>
+
+  <HAR_SK_Archotech_e.label>幽靈姬券</HAR_SK_Archotech_e.label>
+  <HAR_SK_Archotech_e.description>『在遺跡轉了半天也沒見到交易員！！！\n我等將回應你的呼喊！』\n使用後能召喚幽靈姬的券。\n沒人知道它是基於何種原理起作用的。\n\n\n\n譯者註：幽靈姬出自作者的另一個mod：Idhale</HAR_SK_Archotech_e.description>
+  <HAR_SK_Archotech_e.comps.0.useLabel>激活 {0_label}</HAR_SK_Archotech_e.comps.0.useLabel>
+
+  <HAR_SK_Archotech_f.label>偽神族券</HAR_SK_Archotech_f.label>
+  <HAR_SK_Archotech_f.description>『那個小傢伙還沒來殖民地…\n那樣的話直接叫過來就好了！』\n\n使用後能召喚偽神族的券。\n沒人知道它是基於何種原理起作用的。\n\n\n\n譯者註：偽神族出自作者的另一個mod：Littluna</HAR_SK_Archotech_f.description>
+  <HAR_SK_Archotech_f.comps.0.useLabel>激活 {0_label}</HAR_SK_Archotech_f.comps.0.useLabel>
+
+
+</LanguageData>

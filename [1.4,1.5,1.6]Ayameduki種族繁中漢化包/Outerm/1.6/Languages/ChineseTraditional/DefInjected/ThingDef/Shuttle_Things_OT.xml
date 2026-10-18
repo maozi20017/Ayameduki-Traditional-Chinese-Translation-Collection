@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 破損した大型シャトル -->
+  <HAR_OT_Thing_Shuttle_a.label>破損的大型穿梭艇</HAR_OT_Thing_Shuttle_a.label>
+  <!-- EN: ハオスに襲撃され緊急着陸したシャトル。破壊すれば幾らかの素材を回収できる。 -->
+  <HAR_OT_Thing_Shuttle_a.description>遭混沌襲擊後緊急迫降的穿梭艇。摧毀後可回收一些素材。</HAR_OT_Thing_Shuttle_a.description>
+  
+</LanguageData>

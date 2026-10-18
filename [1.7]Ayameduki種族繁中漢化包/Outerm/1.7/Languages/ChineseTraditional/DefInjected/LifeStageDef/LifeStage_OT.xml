@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: adult -->
+  <HAR_OT_HumanlikeAdult.label>成人</HAR_OT_HumanlikeAdult.label>
+  
+  <!-- EN: baby -->
+  <HAR_OT_HumanlikeBaby.label>嬰兒</HAR_OT_HumanlikeBaby.label>
+  <!-- EN: Mood represents how happy or stressed someone is. Babies with low mood are more likely to cry, while babies with a high mood are more likely to giggle. -->
+  <HAR_OT_HumanlikeBaby.customMoodTipString>嬰兒</HAR_OT_HumanlikeBaby.customMoodTipString>
+  
+  <!-- EN: child -->
+  <HAR_OT_HumanlikeChild.label>兒童</HAR_OT_HumanlikeChild.label>
+  
+  <!-- EN: preteen -->
+  <HAR_OT_HumanlikePreTeenager.label>少年</HAR_OT_HumanlikePreTeenager.label>
+  
+  <!-- EN: teenager -->
+  <HAR_OT_HumanlikeTeenager.label>青少年</HAR_OT_HumanlikeTeenager.label>
+  <!-- EN: teenage -->
+  <HAR_OT_HumanlikeTeenager.adjective>青少年</HAR_OT_HumanlikeTeenager.adjective>
+  
+</LanguageData>

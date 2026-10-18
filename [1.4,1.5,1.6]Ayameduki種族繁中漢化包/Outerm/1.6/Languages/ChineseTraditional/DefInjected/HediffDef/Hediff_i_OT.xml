@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: アルパクティコ -->
+  <HAR_OT_Hediff_i.label>掠食者</HAR_OT_Hediff_i.label>
+  <!-- EN: アウタームが死体を捕食して強化されている状態。\n\n捕食時に傷を3つ癒し、一時的に身体能力を強化。\nこの強化は三段階まで存在しており、捕食する毎に段階は上がっていく。\n\n\n\nこの状態は数時間毎に一段階減少する。 -->
+  <HAR_OT_Hediff_i.description>域外者捕食屍體後獲得強化的狀態。\n\n捕食時治癒3處傷口，並暫時強化身體能力。\n此強化共有三個階段，每次捕食便會提升一個階段。\n\n\n\n此狀態每數小時減少一個階段。</HAR_OT_Hediff_i.description>
+  <!-- EN: Lv1 -->
+  <HAR_OT_Hediff_i.stages.Lv1.label>Lv1</HAR_OT_Hediff_i.stages.Lv1.label>
+  <!-- EN: Lv2 -->
+  <HAR_OT_Hediff_i.stages.Lv2.label>Lv2</HAR_OT_Hediff_i.stages.Lv2.label>
+  <!-- EN: Lv3 -->
+  <HAR_OT_Hediff_i.stages.Lv3.label>Lv3</HAR_OT_Hediff_i.stages.Lv3.label>
+  
+</LanguageData>

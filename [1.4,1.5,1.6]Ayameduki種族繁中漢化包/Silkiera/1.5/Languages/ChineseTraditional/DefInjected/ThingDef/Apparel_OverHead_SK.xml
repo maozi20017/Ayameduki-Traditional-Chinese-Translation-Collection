@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ■付け角(シルキーラ) -->
+
+  <HAR_SK_AH_a.label>裝飾用角(亞人獸娘)</HAR_SK_AH_a.label>
+  <HAR_SK_AH_a.description>仿照夜魔的角製作的裝飾用角。</HAR_SK_AH_a.description>
+
+
+  <!-- ■カチューシャ(シルキーラ) -->
+
+  <HAR_SK_AH_b.label>髮箍(亞人獸娘)</HAR_SK_AH_b.label>
+  <HAR_SK_AH_b.description>亞人獸娘的髮箍，被製作得很可愛。</HAR_SK_AH_b.description>
+
+
+  <!-- ■マフラー(シルキーラ) -->
+
+  <HAR_SK_AH_c.label>圍巾(亞人獸娘)</HAR_SK_AH_c.label>
+  <HAR_SK_AH_c.description>毛茸茸的圍巾，能很有效地抵禦嚴寒。</HAR_SK_AH_c.description>
+
+
+  <!-- ■ミリタリーストール(シルキーラ) -->
+
+  <HAR_SK_AH_d.label>軍用披肩(亞人獸娘)</HAR_SK_AH_d.label>
+  <HAR_SK_AH_d.description>遮住半邊臉的披肩，能很有效地抵禦嚴寒。</HAR_SK_AH_d.description>
+
+
+  <!-- ■カシミアストール(シルキーラ) -->
+
+  <HAR_SK_AH_e.label>羊毛絨披肩(亞人獸娘)</HAR_SK_AH_e.label>
+  <HAR_SK_AH_e.description>長得可以卷在身上的披肩，防寒防暑皆可用。</HAR_SK_AH_e.description>
+
+
+  <!-- ■メタリックヘルメット -->
+
+  <HAR_SK_AH_f.label>黑鋼頭盔(亞人獸娘)</HAR_SK_AH_f.label>
+  <HAR_SK_AH_f.description>亞人獸娘專用的頭盔，最初是為了在嚴峻環境下工作而製作的防護服。因此作為盔甲來說，物理防禦性能不是很強，但是對熱有極高的耐性。</HAR_SK_AH_f.description>
+
+
+  <!-- ■妖狐の簪 -->
+
+  <HAR_SK_AH_g.label>妖狐的髮簪(亞人獸娘)</HAR_SK_AH_g.label>
+  <HAR_SK_AH_g.description>亞人獸娘・母夜叉的專用髮簪，在妖術的加持下有著與外表不相稱的高耐久。</HAR_SK_AH_g.description>
+
+
+</LanguageData>

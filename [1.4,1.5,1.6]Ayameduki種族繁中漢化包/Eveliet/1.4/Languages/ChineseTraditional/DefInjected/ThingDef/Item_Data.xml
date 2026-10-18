@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_EL_Item_a.label>肖像種:再設計資料:Ａ</HAR_EL_Item_a.label>
+  <HAR_EL_Item_a.description>創造人工種族『肖像種伊娃莉特』所需的資料的一部分。
+資料似乎被分為五個部分。
+
+資料中的訊息表述得很仔細，但是使用的卻是未知的語言。
+然而，似乎我們可以讀懂文件旁的塗鴉，這是我們熟悉的語言。
+
+
+
+
+『雖然爸爸這麼說，但我覺得應該給這孩子至少一次機會』</HAR_EL_Item_a.description>
+  <HAR_EL_Item_a.comps.0.useLabel>啟用 {0_label}</HAR_EL_Item_a.comps.0.useLabel>
+
+  <HAR_EL_Item_b.label>肖像種:再設計資料:Ｂ</HAR_EL_Item_b.label>
+  <HAR_EL_Item_b.description>創造人工種族『肖像種伊娃莉特』所需的資料的一部分。
+資料似乎被分為五個部分。
+
+資料中的訊息表述得很仔細，但是使用的卻是未知的語言。
+然而，似乎我們可以讀懂文件旁的塗鴉，這是我們熟悉的語言。
+
+
+
+
+『唔嗯，暫時先嘗試降低性能以提高穩定性看看。』</HAR_EL_Item_b.description>
+  <HAR_EL_Item_b.comps.0.useLabel>啟用 {0_label}</HAR_EL_Item_b.comps.0.useLabel>
+
+  <HAR_EL_Item_c.label>肖像種:再設計資料:Ｃ</HAR_EL_Item_c.label>
+  <HAR_EL_Item_c.description>創造人工種族『肖像種伊娃莉特』所需的資料的一部分。
+資料似乎被分為五個部分。
+
+資料中的訊息表述得很仔細，但是使用的卻是未知的語言。
+然而，似乎我們可以讀懂文件旁的塗鴉，這是我們熟悉的語言。
+
+
+
+
+『對於不足的部分，讓我們注入外太空的知識吧！』</HAR_EL_Item_c.description>
+  <HAR_EL_Item_c.comps.0.useLabel>啟用 {0_label}</HAR_EL_Item_c.comps.0.useLabel>
+
+  <HAR_EL_Item_d.label>肖像種:再設計資料:Ｄ</HAR_EL_Item_d.label>
+  <HAR_EL_Item_d.description>創造人工種族『肖像種伊娃莉特』所需的資料的一部分。
+資料似乎被分為五個部分。
+
+資料中的訊息表述得很仔細，但是使用的卻是未知的語言。
+然而，似乎我們可以讀懂文件旁的塗鴉，這是我們熟悉的語言。
+
+
+
+
+『呼，鳥的騷動也漸漸平靜下來了，這邊看起來也能夠重新開始了』</HAR_EL_Item_d.description>
+  <HAR_EL_Item_d.comps.0.useLabel>啟用 {0_label}</HAR_EL_Item_d.comps.0.useLabel>
+
+  <HAR_EL_Item_e.label>肖像種:再設計資料:Ｅ</HAR_EL_Item_e.label>
+  <HAR_EL_Item_e.description>創造人工種族『肖像種伊娃莉特』所需的資料的一部分。
+資料似乎被分為五個部分。
+
+資料中的訊息表述得很仔細，但是使用的卻是未知的語言。
+然而，似乎我們可以讀懂文件旁的塗鴉，這是我們熟悉的語言。
+
+
+
+
+『來不及了，對不起。　　　來自偽神族・可能性』</HAR_EL_Item_e.description>
+  <HAR_EL_Item_e.comps.0.useLabel>啟用 {0_label}</HAR_EL_Item_e.comps.0.useLabel>
+
+
+</LanguageData>

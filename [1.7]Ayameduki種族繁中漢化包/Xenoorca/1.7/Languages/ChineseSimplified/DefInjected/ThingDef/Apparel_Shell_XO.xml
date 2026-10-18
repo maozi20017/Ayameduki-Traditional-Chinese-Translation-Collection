@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ■コート(ゼノオーカ) -->
+
+  <HAR_XO_AS_a.label>大衣(人魚姬)</HAR_XO_AS_a.label>
+  <HAR_XO_AS_a.description>人魚姬們穿的防刃防彈的上衣。為了維持機動性而進行了輕量化設計，犧牲了部分防禦性。</HAR_XO_AS_a.description>
+
+
+  <!-- ■ダスター(ゼノオーカ) -->
+
+  <HAR_XO_AS_b.label>防塵大衣(人魚姬)</HAR_XO_AS_b.label>
+  <HAR_XO_AS_b.description>人魚姬們穿的防刃防彈的上衣。為了維持機動性而進行了輕量化設計，犧牲了部分防禦性。</HAR_XO_AS_b.description>
+
+
+  <!-- ■弾帯(ゼノオーカ) -->
+
+  <HAR_XO_AS_c.label>彈藥帶(人魚姬)</HAR_XO_AS_c.label>
+  <HAR_XO_AS_c.description>為了快速換彈而集中放置彈藥的腰帶，毫無防禦性，但能縮短射擊間隔、提升射擊精度。</HAR_XO_AS_c.description>
+
+
+</LanguageData>

@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_LL_Item_a.label>血膿石</HAR_LL_Item_a.label>
+  <HAR_LL_Item_a.description>從偽神族・伊迪亞之奴獲得的如血般紅色的物質。
+使用它作為武器，可以獲得極高的殺傷力。
+		
+		
+只是一團血，本應該是無生命的，但不知怎地，感覺彷彿被注視著。
+那是憐憫和輕蔑，以及無盡虛無般慈愛的眼神。</HAR_LL_Item_a.description>
+
+  <HAR_LL_Archotech_a.label>混沌聖杯</HAR_LL_Archotech_a.label>
+  <HAR_LL_Archotech_a.description>用血膿石製作的可怕的血之杯。
+使用時對偽神族目標，可以使其轉化為偽神族・伊迪亞之奴。
+但是要注意，原本的偽神族人格和能力將消失，因此需要謹慎使用。
+
+
+透過領悟杯中積聚的血液，可以進入先輩們─伊迪亞之奴們所認知的領域。
+然而，成為她們的模樣是否真的會帶來幸福，還是值得深思。
+
+
+
+
+
+宇宙的外部、天空的背面、無底的虛空仍然等待著愚蠢而聰明的賢者。</HAR_LL_Archotech_a.description>
+  <HAR_LL_Archotech_a.comps.0.useLabel>啟用 {0_label}</HAR_LL_Archotech_a.comps.0.useLabel>
+
+  <HAR_LL_Archotech_b.label>絕望之笛</HAR_LL_Archotech_b.label>
+  <HAR_LL_Archotech_b.description>由血膿石製成的招災之笛。
+吹奏此笛可以召喚來自平行世界的「遠渡星海之鳥」的存在。
+如果要與被召喚出來的存在戰鬥，則需要相應的實力。
+
+
+
+那是一支召喚曾經在無數星球散播厄運的存在的笛子。
+然而，親鳥已不在這片宇宙中，因此被召喚而來的只能是繼承其血脈的雛鳥們。</HAR_LL_Archotech_b.description>
+  <HAR_LL_Archotech_b.comps.0.useLabel>啟用 {0_label}</HAR_LL_Archotech_b.comps.0.useLabel>
+
+  <HAR_LL_Archotech_c.label>瘋狂之鐘</HAR_LL_Archotech_c.label>
+  <HAR_LL_Archotech_c.description>由血膿石製成的瘋狂之音響鈴。
+    使用它可以將災禍帶到殖民地中。
+
+
+
+
+那是一個模仿偽神族・可能性所擁有的鐘製作的仿造品。
+據說，一旦響起，她們就會如同思念故鄉般現身。
+儘管渴望回到故鄉，卻無法回到原本的地方。</HAR_LL_Archotech_c.description>
+  <HAR_LL_Archotech_c.comps.0.useLabel>啟用 {0_label}</HAR_LL_Archotech_c.comps.0.useLabel>
+
+  <HAR_LL_Archotech_d.label>榮耀花冠</HAR_LL_Archotech_d.label>
+  <HAR_LL_Archotech_d.description>從偽神族・邊緣至福樂土獲得的純白花冠。
+曾經由創造主為偽神族・可能性創造並賦予她們的神器，也是她們身為神子的象徵。
+即使面對極端的污濁和不潔，它的純潔並未有絲毫損失。
+使用後，目標將獲得巨大的力量。
+
+
+
+依然保持著純潔的神器，然而這個花冠卻成為了與厄運連結的特異點。</HAR_LL_Archotech_d.description>
+  <HAR_LL_Archotech_d.comps.0.useLabel>啟用 {0_label}</HAR_LL_Archotech_d.comps.0.useLabel>
+
+  <HAR_LL_Archotech_e.label>潘朵拉深淵</HAR_LL_Archotech_e.label>
+  <HAR_LL_Archotech_e.description>偽神族・邊緣至福樂土中取出的盒子。
+打開它會讓人感到災厄即將釋放的危險感。
+至少不應該在有人居住的地區打開它。
+
+
+存在於偽神族・可能性體內的謎之器官。
+這個器官能夠使其更有效地與不同維度進行交流。
+
+盒子的持有者，如果他有智慧，則不應該打開它。</HAR_LL_Archotech_e.description>
+  <HAR_LL_Archotech_e.comps.0.useLabel>啟用 {0_label}</HAR_LL_Archotech_e.comps.0.useLabel>
+
+  <HAR_LL_Archotech_f.label>諾耶瑪十字架</HAR_LL_Archotech_f.label>
+  <HAR_LL_Archotech_f.description>偽神族・可能性腦內生成的十字架形状的器官。
+具有接收来自不同维度的能量的通信功能。
+使用它的人可以獲得巨大的力量。
+
+
+
+一枚銀色的十字架，能夠接收來自宇宙之外的力量，
+但如今已變成了一個空洞無用的玩意。</HAR_LL_Archotech_f.description>
+  <HAR_LL_Archotech_f.comps.0.useLabel>啟用 {0_label}</HAR_LL_Archotech_f.comps.0.useLabel>
+
+
+</LanguageData>

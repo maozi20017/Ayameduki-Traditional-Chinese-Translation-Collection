@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ■シルクウェアA -->
+
+  <HAR_SL_Tops_a.label>飛蛾服裝A款(飛蛾姬)</HAR_SL_Tops_a.label>
+  <HAR_SL_Tops_a.description>飛蛾姬專用的輕便服裝，因為無法戰鬥，所以耐久很低，不要對它的防禦性能抱有期待。</HAR_SL_Tops_a.description>
+
+
+  <!-- ■シルクウェアB -->
+
+  <HAR_SL_Tops_b.label>飛蛾服裝B款(飛蛾姬)</HAR_SL_Tops_b.label>
+  <HAR_SL_Tops_b.description>飛蛾姬專用的輕便服裝，因為無法戰鬥，所以耐久很低，不要對它的防禦性能抱有期待。</HAR_SL_Tops_b.description>
+
+
+  <!-- ■シルクウェアC -->
+
+  <HAR_SL_Tops_c.label>飛蛾服裝C款(飛蛾姬)</HAR_SL_Tops_c.label>
+  <HAR_SL_Tops_c.description>飛蛾姬專用的輕便服裝，因為無法戰鬥，所以耐久很低，不要對它的防禦性能抱有期待。</HAR_SL_Tops_c.description>
+
+
+</LanguageData>

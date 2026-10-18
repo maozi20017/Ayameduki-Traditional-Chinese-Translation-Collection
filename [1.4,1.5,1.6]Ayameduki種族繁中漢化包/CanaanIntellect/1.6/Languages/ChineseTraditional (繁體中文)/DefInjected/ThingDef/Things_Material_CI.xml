@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 生物の霊油 -->
+  <Aya_CI_Material_a.label>生物的靈油</Aya_CI_Material_a.label>
+  <!-- EN: 少年に作ってもらった加工品。基となった素材は液状化しており、鈍く光っている。\nここから他の霊油と組み合わせることで強化アイテムとなる。 -->
+  <Aya_CI_Material_a.description>由少年所製作的加工品。作為基底的素材已液化，散發著黯淡的光澤。\n與其他靈油組合便能成為強化道具。</Aya_CI_Material_a.description>
+  
+  <!-- EN: 植物の霊油 -->
+  <Aya_CI_Material_b.label>植物的靈油</Aya_CI_Material_b.label>
+  <!-- EN: 少年に作ってもらった加工品。基となった素材は液状化しており、鈍く光っている。\nここから他の霊油と組み合わせることで強化アイテムとなる。 -->
+  <Aya_CI_Material_b.description>由少年所製作的加工品。作為基底的素材已液化，散發著黯淡的光澤。\n與其他靈油組合便能成為強化道具。</Aya_CI_Material_b.description>
+  
+  <!-- EN: 鉱物の霊油 -->
+  <Aya_CI_Material_c.label>礦物的靈油</Aya_CI_Material_c.label>
+  <!-- EN: 少年に作ってもらった加工品。基となった素材は液状化しており、鈍く光っている。\nここから他の霊油と組み合わせることで強化アイテムとなる。 -->
+  <Aya_CI_Material_c.description>由少年所製作的加工品。作為基底的素材已液化，散發著黯淡的光澤。\n與其他靈油組合便能成為強化道具。</Aya_CI_Material_c.description>
+  
+</LanguageData>

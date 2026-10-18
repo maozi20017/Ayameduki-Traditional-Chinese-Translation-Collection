@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_Solark_Player.label>龍姬殖民者</HAR_Solark_Player.label>
+  <HAR_Solark_Player.labelPlural>龍姬殖民者們</HAR_Solark_Player.labelPlural>
+  <HAR_Solark_Player.labelMale>男性 龍姬殖民者</HAR_Solark_Player.labelMale>
+  <HAR_Solark_Player.labelMalePlural>男性 龍姬殖民者們</HAR_Solark_Player.labelMalePlural>
+  <HAR_Solark_Player.labelFemale>女性 龍姬殖民者</HAR_Solark_Player.labelFemale>
+  <HAR_Solark_Player.labelFemalePlural>女性 龍姬殖民者們</HAR_Solark_Player.labelFemalePlural>
+
+
+  <!-- ■NPC -->
+
+  <HAR_Solark_NPC_Trader.label>龍姬商人</HAR_Solark_NPC_Trader.label>
+  <HAR_Solark_NPC_Trader.labelPlural>龍姬商人們</HAR_Solark_NPC_Trader.labelPlural>
+  <HAR_Solark_NPC_Trader.labelMale>男性 龍姬商人</HAR_Solark_NPC_Trader.labelMale>
+  <HAR_Solark_NPC_Trader.labelMalePlural>男性 龍姬商人們</HAR_Solark_NPC_Trader.labelMalePlural>
+  <HAR_Solark_NPC_Trader.labelFemale>女性 龍姬商人</HAR_Solark_NPC_Trader.labelFemale>
+  <HAR_Solark_NPC_Trader.labelFemalePlural>女性 龍姬商人們</HAR_Solark_NPC_Trader.labelFemalePlural>
+
+  <HAR_Solark_NPC_Leader.label>龍姬領袖</HAR_Solark_NPC_Leader.label>
+  <HAR_Solark_NPC_Leader.labelPlural>龍姬領袖們</HAR_Solark_NPC_Leader.labelPlural>
+  <HAR_Solark_NPC_Leader.labelMale>男性 龍姬領袖</HAR_Solark_NPC_Leader.labelMale>
+  <HAR_Solark_NPC_Leader.labelMalePlural>男性 龍姬領袖們</HAR_Solark_NPC_Leader.labelMalePlural>
+  <HAR_Solark_NPC_Leader.labelFemale>女性 龍姬領袖</HAR_Solark_NPC_Leader.labelFemale>
+  <HAR_Solark_NPC_Leader.labelFemalePlural>女性 龍姬領袖們</HAR_Solark_NPC_Leader.labelFemalePlural>
+
+  <HAR_Solark_NPC_Resident.label>龍姬居民</HAR_Solark_NPC_Resident.label>
+  <HAR_Solark_NPC_Resident.labelPlural>龍姬居民們</HAR_Solark_NPC_Resident.labelPlural>
+  <HAR_Solark_NPC_Resident.labelMale>男性 龍姬居民</HAR_Solark_NPC_Resident.labelMale>
+  <HAR_Solark_NPC_Resident.labelMalePlural>男性龍姬居民們</HAR_Solark_NPC_Resident.labelMalePlural>
+  <HAR_Solark_NPC_Resident.labelFemale>女性 龍姬居民</HAR_Solark_NPC_Resident.labelFemale>
+  <HAR_Solark_NPC_Resident.labelFemalePlural>女性 龍姬居民們</HAR_Solark_NPC_Resident.labelFemalePlural>
+
+  <HAR_Solark_NPC_Resident_b.label>龍姬・赫雷勒夫</HAR_Solark_NPC_Resident_b.label>
+  <HAR_Solark_NPC_Resident_b.labelPlural>龍姬・赫雷勒夫們</HAR_Solark_NPC_Resident_b.labelPlural>
+  <HAR_Solark_NPC_Resident_b.labelMale>男性 龍姬・赫雷勒夫</HAR_Solark_NPC_Resident_b.labelMale>
+  <HAR_Solark_NPC_Resident_b.labelMalePlural>男性 龍姬・赫雷勒夫們</HAR_Solark_NPC_Resident_b.labelMalePlural>
+  <HAR_Solark_NPC_Resident_b.labelFemale>女性 龍姬・赫雷勒夫</HAR_Solark_NPC_Resident_b.labelFemale>
+  <HAR_Solark_NPC_Resident_b.labelFemalePlural>女性 龍姬・赫雷勒夫們</HAR_Solark_NPC_Resident_b.labelFemalePlural>
+
+</LanguageData>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: left lung -->
+  <HAR_CO_M_Body.corePart.parts.left_lung.customLabel>左肺</HAR_CO_M_Body.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <HAR_CO_M_Body.corePart.parts.right_lung.customLabel>右肺</HAR_CO_M_Body.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <HAR_CO_M_Body.corePart.parts.left_kidney.customLabel>左腎</HAR_CO_M_Body.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <HAR_CO_M_Body.corePart.parts.right_kidney.customLabel>右腎</HAR_CO_M_Body.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <HAR_CO_M_Body.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>左眼</HAR_CO_M_Body.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <HAR_CO_M_Body.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>右眼</HAR_CO_M_Body.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <HAR_CO_M_Body.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>左耳</HAR_CO_M_Body.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <HAR_CO_M_Body.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>右耳</HAR_CO_M_Body.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: front left leg -->
+  <HAR_CO_M_Body.corePart.parts.front_left_leg.customLabel>左前腿</HAR_CO_M_Body.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front left paw -->
+  <HAR_CO_M_Body.corePart.parts.front_left_leg.parts.front_left_paw.customLabel>左前爪</HAR_CO_M_Body.corePart.parts.front_left_leg.parts.front_left_paw.customLabel>
+  <!-- EN: front right leg -->
+  <HAR_CO_M_Body.corePart.parts.front_right_leg.customLabel>右前腿</HAR_CO_M_Body.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: front right paw -->
+  <HAR_CO_M_Body.corePart.parts.front_right_leg.parts.front_right_paw.customLabel>右前爪</HAR_CO_M_Body.corePart.parts.front_right_leg.parts.front_right_paw.customLabel>
+  <!-- EN: rear left leg -->
+  <HAR_CO_M_Body.corePart.parts.rear_left_leg.customLabel>左後腿</HAR_CO_M_Body.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear left paw -->
+  <HAR_CO_M_Body.corePart.parts.rear_left_leg.parts.rear_left_paw.customLabel>左後爪</HAR_CO_M_Body.corePart.parts.rear_left_leg.parts.rear_left_paw.customLabel>
+  <!-- EN: rear right leg -->
+  <HAR_CO_M_Body.corePart.parts.rear_right_leg.customLabel>右後腿</HAR_CO_M_Body.corePart.parts.rear_right_leg.customLabel>
+  <!-- EN: rear right paw -->
+  <HAR_CO_M_Body.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>右後爪</HAR_CO_M_Body.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>
+  
+</LanguageData>

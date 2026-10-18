@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_Solark.label>龍姬</HAR_Solark.label>
+  <HAR_Solark.description>龍姬是由宙族某一派系創造的人工種族。為了不讓她們建立國家或者大型派系，在其基因上進行了修改，使得她們只能生育出女性。
+    \n\n以夜魔為原型製作的牧菌妖姬和人魚姬的數據為基礎，並以一對多為前提創造的高端種族。
+    \n龍姬體內有一個反物質核心，通過釋放能量可以引起反物質爆炸。
+    \n由於融入了遠古生物的基因，普通的攻擊不會對肉體造成嚴重的傷害，強大的力量可以輕鬆摧毀建築。
+    \n\n雖然在戰鬥中很強大，但也有很多缺點。需要幾人份食物的能量來維持身體機能。
+    \n由於手不夠靈巧，所以從建造到種植之類的工作都很難完成，更不可能攜帶武器。
+    \n另外，由於反物質爐控制需要調節周圍空氣，容易受到溫度驟變的影響，尤其是在被點燃時存在雙倍傷害的風險。
+    \n\n大概是因為她們離開創造主之後過着原始的生活，所以並不介意睡在野外，或者食人之類的。</HAR_Solark.description>
+    <HAR_Solark.alienRace.generalSettings.alienPartGenerator.bodyAddons.0.name>羽</HAR_Solark.alienRace.generalSettings.alienPartGenerator.bodyAddons.0.name>
+    <HAR_Solark.alienRace.generalSettings.alienPartGenerator.bodyAddons.1.name>角</HAR_Solark.alienRace.generalSettings.alienPartGenerator.bodyAddons.1.name>
+  <HAR_Solark.comps.Solark_CompCommandExplosive-0.commandLabel>反物質爆炸(小)</HAR_Solark.comps.Solark_CompCommandExplosive-0.commandLabel>
+  <HAR_Solark.comps.Solark_CompCommandExplosive-0.commandDesc>【範圍:小規模】將儲存在體內的少量反物質釋放到自身周圍，冷卻時間為3天。</HAR_Solark.comps.Solark_CompCommandExplosive-0.commandDesc>
+
+  <HAR_Solark.comps.Solark_CompCommandExplosive-1.commandLabel>反物質爆炸(大)</HAR_Solark.comps.Solark_CompCommandExplosive-1.commandLabel>
+  <HAR_Solark.comps.Solark_CompCommandExplosive-1.commandDesc>【範圍:大規模】將儲存在體內的大量反物質釋放到自身周圍，冷卻時間為1季。</HAR_Solark.comps.Solark_CompCommandExplosive-1.commandDesc>
+
+</LanguageData>

@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ■輕型頭盔(夜魔) -->
+
+  <HAR_NM_HArmor.label>輕型頭盔(夜魔)</HAR_NM_HArmor.label>
+  <HAR_NM_HArmor.description>夜魔的戰鬥用頭部裝備，由於特殊的防護膜擁有不屬於外表的防禦力。</HAR_NM_HArmor.description>
+
+
+  <!-- ■メイドカチューシャ(夜魔) -->
+
+  <HAR_NM_MCt.label>女僕髮箍(夜魔)</HAR_NM_MCt.label>
+  <HAR_NM_MCt.description>夜魔成為女僕後而穿戴的女僕髮箍，不知為何工作效率會提高。</HAR_NM_MCt.description>
+
+
+  <!-- ■花飾り(夜魔) -->
+
+  <HAR_NM_MHK.label>花飾(夜魔)</HAR_NM_MHK.label>
+  <HAR_NM_MHK.description>色彩豐富的夜魔頭飾。</HAR_NM_MHK.description>
+
+
+  <!-- ■カチューシャ(夜魔) -->
+
+  <HAR_NM_Cts.label>髮箍(夜魔)</HAR_NM_Cts.label>
+  <HAR_NM_Cts.description>佩戴起來沒有那麼張揚的低調頭飾。</HAR_NM_Cts.description>
+
+
+  <!-- ■リボン(夜魔) -->
+
+  <HAR_NM_MRbn.label>緞帶(夜魔)</HAR_NM_MRbn.label>
+  <HAR_NM_MRbn.description>增加可愛感的蝴蝶結緞帶，強調自己很可愛時使用。</HAR_NM_MRbn.description>
+
+
+  <!-- ■ティアラ(夜魔) -->
+
+  <HAR_NM_Tar.label>皇冠頭飾(夜魔)</HAR_NM_Tar.label>
+  <HAR_NM_Tar.description>高貴之人所戴的王冠。</HAR_NM_Tar.description>
+
+
+  <!-- ■呪装の兜(夜魔) -->
+
+  <HAR_NM_HCArmor.label>巫咒之盔(夜魔)</HAR_NM_HCArmor.label>
+  <HAR_NM_HCArmor.description>夜魔們的戰鬥用頭部裝備，通過直接對大腦進行感覺強化，可以進行更精確的運動。</HAR_NM_HCArmor.description>
+
+
+  <!-- ■スピリチュアルヘルメット -->
+
+  <HAR_NM_AH_f.label>心靈頭盔(夜魔)</HAR_NM_AH_f.label>
+  <HAR_NM_AH_f.description>夜魔專用的頭部盔甲，比夜魔的巫咒套裝性能更高的裝備。據說原是創造主還健在時代使用的。</HAR_NM_AH_f.description>
+
+
+  <!-- ■ライラウィンプル -->
+
+  <HAR_NM_AH_g.label>修女頭巾(夜魔)</HAR_NM_AH_g.label>
+  <HAR_NM_AH_g.description>屬於真理教會的夜魔專屬的的服裝，乍一看像是修女頭巾，實際上是強化套裝，耐久性比一般的護甲差，但是由於精神力作用，肌肉力量強化且移動速度提高。</HAR_NM_AH_g.description>
+
+
+  <!-- ■フィーンドハット -->
+
+  <HAR_NM_AH_h.label>魔女之帽(夜魔)</HAR_NM_AH_h.label>
+  <HAR_NM_AH_h.description>讓人聯想起幻景種夜魔・阿拉迪亞的帽子，不知道為什麼要做成這樣的形狀。</HAR_NM_AH_h.description>
+
+
+  <!-- ■エクスプロアハット -->
+
+  <HAR_NM_AH_x.label>探索帽(夜魔)</HAR_NM_AH_x.label>
+  <HAR_NM_AH_x.description>夜魔・溫蓋特專用的帽子。為了能夠承受長途旅行而製作。</HAR_NM_AH_x.description>
+
+
+  <!-- ■センチネルカバー -->
+
+  <HAR_NM_AH_r.label>哨兵頭罩(夜魔)</HAR_NM_AH_r.label>
+  <HAR_NM_AH_r.description>。</HAR_NM_AH_r.description>
+
+
+</LanguageData>

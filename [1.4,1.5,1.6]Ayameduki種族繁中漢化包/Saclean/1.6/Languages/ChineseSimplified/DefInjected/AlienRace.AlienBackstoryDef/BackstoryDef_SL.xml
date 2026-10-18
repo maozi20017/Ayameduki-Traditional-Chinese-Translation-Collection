@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ■↓幼少期のバックストーリー -->
+
+  <HAR_SL_Backstory_C1.title>與世隔絕的孩子</HAR_SL_Backstory_C1.title>
+  <HAR_SL_Backstory_C1.titleShort>孤獨的孩子</HAR_SL_Backstory_C1.titleShort>
+  <HAR_SL_Backstory_C1.description>[PAWN_nameDef] 是在一個隔離的宙族設施中出生的，並在那裡度過了 [PAWN_pronoun] 的幼年時期。在那段時間裡，[PAWN_pronoun] 從未受到任何危險的威脅，安全地健康成長。</HAR_SL_Backstory_C1.description>
+
+  <HAR_SL_Backstory_C2.title>權力者的養子</HAR_SL_Backstory_C2.title>
+  <HAR_SL_Backstory_C2.titleShort>養子</HAR_SL_Backstory_C2.titleShort>
+  <HAR_SL_Backstory_C2.description>[PAWN_nameDef] 在自己懂事的時候，因為戰爭失去了家園。但很幸運的是，[PAWN_pronoun]被一位有權力的人選擇收養，得以在豐富的環境中學習許多知識。</HAR_SL_Backstory_C2.description>
+
+  <HAR_SL_Backstory_C3.title>遊牧民的女兒</HAR_SL_Backstory_C3.title>
+  <HAR_SL_Backstory_C3.titleShort>遊牧女</HAR_SL_Backstory_C3.titleShort>
+  <HAR_SL_Backstory_C3.description>[PAWN_nameDef] 是一位由遊牧民族的父親和飛蛾姬所生的孩子。[PAWN_pronoun]在動物和大自然的環繞中成長，並學會了相關的技能和知識。</HAR_SL_Backstory_C3.description>
+
+  <!-- ■↓成人期のバックストーリー -->
+
+  <HAR_SL_Backstory_A1.title>充滿魅力的接待員</HAR_SL_Backstory_A1.title>
+  <HAR_SL_Backstory_A1.titleShort>接待員</HAR_SL_Backstory_A1.titleShort>
+  <HAR_SL_Backstory_A1.description>[PAWN_nameDef] 利用自己的外表，擔任接待業務的職位，他具備了社交能力和處世之道，但相對地對於粗暴的事情卻不太擅長。</HAR_SL_Backstory_A1.description>
+
+  <HAR_SL_Backstory_A2.title>充滿熱情的建築師</HAR_SL_Backstory_A2.title>
+  <HAR_SL_Backstory_A2.titleShort>建築師</HAR_SL_Backstory_A2.titleShort>
+  <HAR_SL_Backstory_A2.description>[PAWN_nameDef] 意外地覺醒了作為建築師的才能，但由於追求正確和精確，他與野生動物的相處卻不太好。</HAR_SL_Backstory_A2.description>
+
+  <HAR_SL_Backstory_A3.title>華美的射手</HAR_SL_Backstory_A3.title>
+  <HAR_SL_Backstory_A3.titleShort>射手</HAR_SL_Backstory_A3.titleShort>
+  <HAR_SL_Backstory_A3.description>[PAWN_nameDef] 擅長射擊遠距離目標，無論是弓箭還是槍枝都能輕鬆應對。。</HAR_SL_Backstory_A3.description>
+
+  <HAR_SL_Backstory_A4.title>妖媚的戰士</HAR_SL_Backstory_A4.title>
+  <HAR_SL_Backstory_A4.titleShort>戰士</HAR_SL_Backstory_A4.titleShort>
+  <HAR_SL_Backstory_A4.description>[PAWN_nameDef] 能夠輕鬆地操縱武器，似乎對於殺戮也沒有什麼抵抗力。</HAR_SL_Backstory_A4.description>
+
+</LanguageData>

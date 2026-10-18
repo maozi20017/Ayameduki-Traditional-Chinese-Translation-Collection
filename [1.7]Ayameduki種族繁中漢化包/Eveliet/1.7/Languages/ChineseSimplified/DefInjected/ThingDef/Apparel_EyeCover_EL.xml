@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ■エヴェドケレン[夜] -->
+
+  <HAR_EL_EyeCover_a.label>夜魔的光之僕</HAR_EL_EyeCover_a.label>
+  <HAR_EL_EyeCover_a.description>刻有伊娃莉特賦予尊榮的人工種族的聖痕手套。
+佩戴後能提升與該種族相關的能力。
+人工種族和人類都可裝備。
+
+
+
+『夜魔，妳們堅定的信仰將使創造主的榮耀更加璀璨。
+　能有妳們作為妹妹是我的驕傲。
+
+
+　但是，請停止邀請男士來教會約會吧…
+　「增加後代是使命嗎？」？…確實是這樣，但至少請在家裡進行吧…』</HAR_EL_EyeCover_a.description>
+
+
+  <!-- ■エヴェドケレン[海] -->
+
+  <HAR_EL_EyeCover_b.label>人魚的光之僕</HAR_EL_EyeCover_b.label>
+  <HAR_EL_EyeCover_b.description>刻有伊娃莉特賦予尊榮的人工種族的聖痕手套。
+佩戴後能提升與該種族相關的能力。
+人工種族和人類都可裝備。
+
+
+
+『人魚姬、創造主之矛，亦為鎧之兵士
+　正因為妳們辛勤工作，迦南才能夠和平。
+　我將繼續對妳們抱持很大的期待。
+
+
+　…但每次戰鬥都過度使用武器，修復工作非常繁瑣啊
+　特別是在自家陣地上濫用爆炸物…有點…』</HAR_EL_EyeCover_b.description>
+
+
+  <!-- ■エヴェドケレン[霊] -->
+
+  <HAR_EL_EyeCover_c.label>幽鬼的光之僕</HAR_EL_EyeCover_c.label>
+  <HAR_EL_EyeCover_c.description>刻有伊娃莉特賦予尊榮的人工種族的聖痕手套。
+佩戴後能提升與該種族相關的能力。
+人工種族和人類都可裝備。
+
+
+『幽靈姬、妳們是偶然誕生的種族
+　但是妳們的誕生為創造主帶來了新的見解。
+　這是非常了不起的事情，值得流傳至後世
+
+
+　…那個，希望妳能快點露出身影……
+　這可是非常重要的授勳儀式…』</HAR_EL_EyeCover_c.description>
+
+
+  <!-- ■エヴェドケレン[菌] -->
+
+  <HAR_EL_EyeCover_d.label>細菌的光之僕</HAR_EL_EyeCover_d.label>
+  <HAR_EL_EyeCover_d.description>刻有伊娃莉特賦予尊榮的人工種族的聖痕手套。
+佩戴後能提升與該種族相關的能力。
+人工種族和人類都可裝備。
+
+
+
+『牧菌妖姬，妳們體內的細菌對迦南的環境改善做出了巨大貢獻。
+　能夠充分開發星球的資源，這多虧了妳們的幫助，這一點絕不言過。
+
+
+　但這裡不適合細菌繁殖，所以請盡量不要到處弄得黏糊糊啊…
+　洗窗簾和地毯可不是輕鬆的事情呦？』</HAR_EL_EyeCover_d.description>
+
+
+  <!-- ■エヴェドケレン[竜] -->
+
+  <HAR_EL_EyeCover_e.label>龍人的光之僕</HAR_EL_EyeCover_e.label>
+  <HAR_EL_EyeCover_e.description>刻有伊娃莉特賦予尊榮的人工種族的聖痕手套。
+佩戴後能提升與該種族相關的能力。
+人工種族和人類都可裝備。
+
+
+
+『龍姬、強大的龍人們、妳們的存在就是對宙族的制衡
+　希望妳們能繼續擔任迦南的守護者
+
+
+　…這是忠告，即使妳們的身體強壯，也不要過於放縱自己。
+　再說，如果因為亂吃東西而倒下了，我也不會管哦？？』</HAR_EL_EyeCover_e.description>
+
+
+  <!-- ■エヴェドケレン[宙] -->
+
+  <HAR_EL_EyeCover_f.label>宇宙的光之僕</HAR_EL_EyeCover_f.label>
+  <HAR_EL_EyeCover_f.description>刻有伊娃莉特賦予尊榮的人工種族的聖痕手套。
+佩戴後能提升與該種族相關的能力。
+人工種族和人類都可裝備。
+
+
+
+『偽神族、可愛的小小傳達者們
+　　　　　＼這在幹嘛?／
+　妳們的笑容是迦南和平的最好證明
+　　　＼是這樣嗎?／
+　希望妳們能繼續這樣健康下去…
+　　　　　　　　　　　　　＼好的!／
+
+
+…那個，我們將進行授獎儀式，請保持安靜，感激不盡…
+　　　　　　　　　　　　　　　　　　　　＼去玩囉!／』</HAR_EL_EyeCover_f.description>
+
+
+  <!-- ■エヴェドケレン[王] -->
+
+  <HAR_EL_EyeCover_g.label>王族的光之僕</HAR_EL_EyeCover_g.label>
+  <HAR_EL_EyeCover_g.description>刻有伊娃莉特賦予尊榮的人工種族的聖痕手套。
+佩戴後能提升與該種族相關的能力。
+人工種族和人類都可裝備。
+
+
+
+『　　　　我沒有什麼要對妳們說的　　　　』</HAR_EL_EyeCover_g.description>
+
+
+  <!-- ■エヴェドケレン[影] -->
+
+  <HAR_EL_EyeCover_h.label>混沌的光之僕</HAR_EL_EyeCover_h.label>
+  <HAR_EL_EyeCover_h.description>刻有伊娃莉特賦予尊榮的人工種族的聖痕手套。
+佩戴後能提升與該種族相關的能力。
+人工種族和人類都可裝備。
+
+
+
+『混沌靈、住在迦南之影的守護者們
+　大家能安全地生活，都是因為有妳們的監視
+　請用妳們溫柔的影子保護人們免受惡意的傷害
+　
+　
+　…？嗯，那個…聽的到嗎……？
+　啊……已經睡著了…』</HAR_EL_EyeCover_h.description>
+
+
+  <!-- ■エヴェドケレン[獣] -->
+
+  <HAR_EL_EyeCover_i.label>獸人的光之僕</HAR_EL_EyeCover_i.label>
+  <HAR_EL_EyeCover_i.description>刻有伊娃莉特賦予尊榮的人工種族的聖痕手套。
+佩戴後能提升與該種族相關的能力。
+人工種族和人類都可裝備。
+
+
+
+『亞人獸娘，迦南能夠取得這樣的發展，全賴於妳們的努力
+　請用妳們的能力繼續支持人們的生活。
+　
+　
+　…雖然如此，隨意踰越人道只為了滿足好奇心，是不可取的…
+　上次的爆炸事故，為了平息騷動真是費了一番苦心阿…？』</HAR_EL_EyeCover_i.description>
+
+
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_EL_Material_a.label>真理之石</HAR_EL_Material_a.label>
+  <HAR_EL_Material_a.description>伊娃莉特吸血時產生的白色礦石。
+被用作某些特殊裝備的材料。</HAR_EL_Material_a.description>
+  <HAR_EL_Material_a.comps.0.useLabel>啟用 {0_label}</HAR_EL_Material_a.comps.0.useLabel>
+
+
+</LanguageData>

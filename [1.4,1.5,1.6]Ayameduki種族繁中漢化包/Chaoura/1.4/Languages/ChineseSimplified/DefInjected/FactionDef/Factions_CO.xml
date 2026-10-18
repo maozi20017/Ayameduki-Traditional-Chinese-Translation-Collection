@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Chaoura_Base_Faction.leaderTitle>領袖</Chaoura_Base_Faction.leaderTitle>
+
+  <Chaoura_P_Faction.label>混沌靈的隱居之鄉</Chaoura_P_Faction.label>
+  <Chaoura_P_Faction.description>混沌靈們聚集在一起平和的隱居著的聚落。</Chaoura_P_Faction.description>
+  <Chaoura_P_Faction.pawnsPlural>混沌靈們</Chaoura_P_Faction.pawnsPlural>
+
+  <Chaoura_Faction_NPC.label>死伽屋</Chaoura_Faction_NPC.label>
+  <Chaoura_Faction_NPC.description>以暗殺為生的混沌靈派系，巧妙地隱藏了據點，無法在地圖上找到。
+    \n主要承包針對急速發展的派系和巨型殖民地的襲擊委託。</Chaoura_Faction_NPC.description>
+  <Chaoura_Faction_NPC.fixedName>死伽屋</Chaoura_Faction_NPC.fixedName>
+  <Chaoura_Faction_NPC.pawnsPlural>混沌靈</Chaoura_Faction_NPC.pawnsPlural>
+  <Chaoura_Faction_NPC.leaderTitle>領袖</Chaoura_Faction_NPC.leaderTitle>
+
+
+</LanguageData>

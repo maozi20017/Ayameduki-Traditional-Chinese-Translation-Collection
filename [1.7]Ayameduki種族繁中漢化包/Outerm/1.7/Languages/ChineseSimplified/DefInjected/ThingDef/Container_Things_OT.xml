@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 貨物コンテナ -->
+  <HAR_OT_Thing_Container_a.label>貨物貨櫃</HAR_OT_Thing_Container_a.label>
+  <!-- EN: 裏社会のシンジケート「ハオス」の貨物コンテナ。\n破壊することで中の物品を回収することが出来る。 -->
+  <HAR_OT_Thing_Container_a.description>地下社會辛迪加「混沌」的貨物貨櫃。\n摧毀後即可回收其中的物品。</HAR_OT_Thing_Container_a.description>
+  
+</LanguageData>

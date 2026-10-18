@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_NM_R_Weapon_A.label>幻覺兵器研究·壹</HAR_NM_R_Weapon_A.label>
+  <HAR_NM_R_Weapon_A.description>研究把夜魔的幻覺能力用於製作適合對大部分生物使用的武器的技術。</HAR_NM_R_Weapon_A.description>
+
+  <HAR_NM_R_Weapon_B.label>幻覺兵器研究·貳</HAR_NM_R_Weapon_B.label>
+  <HAR_NM_R_Weapon_B.description>研究把夜魔的幻覺能力用於製造適合大範圍使用的武器的技術。</HAR_NM_R_Weapon_B.description>
+
+  <HAR_NM_R_Weapon_C.label>幻覺兵器研究·叄</HAR_NM_R_Weapon_C.label>
+  <HAR_NM_R_Weapon_C.description>研究把夜魔的幻覺能力用於製造對付軍團級別的武器的技術。</HAR_NM_R_Weapon_C.description>
+
+
+</LanguageData>

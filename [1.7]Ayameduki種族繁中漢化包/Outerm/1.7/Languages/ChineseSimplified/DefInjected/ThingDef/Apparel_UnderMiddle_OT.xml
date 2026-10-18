@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: カキストスウェアA -->
+  <HAR_OT_Apparel_T_a.label>極惡裝束A(域外者)</HAR_OT_Apparel_T_a.label>
+  <!-- EN: アウターム達が好んで着用する上着。彼女達の感性故か、どこか退廃的。 -->
+  <HAR_OT_Apparel_T_a.description>域外者們偏好穿著的上衣，因其獨特的美感而散發出一種頹廢氣息。</HAR_OT_Apparel_T_a.description>
+  
+  <!-- EN: ディアフトラアーマー -->
+  <HAR_OT_Apparel_T_Armor_a.label>腐滅盔甲(域外者)</HAR_OT_Apparel_T_Armor_a.label>
+  <!-- EN: アウターム専用のアーマー。インプットされた自動補正機能により精密な動きが可能。 -->
+  <HAR_OT_Apparel_T_Armor_a.description>域外者專用的盔甲。透過內建的自動校正功能，得以實現精密的動作。</HAR_OT_Apparel_T_Armor_a.description>
+  
+  <!-- EN: アポリアドレス -->
+  <HAR_OT_Apparel_T_Armor_lvx.label>困境禮服(域外者)</HAR_OT_Apparel_T_Armor_lvx.label>
+  <!-- EN: ハオスの中でも選ばれたアウタームのみ、身に付けることが許される礼服。\n清廉な白と青を基調とした彼女達らしからぬその衣装から、彼女達に信心深い一面が確かにあることを思わせる。 -->
+  <HAR_OT_Apparel_T_Armor_lvx.description>即便在混沌之中，也只有被選中的域外者才被允許穿著的禮服。\n以純潔的白與藍為基調、與她們平時風格迥異的服裝，卻令人確實感受到她們虔誠信仰的一面。</HAR_OT_Apparel_T_Armor_lvx.description>
+   
+  <!-- EN: カキストスウェアB -->
+  <HAR_OT_Apparel_T_b.label>極惡裝束B(域外者)</HAR_OT_Apparel_T_b.label>
+  <!-- EN: アウターム達が好んで着用する上着。彼女達の感性故か、どこか退廃的。 -->
+  <HAR_OT_Apparel_T_b.description>域外者們偏好穿著的上衣，因其獨特的美感而散發出一種頹廢氣息。</HAR_OT_Apparel_T_b.description>
+  
+  <!-- EN: カキストスウェアC -->
+  <HAR_OT_Apparel_T_c.label>極惡裝束C(域外者)</HAR_OT_Apparel_T_c.label>
+  <!-- EN: アウターム達が好んで着用する上着。彼女達の感性故か、どこか退廃的。 -->
+  <HAR_OT_Apparel_T_c.description>域外者們偏好穿著的上衣，因其獨特的美感而散發出一種頹廢氣息。</HAR_OT_Apparel_T_c.description>
+  
+  <!-- EN: カキストスウェアD -->
+  <HAR_OT_Apparel_T_d.label>極惡裝束D(域外者)</HAR_OT_Apparel_T_d.label>
+  <!-- EN: アウターム達が好んで着用する上着。彼女達の感性故か、どこか退廃的。 -->
+  <HAR_OT_Apparel_T_d.description>域外者們偏好穿著的上衣，因其獨特的美感而散發出一種頹廢氣息。</HAR_OT_Apparel_T_d.description>
+  
+  <!-- EN: カキストスウェアE -->
+  <HAR_OT_Apparel_T_e.label>極惡裝束E(域外者)</HAR_OT_Apparel_T_e.label>
+  <!-- EN: アウターム達が好んで着用する上着。彼女達の感性故か、どこか退廃的。 -->
+  <HAR_OT_Apparel_T_e.description>域外者們偏好穿著的上衣，因其獨特的美感而散發出一種頹廢氣息。</HAR_OT_Apparel_T_e.description>
+  
+  <!-- EN: カキストススーツ -->
+  <HAR_OT_Apparel_T_Suit_a.label>極惡西裝(域外者)</HAR_OT_Apparel_T_Suit_a.label>
+  <!-- EN: アウターム達が好んで着用する上着。扇情的な衣服を好むアウタームと言えど、幹部クラスともなると身だしなみを気を付けるようだ。 -->
+  <HAR_OT_Apparel_T_Suit_a.description>域外者們偏好穿著的上衣。即便域外者普遍喜歡煽情的服裝，但到了幹部級別，似乎也會注意自己的儀容。</HAR_OT_Apparel_T_Suit_a.description>
+  
+</LanguageData>

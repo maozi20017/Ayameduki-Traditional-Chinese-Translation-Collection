@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_Nearmaere_e.label>夜魔・涅墨西斯</HAR_Nearmaere_e.label>
+  <HAR_Nearmaere_e.description>夜魔・涅墨西斯是由迦南的神子偽神族·可能性所創造的夜魔的一個亞種。
+它們植入了額外的器官「赫斯緹雅熔爐」，並進行了基因調整，以在各種戰場上應對。
+
+赫斯緹雅熔爐是為了更精確地進行難度較高的精密機械召喚而設計的生成器官。
+它的存在讓涅墨西斯與機械有著高度的親和性，使其能夠精確運用各種武器。
+
+生成精密機械所需的能量會自動慢慢充電。
+雖然也可以有意識地進行快速充電，但作為代價，會增加卡路里消耗，使得更容易感到饑餓。
+
+雖然耐久性和體力已經得到改善，但與普通人類差別不大。
+然而，穿上最新鋭的裝備可以彌補這些缺點。
+
+許多夜魔・涅墨西斯屬於「邊境星球保全機構-ETHOS-」，他們負責監視邊境星球。
+因此，在這個地區活動的話，可能會有機會看到她們。</HAR_Nearmaere_e.description>
+  <HAR_Nearmaere_e.alienRace.generalSettings.alienPartGenerator.bodyAddons.0.name>羽</HAR_Nearmaere_e.alienRace.generalSettings.alienPartGenerator.bodyAddons.0.name>
+  <HAR_Nearmaere_e.alienRace.generalSettings.alienPartGenerator.bodyAddons.1.name>角</HAR_Nearmaere_e.alienRace.generalSettings.alienPartGenerator.bodyAddons.1.name>
+  <HAR_Nearmaere_e.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>hair</HAR_Nearmaere_e.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <HAR_Nearmaere_e.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>skin</HAR_Nearmaere_e.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
+  <HAR_Nearmaere_e.tools.0.label>left fist</HAR_Nearmaere_e.tools.0.label>
+  <HAR_Nearmaere_e.tools.1.label>right fist</HAR_Nearmaere_e.tools.1.label>
+
+  <HAR_Nearmaere_e.comps.HAR_NM_Comp_Skill_a.commandLabel>急速充電</HAR_Nearmaere_e.comps.HAR_NM_Comp_Skill_a.commandLabel>
+  <HAR_Nearmaere_e.comps.HAR_NM_Comp_Skill_a.commandDesc>將赫斯緹雅熔爐充電30%EN
+    \n作為副作用，會增加饑餓感
+    \n需要等待1天的時間才能再次使用。</HAR_Nearmaere_e.comps.HAR_NM_Comp_Skill_a.commandDesc>
+
+  <HAR_Nearmaere_e.comps.HAR_NM_Comp_Skill_b.commandLabel>諾托斯手榴彈</HAR_Nearmaere_e.comps.HAR_NM_Comp_Skill_b.commandLabel>
+  <HAR_Nearmaere_e.comps.HAR_NM_Comp_Skill_b.commandDesc>將手榴彈投擲至指定格
+    \n消費EN　　：　5</HAR_Nearmaere_e.comps.HAR_NM_Comp_Skill_b.commandDesc>
+
+  <HAR_Nearmaere_e.comps.HAR_NM_Comp_Skill_c.commandLabel>阿克里西俄斯護盾</HAR_Nearmaere_e.comps.HAR_NM_Comp_Skill_c.commandLabel>
+  <HAR_Nearmaere_e.comps.HAR_NM_Comp_Skill_c.commandDesc>以自身為中心展開半徑為2格的低角度護盾
+    \n消費EN　　：　20</HAR_Nearmaere_e.comps.HAR_NM_Comp_Skill_c.commandDesc>
+
+  <HAR_Nearmaere_e.comps.HAR_NM_Comp_Skill_d.commandLabel>安塔瑞斯地雷</HAR_Nearmaere_e.comps.HAR_NM_Comp_Skill_d.commandLabel>
+  <HAR_Nearmaere_e.comps.HAR_NM_Comp_Skill_d.commandDesc>放置爆破地雷在指定的格子
+    \n消費EN　　：　10</HAR_Nearmaere_e.comps.HAR_NM_Comp_Skill_d.commandDesc>
+
+  <HAR_Nearmaere_e.comps.HAR_NM_Comp_Skill_e.commandLabel>歐律托斯加農</HAR_Nearmaere_e.comps.HAR_NM_Comp_Skill_e.commandLabel>
+  <HAR_Nearmaere_e.comps.HAR_NM_Comp_Skill_e.commandDesc>在指定的格子附近發射8連迫擊砲
+    \n消費EN　　：　60</HAR_Nearmaere_e.comps.HAR_NM_Comp_Skill_e.commandDesc>
+
+
+</LanguageData>

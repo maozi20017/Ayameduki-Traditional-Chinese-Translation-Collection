@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!--召喚呪文を詠唱中-->
+	<CSS_Jobs_CastSummon.reportString>正在吟唱召喚咒文</CSS_Jobs_CastSummon.reportString>
+
+</LanguageData>

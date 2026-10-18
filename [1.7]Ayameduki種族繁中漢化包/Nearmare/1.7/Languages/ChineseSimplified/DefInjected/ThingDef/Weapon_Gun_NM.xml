@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_NM_Weapon_Gun_a.label>步槍『萬軍之主』</HAR_NM_Weapon_Gun_a.label>
+  <HAR_NM_Weapon_Gun_a.description>在人工種族的故鄉，迦南上採用的槍枝。
+    \n可以期待其高穿透性和穩定的火力。
+    \n有點不便攜帶是一個缺點。
+    \n\n步槍『萬軍之主』具有優秀的連射性能和射程，無論在哪個距離都具有高命中精度。
+    \n此外，還裝備了劍，可以在必要時進行近戰戰鬥。</HAR_NM_Weapon_Gun_a.description>
+  <HAR_NM_Weapon_Gun_a.tools.0.label>銃劍</HAR_NM_Weapon_Gun_a.tools.0.label>
+
+  <Bullet_AssaultRifle_NM_a.label>assault rifle bullet</Bullet_AssaultRifle_NM_a.label>
+
+  <HAR_NM_Weapon_Gun_b.label>霰彈槍『雨』</HAR_NM_Weapon_Gun_b.label>
+  <HAR_NM_Weapon_Gun_b.description>在人工種族的故鄉，迦南上採用的槍枝。
+    \n可以期待其高穿透性和穩定的火力。
+    \n有點不便攜帶是一個缺點。
+    \n\n霰彈槍『雨』射程雖短，但其破壞力足以輕易粉碎機械生命體。</HAR_NM_Weapon_Gun_b.description>
+  <HAR_NM_Weapon_Gun_b.tools.0.label>槍托</HAR_NM_Weapon_Gun_b.tools.0.label>
+  <HAR_NM_Weapon_Gun_b.tools.1.label>槍管</HAR_NM_Weapon_Gun_b.tools.1.label>
+
+  <Bullet_Shotgun_NM.label>shotgun blast</Bullet_Shotgun_NM.label>
+
+
+</LanguageData>

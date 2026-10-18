@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!--アイティオンアーマー-->
+	<HAR_IA_Armor_a.label>艾蒂安盔甲(艾蒂安)</HAR_IA_Armor_a.label>
+	<!--イデア－ン専用のアーマー、創造主時代に運用されていたかは不明。そもそも彼女達は元から丈夫な為必要性はあまりない。-->
+	<HAR_IA_Armor_a.description>艾蒂安專用的盔甲，不確定是否在創造主時代就已在使用。不過他們本身就很強了，其實也沒有穿的必要。</HAR_IA_Armor_a.description>
+
+	<!--オルフェンウェア-->
+	<HAR_IA_Armor_b.label>奧爾芬服(艾蒂安)</HAR_IA_Armor_b.label>
+	<!--イデア－ン専用の謎の装備、通常のイデアーン達は装備出来ない-->
+	<HAR_IA_Armor_b.description>艾蒂安專用的謎之裝備，普通艾蒂安無法裝備。</HAR_IA_Armor_b.description>
+
+</LanguageData>

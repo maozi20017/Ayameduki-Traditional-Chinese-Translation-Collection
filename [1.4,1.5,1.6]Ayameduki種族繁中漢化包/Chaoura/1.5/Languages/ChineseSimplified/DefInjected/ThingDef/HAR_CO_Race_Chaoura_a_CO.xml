@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <HAR_CO_Race_Chaoura_a.label>混沌靈</HAR_CO_Race_Chaoura_a.label>
+  <HAR_CO_Race_Chaoura_a.description>混沌靈是由宙族某一派系創造的人工種族。為了不讓她們建立國家或者大型派系，在其基因上進行了修改，使得她們只能生育出女性。\n\n混沌靈是以通過偽神族得到的、潛藏在宇宙極淵中的超然存在【空天之海】的數據為基礎，對現有的人工種族改良後誕生的。她們擁有超然存在留存的、進行概念干擾的輔助器官，且肉體強度尚可。\n\n混沌靈們精通虛數、混沌等人類認知之外的概念，可就算是在其中暗影的存在仍舊模糊，對宇宙原理有很高的親和性。除了在黑暗中會大幅提高身體機能外，還能利用虛數空間的轉移能力發揮出識別障礙等特異功能，堪稱夜戰無雙。\n\n其他生物攻擊混沌靈時會發生『深淵腐敗』現象，漸漸對身體產生不良影響。\n\n有得必有失，她們同樣有著很多的劣勢。為了能更好的親和黑暗，本體和裝備沒有物理防護，且只能使用定制的專用武器。並且強烈的日光會麻痺她們的輔助器官，使其身體能力下降，也正因如此，大部分混沌靈都喜歡在夜間活動。</HAR_CO_Race_Chaoura_a.description>
+  <HAR_CO_Race_Chaoura_a.alienRace.generalSettings.alienPartGenerator.bodyAddons.0.name>外殻</HAR_CO_Race_Chaoura_a.alienRace.generalSettings.alienPartGenerator.bodyAddons.0.name>
+  <HAR_CO_Race_Chaoura_a.alienRace.generalSettings.alienPartGenerator.bodyAddons.1.name>外殻</HAR_CO_Race_Chaoura_a.alienRace.generalSettings.alienPartGenerator.bodyAddons.1.name>
+  <HAR_CO_Race_Chaoura_a.comps.Comp_HAR_CO_Skill_Skip.commandLabel>影之躍</HAR_CO_Race_Chaoura_a.comps.Comp_HAR_CO_Skill_Skip.commandLabel>
+  <HAR_CO_Race_Chaoura_a.comps.Comp_HAR_CO_Skill_Skip.commandDesc>瞬間移動到選擇的位置上</HAR_CO_Race_Chaoura_a.comps.Comp_HAR_CO_Skill_Skip.commandDesc>
+
+  <HAR_CO_Race_Chaoura_a.comps.Chaoura_CompCommandExplosive_b.commandLabel>復仇</HAR_CO_Race_Chaoura_a.comps.Chaoura_CompCommandExplosive_b.commandLabel>
+  <HAR_CO_Race_Chaoura_a.comps.Chaoura_CompCommandExplosive_b.commandDesc>進入追殺射擊自己的敵人的狀態——只有當自身處於黑暗中時才生效，冷卻時間為3天。</HAR_CO_Race_Chaoura_a.comps.Chaoura_CompCommandExplosive_b.commandDesc>
+
+  <HAR_CO_Race_Chaoura_a.comps.Chaoura_CompCommandExplosive.commandLabel>血狂</HAR_CO_Race_Chaoura_a.comps.Chaoura_CompCommandExplosive.commandLabel>
+  <HAR_CO_Race_Chaoura_a.comps.Chaoura_CompCommandExplosive.commandDesc>向周圍半徑3格的範圍釋放出血斬擊，遭到攻擊的敵人進入黑暗中時會受到進一步的傷害。</HAR_CO_Race_Chaoura_a.comps.Chaoura_CompCommandExplosive.commandDesc>
+
+  <!-- EN: left fist -->
+  <HAR_CO_Race_Chaoura_a.tools.left_fist.label>左拳</HAR_CO_Race_Chaoura_a.tools.left_fist.label>
+  <!-- EN: right fist -->
+  <HAR_CO_Race_Chaoura_a.tools.right_fist.label>右拳</HAR_CO_Race_Chaoura_a.tools.right_fist.label>
+  
+</LanguageData>

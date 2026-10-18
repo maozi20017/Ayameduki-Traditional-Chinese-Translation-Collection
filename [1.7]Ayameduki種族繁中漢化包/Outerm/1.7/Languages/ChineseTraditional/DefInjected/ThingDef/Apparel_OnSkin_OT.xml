@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: カキストスランジェリーA -->
+  <HAR_OT_Apparel_O_a.label>極惡內衣A(域外者)</HAR_OT_Apparel_O_a.label>
+  <!-- EN: アウターム達が好んで着用する下着。防御力はあまり期待できない。 -->
+  <HAR_OT_Apparel_O_a.description>域外者們喜歡穿著的內衣。不用期待其防禦力。</HAR_OT_Apparel_O_a.description>
+  
+  <!-- EN: カキストスランジェリーB -->
+  <HAR_OT_Apparel_O_b.label>極惡內衣B(域外者)</HAR_OT_Apparel_O_b.label>
+  <!-- EN: アウターム達が好んで着用する下着。防御力はあまり期待できない。 -->
+  <HAR_OT_Apparel_O_b.description>域外者們喜歡穿著的內衣。不用期待其防禦力。</HAR_OT_Apparel_O_b.description>
+  
+  <!-- EN: カキストスランジェリーC -->
+  <HAR_OT_Apparel_O_c.label>極惡內衣C(域外者)</HAR_OT_Apparel_O_c.label>
+  <!-- EN: アウターム達が好んで着用する下着。防御力はあまり期待できない。 -->
+  <HAR_OT_Apparel_O_c.description>域外者們喜歡穿著的內衣。不用期待其防禦力。</HAR_OT_Apparel_O_c.description>
+  
+</LanguageData>

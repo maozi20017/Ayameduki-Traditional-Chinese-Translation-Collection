@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 食品 -->
+
+  <BMOT_Building_MailOrderTerminal_Food.label>亞人工業食品店</BMOT_Building_MailOrderTerminal_Food.label>
+  <BMOT_Building_MailOrderTerminal_Food.description>是可以和亞人工業的商家直接交易的商店。需要用到交易信標，貨物每3天輪換一次。</BMOT_Building_MailOrderTerminal_Food.description>
+
+
+  <!-- 資材 -->
+
+  <BMOT_Building_MailOrderTerminal_Material.label>亞人工業材料店</BMOT_Building_MailOrderTerminal_Material.label>
+  <BMOT_Building_MailOrderTerminal_Material.description>是可以和亞人工業的商家直接交易的商店。需要用到交易信標，貨物每3天輪換一次。</BMOT_Building_MailOrderTerminal_Material.description>
+
+
+  <!-- 家具 -->
+
+  <BMOT_Building_MailOrderTerminal_Furniture.label>亞人工業家具店</BMOT_Building_MailOrderTerminal_Furniture.label>
+  <BMOT_Building_MailOrderTerminal_Furniture.description>是可以和亞人工業的商家直接交易的商店。需要用到交易信標，貨物每3天輪換一次。</BMOT_Building_MailOrderTerminal_Furniture.description>
+
+
+  <!-- 家畜 -->
+
+  <BMOT_Building_MailOrderTerminal_Animal.label>亞人工業家畜店</BMOT_Building_MailOrderTerminal_Animal.label>
+  <BMOT_Building_MailOrderTerminal_Animal.description>是可以和亞人工業的商家直接交易的商店。需要用到交易信標，貨物每3天輪換一次。</BMOT_Building_MailOrderTerminal_Animal.description>
+
+
+  <!-- 奴隷 -->
+
+  <BMOT_Building_MailOrderTerminal_Slave.label>亞人工業奴隸店</BMOT_Building_MailOrderTerminal_Slave.label>
+  <BMOT_Building_MailOrderTerminal_Slave.description>是可以和亞人工業的商家直接交易的商店。需要用到交易信標，貨物每3天輪換一次。</BMOT_Building_MailOrderTerminal_Slave.description>
+
+
+</LanguageData>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_NC_Hediff_Flag.label>重大的來訪</HAR_NC_Hediff_Flag.label>
+  <HAR_NC_Hediff_Flag.description>。</HAR_NC_Hediff_Flag.description>
+
+  <HAR_NC_Invisibility.label>外界的來訪者</HAR_NC_Invisibility.label>
+  <HAR_NC_Invisibility.description>被某種力量使其處於不可見狀態。
+    \n在30分鐘內，不會成為敵人的攻擊目標。</HAR_NC_Invisibility.description>
+
+  <HAR_NC_Invisibility_b.label>外界的來訪者</HAR_NC_Invisibility_b.label>
+  <HAR_NC_Invisibility_b.description>被某種力量使其處於不可見狀態。
+    \n在短暫的時間內，不會成為敵人的攻擊目標。</HAR_NC_Invisibility_b.description>
+
+  <Neclose_Artificial_b.label>外來種族(牧菌妖姬・虛偽之物)</Neclose_Artificial_b.label>
+  <Neclose_Artificial_b.description>牧菌妖姬・虛偽之物是出身不明的種族。
+    \n\n她們不像人一樣會流血，且內臟機能特別發達。</Neclose_Artificial_b.description>
+
+
+</LanguageData>

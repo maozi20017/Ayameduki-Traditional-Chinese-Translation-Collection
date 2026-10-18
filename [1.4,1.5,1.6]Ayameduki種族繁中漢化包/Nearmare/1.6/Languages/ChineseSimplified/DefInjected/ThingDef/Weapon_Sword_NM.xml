@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_NM_Weapon_Sword_a.label>護符之刃</HAR_NM_Weapon_Sword_a.label>
+  <HAR_NM_Weapon_Sword_a.description>在人工種族的故鄉，迦南上採用的劍。
+    \n可以期待其高穿透性和穩定的火力。
+    \n重視維持使用者而非殲滅，並具備提升近戰能力的機能。</HAR_NM_Weapon_Sword_a.description>
+  <HAR_NM_Weapon_Sword_a.tools.0.label>handle</HAR_NM_Weapon_Sword_a.tools.0.label>
+  <HAR_NM_Weapon_Sword_a.tools.1.label>point</HAR_NM_Weapon_Sword_a.tools.1.label>
+  <HAR_NM_Weapon_Sword_a.tools.2.label>edge</HAR_NM_Weapon_Sword_a.tools.2.label>
+
+
+</LanguageData>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef]はハオスの構成員です。天性の才能故か、多くの技能をそれなりにこなせるようです。 -->
+  <HAR_OT_Backstory_e_A1.description>[PAWN_nameDef] 是混沌的成員。或許是因為天生的才能，似乎能夠把許多技能都掌握到相當不錯的程度。</HAR_OT_Backstory_e_A1.description>
+  <!-- EN: ハオス構成員 -->
+  <HAR_OT_Backstory_e_A1.title>混沌成員</HAR_OT_Backstory_e_A1.title>
+  <!-- EN: ハオス構成員 -->
+  <HAR_OT_Backstory_e_A1.titleShort>混沌成員</HAR_OT_Backstory_e_A1.titleShort>
+  
+  <!-- EN: [PAWN_nameDef]の出生は確証か乏しく真実味がありません。しかし、本人は大して気にしていないようです。 -->
+  <HAR_OT_Backstory_e_C1.description>[PAWN_nameDef] 的出身缺乏確切證據，真實性也令人存疑。不過，本人似乎並不怎麼在意。</HAR_OT_Backstory_e_C1.description>
+  <!-- EN: 出生不透明 -->
+  <HAR_OT_Backstory_e_C1.title>出生不透明</HAR_OT_Backstory_e_C1.title>
+  <!-- EN: 出生不透明 -->
+  <HAR_OT_Backstory_e_C1.titleShort>出生不透明</HAR_OT_Backstory_e_C1.titleShort>
+  
+</LanguageData>

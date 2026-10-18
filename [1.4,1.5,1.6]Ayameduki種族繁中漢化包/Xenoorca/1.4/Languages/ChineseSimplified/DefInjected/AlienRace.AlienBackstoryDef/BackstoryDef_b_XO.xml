@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ■↓幼少期のバックストーリー -->
+
+  <HAR_XO_Backstory_b_C1.title>神逐</HAR_XO_Backstory_b_C1.title>
+  <HAR_XO_Backstory_b_C1.titleShort>神逐</HAR_XO_Backstory_b_C1.titleShort>
+  <HAR_XO_Backstory_b_C1.baseDesc>[PAWN_nameDef] 是一位曾經犯下重罪，被大國放逐的種族後裔。然而，他似乎也繼承了那種強大的力量。</HAR_XO_Backstory_b_C1.baseDesc>
+
+  <HAR_XO_Backstory_b_A1.title>淵叢主</HAR_XO_Backstory_b_A1.title>
+  <HAR_XO_Backstory_b_A1.titleShort>淵叢主</HAR_XO_Backstory_b_A1.titleShort>
+  <HAR_XO_Backstory_b_A1.baseDesc>[PAWN_nameDef] 是領導殺人鯨旅團的海達諾亞之一。她擁有足夠的能力來指揮她們。</HAR_XO_Backstory_b_A1.baseDesc>
+
+
+</LanguageData>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<loadFolders>
+  <v1.7>
+    <li IfModActive="ayameduki.ayaracepremise">AyaRacePremise/1.7</li>
+    <li IfModActive="Ayameduki.AyaCanaanIntellect">CanaanIntellect/1.7</li>
+    <li IfModActive="ayameduki.harnexaga">Nexaga/1.7</li>
+    <li IfModActive="ayameduki.harchaoura">Chaoura/1.7</li>
+    <li IfModActive="ayameduki.hareveliet">Eveliet/1.7</li>
+    <li IfModActive="ayameduki.haridhale">Idhale/1.7</li>
+    <li IfModActive="ayameduki.harlittluna">Littluna/1.7</li>
+    <li IfModActive="ayameduki.harnearmare">Nearmare/1.7</li>
+    <li IfModActive="ayameduki.harneclose">Neclose/1.7</li>
+    <li IfModActive="ayameduki.harouterm">Outerm/1.7</li>
+    <li IfModActive="ayameduki.harqualeela">Qualeela/1.7</li>
+    <li IfModActive="ayameduki.harsaclean">Saclean/1.7</li>
+    <li IfModActive="ayameduki.harsilkiera">Silkiera/1.7</li>
+    <li IfModActive="ayameduki.harsolark">Solark/1.7</li>
+    <li IfModActive="ayameduki.harxenoorca">Xenoorca/1.7</li>
+    <li IfModActive="ayameduki.harzoichor">Zoichor/1.7</li>
+  </v1.7>
+</loadFolders>

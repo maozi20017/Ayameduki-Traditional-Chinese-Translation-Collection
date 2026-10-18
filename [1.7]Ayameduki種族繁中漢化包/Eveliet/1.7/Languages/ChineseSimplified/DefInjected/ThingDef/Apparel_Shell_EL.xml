@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ■救贖主夾克A(伊娃莉特) -->
+
+  <HAR_EL_Apparel_Shell_a.label>救贖主夾克A(伊娃莉特)</HAR_EL_Apparel_Shell_a.label>
+  <HAR_EL_Apparel_Shell_a.description>伊娃莉特專用的披風。由於裝備仍在調整中，性能並不高。</HAR_EL_Apparel_Shell_a.description>
+
+
+  <!-- ■救贖主夾克B(伊娃莉特) -->
+
+  <HAR_EL_Apparel_Shell_b.label>救贖主夾克B(伊娃莉特)</HAR_EL_Apparel_Shell_b.label>
+  <HAR_EL_Apparel_Shell_b.description>伊娃莉特專用的披風。由於裝備仍在調整中，性能並不高。</HAR_EL_Apparel_Shell_b.description>
+
+
+  <!-- ■救贖主夾克C(伊娃莉特) -->
+
+  <HAR_EL_Apparel_Shell_c.label>救贖主夾克C(伊娃莉特)</HAR_EL_Apparel_Shell_c.label>
+  <HAR_EL_Apparel_Shell_c.description>伊娃莉特專用的披風。由於裝備仍在調整中，性能並不高。</HAR_EL_Apparel_Shell_c.description>
+  
+  
+  <!-- ■イシャバアルローブ -->
+
+  <HAR_EL_Apparel_Shell_d.label>救贖主長袍(伊娃莉特)</HAR_EL_Apparel_Shell_d.label>
+  <HAR_EL_Apparel_Shell_d.description>伊娃莉特專用的長袍。僅供真理教會的教祖穿著的神聖服裝，其他人不得穿著。其次級版本被用作偽神族的長袍。</HAR_EL_Apparel_Shell_d.description>
+  
+
+</LanguageData>

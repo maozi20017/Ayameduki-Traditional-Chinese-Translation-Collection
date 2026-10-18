@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ■子供用シャツ -->
+
+  <Aya_Race_Ap_C_T_a.label>兒童款式汗衫</Aya_Race_Ap_C_T_a.label>
+  <Aya_Race_Ap_C_T_a.description>人工種族的兒童們穿的汗衫，性能有所降低。</Aya_Race_Ap_C_T_a.description>
+
+
+  <!-- ■兒童款式襯衫 -->
+
+  <Aya_Race_Ap_C_T_b.label>兒童款式襯衫</Aya_Race_Ap_C_T_b.label>
+  <Aya_Race_Ap_C_T_b.description>人工種族的兒童們穿的襯衫，性能有所降低。</Aya_Race_Ap_C_T_b.description>
+
+
+  <!-- ■子供用一枚布 -->
+
+  <Aya_Race_Ap_C_T_c.label>兒童款式遮羞布</Aya_Race_Ap_C_T_c.label>
+  <Aya_Race_Ap_C_T_c.description>人工種族的兒童們穿的遮羞布，性能有所降低。</Aya_Race_Ap_C_T_c.description>
+
+
+  <!-- ■子供用学生服 -->
+
+  <Aya_Race_Ap_C_T_d.label>兒童款式學生服</Aya_Race_Ap_C_T_d.label>
+  <Aya_Race_Ap_C_T_d.description>人工種族的兒童們穿的學生服，性能有所降低。</Aya_Race_Ap_C_T_d.description>
+
+
+</LanguageData>

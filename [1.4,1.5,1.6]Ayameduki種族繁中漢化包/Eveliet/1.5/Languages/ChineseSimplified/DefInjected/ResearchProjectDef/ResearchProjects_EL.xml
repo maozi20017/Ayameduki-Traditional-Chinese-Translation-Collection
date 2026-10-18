@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_EL_Research_A.label>伊娃莉特研究:『傳承』</HAR_EL_Research_A.label>
+  <HAR_EL_Research_A.description>進行幻之人工種族『伊娃莉特』的研究。</HAR_EL_Research_A.description>
+
+  <HAR_EL_Research_B.label>伊娃莉特研究:『收集』</HAR_EL_Research_B.label>
+  <HAR_EL_Research_B.description>進行幻之人工種族『伊娃莉特』的研究。</HAR_EL_Research_B.description>
+
+  <HAR_EL_Research_C.label>伊娃莉特研究:『解析』</HAR_EL_Research_C.label>
+  <HAR_EL_Research_C.description>進行幻之人工種族『伊娃莉特』的研究。</HAR_EL_Research_C.description>
+
+  <HAR_EL_Research_D.label>伊娃莉特研究:『編集』</HAR_EL_Research_D.label>
+  <HAR_EL_Research_D.description>進行幻之人工種族『伊娃莉特』的研究。</HAR_EL_Research_D.description>
+
+  <HAR_EL_Research_E.label>伊娃莉特研究:『復元』</HAR_EL_Research_E.label>
+  <HAR_EL_Research_E.description>進行幻之人工種族『伊娃莉特』的研究。</HAR_EL_Research_E.description>
+
+  <HAR_EL_Research_Weapon_A.label>伊娃莉特研究研究:『神器』</HAR_EL_Research_Weapon_A.label>
+  <HAR_EL_Research_Weapon_A.description>進行幻之人工種族『伊娃莉特』的研究。</HAR_EL_Research_Weapon_A.description>
+
+  <HAR_EL_Research_Apparel_A.label>伊娃莉特研究研究:『聖痕』</HAR_EL_Research_Apparel_A.label>
+  <HAR_EL_Research_Apparel_A.description>進行幻之人工種族『伊娃莉特』的研究。</HAR_EL_Research_Apparel_A.description>
+
+  <HAR_EL_Research_MIKO_A.label>新資料夾</HAR_EL_Research_MIKO_A.label>
+  <HAR_EL_Research_MIKO_A.description>混在神之影資料中的神秘資料夾。</HAR_EL_Research_MIKO_A.description>
+
+  <HAR_EL_Research_MIKO_B.label>影片:夜魔</HAR_EL_Research_MIKO_B.label>
+  <HAR_EL_Research_MIKO_B.description>看似偽神族與夜魔互動的影片資料。
+    \n\n『繼承了伊娃醬的位置，但你們卻出乎意料地自由奔放啊……難怪那個伊娃醬會發牢騷呢。』</HAR_EL_Research_MIKO_B.description>
+
+  <HAR_EL_Research_MIKO_C.label>影片:人魚姬</HAR_EL_Research_MIKO_C.label>
+  <HAR_EL_Research_MIKO_C.description>看似偽神族與人魚姬互動的影片資料。
+    \n\n『諾亞醬，諾亞醬，那個拿來給我……不要把我舉起來啊！「我知道應該自己拿」，但別把我當小孩子一樣對待啊，受不了啦！』</HAR_EL_Research_MIKO_C.description>
+
+  <HAR_EL_Research_MIKO_D.label>影片:幽靈姬</HAR_EL_Research_MIKO_D.label>
+  <HAR_EL_Research_MIKO_D.description>看似偽神族與幽靈姬互動的影片資料。
+    \n\n『嗯嗯，原來是這樣的機制啊。這個看來可以用於開發下一個種族！啊啊，不要消失啊，不要消失啊！』</HAR_EL_Research_MIKO_D.description>
+
+  <HAR_EL_Research_MIKO_E.label>影片:亞人獸娘</HAR_EL_Research_MIKO_E.label>
+  <HAR_EL_Research_MIKO_E.description>看似偽神族與亞人獸娘互動的影片資料。
+    \n\n『哼哼，有了這個我也能成為身材好的女孩子了…！……諾亞醬放開我！啊啊，我的藥！？』</HAR_EL_Research_MIKO_E.description>
+
+  <HAR_EL_Research_MIKO_F.label>影片:牧菌妖姬</HAR_EL_Research_MIKO_F.label>
+  <HAR_EL_Research_MIKO_F.description>看似偽神族與牧菌妖姬互動的影片資料。
+    \n\n『那個太空站還在運作嗎？嗯，最好趕快處理掉。如果拖延太久就麻煩了。』</HAR_EL_Research_MIKO_F.description>
+
+  <HAR_EL_Research_MIKO_G.label>影片:龍姬</HAR_EL_Research_MIKO_G.label>
+  <HAR_EL_Research_MIKO_G.description>看似偽神族與龍姬互動的影片資料。
+    \n\n『阿哈哈哈，景色太美了！站在龍姬醬肩膀上我也能看到下方的景色！……唔……有點暈了…』</HAR_EL_Research_MIKO_G.description>
+
+  <HAR_EL_Research_MIKO_H.label>影片:庫利菈</HAR_EL_Research_MIKO_H.label>
+  <HAR_EL_Research_MIKO_H.description>看似偽神族與庫利菈互動的影片資料。
+    \n\n『又用聖劍把土地給吹飛了！？第二次我可不會原諒你！趕快停下來啊！諾亞醬！快結束這一切！』</HAR_EL_Research_MIKO_H.description>
+
+  <HAR_EL_Research_MIKO_I.label>影片:混沌靈</HAR_EL_Research_MIKO_I.label>
+  <HAR_EL_Research_MIKO_I.description>看似偽神族與混沌靈互動的影片資料。
+    \n\n『…唔嗯，那個時候就拜託你了。爸爸總是擔心得很啊』</HAR_EL_Research_MIKO_I.description>
+
+  <HAR_EL_Research_MIKO_J.label>影片:混血種</HAR_EL_Research_MIKO_J.label>
+  <HAR_EL_Research_MIKO_J.description>看似偽神族與混血種互動的影片資料。
+    \n\n『欸～你想給這個孩子取個名字嗎？那麼，那我們就叫她瑪麗亞吧！』</HAR_EL_Research_MIKO_J.description>
+
+  <HAR_EL_Research_MIKO_K.label>影片:伊娃莉特</HAR_EL_Research_MIKO_K.label>
+  <HAR_EL_Research_MIKO_K.description>看似偽神族與伊娃莉特互動的影片資料。
+    \n\n『……伊娃醬，妳做得很出色。暴走後有冷靜下來一點嗎？……嗯……嗯，剩下的就交給我吧。嗯，沒問題的。』</HAR_EL_Research_MIKO_K.description>
+
+  <HAR_EL_Research_MIKO_N.label>動畫資料整合</HAR_EL_Research_MIKO_N.label>
+  <HAR_EL_Research_MIKO_N.description>原本以為只是一般的影片，實際上卻是巧妙分割的資料。
+    \n現在要將這些資料整合為一個。</HAR_EL_Research_MIKO_N.description>
+
+  <HAR_EL_Research_MIKO_L.label>■■■■■</HAR_EL_Research_MIKO_L.label>
+  <HAR_EL_Research_MIKO_L.description>祈禱那些知悉此事的人都是善良的。</HAR_EL_Research_MIKO_L.description>
+
+
+</LanguageData>

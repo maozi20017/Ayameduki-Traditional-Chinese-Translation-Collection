@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_LL_Id_a.label>年幼的決戰種</HAR_LL_Id_a.label>
+  <HAR_LL_Id_a.letterText>擁有不穩定但強大召喚能力的偽神族加入了你的殖民地。\n由於長途旅行的緣故，她似乎有些虛弱，過一段時間可能會昏倒，但數天後應該會康復。</HAR_LL_Id_a.letterText>
+  <HAR_LL_Id_a.letterLabel>年幼的決戰種</HAR_LL_Id_a.letterLabel>
+
+  <HAR_LL_Incident_ShipPartCrash.label>天獄</HAR_LL_Incident_ShipPartCrash.label>
+  <HAR_LL_Incident_ShipPartCrash.letterText>巨大生命體的可怕身影降臨在殖民地上。
+  \n它將產生眷屬，並試圖摧毀周圍的殖民地。</HAR_LL_Incident_ShipPartCrash.letterText>
+  <HAR_LL_Incident_ShipPartCrash.letterLabel>天獄</HAR_LL_Incident_ShipPartCrash.letterLabel>
+
+  <HAR_LL_Incident_ShipPartCrash_b.label>未知的災難</HAR_LL_Incident_ShipPartCrash_b.label>
+  <HAR_LL_Incident_ShipPartCrash_b.letterText>■■掉落到了殖民地。
+  \n■■將生成眷屬，並試圖摧毀殖民地周圍的一切。</HAR_LL_Incident_ShipPartCrash_b.letterText>
+  <HAR_LL_Incident_ShipPartCrash_b.letterLabel>未知的災難</HAR_LL_Incident_ShipPartCrash_b.letterLabel>
+
+</LanguageData>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <Aya_CI_First_ContactTitle>年幼的工匠</Aya_CI_First_ContactTitle>
+    <Aya_CI_First_ContactDesc>奇異工坊的內部，有一位舉止溫和的少年。\n\n「嗯，空間連接實驗成功了……不過看來似乎連接到了邊境星球呢。\n你們是在這片土地上生活的人嗎？打擾了，真是抱歉。\n\n我是一個周遊世界各地的旅人。就像這次一樣，不斷地傳送移動、繼續旅行。\n如果你們正為力量不足而苦惱，或許我能幫上忙。\n我可以用素材製作強化身體的道具。\n如果素材開始有多餘的，請務必來找我說聲。\n什麼？別想太多，沒有什麼特別的理由。就當作是退隱老人打發時間的消遣就好了。」</Aya_CI_First_ContactDesc>
+
+
+    <Aya_CI_Label_Interact>前往工坊</Aya_CI_Label_Interact>
+    <Aya_CI_Desc_Interact>造訪工坊。</Aya_CI_Desc_Interact>
+    <Aya_CI_Window_Text>年幼的工匠：\n\n少年以溫柔的笑容迎接了你。\n\n「嗨，有什麼事嗎？素材或道具的製造，隨時都能為你服務喔。」\n\n\n\n目前的交涉點數：{0}</Aya_CI_Window_Text>
+    
+    <Aya_CI_Btn_Option1>使地圖上所有敵對者陷入倒地狀態【消耗交涉點數：-60】</Aya_CI_Btn_Option1>
+    <Aya_CI_Btn_Option2>賦予地圖上所有殖民者6天的環境耐性【消耗交涉點數：-30】</Aya_CI_Btn_Option2>
+    <Aya_CI_Btn_Option3>獲得1張特殊製造許可證【消耗交涉點數：-5】</Aya_CI_Btn_Option3>
+    <Aya_CI_Btn_Option4>獲得5張特殊製造許可證【消耗交涉點數：-25】</Aya_CI_Btn_Option4>
+    <Aya_CI_Btn_Close>關閉</Aya_CI_Btn_Close>
+</LanguageData>
+

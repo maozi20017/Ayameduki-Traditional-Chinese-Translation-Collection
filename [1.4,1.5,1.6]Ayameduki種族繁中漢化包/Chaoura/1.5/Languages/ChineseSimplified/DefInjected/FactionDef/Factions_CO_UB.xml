@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: エフイェアシェル -->
+  <Chaoura_Faction_NPC_b.label>受祝福者</Chaoura_Faction_NPC_b.label>
+  <!-- EN: 冥天慮という宗教概念を持っているケイオーラの派閥…らしい。 -->
+  <Chaoura_Faction_NPC_b.description>信奉着冥天慮這一宗教的混沌靈派系...大概吧。</Chaoura_Faction_NPC_b.description>
+  <!-- EN: エフイェアシェル -->
+  <Chaoura_Faction_NPC_b.fixedName>受祝福者</Chaoura_Faction_NPC_b.fixedName>
+  <!-- EN: Leader -->
+  <Chaoura_Faction_NPC_b.leaderTitle>領袖</Chaoura_Faction_NPC_b.leaderTitle>
+  <!-- EN: アヴァルツィオン -->
+  <Chaoura_Faction_NPC_b.pawnSingular>阿瓦爾錫安</Chaoura_Faction_NPC_b.pawnSingular>
+  <!-- EN: アヴァルツィオン -->
+  <Chaoura_Faction_NPC_b.pawnsPlural>阿瓦爾錫安</Chaoura_Faction_NPC_b.pawnsPlural>
+  
+</LanguageData>

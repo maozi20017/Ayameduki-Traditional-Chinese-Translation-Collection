@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_Xenoorca_Player.label>人魚姬殖民者</HAR_Xenoorca_Player.label>
+  <HAR_Xenoorca_Player.labelPlural>人魚姬殖民者們</HAR_Xenoorca_Player.labelPlural>
+  <HAR_Xenoorca_Player.labelMale>男性 人魚姬殖民者</HAR_Xenoorca_Player.labelMale>
+  <HAR_Xenoorca_Player.labelMalePlural>男性 人魚姬殖民者們</HAR_Xenoorca_Player.labelMalePlural>
+  <HAR_Xenoorca_Player.labelFemale>女性 人魚姬殖民者</HAR_Xenoorca_Player.labelFemale>
+  <HAR_Xenoorca_Player.labelFemalePlural>女性 人魚姬殖民者們</HAR_Xenoorca_Player.labelFemalePlural>
+
+
+  <!-- ■NPC -->
+
+  <HAR_Xenoorca_NPC_b_Trader.label>虎鯨傭兵團商人</HAR_Xenoorca_NPC_b_Trader.label>
+  <HAR_Xenoorca_NPC_b_Trader.labelPlural>虎鯨傭兵團商人們</HAR_Xenoorca_NPC_b_Trader.labelPlural>
+  <HAR_Xenoorca_NPC_b_Trader.labelMale>男性 虎鯨傭兵團商人</HAR_Xenoorca_NPC_b_Trader.labelMale>
+  <HAR_Xenoorca_NPC_b_Trader.labelMalePlural>男性 虎鯨傭兵團商人們</HAR_Xenoorca_NPC_b_Trader.labelMalePlural>
+  <HAR_Xenoorca_NPC_b_Trader.labelFemale>女性 虎鯨傭兵團商人</HAR_Xenoorca_NPC_b_Trader.labelFemale>
+  <HAR_Xenoorca_NPC_b_Trader.labelFemalePlural>女性 虎鯨傭兵團商人們</HAR_Xenoorca_NPC_b_Trader.labelFemalePlural>
+
+  <HAR_Xenoorca_NPC_b_Leader.label>虎鯨傭兵團團長</HAR_Xenoorca_NPC_b_Leader.label>
+  <HAR_Xenoorca_NPC_b_Leader.labelPlural>虎鯨傭兵團團長們</HAR_Xenoorca_NPC_b_Leader.labelPlural>
+  <HAR_Xenoorca_NPC_b_Leader.labelMale>男性 虎鯨傭兵團團長</HAR_Xenoorca_NPC_b_Leader.labelMale>
+  <HAR_Xenoorca_NPC_b_Leader.labelMalePlural>男性 虎鯨傭兵團團長們</HAR_Xenoorca_NPC_b_Leader.labelMalePlural>
+  <HAR_Xenoorca_NPC_b_Leader.labelFemale>女性 虎鯨傭兵團團長</HAR_Xenoorca_NPC_b_Leader.labelFemale>
+  <HAR_Xenoorca_NPC_b_Leader.labelFemalePlural>女性 虎鯨傭兵團團長們</HAR_Xenoorca_NPC_b_Leader.labelFemalePlural>
+
+  <HAR_Xenoorca_NPC_b_Resident.label>虎鯨傭兵團士兵</HAR_Xenoorca_NPC_b_Resident.label>
+  <HAR_Xenoorca_NPC_b_Resident.labelPlural>虎鯨傭兵團士兵們</HAR_Xenoorca_NPC_b_Resident.labelPlural>
+  <HAR_Xenoorca_NPC_b_Resident.labelMale>男性 虎鯨傭兵團士兵</HAR_Xenoorca_NPC_b_Resident.labelMale>
+  <HAR_Xenoorca_NPC_b_Resident.labelMalePlural>男性 虎鯨傭兵團士兵們</HAR_Xenoorca_NPC_b_Resident.labelMalePlural>
+  <HAR_Xenoorca_NPC_b_Resident.labelFemale>女性 虎鯨傭兵團士兵</HAR_Xenoorca_NPC_b_Resident.labelFemale>
+  <HAR_Xenoorca_NPC_b_Resident.labelFemalePlural>女性 虎鯨傭兵團士兵們</HAR_Xenoorca_NPC_b_Resident.labelFemalePlural>
+
+  <HAR_Xenoorca_NPC_Trader.label>殺人鯨旅團商人</HAR_Xenoorca_NPC_Trader.label>
+  <HAR_Xenoorca_NPC_Trader.labelPlural>殺人鯨旅團商人們</HAR_Xenoorca_NPC_Trader.labelPlural>
+  <HAR_Xenoorca_NPC_Trader.labelMale>男性 殺人鯨旅團商人</HAR_Xenoorca_NPC_Trader.labelMale>
+  <HAR_Xenoorca_NPC_Trader.labelMalePlural>男性 殺人鯨旅團商人們</HAR_Xenoorca_NPC_Trader.labelMalePlural>
+  <HAR_Xenoorca_NPC_Trader.labelFemale>女性 殺人鯨旅團商人</HAR_Xenoorca_NPC_Trader.labelFemale>
+  <HAR_Xenoorca_NPC_Trader.labelFemalePlural>女性 殺人鯨旅團商人們</HAR_Xenoorca_NPC_Trader.labelFemalePlural>
+
+  <HAR_Xenoorca_NPC_Resident.label>殺人鯨旅團士兵</HAR_Xenoorca_NPC_Resident.label>
+  <HAR_Xenoorca_NPC_Resident.labelPlural>殺人鯨旅團士兵們</HAR_Xenoorca_NPC_Resident.labelPlural>
+  <HAR_Xenoorca_NPC_Resident.labelMale>男性 殺人鯨旅團士兵</HAR_Xenoorca_NPC_Resident.labelMale>
+  <HAR_Xenoorca_NPC_Resident.labelMalePlural>男性 殺人鯨旅團士兵們</HAR_Xenoorca_NPC_Resident.labelMalePlural>
+  <HAR_Xenoorca_NPC_Resident.labelFemale>女性 殺人鯨旅團士兵</HAR_Xenoorca_NPC_Resident.labelFemale>
+  <HAR_Xenoorca_NPC_Resident.labelFemalePlural>女性 殺人鯨旅團士兵們</HAR_Xenoorca_NPC_Resident.labelFemalePlural>
+
+  <HAR_Xenoorca_NPC_gunner.label>殺人鯨旅團槍手</HAR_Xenoorca_NPC_gunner.label>
+  <HAR_Xenoorca_NPC_gunner.labelPlural>殺人鯨旅團槍手們</HAR_Xenoorca_NPC_gunner.labelPlural>
+  <HAR_Xenoorca_NPC_gunner.labelMale>男性 殺人鯨旅團槍手</HAR_Xenoorca_NPC_gunner.labelMale>
+  <HAR_Xenoorca_NPC_gunner.labelMalePlural>男性 殺人鯨旅團槍手們</HAR_Xenoorca_NPC_gunner.labelMalePlural>
+  <HAR_Xenoorca_NPC_gunner.labelFemale>女性 殺人鯨旅團槍手</HAR_Xenoorca_NPC_gunner.labelFemale>
+  <HAR_Xenoorca_NPC_gunner.labelFemalePlural>女性 殺人鯨旅團槍手們</HAR_Xenoorca_NPC_gunner.labelFemalePlural>
+
+  <HAR_Xenoorca_NPC_Sniper.label>殺人鯨旅團狙擊手</HAR_Xenoorca_NPC_Sniper.label>
+  <HAR_Xenoorca_NPC_Sniper.labelPlural>殺人鯨旅團狙擊手們</HAR_Xenoorca_NPC_Sniper.labelPlural>
+  <HAR_Xenoorca_NPC_Sniper.labelMale>男性 殺人鯨旅團狙擊手</HAR_Xenoorca_NPC_Sniper.labelMale>
+  <HAR_Xenoorca_NPC_Sniper.labelMalePlural>男性 殺人鯨旅團狙擊手們</HAR_Xenoorca_NPC_Sniper.labelMalePlural>
+  <HAR_Xenoorca_NPC_Sniper.labelFemale>女性 殺人鯨旅團狙擊手</HAR_Xenoorca_NPC_Sniper.labelFemale>
+  <HAR_Xenoorca_NPC_Sniper.labelFemalePlural>女性 殺人鯨旅團狙擊手們</HAR_Xenoorca_NPC_Sniper.labelFemalePlural>
+
+  <HAR_Xenoorca_NPC_Industrial.label>殺人鯨旅團工作人員</HAR_Xenoorca_NPC_Industrial.label>
+  <HAR_Xenoorca_NPC_Industrial.labelPlural>殺人鯨旅團工作人員們</HAR_Xenoorca_NPC_Industrial.labelPlural>
+  <HAR_Xenoorca_NPC_Industrial.labelMale>男性 殺人鯨旅團工作人員</HAR_Xenoorca_NPC_Industrial.labelMale>
+  <HAR_Xenoorca_NPC_Industrial.labelMalePlural>男性 殺人鯨旅團工作人員們</HAR_Xenoorca_NPC_Industrial.labelMalePlural>
+  <HAR_Xenoorca_NPC_Industrial.labelFemale>女性 殺人鯨旅團工作人員</HAR_Xenoorca_NPC_Industrial.labelFemale>
+  <HAR_Xenoorca_NPC_Industrial.labelFemalePlural>女性 殺人鯨旅團工作人員們</HAR_Xenoorca_NPC_Industrial.labelFemalePlural>
+
+  <HAR_Xenoorca_NPC_Grenade.label>殺人鯨旅團砲擊手</HAR_Xenoorca_NPC_Grenade.label>
+  <HAR_Xenoorca_NPC_Grenade.labelPlural>殺人鯨旅團砲擊手們</HAR_Xenoorca_NPC_Grenade.labelPlural>
+  <HAR_Xenoorca_NPC_Grenade.labelMale>男性 殺人鯨旅團砲擊手</HAR_Xenoorca_NPC_Grenade.labelMale>
+  <HAR_Xenoorca_NPC_Grenade.labelMalePlural>男性 殺人鯨旅團砲擊手們</HAR_Xenoorca_NPC_Grenade.labelMalePlural>
+  <HAR_Xenoorca_NPC_Grenade.labelFemale>女性 殺人鯨旅團砲擊手</HAR_Xenoorca_NPC_Grenade.labelFemale>
+  <HAR_Xenoorca_NPC_Grenade.labelFemalePlural>女性 殺人鯨旅團砲擊手們</HAR_Xenoorca_NPC_Grenade.labelFemalePlural>
+
+  <HAR_Xenoorca_NPC_Leader.label>淵叢主海達諾亞</HAR_Xenoorca_NPC_Leader.label>
+  <HAR_Xenoorca_NPC_Leader.labelPlural>淵叢主海達諾亞們</HAR_Xenoorca_NPC_Leader.labelPlural>
+  <HAR_Xenoorca_NPC_Leader.labelMale>男性 淵叢主海達諾亞</HAR_Xenoorca_NPC_Leader.labelMale>
+  <HAR_Xenoorca_NPC_Leader.labelMalePlural>男性 淵叢主海達諾亞s</HAR_Xenoorca_NPC_Leader.labelMalePlural>
+  <HAR_Xenoorca_NPC_Leader.labelFemale>女性 淵叢主海達諾亞</HAR_Xenoorca_NPC_Leader.labelFemale>
+  <HAR_Xenoorca_NPC_Leader.labelFemalePlural>女性 淵叢主海達諾亞們</HAR_Xenoorca_NPC_Leader.labelFemalePlural>
+
+</LanguageData>

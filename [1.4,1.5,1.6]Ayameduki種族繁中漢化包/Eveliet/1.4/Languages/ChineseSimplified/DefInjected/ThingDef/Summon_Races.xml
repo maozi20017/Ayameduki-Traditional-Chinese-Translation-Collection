@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_EL_Monster_a.label>梅亞</HAR_EL_Monster_a.label>
+  <HAR_EL_Monster_a.description>人工種族的故鄉，迦南星上非常受歡迎的玩偶。
+被系列化為『迦南之友』，被亞人工業用於廣告中。
+最初是伊娃莉特為了當時還年幼、在夜晚感到害怕的妹妹們而創造出來的小小朋友。
+她所創造的迦南之友是一種偽生命體，不需要進食，而且動作迅速。
+由於沒有戰鬥能力，不建議派往戰場。\n\n\n\n
+『夢見少女梅亞』
+有點不擅長表達情感但心地善良的女孩。
+手持著父親送的杖，朝著約束之地前進。
+
+每半年會帶回一個「凶暴之波動」。</HAR_EL_Monster_a.description>
+  <HAR_EL_Monster_a.tools.0.label>left claw</HAR_EL_Monster_a.tools.0.label>
+
+  <HAR_EL_Monster_b.label>露卡</HAR_EL_Monster_b.label>
+  <HAR_EL_Monster_b.description>人工種族的故鄉，迦南星上非常受歡迎的玩偶。
+被系列化為『迦南之友』，被亞人工業用於廣告中。
+最初是伊娃莉特為了當時還年幼、在夜晚感到害怕的妹妹們而創造出來的小小朋友。
+她所創造的迦南之友是一種偽生命體，不需要進食，而且動作迅速。
+由於沒有戰鬥能力，不建議派往戰場。\n\n\n\n
+『惡戲少女露卡』
+親切可愛卻喜歡惡作劇的女孩。
+擅長游泳，有時候會隨性地幫助梅亞。
+
+每半年會帶回一個「狂氣之槍』。</HAR_EL_Monster_b.description>
+  <HAR_EL_Monster_b.tools.0.label>left claw</HAR_EL_Monster_b.tools.0.label>
+
+  <HAR_EL_Monster_c.label>琪拉</HAR_EL_Monster_c.label>
+  <HAR_EL_Monster_c.description>人工種族的故鄉，迦南星上非常受歡迎的玩偶。
+被系列化為『迦南之友』，被亞人工業用於廣告中。
+最初是伊娃莉特為了當時還年幼、在夜晚感到害怕的妹妹們而創造出來的小小朋友。
+她所創造的迦南之友是一種偽生命體，不需要進食，而且動作迅速。
+由於沒有戰鬥能力，不建議派往戰場。\n\n\n\n
+『天才少女琪拉』
+非常聰明、擅長製作物品的女孩。
+為了尋找新的靈感而周遊世界各地。
+
+每半年會帶回一個「狂氣之槍」。</HAR_EL_Monster_c.description>
+  <HAR_EL_Monster_c.tools.0.label>left claw</HAR_EL_Monster_c.tools.0.label>
+
+
+</LanguageData>

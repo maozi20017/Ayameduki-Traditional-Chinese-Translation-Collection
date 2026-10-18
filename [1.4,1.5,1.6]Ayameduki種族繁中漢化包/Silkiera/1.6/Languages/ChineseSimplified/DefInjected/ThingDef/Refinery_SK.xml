@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 亜人工業製油機 -->
+  <BMOT_Building_Refinery_a.label>亞人工業製油機</BMOT_Building_Refinery_a.label>
+  <!-- EN: 『念願の舩を手に入れたそこのお客様！\n動かす為の燃料に困っていませんか？\nそのお悩み解決致します！』\n\n亜人工業の製油機。岩石を液状化、そして空気と電気を組み合わせることで化学燃料に変換する。\n\nかつていた人工種族の神子が暇つぶしで作った機械を雛形としているらしい。 -->
+  <BMOT_Building_Refinery_a.description>『終於如願以償獲得了飛船的您！\n是不是正為了沒有燃料而煩惱呢？\n這項煩惱，我們幫您解決！』\n\n亞人工業所製的製油機。可將岩石液化，並結合空氣與電力，轉化為化合燃料。\n\n據說這台機器是以過去人工種族的神子閒暇時隨手打造的裝置為雛形。</BMOT_Building_Refinery_a.description>
+  
+</LanguageData>

@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_SK_Recipe_Recycle_a.label>回收：全部武器</HAR_SK_Recipe_Recycle_a.label>
+  <HAR_SK_Recipe_Recycle_a.description>不需要的武器可以回收給亞人工業。\n作為謝禮，你將得到貓咪印章。</HAR_SK_Recipe_Recycle_a.description>
+  <HAR_SK_Recipe_Recycle_a.jobString>廢品回收中</HAR_SK_Recipe_Recycle_a.jobString>
+
+  <HAR_SK_Recipe_Recycle_b.label>回收：全部防具</HAR_SK_Recipe_Recycle_b.label>
+  <HAR_SK_Recipe_Recycle_b.description>不需要的防具可以回收給亞人工業。\n作為謝禮，你將得到貓咪印章。</HAR_SK_Recipe_Recycle_b.description>
+  <HAR_SK_Recipe_Recycle_b.jobString>廢品回收中</HAR_SK_Recipe_Recycle_b.jobString>
+
+  <HAR_SK_Recipe_Recycle_c.label>回收：污染垃圾</HAR_SK_Recipe_Recycle_c.label>
+  <HAR_SK_Recipe_Recycle_c.description>每次可將10份污染垃圾回收給亞人工業。\n作為謝禮，你將得到貓咪印章。</HAR_SK_Recipe_Recycle_c.description>
+  <HAR_SK_Recipe_Recycle_c.jobString>污染垃圾回收中</HAR_SK_Recipe_Recycle_c.jobString>
+
+  <HAR_SK_Recipe_exchange_a.label>交換:治愈機械液</HAR_SK_Recipe_exchange_a.label>
+  <HAR_SK_Recipe_exchange_a.description>使用500個貓咪印章交換治愈機械液。</HAR_SK_Recipe_exchange_a.description>
+  <HAR_SK_Recipe_exchange_a.jobString>交換中</HAR_SK_Recipe_exchange_a.jobString>
+
+  <HAR_SK_Recipe_exchange_b.label>交換:復活機械液</HAR_SK_Recipe_exchange_b.label>
+  <HAR_SK_Recipe_exchange_b.description>使用500個貓咪印章交換復活機械液。</HAR_SK_Recipe_exchange_b.description>
+  <HAR_SK_Recipe_exchange_b.jobString>交換中</HAR_SK_Recipe_exchange_b.jobString>
+
+  <HAR_SK_Recipe_exchange_c.label>交換：AI人格核心</HAR_SK_Recipe_exchange_c.label>
+  <HAR_SK_Recipe_exchange_c.description>使用500個貓咪印章交換AI人格核心。</HAR_SK_Recipe_exchange_c.description>
+  <HAR_SK_Recipe_exchange_c.jobString>交換中</HAR_SK_Recipe_exchange_c.jobString>
+
+  <HAR_SK_Recipe_exchange_d.label>交換:黑色券</HAR_SK_Recipe_exchange_d.label>
+  <HAR_SK_Recipe_exchange_d.description>使用3000個貓咪印章交換黑色券。</HAR_SK_Recipe_exchange_d.description>
+  <HAR_SK_Recipe_exchange_d.jobString>交換中</HAR_SK_Recipe_exchange_d.jobString>
+
+  <HAR_SK_Recipe_exchange_e.label>交換:亞人工業路燈</HAR_SK_Recipe_exchange_e.label>
+  <HAR_SK_Recipe_exchange_e.description>使用500個貓咪印章交換亞人工業路燈。</HAR_SK_Recipe_exchange_e.description>
+  <HAR_SK_Recipe_exchange_e.jobString>交換中</HAR_SK_Recipe_exchange_e.jobString>
+
+  <HAR_SK_Recipe_exchange_f.label>交換:寵物券</HAR_SK_Recipe_exchange_f.label>
+  <HAR_SK_Recipe_exchange_f.description>使用50個貓咪印章交換寵物券。</HAR_SK_Recipe_exchange_f.description>
+  <HAR_SK_Recipe_exchange_f.jobString>交換中</HAR_SK_Recipe_exchange_f.jobString>
+
+  <HAR_SK_Recipe_exchange_g.label>交換:魔鬼素</HAR_SK_Recipe_exchange_g.label>
+  <HAR_SK_Recipe_exchange_g.description>使用50個貓咪印章交換魔鬼素。</HAR_SK_Recipe_exchange_g.description>
+  <HAR_SK_Recipe_exchange_g.jobString>交換中</HAR_SK_Recipe_exchange_g.jobString>
+
+  <HAR_SK_Recipe_exchange_h.label>交換:飛蛾姬券</HAR_SK_Recipe_exchange_h.label>
+  <HAR_SK_Recipe_exchange_h.description>使用100個貓咪印章交換飛蛾姬券。</HAR_SK_Recipe_exchange_h.description>
+  <HAR_SK_Recipe_exchange_h.jobString>交換中</HAR_SK_Recipe_exchange_h.jobString>
+
+  <HAR_SK_Recipe_exchange_i.label>交換:亞人格核心</HAR_SK_Recipe_exchange_i.label>
+  <HAR_SK_Recipe_exchange_i.description>使用500個貓咪印章交換亞人格核心。</HAR_SK_Recipe_exchange_i.description>
+  <HAR_SK_Recipe_exchange_i.jobString>交換中</HAR_SK_Recipe_exchange_i.jobString>
+
+  <HAR_SK_Recipe_exchange_j.label>交換:幽靈姬券</HAR_SK_Recipe_exchange_j.label>
+  <HAR_SK_Recipe_exchange_j.description>使用2000個貓咪印章交換幽靈姬券。</HAR_SK_Recipe_exchange_j.description>
+  <HAR_SK_Recipe_exchange_j.jobString>交換中</HAR_SK_Recipe_exchange_j.jobString>
+
+  <HAR_SK_Recipe_exchange_k.label>交換:偽神族券</HAR_SK_Recipe_exchange_k.label>
+  <HAR_SK_Recipe_exchange_k.description>使用2500個貓咪印章交換偽神族券。</HAR_SK_Recipe_exchange_k.description>
+  <HAR_SK_Recipe_exchange_k.jobString>交換中</HAR_SK_Recipe_exchange_k.jobString>
+
+
+</LanguageData>

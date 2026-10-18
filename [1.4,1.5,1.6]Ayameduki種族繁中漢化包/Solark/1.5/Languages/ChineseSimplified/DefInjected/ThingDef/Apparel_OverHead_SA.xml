@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ドレイクカチューシャ -->
+
+  <HAR_SA_Heads_a.label>龍之髮箍(龍姬)</HAR_SA_Heads_a.label>
+  <HAR_SA_Heads_a.description>龍姬專用的固定頭髮的裝飾品。</HAR_SA_Heads_a.description>
+
+
+  <!-- ドレイクティアラ -->
+
+  <HAR_SA_Heads_b.label>龍之頭飾(龍姬)</HAR_SA_Heads_b.label>
+  <HAR_SA_Heads_b.description>龍姬專用的固定頭髮的裝飾品。</HAR_SA_Heads_b.description>
+
+
+  <!-- ドレイクカバー -->
+
+  <HAR_SA_Heads_c.label>龍之面罩(龍姬)</HAR_SA_Heads_c.label>
+  <HAR_SA_Heads_c.description>龍姬專用的面罩。</HAR_SA_Heads_c.description>
+
+
+  <!-- ドラコニックヘルメット -->
+
+  <HAR_SA_Heads_d.label>龍之頭盔(龍姬)</HAR_SA_Heads_d.label>
+  <HAR_SA_Heads_d.description>龍姬專用的頭盔，彌補了在戰鬥中容易受到火傷害的弱點。原本是在創造主手下擔任戰鬥員時的頭盔。</HAR_SA_Heads_d.description>
+
+
+</LanguageData>

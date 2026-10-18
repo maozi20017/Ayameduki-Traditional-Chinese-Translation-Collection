@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ウペレテス -->
+  <HAR_OT_Monster_Race_a.label>美伯拉</HAR_OT_Monster_Race_a.label>
+  <!-- EN: アウタームの眷属。戦闘力はないが機動力はかなり高い。だがそれ以上に問題なのは見境なく暴れることである。召喚者であるアウタームにも攻撃対象となる。 -->
+  <HAR_OT_Monster_Race_a.description>域外者的眷屬。戰鬥力不高，但機動性相當出色。更大的問題在於它們會無差別地胡鬧，甚至會把召喚它們的域外者視為攻擊對象。</HAR_OT_Monster_Race_a.description>
+  <!-- EN: left claw -->
+  <HAR_OT_Monster_Race_a.tools.left_claw.label>左爪</HAR_OT_Monster_Race_a.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <HAR_OT_Monster_Race_a.tools.right_claw.label>右爪</HAR_OT_Monster_Race_a.tools.right_claw.label>
+  <!-- EN: razorfangs -->
+  <HAR_OT_Monster_Race_a.tools.razorfangs.label>鋭牙</HAR_OT_Monster_Race_a.tools.razorfangs.label>
+  
+</LanguageData>

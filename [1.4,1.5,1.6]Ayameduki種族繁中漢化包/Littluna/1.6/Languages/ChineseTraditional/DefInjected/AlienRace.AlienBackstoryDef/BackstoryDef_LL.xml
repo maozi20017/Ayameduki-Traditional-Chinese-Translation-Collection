@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ■↓幼少期のバックストーリー -->
+
+  <HAR_LL_Backstory_C1.title>■■的幼子</HAR_LL_Backstory_C1.title>
+  <HAR_LL_Backstory_C1.titleShort>■■</HAR_LL_Backstory_C1.titleShort>
+  <HAR_LL_Backstory_C1.description>[PAWN_nameDef]被■■■的手段所■■。[PAWN_pronoun]對此一無所知。\n\n\n如果能夠好好照顧她，我會感到很高興的！</HAR_LL_Backstory_C1.description>
+
+
+  <!-- ■↓成人期のバックストーリー -->
+
+  <HAR_LL_Backstory_A1.title>充滿魅力的接待員</HAR_LL_Backstory_A1.title>
+  <HAR_LL_Backstory_A1.titleShort>接待員</HAR_LL_Backstory_A1.titleShort>
+  <HAR_LL_Backstory_A1.description>[PAWN_nameDef] 利用自己的外表，擔任接待業務的職位，他具備了社交能力和處世之道，但相對地對於粗暴的事情卻不太擅長。</HAR_LL_Backstory_A1.description>
+
+  <HAR_LL_Backstory_A2.title>充滿熱情的建築師</HAR_LL_Backstory_A2.title>
+  <HAR_LL_Backstory_A2.titleShort>建築師</HAR_LL_Backstory_A2.titleShort>
+  <HAR_LL_Backstory_A2.description>[PAWN_nameDef] 意外地覺醒了作為建築師的才能，但由於追求正確和精確，他與野生動物的相處卻不太好。</HAR_LL_Backstory_A2.description>
+
+  <HAR_LL_Backstory_A3.title>華美的射手</HAR_LL_Backstory_A3.title>
+  <HAR_LL_Backstory_A3.titleShort>射手</HAR_LL_Backstory_A3.titleShort>
+  <HAR_LL_Backstory_A3.description>[PAWN_nameDef] 擅長射擊遠距離目標，無論是弓箭還是槍枝都能輕鬆應對。。</HAR_LL_Backstory_A3.description>
+
+  <HAR_LL_Backstory_A4.title>妖媚的戰士</HAR_LL_Backstory_A4.title>
+  <HAR_LL_Backstory_A4.titleShort>戰士</HAR_LL_Backstory_A4.titleShort>
+  <HAR_LL_Backstory_A4.description>[PAWN_nameDef] 能夠輕鬆地操縱武器，似乎對於殺戮也沒有什麼抵抗力。</HAR_LL_Backstory_A4.description>
+
+  <HAR_LL_Backstory_A5.title>性感的設計師</HAR_LL_Backstory_A5.title>
+  <HAR_LL_Backstory_A5.titleShort>設計師</HAR_LL_Backstory_A5.titleShort>
+  <HAR_LL_Backstory_A5.description>[PAWN_nameDef] 憑藉著自己積累的創意和精湛的繪畫技巧，在設計領域中蓬勃發展。</HAR_LL_Backstory_A5.description>
+
+  <HAR_LL_Backstory_A6.title>深山中的家裡蹲</HAR_LL_Backstory_A6.title>
+  <HAR_LL_Backstory_A6.titleShort>家裡蹲</HAR_LL_Backstory_A6.titleShort>
+  <HAR_LL_Backstory_A6.description>[PAWN_nameDef] 比起與人打交道，更喜歡挖洞。今天[PAWN_pronoun]肯定也在為了挖礦石而不斷揮動鎬子吧。</HAR_LL_Backstory_A6.description>
+
+  <HAR_LL_Backstory_A7.title>神聖女僕</HAR_LL_Backstory_A7.title>
+  <HAR_LL_Backstory_A7.titleShort>女僕</HAR_LL_Backstory_A7.titleShort>
+  <HAR_LL_Backstory_A7.description>[PAWN_nameDef] 是一名侍奉位高權重者的女僕，很擅長做料理。</HAR_LL_Backstory_A7.description>
+
+  <HAR_LL_Backstory_A8.title>美感藝術家</HAR_LL_Backstory_A8.title>
+  <HAR_LL_Backstory_A8.titleShort>藝術家</HAR_LL_Backstory_A8.titleShort>
+  <HAR_LL_Backstory_A8.description>[PAWN_nameDef] 是創作出許多作品的藝術家；能創作出什麼樣的作品取決於當時的藝術靈感。</HAR_LL_Backstory_A8.description>
+
+  <HAR_LL_Backstory_A9.title>天使教授</HAR_LL_Backstory_A9.title>
+  <HAR_LL_Backstory_A9.titleShort>藝術家</HAR_LL_Backstory_A9.titleShort>
+  <HAR_LL_Backstory_A9.description>[PAWN_nameDef] 是一位以惡魔式思維創作出獨特論文的教授，雖然意念怪異但其學術評價卻相當高。</HAR_LL_Backstory_A9.description>
+
+  <HAR_LL_Backstory_A10.title>受歡迎的城鎮女孩</HAR_LL_Backstory_A10.title>
+  <HAR_LL_Backstory_A10.titleShort>城鎮女孩</HAR_LL_Backstory_A10.titleShort>
+  <HAR_LL_Backstory_A10.description>[PAWN_nameDef] 是一名普通的城鎮女孩，但因其外貌而受到異性的好評。</HAR_LL_Backstory_A10.description>
+
+  <HAR_LL_Backstory_A11.title>志存高遠的猛獸使</HAR_LL_Backstory_A11.title>
+  <HAR_LL_Backstory_A11.titleShort>猛獸使</HAR_LL_Backstory_A11.titleShort>
+  <HAR_LL_Backstory_A11.description>[PAWN_nameDef] 是一位夢想能夠馴服世界上各種野獸的獸使，但也要注意大自然的不可思議。</HAR_LL_Backstory_A11.description>
+
+  <HAR_LL_Backstory_A12.title>白衣天使</HAR_LL_Backstory_A12.title>
+  <HAR_LL_Backstory_A12.titleShort>護士</HAR_LL_Backstory_A12.titleShort>
+  <HAR_LL_Backstory_A12.description>[PAWN_nameDef] 是一位擅長醫術的護士，偶爾犯錯也是人之常情。</HAR_LL_Backstory_A12.description>
+
+  <HAR_LL_Backstory_Z_C1.title>仰望的童女</HAR_LL_Backstory_Z_C1.title>
+  <HAR_LL_Backstory_Z_C1.titleShort>童女</HAR_LL_Backstory_Z_C1.titleShort>
+  <HAR_LL_Backstory_Z_C1.description>[PAWN_nameDef] 出生時就擁有比一般的偽神族更優異的知識。她似乎僅僅透過觀察星辰就能獲得豐富的知識。</HAR_LL_Backstory_Z_C1.description>
+
+  <HAR_LL_Backstory_Z_A1.title>星辰的神子</HAR_LL_Backstory_Z_A1.title>
+  <HAR_LL_Backstory_Z_A1.titleShort>星辰的神子</HAR_LL_Backstory_Z_A1.titleShort>
+  <HAR_LL_Backstory_Z_A1.description>[PAWN_nameDef] 成為了星辰的神子。這個位置已經不再屬於凡人，似乎只能走向瘋狂的盡頭。</HAR_LL_Backstory_Z_A1.description>
+
+  <HAR_LL_Backstory_M_C1.title>再誕的神子</HAR_LL_Backstory_M_C1.title>
+  <HAR_LL_Backstory_M_C1.titleShort>神子</HAR_LL_Backstory_M_C1.titleShort>
+  <HAR_LL_Backstory_M_C1.description>[PAWN_nameDef]是在人工種族的故鄉迦南上被當作神子崇拜的偽神族・可能性的複製體。</HAR_LL_Backstory_M_C1.description>
+
+  <HAR_LL_Backstory_M_A1.title>創造主的後繼者</HAR_LL_Backstory_M_A1.title>
+  <HAR_LL_Backstory_M_A1.titleShort>創造主的後繼者</HAR_LL_Backstory_M_A1.titleShort>
+  <HAR_LL_Backstory_M_A1.description>[PAWN_nameDef]成為了傑出的神子。她能夠與許多人心靈相通。</HAR_LL_Backstory_M_A1.description>
+
+
+</LanguageData>

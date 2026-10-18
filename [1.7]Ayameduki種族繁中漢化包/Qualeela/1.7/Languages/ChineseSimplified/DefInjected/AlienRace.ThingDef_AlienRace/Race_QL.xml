@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_Qualeela.label>庫利菈・優等種</HAR_Qualeela.label>
+  <HAR_Qualeela.description>庫利菈是宙族某一派系創造的人工種族。為了不讓她們建立國家或者大型派系，在其基因上進行了修改，使得她們只能生育出女性。
+    \n\n庫利菈・優等種是由庫利菈・至高種限制控制的生物植物中創造的下位相容種，而庫利菈・至高種是最初的原種。優等種具有高度的通用性，但是缺少庫利菈・至高種特有的能力——『王權』。</HAR_Qualeela.description>
+  <HAR_Qualeela.alienRace.generalSettings.alienPartGenerator.bodyAddons.0.name>羽</HAR_Qualeela.alienRace.generalSettings.alienPartGenerator.bodyAddons.0.name>
+  <HAR_Qualeela.alienRace.generalSettings.alienPartGenerator.bodyAddons.1.name>角</HAR_Qualeela.alienRace.generalSettings.alienPartGenerator.bodyAddons.1.name>
+  
+  <HAR_Qualeela_b.label>庫利菈・至高種</HAR_Qualeela_b.label>
+  <HAR_Qualeela_b.description>庫利菈是宙族某一派系創造的人工種族。為了不讓她們建立國家或者大型派系，在其基因上進行了修改，使得她們只能生育出女性。\n\n\n庫利菈的統括種中，庫利菈・至高種是血統最純正的原始種。創造主把它創造出來，作為保險，萬一創造主自己滅亡的話，庫利菈・至高種就會接替其職責，統領其他人工種族。\n\n它能夠使用創造主曾經擁有的權限，體內匯集了創造主的所有技術，並擁有由此創造出的『王權』。\n\n然而，它的創造過程已處於末期，而且在測試階段就結束了，因此原本應有的創造主權限和王權功能只有50％。\n\n\n儘管它的身體能力與人類相當，但它所能行使的王權功能即使只有一個，也足以在戰爭中左右局勢。\n\n\n『王權召喚』：能夠召喚具有強大力量和防禦能力的眷屬\n\n『王權強化』：能夠提高自己和盟友的能力\n\n『王權屏障』：能夠阻止敵人的攻擊\n\n『王權束縛』：能夠封印敵人的強化能力\n\n『王權干涉』：能夠扭曲敵人的感官，干擾他們的行動\n\n\n儘管它擁有強大的力量，但由於經常與充滿科幻元素的機械打交道，因此無法在殖民地生活中發揮作用。</HAR_Qualeela_b.description>
+  <HAR_Qualeela_b.alienRace.generalSettings.alienPartGenerator.bodyAddons.0.name>羽</HAR_Qualeela_b.alienRace.generalSettings.alienPartGenerator.bodyAddons.0.name>
+  <HAR_Qualeela_b.alienRace.generalSettings.alienPartGenerator.bodyAddons.1.name>角</HAR_Qualeela_b.alienRace.generalSettings.alienPartGenerator.bodyAddons.1.name>
+  <HAR_Qualeela_b.comps.CSS_CompSummonSLave.AutoLabel>王權召喚(自動召喚)</HAR_Qualeela_b.comps.CSS_CompSummonSLave.AutoLabel>
+  <HAR_Qualeela_b.comps.CSS_CompSummonSLave.AutoDesc>開啟自動召喚的時候，處於徵召狀態並且周圍有敵對生物就會自動召喚眷屬。眷屬召喚數量和等級根據『人工種族』的Lv變動，冷卻時間為1天。</HAR_Qualeela_b.comps.CSS_CompSummonSLave.AutoDesc>
+  <HAR_Qualeela_b.comps.CSS_CompSummonSLave.CommandLabel>王權召喚(主動召喚)</HAR_Qualeela_b.comps.CSS_CompSummonSLave.CommandLabel>
+  <HAR_Qualeela_b.comps.CSS_CompSummonSLave.CommandDesc>主動召喚一些眷屬。眷屬召喚數量和等級根據根據『人工種族』的Lv變動，冷卻時間為1天。</HAR_Qualeela_b.comps.CSS_CompSummonSLave.CommandDesc>
+
+  <HAR_Qualeela_b.comps.Qualeela_CompCommandExplosive-0.commandLabel>王權強化</HAR_Qualeela_b.comps.Qualeela_CompCommandExplosive-0.commandLabel>
+  <HAR_Qualeela_b.comps.Qualeela_CompCommandExplosive-0.commandDesc>施加身體強化效果給自己和周圍的盟友，冷卻時間為3天。</HAR_Qualeela_b.comps.Qualeela_CompCommandExplosive-0.commandDesc>
+
+  <HAR_Qualeela_b.comps.Qualeela_CompCommandExplosive-1.commandLabel>王權屏障</HAR_Qualeela_b.comps.Qualeela_CompCommandExplosive-1.commandLabel>
+  <HAR_Qualeela_b.comps.Qualeela_CompCommandExplosive-1.commandDesc>施加防禦強化效果給自己和周圍的盟友，冷卻時間為3天。</HAR_Qualeela_b.comps.Qualeela_CompCommandExplosive-1.commandDesc>
+
+
+
+</LanguageData>

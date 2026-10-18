@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 我らの領域 -->
+  <HAR_CO_EnvironmentDark.stages.0.label>我等之領域</HAR_CO_EnvironmentDark.stages.0.label>
+  <!-- EN: 暗闇こそ我々の起源 -->
+  <HAR_CO_EnvironmentDark.stages.0.description>黑暗乃是我等之起源。</HAR_CO_EnvironmentDark.stages.0.description>
+  
+  <!-- EN: 今宵の成果 -->
+  <HAR_CO_ObservedLayingCorpse.stages.0.label>今宵的成果</HAR_CO_ObservedLayingCorpse.stages.0.label>
+  <!-- EN: 命が絶えた物体…これを作るのが私の使命 -->
+  <HAR_CO_ObservedLayingCorpse.stages.0.description>死去之物……這便是我的使命。</HAR_CO_ObservedLayingCorpse.stages.0.description>
+  
+</LanguageData>

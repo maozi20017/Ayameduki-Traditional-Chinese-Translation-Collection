@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ■↓幼少期のバックストーリー -->
+
+  <HAR_EL_Backstory_C1.title>始原的肖像</HAR_EL_Backstory_C1.title>
+  <HAR_EL_Backstory_C1.titleShort>肖像</HAR_EL_Backstory_C1.titleShort>
+  <HAR_EL_Backstory_C1.baseDesc>[PAWN_nameDef] 是曾經存在的人工種族的再現體。</HAR_EL_Backstory_C1.baseDesc>
+
+
+  <!-- ■↓成人期のバックストーリー -->
+
+  <HAR_EL_Backstory_A1.title>自由之意</HAR_EL_Backstory_A1.title>
+  <HAR_EL_Backstory_A1.titleShort>自由之意</HAR_EL_Backstory_A1.titleShort>
+  <HAR_EL_Backstory_A1.baseDesc>[PAWN_nameDef] 已經能夠發揮犯下大罪的伊娃莉特之力。我們應該密切關注，以防再次失控。</HAR_EL_Backstory_A1.baseDesc>
+
+
+</LanguageData>

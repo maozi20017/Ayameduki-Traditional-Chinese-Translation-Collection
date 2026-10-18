@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_SK_Hediff_a.label>免疫增強</HAR_SK_Hediff_a.label>
+  <HAR_SK_Hediff_a.description>喝了營養飲品，對身體很好。</HAR_SK_Hediff_a.description>
+
+  <HAR_SK_Hediff_b.label>有益健康</HAR_SK_Hediff_b.label>
+  <HAR_SK_Hediff_b.description>吃了美味的食物，心情很好。</HAR_SK_Hediff_b.description>
+
+  <HAR_SK_Hediff_c.label>九尾的詛咒</HAR_SK_Hediff_c.label>
+  <HAR_SK_Hediff_c.description>亞人獸娘・母夜叉的可怕詛咒，會使對象的精神變得不穩定，並造成無法癒合的傷口。\n數小時後消失。</HAR_SK_Hediff_c.description>
+
+  <HAR_SK_Skill_Hediff_b.label>狐靈附身</HAR_SK_Skill_Hediff_b.label>
+  <HAR_SK_Skill_Hediff_b.description>使對象處於被亞人獸娘・母夜叉精神侵入的狀態，變得舉止怪異，某些情況下可能會引發精神崩潰。\n數小時後消失。</HAR_SK_Skill_Hediff_b.description>
+
+  <HAR_SK_Skill_Hediff_c.label>蠱毒</HAR_SK_Skill_Hediff_c.label>
+  <HAR_SK_Skill_Hediff_c.description>亞人獸娘・母夜叉所召喚的蠱蟲。\n在妖術的加持下比通常個體更為強韌，但超過某一界限後，肉體會因反作用而達到極限並死亡。</HAR_SK_Skill_Hediff_c.description>
+  <HAR_SK_Skill_Hediff_c.stages.0.label>活动限界</HAR_SK_Skill_Hediff_c.stages.0.label>
+  <HAR_SK_Skill_Hediff_c.stages.1.label>活性化</HAR_SK_Skill_Hediff_c.stages.1.label>
+
+  <Silkiera_Artificial.label>人工種族(亞人獸娘)</Silkiera_Artificial.label>
+  <Silkiera_Artificial.description>亞人獸娘是人工製造的種族，重視通用性。可能因為是人工生物的緣故，她們對疾病的耐性很低，免疫力也弗如常人。但是在編入基因的野生動物力量的影響下，會隨著時間的推移逐漸克服這些弱點，且其強度取決於她們各自的人工種族等級，大約1年提升1級(上限為5級)。</Silkiera_Artificial.description>
+  <Silkiera_Artificial.stages.0.label>Lv1</Silkiera_Artificial.stages.0.label>
+  <Silkiera_Artificial.stages.1.label>Lv2</Silkiera_Artificial.stages.1.label>
+  <Silkiera_Artificial.stages.2.label>Lv3</Silkiera_Artificial.stages.2.label>
+  <Silkiera_Artificial.stages.3.label>Lv4</Silkiera_Artificial.stages.3.label>
+  <Silkiera_Artificial.stages.4.label>Lv5</Silkiera_Artificial.stages.4.label>
+
+  <Silkiera_Artificial_b.label>人工上位種族(亞人獸娘)</Silkiera_Artificial_b.label>
+  <Silkiera_Artificial_b.description>亞人獸娘的上位種經過品種改良後的結果，擁有比普通亞人獸娘更優秀的身體素質。\n曾是弱點的免疫力也得到了增強，應該能有更穩定的活動。</Silkiera_Artificial_b.description>
+  <Silkiera_Artificial_b.stages.0.label>Lv1</Silkiera_Artificial_b.stages.0.label>
+  <Silkiera_Artificial_b.stages.1.label>Lv2</Silkiera_Artificial_b.stages.1.label>
+  <Silkiera_Artificial_b.stages.2.label>Lv3</Silkiera_Artificial_b.stages.2.label>
+  <Silkiera_Artificial_b.stages.3.label>Lv4</Silkiera_Artificial_b.stages.3.label>
+  <Silkiera_Artificial_b.stages.4.label>Lv5</Silkiera_Artificial_b.stages.4.label>
+
+
+</LanguageData>

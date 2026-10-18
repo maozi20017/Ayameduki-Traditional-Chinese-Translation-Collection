@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ■ティアラ(ネクロース) -->
+
+  <HAR_NC_Heads_a.label>皇冠頭飾(牧菌妖姬)</HAR_NC_Heads_a.label>
+  <HAR_NC_Heads_a.description>高貴者所佩戴的頭飾。</HAR_NC_Heads_a.description>
+
+
+  <!-- ■ルナティックヘルメット -->
+
+  <HAR_NC_Heads_b.label>血月頭盔(牧菌妖姬)</HAR_NC_Heads_b.label>
+  <HAR_NC_Heads_b.description>牧菌妖姬的專用頭盔，性能側重於接近對方並使其感染露娜病菌。原本是作為創造主麾下的戰鬥人員時穿著的戰鬥頭盔。</HAR_NC_Heads_b.description>
+
+
+  <!-- ■カチューシャ(ネクロース) -->
+
+  <HAR_NC_Heads_c.label>髮箍(牧菌妖姬)</HAR_NC_Heads_c.label>
+  <HAR_NC_Heads_c.description>牧菌妖姬專用的髮箍，或許是因為其不得不進行近身作戰的特性，強化了裝備耐久值。</HAR_NC_Heads_c.description>
+
+
+  <!-- ■リボン(ネクロース) -->
+
+  <HAR_NC_Heads_d.label>緞帶(牧菌妖姬)</HAR_NC_Heads_d.label>
+  <HAR_NC_Heads_d.description>牧菌妖姬專用的緞帶，或許是因為其不得不進行近身作戰的特性，強化了裝備耐久值。</HAR_NC_Heads_d.description>
+
+
+  <!-- ■花飾り(ネクロース) -->
+
+  <HAR_NC_Heads_e.label>黑棠花頭飾(牧菌妖姬)</HAR_NC_Heads_e.label>
+  <HAR_NC_Heads_e.description>牧菌妖姬專用的頭飾，或許是因為其不得不進行近身作戰的特性，強化了裝備耐久值。</HAR_NC_Heads_e.description>
+
+
+  <!-- ■異端者頭盔(牧菌妖姬・虛偽之物) -->
+
+  <HAR_NC_Heads_z.label>異端者頭盔(牧菌妖姬・虛偽之物)</HAR_NC_Heads_z.label>
+  <HAR_NC_Heads_z.description>牧菌妖姬・虛偽之物専用的頭盔。
+    \n外觀看起來有點像太空服。</HAR_NC_Heads_z.description>
+
+
+</LanguageData>

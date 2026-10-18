@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 子供用シャツ -->
+  <Aya_Race_Ap_C_T_a.label>製作 兒童款式汗衫</Aya_Race_Ap_C_T_a.label>
+  <!-- EN: 人工種族の子供用のシャツ、子供用だけあって性能は控えめ。 -->
+  <Aya_Race_Ap_C_T_a.description>人工種族的兒童用汗衫，由於是為兒童設計，性能較低。</Aya_Race_Ap_C_T_a.description>
+
+  <!-- EN: 子供用ブラウス -->
+  <Aya_Race_Ap_C_T_b.label>製作 兒童款式襯衫</Aya_Race_Ap_C_T_b.label>
+  <!-- EN: 人工種族の子供用のブラウス、子供用だけあって性能は控えめ。 -->
+  <Aya_Race_Ap_C_T_b.description>人工種族的兒童用襯衫，由於是為兒童設計，性能較低。</Aya_Race_Ap_C_T_b.description>
+  
+  <!-- EN: 子供用一枚布 -->
+  <Aya_Race_Ap_C_T_c.label>製作 兒童款式遮羞布</Aya_Race_Ap_C_T_c.label>
+  <!-- EN: 人工種族の子供用の一枚布、子供用だけあって性能は控えめ。 -->
+  <Aya_Race_Ap_C_T_c.description>人工種族的兒童用遮羞布，由於是為兒童設計，性能較低。</Aya_Race_Ap_C_T_c.description>
+  
+  <!-- EN: 子供用学生服 -->
+  <Aya_Race_Ap_C_T_d.label>製作 兒童款式學生服</Aya_Race_Ap_C_T_d.label>
+  <!-- EN: 人工種族の子供用の学生服、子供用だけあって性能は控えめ。 -->
+  <Aya_Race_Ap_C_T_d.description>人工種族的兒童用學生服，由於是為兒童設計，性能較低。</Aya_Race_Ap_C_T_d.description>
+  
+</LanguageData>

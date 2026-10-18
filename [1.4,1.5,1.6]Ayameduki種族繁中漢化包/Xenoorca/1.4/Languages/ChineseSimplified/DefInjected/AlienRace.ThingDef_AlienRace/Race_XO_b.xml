@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_Xenoorca_b.label>人魚姬・海達諾亞</HAR_Xenoorca_b.label>
+  <HAR_Xenoorca_b.description>『冥王種人魚姬・海達諾亞』是以人魚姬為基礎，融合了噬菌妖姬·混沌靈的基因的高等種族。她們擁有與深海有關的異能力量，擅長運用強大的生命力和再生能力進行肉搏戰。
+
+  在那場大戰之後，她率領人魚姬試圖推翻國家，以「殺害神子」的大罪被驅逐的種族。
+  被驅逐後，她與部下一同展開類似宙族的虐殺行為，據說這成為了殺人鯨旅團的開端。
+  時至今日，她仍然活躍於殺人鯨旅團，擔任團長的職位，並在面對龐大的殖民地時偶爾現身。
+  由於她在各地展示的殘忍行徑，人們以畏懼之情稱她為『淵叢主』。
+
+  被海達諾亞接觸到後，由於深海的壓力，會使人無法行動，因此應該避免一對一的情況。最糟糕的情況是儘量避免與她交戰，而是應該考慮擊敗她的部下並撤退的方法。
+
+  曾經作為創造主的近衛擁有榮耀的海達諾亞，為何墮落成賊，至今仍然不得而知。只有風聞中傳出她「對偽神族進行了徹底的殺戮」這一點。</HAR_Xenoorca_b.description>
+  <HAR_Xenoorca_b.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>hair</HAR_Xenoorca_b.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <HAR_Xenoorca_b.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>skin</HAR_Xenoorca_b.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
+  <HAR_Xenoorca_b.tools.0.label>深淵壓迫</HAR_Xenoorca_b.tools.0.label>
+  <HAR_Xenoorca_b.tools.1.label>深淵壓迫</HAR_Xenoorca_b.tools.1.label>
+  <HAR_Xenoorca_b.tools.2.label>深淵之襲</HAR_Xenoorca_b.tools.2.label>
+
+  <HAR_Xenoorca_b.comps.HAR_XO_Comp_Skill_Skip.commandLabel>深淵潛泳</HAR_Xenoorca_b.comps.HAR_XO_Comp_Skill_Skip.commandLabel>
+  <HAR_Xenoorca_b.comps.HAR_XO_Comp_Skill_Skip.commandDesc>瞬間移動到選擇的位置上</HAR_Xenoorca_b.comps.HAR_XO_Comp_Skill_Skip.commandDesc>
+
+</LanguageData>

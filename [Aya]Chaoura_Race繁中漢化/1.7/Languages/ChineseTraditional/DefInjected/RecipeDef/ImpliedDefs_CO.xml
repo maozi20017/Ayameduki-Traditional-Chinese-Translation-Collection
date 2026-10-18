@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 製作影之緞帶(混沌靈) -->
+  <Make_HAR_CO_Apparel_Head_a.label>製作 影之緞帶(混沌靈)</Make_HAR_CO_Apparel_Head_a.label>
+  <!-- EN: 製作影之緞帶(混沌靈) -->
+  <Make_HAR_CO_Apparel_Head_a.description>製作 影之緞帶(混沌靈)。</Make_HAR_CO_Apparel_Head_a.description>
+  <!-- EN: 正在製作影之緞帶(混沌靈) -->
+  <Make_HAR_CO_Apparel_Head_a.jobString>正在製作 影之緞帶(混沌靈)</Make_HAR_CO_Apparel_Head_a.jobString>
+  
+  <!-- EN: 製作影之風帽(混沌靈) -->
+  <Make_HAR_CO_Apparel_Head_b.label>製作 影之風帽(混沌靈)</Make_HAR_CO_Apparel_Head_b.label>
+  <!-- EN: 製作影之風帽(混沌靈) -->
+  <Make_HAR_CO_Apparel_Head_b.description>製作 影之風帽(混沌靈)。</Make_HAR_CO_Apparel_Head_b.description>
+  <!-- EN: 正在製作影之風帽(混沌靈) -->
+  <Make_HAR_CO_Apparel_Head_b.jobString>正在製作 影之風帽(混沌靈)</Make_HAR_CO_Apparel_Head_b.jobString>
+  
+  <!-- EN: 製作影之頭盔(混沌靈) -->
+  <Make_HAR_CO_Apparel_Head_c.label>製作 影之頭盔(混沌靈)</Make_HAR_CO_Apparel_Head_c.label>
+  <!-- EN: 製作影之頭盔(混沌靈) -->
+  <Make_HAR_CO_Apparel_Head_c.description>製作 影之頭盔(混沌靈)。</Make_HAR_CO_Apparel_Head_c.description>
+  <!-- EN: 正在製作影之頭盔(混沌靈) -->
+  <Make_HAR_CO_Apparel_Head_c.jobString>正在製作 影之頭盔(混沌靈)</Make_HAR_CO_Apparel_Head_c.jobString>
+  
+  <!-- EN: 製作影之斗篷(混沌靈) -->
+  <Make_HAR_CO_Apparel_Shell_a.label>製作 影之斗篷(混沌靈)</Make_HAR_CO_Apparel_Shell_a.label>
+  <!-- EN: 製作影之斗篷(混沌靈) -->
+  <Make_HAR_CO_Apparel_Shell_a.description>製作 影之斗篷(混沌靈)。</Make_HAR_CO_Apparel_Shell_a.description>
+  <!-- EN: 正在製作影之斗篷(混沌靈) -->
+  <Make_HAR_CO_Apparel_Shell_a.jobString>正在製作 影之斗篷(混沌靈)</Make_HAR_CO_Apparel_Shell_a.jobString>
+  
+  <!-- EN: 製作影之裝束A款(混沌靈) -->
+  <Make_HAR_CO_Apparel_Tops_a.label>製作 影之裝束A款(混沌靈)</Make_HAR_CO_Apparel_Tops_a.label>
+  <!-- EN: 製作影之裝束A款(混沌靈) -->
+  <Make_HAR_CO_Apparel_Tops_a.description>製作 影之裝束A款(混沌靈)。</Make_HAR_CO_Apparel_Tops_a.description>
+  <!-- EN: 正在製作影之裝束A款(混沌靈) -->
+  <Make_HAR_CO_Apparel_Tops_a.jobString>正在製作 影之裝束A款(混沌靈)</Make_HAR_CO_Apparel_Tops_a.jobString>
+  
+  <!-- EN: 製作影之裝束B款(混沌靈) -->
+  <Make_HAR_CO_Apparel_Tops_b.label>製作 影之裝束B款(混沌靈)</Make_HAR_CO_Apparel_Tops_b.label>
+  <!-- EN: 製作影之裝束B款(混沌靈) -->
+  <Make_HAR_CO_Apparel_Tops_b.description>製作 影之裝束B款(混沌靈)。</Make_HAR_CO_Apparel_Tops_b.description>
+  <!-- EN: 正在製作影之裝束B款(混沌靈) -->
+  <Make_HAR_CO_Apparel_Tops_b.jobString>正在製作 影之裝束B款(混沌靈)</Make_HAR_CO_Apparel_Tops_b.jobString>
+  
+  <!-- EN: 製作影之裝束C款(混沌靈) -->
+  <Make_HAR_CO_Apparel_Tops_c.label>製作 影之裝束C款(混沌靈)</Make_HAR_CO_Apparel_Tops_c.label>
+  <!-- EN: 製作影之裝束C款(混沌靈) -->
+  <Make_HAR_CO_Apparel_Tops_c.description>製作 影之裝束C款(混沌靈)。</Make_HAR_CO_Apparel_Tops_c.description>
+  <!-- EN: 正在製作影之裝束C款(混沌靈) -->
+  <Make_HAR_CO_Apparel_Tops_c.jobString>正在製作 影之裝束C款(混沌靈)</Make_HAR_CO_Apparel_Tops_c.jobString>
+  
+</LanguageData>

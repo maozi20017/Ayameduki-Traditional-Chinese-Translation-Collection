@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_SK_Mechanoid_Kind_a.label>亞工造機械生命體·收割者</HAR_SK_Mechanoid_Kind_a.label>
+  <HAR_SK_Mechanoid_Kind_a.labelPlural>亞工造機械生命體·收割者們</HAR_SK_Mechanoid_Kind_a.labelPlural>
+  <HAR_SK_Mechanoid_Kind_a.labelMale>男性 亞工造機械生命體·收割者</HAR_SK_Mechanoid_Kind_a.labelMale>
+  <HAR_SK_Mechanoid_Kind_a.labelMalePlural>男性 亞工造機械生命體·收割者們</HAR_SK_Mechanoid_Kind_a.labelMalePlural>
+  <HAR_SK_Mechanoid_Kind_a.labelFemale>女性 亞工造機械生命體·收割者</HAR_SK_Mechanoid_Kind_a.labelFemale>
+  <HAR_SK_Mechanoid_Kind_a.labelFemalePlural>女性 亞工造機械生命體·收割者們</HAR_SK_Mechanoid_Kind_a.labelFemalePlural>
+
+  <HAR_SK_Mechanoid_Kind_b.label>亞工造機械生命體·掠奪者</HAR_SK_Mechanoid_Kind_b.label>
+  <HAR_SK_Mechanoid_Kind_b.labelPlural>亞工造機械生命體·掠奪者們</HAR_SK_Mechanoid_Kind_b.labelPlural>
+  <HAR_SK_Mechanoid_Kind_b.labelMale>男性 亞工造機械生命體·掠奪者</HAR_SK_Mechanoid_Kind_b.labelMale>
+  <HAR_SK_Mechanoid_Kind_b.labelMalePlural>男性 亞工造機械生命體·掠奪者們</HAR_SK_Mechanoid_Kind_b.labelMalePlural>
+  <HAR_SK_Mechanoid_Kind_b.labelFemale>女性 亞工造機械生命體·掠奪者</HAR_SK_Mechanoid_Kind_b.labelFemale>
+  <HAR_SK_Mechanoid_Kind_b.labelFemalePlural>女性 亞工造機械生命體·掠奪者們</HAR_SK_Mechanoid_Kind_b.labelFemalePlural>
+
+  <HAR_SK_Mechanoid_Kind_c.label>亞工造機械生命體·暗影</HAR_SK_Mechanoid_Kind_c.label>
+  <HAR_SK_Mechanoid_Kind_c.labelPlural>亞工造機械生命體·暗影們</HAR_SK_Mechanoid_Kind_c.labelPlural>
+  <HAR_SK_Mechanoid_Kind_c.labelMale>男性 亞工造機械生命體·暗影</HAR_SK_Mechanoid_Kind_c.labelMale>
+  <HAR_SK_Mechanoid_Kind_c.labelMalePlural>男性 亞工造機械生命體·暗影們</HAR_SK_Mechanoid_Kind_c.labelMalePlural>
+  <HAR_SK_Mechanoid_Kind_c.labelFemale>女性 亞工造機械生命體·暗影</HAR_SK_Mechanoid_Kind_c.labelFemale>
+  <HAR_SK_Mechanoid_Kind_c.labelFemalePlural>女性 亞工造機械生命體·暗影們</HAR_SK_Mechanoid_Kind_c.labelFemalePlural>
+
+  <HAR_SK_Mechanoid_Kind_e.label>亞工造機械生命體·鐵血戰兵</HAR_SK_Mechanoid_Kind_e.label>
+  <HAR_SK_Mechanoid_Kind_e.labelPlural>亞工造機械生命體·鐵血戰兵們</HAR_SK_Mechanoid_Kind_e.labelPlural>
+  <HAR_SK_Mechanoid_Kind_e.labelMale>男性 亞工造機械生命體·鐵血戰兵</HAR_SK_Mechanoid_Kind_e.labelMale>
+  <HAR_SK_Mechanoid_Kind_e.labelMalePlural>男性 亞工造機械生命體·鐵血戰兵們</HAR_SK_Mechanoid_Kind_e.labelMalePlural>
+  <HAR_SK_Mechanoid_Kind_e.labelFemale>女性 亞工造機械生命體·鐵血戰兵</HAR_SK_Mechanoid_Kind_e.labelFemale>
+  <HAR_SK_Mechanoid_Kind_e.labelFemalePlural>女性 亞工造機械生命體·鐵血戰兵們</HAR_SK_Mechanoid_Kind_e.labelFemalePlural>
+
+  <HAR_SK_Mechanoid_Kind_z.label>復仇戰獸</HAR_SK_Mechanoid_Kind_z.label>
+  <HAR_SK_Mechanoid_Kind_z.labelPlural>復仇戰獸們</HAR_SK_Mechanoid_Kind_z.labelPlural>
+  <HAR_SK_Mechanoid_Kind_z.labelMale>男性 復仇戰獸</HAR_SK_Mechanoid_Kind_z.labelMale>
+  <HAR_SK_Mechanoid_Kind_z.labelMalePlural>男性 復仇戰獸們</HAR_SK_Mechanoid_Kind_z.labelMalePlural>
+  <HAR_SK_Mechanoid_Kind_z.labelFemale>女性 復仇戰獸</HAR_SK_Mechanoid_Kind_z.labelFemale>
+  <HAR_SK_Mechanoid_Kind_z.labelFemalePlural>女性 復仇戰獸們</HAR_SK_Mechanoid_Kind_z.labelFemalePlural>
+
+  <HAR_SK_PawnKind_Cat.label>柔順的貓</HAR_SK_PawnKind_Cat.label>
+  <HAR_SK_PawnKind_Cat.labelPlural>柔順的貓們</HAR_SK_PawnKind_Cat.labelPlural>
+  <HAR_SK_PawnKind_Cat.lifeStages.0.label>小貓</HAR_SK_PawnKind_Cat.lifeStages.0.label>
+  <HAR_SK_PawnKind_Cat.lifeStages.0.labelPlural>小貓們</HAR_SK_PawnKind_Cat.lifeStages.0.labelPlural>
+  <HAR_SK_PawnKind_Cat.lifeStages.0.labelMale>雄性 小貓</HAR_SK_PawnKind_Cat.lifeStages.0.labelMale>
+  <HAR_SK_PawnKind_Cat.lifeStages.0.labelMalePlural>雄性 小貓們</HAR_SK_PawnKind_Cat.lifeStages.0.labelMalePlural>
+  <HAR_SK_PawnKind_Cat.lifeStages.0.labelFemale>雌性 小貓</HAR_SK_PawnKind_Cat.lifeStages.0.labelFemale>
+  <HAR_SK_PawnKind_Cat.lifeStages.0.labelFemalePlural>雌性 小貓們</HAR_SK_PawnKind_Cat.lifeStages.0.labelFemalePlural>
+  <HAR_SK_PawnKind_Cat.lifeStages.1.label>柔順的貓</HAR_SK_PawnKind_Cat.lifeStages.1.label>
+  <HAR_SK_PawnKind_Cat.lifeStages.1.labelPlural>柔順的貓們</HAR_SK_PawnKind_Cat.lifeStages.1.labelPlural>
+  <HAR_SK_PawnKind_Cat.lifeStages.1.labelMale>雄性 柔順的貓</HAR_SK_PawnKind_Cat.lifeStages.1.labelMale>
+  <HAR_SK_PawnKind_Cat.lifeStages.1.labelMalePlural>雄性 柔順的貓們</HAR_SK_PawnKind_Cat.lifeStages.1.labelMalePlural>
+  <HAR_SK_PawnKind_Cat.lifeStages.1.labelFemale>雌性 柔順的貓</HAR_SK_PawnKind_Cat.lifeStages.1.labelFemale>
+  <HAR_SK_PawnKind_Cat.lifeStages.1.labelFemalePlural>雌性 柔順的貓們</HAR_SK_PawnKind_Cat.lifeStages.1.labelFemalePlural>
+  <HAR_SK_PawnKind_Cat.lifeStages.2.label>柔順的貓</HAR_SK_PawnKind_Cat.lifeStages.2.label>
+  <HAR_SK_PawnKind_Cat.lifeStages.2.labelPlural>柔順的貓們</HAR_SK_PawnKind_Cat.lifeStages.2.labelPlural>
+  <HAR_SK_PawnKind_Cat.lifeStages.2.labelMale>雄性 柔順的貓</HAR_SK_PawnKind_Cat.lifeStages.2.labelMale>
+  <HAR_SK_PawnKind_Cat.lifeStages.2.labelMalePlural>雄性 柔順的貓們</HAR_SK_PawnKind_Cat.lifeStages.2.labelMalePlural>
+  <HAR_SK_PawnKind_Cat.lifeStages.2.labelFemale>雌性 柔順的貓</HAR_SK_PawnKind_Cat.lifeStages.2.labelFemale>
+  <HAR_SK_PawnKind_Cat.lifeStages.2.labelFemalePlural>雌性 柔順的貓們</HAR_SK_PawnKind_Cat.lifeStages.2.labelFemalePlural>
+  <HAR_SK_PawnKind_Cat.labelMale>雄性 柔順的貓</HAR_SK_PawnKind_Cat.labelMale>
+  <HAR_SK_PawnKind_Cat.labelMalePlural>雄性 柔順的貓們</HAR_SK_PawnKind_Cat.labelMalePlural>
+  <HAR_SK_PawnKind_Cat.labelFemale>雌性 柔順的貓</HAR_SK_PawnKind_Cat.labelFemale>
+  <HAR_SK_PawnKind_Cat.labelFemalePlural>雌性 柔順的貓們</HAR_SK_PawnKind_Cat.labelFemalePlural>
+
+
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_SK_Incident_ShipPartCrash.label>亞人工業補給店</HAR_SK_Incident_ShipPartCrash.label>
+  <HAR_SK_Incident_ShipPartCrash.letterText>亞人工業在殖民地開設店鋪啦！\n似乎帶著宣傳和慈善的意味，向世界各地配送獸娘罐頭。商店會擺出一些獸娘罐頭，停留一段時間後就會前往下一個目的地。</HAR_SK_Incident_ShipPartCrash.letterText>
+  <HAR_SK_Incident_ShipPartCrash.letterLabel>補給店</HAR_SK_Incident_ShipPartCrash.letterLabel>
+
+  <HAR_SK_Incident_ShipPartCrash_b.label>鎮魂獸</HAR_SK_Incident_ShipPartCrash_b.label>
+  <HAR_SK_Incident_ShipPartCrash_b.letterText>與被摧毀的女王種一同降落到殖民地的機械生命體。\n好像是亞人工業的戰爭機器，非常危險，因此還請不要試圖去激怒它。往往會在1天內完成任務並離開殖民地。\n將一同降落的女王種屍骸破壞的話能獲得許多資源，但是在戰爭機器離開前就破壞的話，可能會引起它的憤怒。</HAR_SK_Incident_ShipPartCrash_b.letterText>
+  <HAR_SK_Incident_ShipPartCrash_b.letterLabel>鎮魂獸</HAR_SK_Incident_ShipPartCrash_b.letterLabel>
+
+
+</LanguageData>

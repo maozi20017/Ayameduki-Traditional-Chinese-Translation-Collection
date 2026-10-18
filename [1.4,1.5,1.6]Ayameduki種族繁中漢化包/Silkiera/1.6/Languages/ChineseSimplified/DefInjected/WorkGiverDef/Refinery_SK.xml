@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 製油する -->
+  <HAR_SK_Refinery_WorkGiver.label>進行煉油</HAR_SK_Refinery_WorkGiver.label>
+  <!-- EN: refining chemicals at -->
+  <HAR_SK_Refinery_WorkGiver.gerund>精煉於</HAR_SK_Refinery_WorkGiver.gerund>
+  <!-- EN: refine chemicals at -->
+  <HAR_SK_Refinery_WorkGiver.verb>精煉於</HAR_SK_Refinery_WorkGiver.verb>
+  
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_SA_Damage_a.label>反物質爆炸</HAR_SA_Damage_a.label>
+  <HAR_SA_Damage_a.deathMessage>{0} 死於反物質爆炸。</HAR_SA_Damage_a.deathMessage>
+
+  <HAR_SA_Damage_b.label>龍化</HAR_SA_Damage_b.label>
+  <HAR_SA_Damage_b.deathMessage>{0} 被殺死了。</HAR_SA_Damage_b.deathMessage>
+  
+</LanguageData>

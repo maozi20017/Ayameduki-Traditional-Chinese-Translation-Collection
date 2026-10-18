@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 白銀貨 -->
+  <HAR_ZC_Hediff_b.label>白銀幣</HAR_ZC_Hediff_b.label>
+  <!-- EN: 正式名称『神子の白銀貨』。\n糾罪者は人工種族特有の虚数能力を、この白銀貨の生成にリソースの大部分を割いている。\nこの白銀貨を蒼褪めた太陽に焼べることで特異性のある現象を引き起こす。\n\nデュナミスが糾罪者を創造したあと、彼女達に授けた技術であり思い出の品。\n白銀貨の両面には二種の神子の横顔が描かれている。\n\n100が限界値であり、1日で全快する。 -->
+  <HAR_ZC_Hediff_b.description>正式名稱『神子的白銀幣』。\n糾罪者將人工種族特有的虛數能力，大部分資源投入到這枚銀幣的生成當中。\n將這枚銀幣投入到蒼褪的太陽中進行熔燒，便會引發特異的現象。\n\n這枚銀幣是可能性在創造糾罪者後，賜予她們的技術，亦是紀念之物。\n銀幣的正反兩面，分別描繪了兩位神子的側顏。\n\n（最大容量為100/每日自動恢復）</HAR_ZC_Hediff_b.description>
+  <!-- EN: 10 -->
+  <HAR_ZC_Hediff_b.stages._10.label>10</HAR_ZC_Hediff_b.stages._10.label>
+  <!-- EN: 20 -->
+  <HAR_ZC_Hediff_b.stages._20.label>20</HAR_ZC_Hediff_b.stages._20.label>
+  <!-- EN: 30 -->
+  <HAR_ZC_Hediff_b.stages._30.label>30</HAR_ZC_Hediff_b.stages._30.label>
+  <!-- EN: 40 -->
+  <HAR_ZC_Hediff_b.stages._40.label>40</HAR_ZC_Hediff_b.stages._40.label>
+  <!-- EN: 50 -->
+  <HAR_ZC_Hediff_b.stages._50.label>50</HAR_ZC_Hediff_b.stages._50.label>
+  <!-- EN: 60 -->
+  <HAR_ZC_Hediff_b.stages._60.label>60</HAR_ZC_Hediff_b.stages._60.label>
+  <!-- EN: 70 -->
+  <HAR_ZC_Hediff_b.stages._70.label>70</HAR_ZC_Hediff_b.stages._70.label>
+  <!-- EN: 80 -->
+  <HAR_ZC_Hediff_b.stages._80.label>80</HAR_ZC_Hediff_b.stages._80.label>
+  <!-- EN: 90 -->
+  <HAR_ZC_Hediff_b.stages._90.label>90</HAR_ZC_Hediff_b.stages._90.label>
+  <!-- EN: 100 -->
+  <HAR_ZC_Hediff_b.stages._100.label>100</HAR_ZC_Hediff_b.stages._100.label>
+  
+</LanguageData>

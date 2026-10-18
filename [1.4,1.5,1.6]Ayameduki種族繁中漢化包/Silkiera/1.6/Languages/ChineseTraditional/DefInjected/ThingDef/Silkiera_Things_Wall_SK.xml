@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ■フェンス -->
+
+  <HAR_SK_Wall_Fence.label>現代化圍欄</HAR_SK_Wall_Fence.label>
+  <HAR_SK_Wall_Fence.description>亞人工業使用的現代化圍欄。需要注意的是，子彈可以從鐵絲間穿過。</HAR_SK_Wall_Fence.description>
+  <HAR_SK_Wall_Fence_Blueprint.label>現代化圍欄 (藍圖)</HAR_SK_Wall_Fence_Blueprint.label>
+  <HAR_SK_Wall_Fence_Frame.label>現代化圍欄 (建造中)</HAR_SK_Wall_Fence_Frame.label>
+  <HAR_SK_Wall_Fence_Frame.description>亞人工業使用的現代化圍欄。需要注意的是，子彈可以從鐵絲間穿過。</HAR_SK_Wall_Fence_Frame.description>
+
+
+</LanguageData>

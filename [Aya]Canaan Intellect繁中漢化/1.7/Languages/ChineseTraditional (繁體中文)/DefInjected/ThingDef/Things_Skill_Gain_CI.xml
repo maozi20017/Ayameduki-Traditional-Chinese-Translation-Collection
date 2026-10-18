@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 始原の澱:ケイオストラベル -->
+  <Aya_CI_Skill_Gain_a.label>始原之澱：混沌躍遷</Aya_CI_Skill_Gain_a.label>
+  <!-- EN: ドロリとした液体が入った謎のアンプル。\n使用することで人工種族の力を獲得することが出来る。\n\n[ケイオストラベル]\n指定したマスへテレポートする。\n深淵に潜むケイオーラの力。\n\n\n\n旧き時代、人工種族の創造主は自らに付き従う人間たちにこれを与えた。\nそうして彼は強者も弱者も等しく超人へと変じさせ、瞬く間に万軍の主となった。\n故に星外では「カナンの大祖」と恐れられ。高度文明の惑星では未だにその名が消えずにいるという。 -->
+  <Aya_CI_Skill_Gain_a.description>裝有黏稠液體的神秘安瓿。\n使用後可獲得人工種族的力量。\n\n［混沌躍遷］\n傳送至指定格子。\n潛伏於深淵的混沌靈之力。\n\n\n\n遠古時代，人工種族的創造主將此物賜予追隨自己的人類。\n就此，他將強者與弱者一視同仁地轉變為超人，瞬間成為萬軍之主。\n因此在星外被稱為「迦南的大祖」而令人聞風喪膽，據說在高度文明的星球上，其名至今仍未消散。</Aya_CI_Skill_Gain_a.description>
+  <!-- EN: {0} を使用して能力を獲得する -->
+  <Aya_CI_Skill_Gain_a.comps.CompUsable.useLabel>使用{0}獲得能力</Aya_CI_Skill_Gain_a.comps.CompUsable.useLabel>
+  <!-- EN: ケイオストラベル。 -->
+  <Aya_CI_Skill_Gain_a.comps.Aya_CI_CompUseEffect_SkillGain.skillCompProperties.commandLabel>混沌躍遷</Aya_CI_Skill_Gain_a.comps.Aya_CI_CompUseEffect_SkillGain.skillCompProperties.commandLabel>
+  <!-- EN: 指定した位置に瞬時にテレポートします。 -->
+  <Aya_CI_Skill_Gain_a.comps.Aya_CI_CompUseEffect_SkillGain.skillCompProperties.commandDesc>瞬間傳送至指定位置。</Aya_CI_Skill_Gain_a.comps.Aya_CI_CompUseEffect_SkillGain.skillCompProperties.commandDesc>
+  
+  <!-- EN: 始原の澱:インヴァーテッドノヴァ -->
+  <Aya_CI_Skill_Gain_b.label>始原之澱：反物質新星</Aya_CI_Skill_Gain_b.label>
+  <!-- EN: ドロリとした液体が入った謎のアンプル。\n使用することで人工種族の力を獲得することが出来る。\n\n[インヴァーテッドノヴァ]\n指定したマスに反物質爆発を発生させる。\n万物を破壊するソルアークの力。\n\n\n\n旧き時代、人工種族の創造主は自らに付き従う人間たちにこれを与えた。\nそうして彼は強者も弱者も等しく超人へと変じさせ、瞬く間に万軍の主となった。\n故に星外では「カナンの大祖」と恐れられ。高度文明の惑星では未だにその名が消えずにいるという。 -->
+  <Aya_CI_Skill_Gain_b.description>裝有黏稠液體的神秘安瓿。\n使用後可獲得人工種族的力量。\n\n［反物質新星］\n在指定格子引發反物質爆炸。\n破壞萬物的龍姬之力。\n\n\n\n遠古時代，人工種族的創造主將此物賜予追隨自己的人類。\n就此，他將強者與弱者一視同仁地轉變為超人，瞬間成為萬軍之主。\n因此在星外被稱為「迦南的大祖」而令人聞風喪膽，據說在高度文明的星球上，其名至今仍未消散。</Aya_CI_Skill_Gain_b.description>
+  <!-- EN: {0} を使用して能力を獲得する -->
+  <Aya_CI_Skill_Gain_b.comps.CompUsable.useLabel>使用{0}獲得能力</Aya_CI_Skill_Gain_b.comps.CompUsable.useLabel>
+  <!-- EN: インヴァーテッドノヴァ -->
+  <Aya_CI_Skill_Gain_b.comps.Aya_CI_CompUseEffect_SkillGain.skillCompProperties.commandLabel>反物質新星</Aya_CI_Skill_Gain_b.comps.Aya_CI_CompUseEffect_SkillGain.skillCompProperties.commandLabel>
+  <!-- EN: 指定した位置に半径6マスの反物質爆発を発生させます。 -->
+  <Aya_CI_Skill_Gain_b.comps.Aya_CI_CompUseEffect_SkillGain.skillCompProperties.commandDesc>在指定位置引發半徑6格的反物質爆炸。</Aya_CI_Skill_Gain_b.comps.Aya_CI_CompUseEffect_SkillGain.skillCompProperties.commandDesc>
+
+  <!-- EN: 始原の澱:コンフラグレイション -->
+  <Aya_CI_Skill_Gain_c.label>始原之澱：烈焰爆炎</Aya_CI_Skill_Gain_c.label>
+  <!-- EN: ドロリとした液体が入った謎のアンプル。\n使用することで人工種族の力を獲得することが出来る。\n\n[コンフラグレイション]\n指定したマスに火炎爆発を発生させる。\n鍛冶司るシルキーラの力。\n\n\n\n旧き時代、人工種族の創造主は自らに付き従う人間たちにこれを与えた。\nそうして彼は強者も弱者も等しく超人へと変じさせ、瞬く間に万軍の主となった。\n故に星外では「カナンの大祖」と恐れられ。高度文明の惑星では未だにその名が消えずにいるという。 -->
+  <Aya_CI_Skill_Gain_c.description>裝有黏稠液體的神秘安瓿。\n使用後可獲得人工種族的力量。\n\n［烈焰爆炎］\n在指定格子引發火焰爆炸。\n掌管鍛造的亞人獸娘之力。\n\n\n\n遠古時代，人工種族的創造主將此物賜予追隨自己的人類。\n就此，他將強者與弱者一視同仁地轉變為超人，瞬間成為萬軍之主。\n因此在星外被稱為「迦南的大祖」而令人聞風喪膽，據說在高度文明的星球上，其名至今仍未消散。</Aya_CI_Skill_Gain_c.description>
+  <!-- EN: {0} を使用して能力を獲得する -->
+  <Aya_CI_Skill_Gain_c.comps.CompUsable.useLabel>使用{0}獲得能力</Aya_CI_Skill_Gain_c.comps.CompUsable.useLabel>
+  <!-- EN: コンフラグレイション -->
+  <Aya_CI_Skill_Gain_c.comps.Aya_CI_CompUseEffect_SkillGain.skillCompProperties.commandLabel>烈焰爆炎</Aya_CI_Skill_Gain_c.comps.Aya_CI_CompUseEffect_SkillGain.skillCompProperties.commandLabel>
+  <!-- EN: 指定したマスに火炎爆発を発生させる。 -->
+  <Aya_CI_Skill_Gain_c.comps.Aya_CI_CompUseEffect_SkillGain.skillCompProperties.commandDesc>在指定格子引發火焰爆炸。</Aya_CI_Skill_Gain_c.comps.Aya_CI_CompUseEffect_SkillGain.skillCompProperties.commandDesc>
+  
+  <!-- EN: 始原の澱:ブレインハック -->
+  <Aya_CI_Skill_Gain_d.label>始原之澱：腦部駭入</Aya_CI_Skill_Gain_d.label>
+  <!-- EN: ドロリとした液体が入った謎のアンプル。\n使用することで人工種族の力を獲得することが出来る。\n\n[ブレインハック]\n指定したマスを周囲にいる、入植者以外全員をスタンさせる。\n精神に侵すニアメーアの力。\n\n\n\n旧き時代、人工種族の創造主は自らに付き従う人間たちにこれを与えた。\nそうして彼は強者も弱者も等しく超人へと変じさせ、瞬く間に万軍の主となった。\n故に星外では「カナンの大祖」と恐れられ。高度文明の惑星では未だにその名が消えずにいるという。 -->
+  <Aya_CI_Skill_Gain_d.description>裝有黏稠液體的神秘安瓿。\n使用後可獲得人工種族的力量。\n\n［腦部駭入］\n使指定格子周圍、除殖民者以外的所有人陷入暈眩狀態。\n侵蝕精神的夜魔之力。\n\n\n\n遠古時代，人工種族的創造主將此物賜予追隨自己的人類。\n就此，他將強者與弱者一視同仁地轉變為超人，瞬間成為萬軍之主。\n因此在星外被稱為「迦南的大祖」而令人聞風喪膽，據說在高度文明的星球上，其名至今仍未消散。</Aya_CI_Skill_Gain_d.description>
+  <!-- EN: {0} を使用して能力を獲得する -->
+  <Aya_CI_Skill_Gain_d.comps.CompUsable.useLabel>使用{0}獲得能力</Aya_CI_Skill_Gain_d.comps.CompUsable.useLabel>
+  <!-- EN: ブレインハック -->
+  <Aya_CI_Skill_Gain_d.comps.Aya_CI_CompUseEffect_SkillGain.skillCompProperties.commandLabel>腦部駭入</Aya_CI_Skill_Gain_d.comps.Aya_CI_CompUseEffect_SkillGain.skillCompProperties.commandLabel>
+  <!-- EN: 指定した位置を中心に半径8マスにいる入植者以外全員をスタンさせる。 -->
+  <Aya_CI_Skill_Gain_d.comps.Aya_CI_CompUseEffect_SkillGain.skillCompProperties.commandDesc>以指定位置為中心，使半徑8格內除殖民者以外的所有人陷入暈眩狀態。</Aya_CI_Skill_Gain_d.comps.Aya_CI_CompUseEffect_SkillGain.skillCompProperties.commandDesc>
+   
+  <!-- EN: 始原の澱:クルエリィエッジ -->
+  <Aya_CI_Skill_Gain_e.label>始原之澱：殘酷之刃</Aya_CI_Skill_Gain_e.label>
+  <!-- EN: ドロリとした液体が入った謎のアンプル。\n使用することで人工種族の力を獲得することが出来る。\n\n[クルエリィエッジ]\n指定したマスの周囲にいる、入植者以外全員に斬撃を与え出血を強いる。\n悪虐の神子イヴリートの力。\n\n\n\n旧き時代、人工種族の創造主は自らに付き従う人間たちにこれを与えた。\nそうして彼は強者も弱者も等しく超人へと変じさせ、瞬く間に万軍の主となった。\n故に星外では「カナンの大祖」と恐れられ。高度文明の惑星では未だにその名が消えずにいるという。 -->
+  <Aya_CI_Skill_Gain_e.description>裝有黏稠液體的神秘安瓿。\n使用後可獲得人工種族的力量。\n\n［殘酷之刃］\n對指定格子周圍、除殖民者以外的所有人施以斬擊並強制出血。\n惡虐的神子伊娃莉特之力。\n\n\n\n遠古時代，人工種族的創造主將此物賜予追隨自己的人類。\n就此，他將強者與弱者一視同仁地轉變為超人，瞬間成為萬軍之主。\n因此在星外被稱為「迦南的大祖」而令人聞風喪膽，據說在高度文明的星球上，其名至今仍未消散。</Aya_CI_Skill_Gain_e.description>
+  <!-- EN: {0} を使用して能力を獲得する -->
+  <Aya_CI_Skill_Gain_e.comps.CompUsable.useLabel>使用{0}獲得能力</Aya_CI_Skill_Gain_e.comps.CompUsable.useLabel>
+  <!-- EN: クルエリィエッジ -->
+  <Aya_CI_Skill_Gain_e.comps.Aya_CI_CompUseEffect_SkillGain.skillCompProperties.commandLabel>殘酷之刃</Aya_CI_Skill_Gain_e.comps.Aya_CI_CompUseEffect_SkillGain.skillCompProperties.commandLabel>
+  <!-- EN: 指定した位置を中心に半径4マスにいる入植者以外全員に斬撃を与え出血を強いる。 -->
+  <Aya_CI_Skill_Gain_e.comps.Aya_CI_CompUseEffect_SkillGain.skillCompProperties.commandDesc>以指定位置為中心，對半徑4格內除殖民者以外的所有人施以斬擊並強制出血。</Aya_CI_Skill_Gain_e.comps.Aya_CI_CompUseEffect_SkillGain.skillCompProperties.commandDesc>
+
+  <!-- EN: 始原の澱:セプロフォビア -->
+  <Aya_CI_Skill_Gain_f.label>始原之澱：腐敗恐懼</Aya_CI_Skill_Gain_f.label>
+  <!-- EN: ドロリとした液体が入った謎のアンプル。\n使用することで人工種族の力を獲得することが出来る。\n\n[セプロフォビア]\n指定した位置の範囲内ランダムに腐食性の爆発弾を8つ発射する。\n細菌と共生するネクロースの力。\n\n\n\n旧き時代、人工種族の創造主は自らに付き従う人間たちにこれを与えた。\nそうして彼は強者も弱者も等しく超人へと変じさせ、瞬く間に万軍の主となった。\n故に星外では「カナンの大祖」と恐れられ。高度文明の惑星では未だにその名が消えずにいるという。 -->
+  <Aya_CI_Skill_Gain_f.description>裝有黏稠液體的神秘安瓿。\n使用後可獲得人工種族的力量。\n\n［腐敗恐懼］\n在指定位置的範圍內隨機發射8顆腐蝕性爆彈。\n與細菌共生的牧菌妖姬之力。\n\n\n\n遠古時代，人工種族的創造主將此物賜予追隨自己的人類。\n就此，他將強者與弱者一視同仁地轉變為超人，瞬間成為萬軍之主。\n因此在星外被稱為「迦南的大祖」而令人聞風喪膽，據說在高度文明的星球上，其名至今仍未消散。</Aya_CI_Skill_Gain_f.description>
+  <!-- EN: {0} を使用して能力を獲得する -->
+  <Aya_CI_Skill_Gain_f.comps.CompUsable.useLabel>使用{0}獲得能力</Aya_CI_Skill_Gain_f.comps.CompUsable.useLabel>
+  <!-- EN: セプロフォビア -->
+  <Aya_CI_Skill_Gain_f.comps.Aya_CI_CompUseEffect_SkillGain.skillCompProperties.commandLabel>腐敗恐懼</Aya_CI_Skill_Gain_f.comps.Aya_CI_CompUseEffect_SkillGain.skillCompProperties.commandLabel>
+  <!-- EN: 指定した位置を中心に半径5マスランダムに腐食性の爆発弾を8つ発射する。 -->
+  <Aya_CI_Skill_Gain_f.comps.Aya_CI_CompUseEffect_SkillGain.skillCompProperties.commandDesc>以指定位置為中心，在半徑5格內隨機發射8顆腐蝕性爆彈。</Aya_CI_Skill_Gain_f.comps.Aya_CI_CompUseEffect_SkillGain.skillCompProperties.commandDesc>
+
+  <!-- EN: 始原の澱:フェイズフィルム -->
+  <Aya_CI_Skill_Gain_g.label>始原之澱：相位薄膜</Aya_CI_Skill_Gain_g.label>
+  <!-- EN: ドロリとした液体が入った謎のアンプル。\n使用することで人工種族の力を獲得することが出来る。\n\n[フェイズフィルム]\n指定したマスの周囲にいる、入植者全員にバリアを付与する。\n彼岸に身を置くイドヘールの力。\n\n\n\n旧き時代、人工種族の創造主は自らに付き従う人間たちにこれを与えた。\nそうして彼は強者も弱者も等しく超人へと変じさせ、瞬く間に万軍の主となった。\n故に星外では「カナンの大祖」と恐れられ。高度文明の惑星では未だにその名が消えずにいるという。 -->
+  <Aya_CI_Skill_Gain_g.description>裝有黏稠液體的神秘安瓿。\n使用後可獲得人工種族的力量。\n\n［相位薄膜］\n對指定格子周圍的所有入殖者賦予護盾。\n置身彼岸的幽靈姬之力。\n\n\n\n遠古時代，人工種族的創造主將此物賜予追隨自己的人類。\n就此，他將強者與弱者一視同仁地轉變為超人，瞬間成為萬軍之主。\n因此在星外被稱為「迦南的大祖」而令人聞風喪膽，據說在高度文明的星球上，其名至今仍未消散。</Aya_CI_Skill_Gain_g.description>
+  <!-- EN: {0} を使用して能力を獲得する -->
+  <Aya_CI_Skill_Gain_g.comps.CompUsable.useLabel>使用{0}獲得能力</Aya_CI_Skill_Gain_g.comps.CompUsable.useLabel>
+  <!-- EN: フェイズフィルム -->
+  <Aya_CI_Skill_Gain_g.comps.Aya_CI_CompUseEffect_SkillGain.skillCompProperties.commandLabel>相位薄膜</Aya_CI_Skill_Gain_g.comps.Aya_CI_CompUseEffect_SkillGain.skillCompProperties.commandLabel>
+  <!-- EN: 指定した位置を中心に半径5マスにいる入植者全員にバリアを付与する。 -->
+  <Aya_CI_Skill_Gain_g.comps.Aya_CI_CompUseEffect_SkillGain.skillCompProperties.commandDesc>以指定位置為中心，對半徑5格內的所有殖民者賦予護盾。</Aya_CI_Skill_Gain_g.comps.Aya_CI_CompUseEffect_SkillGain.skillCompProperties.commandDesc>
+
+  <!-- EN: 始原の澱:マーシフルショット -->
+  <Aya_CI_Skill_Gain_h.label>始原之澱：仁慈的一擊</Aya_CI_Skill_Gain_h.label>
+  <!-- EN: ドロリとした液体が入った謎のアンプル。\n使用することで人工種族の力を獲得することが出来る。\n\n[マーシフルショット]\n虚空より相手の急所を狙い撃つ銃弾を発射する。\n無邪気で残忍な殺戮者ゼノオーカの力。\n\n\n\n旧き時代、人工種族の創造主は自らに付き従う人間たちにこれを与えた。\nそうして彼は強者も弱者も等しく超人へと変じさせ、瞬く間に万軍の主となった。\n故に星外では「カナンの大祖」と恐れられ。高度文明の惑星では未だにその名が消えずにいるという。 -->
+  <Aya_CI_Skill_Gain_h.description>裝有黏稠液體的神秘安瓿。\n使用後可獲得人工種族的力量。\n\n［仁慈的一擊］\n從虛空中發射瞄準對手要害的子彈。\n天真且殘忍的殺戮者人魚姬之力。\n\n\n\n遠古時代，人工種族的創造主將此物賜予追隨自己的人類。\n就此，他將強者與弱者一視同仁地轉變為超人，瞬間成為萬軍之主。\n因此在星外被稱為「迦南的大祖」而令人聞風喪膽，據說在高度文明的星球上，其名至今仍未消散。</Aya_CI_Skill_Gain_h.description>
+  <!-- EN: {0} を使用して能力を獲得する -->
+  <Aya_CI_Skill_Gain_h.comps.CompUsable.useLabel>使用{0}獲得能力</Aya_CI_Skill_Gain_h.comps.CompUsable.useLabel>
+  <!-- EN: マーシフルショット -->
+  <Aya_CI_Skill_Gain_h.comps.Aya_CI_CompUseEffect_SkillGain.skillCompProperties.commandLabel>仁慈的一擊</Aya_CI_Skill_Gain_h.comps.Aya_CI_CompUseEffect_SkillGain.skillCompProperties.commandLabel>
+  <!-- EN: 指定した対象に急所狙いの銃撃を放つ。 -->
+  <Aya_CI_Skill_Gain_h.comps.Aya_CI_CompUseEffect_SkillGain.skillCompProperties.commandDesc>對指定目標發射瞄準要害的子彈。</Aya_CI_Skill_Gain_h.comps.Aya_CI_CompUseEffect_SkillGain.skillCompProperties.commandDesc>
+  
+  <!-- EN: 始原の澱:グッバイペイン！ -->
+  <Aya_CI_Skill_Gain_i.label>始原之澱：再見了，痛苦！</Aya_CI_Skill_Gain_i.label>
+  <!-- EN: ドロリとした液体が入った謎のアンプル。\n使用することで人工種族の力を獲得することが出来る。\n\n[グッバイペイン！]\n指定したマスを周囲にいる、敵対者以外全員を治癒する。\n厄災を引き寄せまた退けるリトルーナの力。\n\n\n\n旧き時代、人工種族の創造主は自らに付き従う人間たちにこれを与えた。\nそうして彼は強者も弱者も等しく超人へと変じさせ、瞬く間に万軍の主となった。\n故に星外では「カナンの大祖」と恐れられ。高度文明の惑星では未だにその名が消えずにいるという。 -->
+  <Aya_CI_Skill_Gain_i.description>裝有黏稠液體的神秘安瓿。\n使用後可獲得人工種族的力量。\n\n［再見了，痛苦！］\n治癒指定格子周圍、敵對者以外的所有人。\n引來災厄又將其驅退的偽神族之力。\n\n\n\n遠古時代，人工種族的創造主將此物賜予追隨自己的人類。\n就此，他將強者與弱者一視同仁地轉變為超人，瞬間成為萬軍之主。\n因此在星外被稱為「迦南的大祖」而令人聞風喪膽，據說在高度文明的星球上，其名至今仍未消散。</Aya_CI_Skill_Gain_i.description>
+  <!-- EN: {0} を使用して能力を獲得する -->
+  <Aya_CI_Skill_Gain_i.comps.CompUsable.useLabel>使用{0}獲得能力</Aya_CI_Skill_Gain_i.comps.CompUsable.useLabel>
+  <!-- EN: グッバイペイン！ -->
+  <Aya_CI_Skill_Gain_i.comps.Aya_CI_CompUseEffect_SkillGain.skillCompProperties.commandLabel>再見了，痛苦！</Aya_CI_Skill_Gain_i.comps.Aya_CI_CompUseEffect_SkillGain.skillCompProperties.commandLabel>
+  <!-- EN: 指定した位置を中心に半径5マスにいる敵対者以外全員を治癒する。 -->
+  <Aya_CI_Skill_Gain_i.comps.Aya_CI_CompUseEffect_SkillGain.skillCompProperties.commandDesc>以指定位置為中心，治癒半徑5格內除敵對者以外的所有人。</Aya_CI_Skill_Gain_i.comps.Aya_CI_CompUseEffect_SkillGain.skillCompProperties.commandDesc>
+  
+  <!-- EN: 始原の澱:ソヴリングレイス -->
+  <Aya_CI_Skill_Gain_j.label>始原之澱：君主恩典</Aya_CI_Skill_Gain_j.label>
+  <!-- EN: ドロリとした液体が入った謎のアンプル。\n使用することで人工種族の力を獲得することが出来る。\n\n[ソヴリングレイス]\n指定したマスの周囲にいる、入植者全員を強化する。\n人工種族の王族たるクオリーラの力。\n\n\n\n旧き時代、人工種族の創造主は自らに付き従う人間たちにこれを与えた。\nそうして彼は強者も弱者も等しく超人へと変じさせ、瞬く間に万軍の主となった。\n故に星外では「カナンの大祖」と恐れられ。高度文明の惑星では未だにその名が消えずにいるという。 -->
+  <Aya_CI_Skill_Gain_j.description>裝有黏稠液體的神秘安瓿。\n使用後可獲得人工種族的力量。\n\n［君主恩典］\n強化指定格子周圍的所有殖民者。\n身為人工種族王族的庫利菈之力。\n\n\n\n遠古時代，人工種族的創造主將此物賜予追隨自己的人類。\n就此，他將強者與弱者一視同仁地轉變為超人，瞬間成為萬軍之主。\n因此在星外被稱為「迦南的大祖」而令人聞風喪膽，據說在高度文明的星球上，其名至今仍未消散。</Aya_CI_Skill_Gain_j.description>
+  <!-- EN: {0} を使用して能力を獲得する -->
+  <Aya_CI_Skill_Gain_j.comps.CompUsable.useLabel>使用{0}獲得能力</Aya_CI_Skill_Gain_j.comps.CompUsable.useLabel>
+  <!-- EN: ソヴリングレイス -->
+  <Aya_CI_Skill_Gain_j.comps.Aya_CI_CompUseEffect_SkillGain.skillCompProperties.commandLabel>君主恩典</Aya_CI_Skill_Gain_j.comps.Aya_CI_CompUseEffect_SkillGain.skillCompProperties.commandLabel>
+  <!-- EN: 指定したマスの周囲にいる、入植者全員を強化する。 -->
+  <Aya_CI_Skill_Gain_j.comps.Aya_CI_CompUseEffect_SkillGain.skillCompProperties.commandDesc>強化指定格子周圍的所有殖民者。</Aya_CI_Skill_Gain_j.comps.Aya_CI_CompUseEffect_SkillGain.skillCompProperties.commandDesc>
+    
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_NM_Archotech_a.label>魔女之棺</HAR_NM_Archotech_a.label>
+  <HAR_NM_Archotech_a.description>封印了被人工種族們稱為『棺之君主』的魔女之棺。\n被認為是罪不可赦的大罪人，據說能自行使用獨特的法術。\n如果解開封印的話可以解放她並且讓她加入殖民地。\n\n作為魔女，她會對殖民地的人際關係產生很大的影響。</HAR_NM_Archotech_a.description>
+  <HAR_NM_Archotech_a.comps.CompUsable.useLabel>解封 {0_label}</HAR_NM_Archotech_a.comps.CompUsable.useLabel>
+
+
+</LanguageData>

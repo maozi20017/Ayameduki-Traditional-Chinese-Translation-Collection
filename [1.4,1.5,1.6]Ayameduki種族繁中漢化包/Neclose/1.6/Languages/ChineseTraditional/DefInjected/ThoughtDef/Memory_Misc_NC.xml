@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_NC_AteHumanlikeMeatDirect.stages.0.label>吃了人</HAR_NC_AteHumanlikeMeatDirect.stages.0.label>
+  <HAR_NC_AteHumanlikeMeatDirect.stages.0.description>人肉的營養價值很高，真是我體內細菌的完美糧食。</HAR_NC_AteHumanlikeMeatDirect.stages.0.description>
+
+  <HAR_NC_AteHumanlikeMeatAsIngredient.stages.0.label>吃了經過烹飪的人肉</HAR_NC_AteHumanlikeMeatAsIngredient.stages.0.label>
+  <HAR_NC_AteHumanlikeMeatAsIngredient.stages.0.description>竟然吃了調味後的人肉…這也太奢侈了吧！？</HAR_NC_AteHumanlikeMeatAsIngredient.stages.0.description>
+
+  <HAR_NC_AteInsectMeatDirect.stages.0.label>吃了蟲肉</HAR_NC_AteInsectMeatDirect.stages.0.label>
+  <HAR_NC_AteInsectMeatDirect.stages.0.description>雖然堅硬的外殼很麻煩，但沒想到味道還不錯。</HAR_NC_AteInsectMeatDirect.stages.0.description>
+
+  <HAR_NC_AteInsectMeatAsIngredient.stages.0.label>吃了經過烹飪的蟲肉</HAR_NC_AteInsectMeatAsIngredient.stages.0.label>
+  <HAR_NC_AteInsectMeatAsIngredient.stages.0.description>非常美味的蟲肉料理，真是不可思議。</HAR_NC_AteInsectMeatAsIngredient.stages.0.description>
+
+  <HAR_NC_AteRawHumanlikeMeat.stages.0.label>吃了人肉</HAR_NC_AteRawHumanlikeMeat.stages.0.label>
+
+  <HAR_NC_ObservedLayingCorpse.stages.0.label>看到了屍體</HAR_NC_ObservedLayingCorpse.stages.0.label>
+  <HAR_NC_ObservedLayingCorpse.stages.0.description>屍體能成為我體內細菌的食物，再多收集一些吧~</HAR_NC_ObservedLayingCorpse.stages.0.description>
+
+  <HAR_NC_ObservedLayingRottingCorpse.stages.0.label>看到了腐爛的屍體</HAR_NC_ObservedLayingRottingCorpse.stages.0.label>
+  <HAR_NC_ObservedLayingRottingCorpse.stages.0.description>有具很肥沃的屍體！細菌肯定會很高興的吧。</HAR_NC_ObservedLayingRottingCorpse.stages.0.description>
+
+  <HAR_NC_AteRawFood.stages.0.label>吃了生肉</HAR_NC_AteRawFood.stages.0.label>
+  <HAR_NC_AteRawFood.stages.0.description>也不是說討厭，我還是更想吃經過烹飪後的肉。</HAR_NC_AteRawFood.stages.0.description>
+
+  <HAR_NC_AteCorpse.stages.0.label>吃了屍體</HAR_NC_AteCorpse.stages.0.label>
+  <HAR_NC_AteCorpse.stages.0.description>雖然直接這樣吃也不是不行，但有點調味料的話就更好了。</HAR_NC_AteCorpse.stages.0.description>
+
+
+</LanguageData>

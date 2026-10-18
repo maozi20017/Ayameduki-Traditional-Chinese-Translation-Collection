@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>[1.7]Ayameduki種族繁中漢化包</name>
+	<author>毛子</author>
+	<packageId>Maozi.ZH.ChinesePack.Ayameduki17</packageId>
+	<supportedVersions>
+		<li>1.7</li>
+	</supportedVersions>
+	<loadAfter>
+		<li>Ayameduki.AyaRacePremise</li>
+		<li>Ayameduki.AyaCanaanIntellect</li>
+		<li>Ayameduki.harnexaga</li>
+		<li>Ayameduki.harchaoura</li>
+		<li>Ayameduki.harEveliet</li>
+		<li>Ayameduki.haridhale</li>
+		<li>Ayameduki.harlittluna</li>
+		<li>Ayameduki.harnearmare</li>
+		<li>Ayameduki.harneclose</li>
+		<li>ayameduki.harouterm</li>
+		<li>Ayameduki.harqualeela</li>
+		<li>Ayameduki.harsaclean</li>
+		<li>Ayameduki.harsilkiera</li>
+		<li>Ayameduki.harsolark</li>
+		<li>Ayameduki.harXenoorca</li>
+		<li>ayameduki.harzoichor</li>
+	</loadAfter>
+	<description>
+Ayameduki種族繁中漢化包（1.7 版）
+
+・1.4、1.5、1.6 請改用 [1.4,1.5,1.6]Ayameduki種族繁中漢化包
+
+・不用每個都裝，裝你想裝的就好(應該吧(ﾟ∀。))
+	</description>
+
+</ModMetaData>

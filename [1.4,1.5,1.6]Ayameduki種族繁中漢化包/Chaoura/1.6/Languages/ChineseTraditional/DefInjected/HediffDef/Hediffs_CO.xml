@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HAR_CO_Hediff_a.label>永夜循環器(活性)</HAR_CO_Hediff_a.label>
+  <HAR_CO_Hediff_a.description>混沌靈的宇宙之影輔助器官，處於完全黑暗時能使肉體活性化，提高身體能力，並使射擊無效化。作為代價，當日光強烈時該器官會變為非活性狀態，混沌靈的動作將變遲鈍。</HAR_CO_Hediff_a.description>
+
+  <HAR_CO_Hediff_b.label>永夜循環器(非活性)</HAR_CO_Hediff_b.label>
+  <HAR_CO_Hediff_b.description>混沌靈的宇宙之影輔助器官，處於完全黑暗時能使肉體活性化，提高身體能力，並使射擊無效化。作為代價，當日光強烈時該器官會變為非活性狀態，混沌靈的動作將變遲鈍。</HAR_CO_Hediff_b.description>
+
+  <HAR_CO_Hediff_c.label>深淵腐敗</HAR_CO_Hediff_c.label>
+  <HAR_CO_Hediff_c.description>當對混沌靈做出具有敵意的物理行為時產生的現象。 
+    \n深淵腐敗並發的『晦冥腫脹』，會逐漸降低身體機能。晦冥腫脹只發生在生物體上，所以對機械生命不起作用。
+     \n\n只要停止對混沌靈的敵意行為，深淵腐敗很快便會消散。</HAR_CO_Hediff_c.description>
+
+  <HAR_CO_Hediff_d.label>晦冥腫脹</HAR_CO_Hediff_d.label>
+  <HAR_CO_Hediff_d.description>由深淵腐敗並發的黑色腫脹，稍微降低身體能力。
+    \n晦冥腫脹會發生在所有的身體部位和臟器中，蔓延至全身後會使行動變得極為困難。 
+    \n症狀在半天內就能痊癒。</HAR_CO_Hediff_d.description>
+  <HAR_CO_Hediff_d.injuryProps.destroyedLabel>Shot off</HAR_CO_Hediff_d.injuryProps.destroyedLabel>
+  <HAR_CO_Hediff_d.injuryProps.destroyedOutLabel>Shot out</HAR_CO_Hediff_d.injuryProps.destroyedOutLabel>
+  <HAR_CO_Hediff_d.labelNoun>晦冥腫脹</HAR_CO_Hediff_d.labelNoun>
+
+  <HAR_CO_Hediff_f.label>永夜之虛</HAR_CO_Hediff_f.label>
+  <HAR_CO_Hediff_f.description>只要一接近混沌靈就會出現並一直跟隨著的神秘暗影。通常情況下什麼都不會發生，可一旦在黑暗中倒地，症狀就會立刻開始，並在2小時後造成即死級別的傷害。 
+    \n離開混沌靈後半天就會消散。</HAR_CO_Hediff_f.description>
+
+  <HAR_CO_Hediff_g.label>復仇</HAR_CO_Hediff_g.label>
+  <HAR_CO_Hediff_g.description>進入追殺射擊自己的敵人的狀態——只有當自身處於黑暗中時才生效。
+    \n半天后就會解除。</HAR_CO_Hediff_g.description>
+  
+  <HAR_CO_Hediff_h.label>血狂</HAR_CO_Hediff_h.label>
+  <HAR_CO_Hediff_h.description>處於受到融合了混沌靈之血的影之斬擊狀態。
+    \n這將迫使身體流失大量的血液，且如果處於黑暗中，沾染的血液將會暴動，使傷勢進一步惡化。
+    \n數小時之後才會解除。</HAR_CO_Hediff_h.description>
+
+
+  <Chaoura_Artificial.label>人工種族(混沌靈)</Chaoura_Artificial.label>
+  <Chaoura_Artificial.description>混沌靈是人工製造的種族，擅長虛數和黑暗。
+    \n本來就有很高的精神力，可以操控體內的暗影，即使受傷了也能快速抑制出血。 
+    \n\n其強度取決於她們各自的混沌靈等級，大約1年提升1級(上限為5級)。</Chaoura_Artificial.description>
+  <Chaoura_Artificial.stages.0.label>Lv1</Chaoura_Artificial.stages.0.label>
+  <Chaoura_Artificial.stages.1.label>Lv2</Chaoura_Artificial.stages.1.label>
+  <Chaoura_Artificial.stages.2.label>Lv3</Chaoura_Artificial.stages.2.label>
+  <Chaoura_Artificial.stages.3.label>Lv4</Chaoura_Artificial.stages.3.label>
+  <Chaoura_Artificial.stages.4.label>Lv5</Chaoura_Artificial.stages.4.label>
+
+
+</LanguageData>

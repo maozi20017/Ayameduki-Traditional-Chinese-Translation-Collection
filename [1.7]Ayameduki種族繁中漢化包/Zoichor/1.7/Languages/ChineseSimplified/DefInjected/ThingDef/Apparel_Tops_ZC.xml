@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: フュラクスドレスA -->
+  <HAR_ZC_Tops_a.label>看守者連衣裙A</HAR_ZC_Tops_a.label>
+  <!-- EN: ゾイコールが愛用している衣服。\n極寒の惑星に住む為か露出は控えめ。 -->
+  <HAR_ZC_Tops_a.description>糾罪者愛用的衣服。由於來自極寒的星球，因此衣服的設計較為保守，露出較少。</HAR_ZC_Tops_a.description>
+  
+  <!-- EN: フュラクスドレスB -->
+  <HAR_ZC_Tops_b.label>看守者連衣裙B</HAR_ZC_Tops_b.label>
+  <!-- EN: ゾイコールが愛用している衣服。\n極寒の惑星に住む為か露出は控えめ。 -->
+  <HAR_ZC_Tops_b.description>糾罪者愛用的衣服。由於來自極寒的星球，因此衣服的設計較為保守，露出較少。</HAR_ZC_Tops_b.description>
+  
+  <!-- EN: フュラクスドレスC -->
+  <HAR_ZC_Tops_c.label>看守者連衣裙C</HAR_ZC_Tops_c.label>
+  <!-- EN: ゾイコールが愛用している衣服。\n極寒の惑星に住む為か露出は控えめ。 -->
+  <HAR_ZC_Tops_c.description>糾罪者愛用的衣服。由於來自極寒的星球，因此衣服的設計較為保守，露出較少。</HAR_ZC_Tops_c.description>
+  
+  <!-- EN: ゲエンナアーマー -->
+  <HAR_ZC_Tops_d.label>地獄盔甲</HAR_ZC_Tops_d.label>
+  <!-- EN: ゾイコールが看守として活動する際に身に着ける外套。深夜、その鎧から発せられる金属音は、寝ている罪人たちを苛む悪夢として恐れられている。 -->
+  <HAR_ZC_Tops_d.description>糾罪者擔任看守時所穿著的外套。深夜，從她的盔甲中傳出的金屬聲，成為困於夢中的罪人們的噩夢，讓他們深感恐懼。</HAR_ZC_Tops_d.description>
+  
+  <!-- EN: ケイオスドレス -->
+  <HAR_ZC_Tops_e.label>混沌連衣裙</HAR_ZC_Tops_e.label>
+  <!-- EN: 暗い色の衣服を好むゾイコールには似つかわしい白い外套。\n盟友であるケイオーラたちから送られたもの。\n大事な行事がある際にこれを身に付けるという。 -->
+  <HAR_ZC_Tops_e.description>對喜愛暗色服裝的糾罪者而言，這件白色外套顯得格外特別。\n這是她的盟友混沌靈送給她的禮物。\n據說她會在重要儀式時穿上這件外套。</HAR_ZC_Tops_e.description>
+  
+</LanguageData>
