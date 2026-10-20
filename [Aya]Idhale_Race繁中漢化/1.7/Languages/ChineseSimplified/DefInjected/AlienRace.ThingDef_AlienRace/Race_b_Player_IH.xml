@@ -9,11 +9,11 @@
   <HAR_Idhale_b_Player.tools.2.label>大屠殺之地</HAR_Idhale_b_Player.tools.2.label>
   <HAR_Idhale_b_Player.tools.3.label>大屠殺之地</HAR_Idhale_b_Player.tools.3.label>
 
-  <HAR_Idhale_b_Player.comps.HAR_IH_Comp_CommandExplosive_b.CommandLabel>萬軍之主的存在</HAR_Idhale_b_Player.comps.HAR_IH_Comp_CommandExplosive_b.CommandLabel>
-  <HAR_Idhale_b_Player.comps.HAR_IH_Comp_CommandExplosive_b.CommandDesc>每次使用時，將萬軍之主的存在解放出20％。若達到100％的開放狀態，將無法再次復活。</HAR_Idhale_b_Player.comps.HAR_IH_Comp_CommandExplosive_b.CommandDesc>
+  <HAR_Idhale_b_Player.comps.Aya_Comp_Skill-0.commandLabel>萬軍之主的存在</HAR_Idhale_b_Player.comps.Aya_Comp_Skill-0.commandLabel>
+  <HAR_Idhale_b_Player.comps.Aya_Comp_Skill-0.commandDesc>每次使用時，將萬軍之主的存在解放出20％。若達到100％的開放狀態，將無法再次復活。</HAR_Idhale_b_Player.comps.Aya_Comp_Skill-0.commandDesc>
 
-  <HAR_Idhale_b_Player.comps.HAR_IH_Comp_Skill.CommandLabel>米吉多之山</HAR_Idhale_b_Player.comps.HAR_IH_Comp_Skill.CommandLabel>
-  <HAR_Idhale_b_Player.comps.HAR_IH_Comp_Skill.CommandDesc>在射程範圍內的任意方格產生一個半徑為5的衝擊波，該衝擊波可以貫穿傷害倍率。</HAR_Idhale_b_Player.comps.HAR_IH_Comp_Skill.CommandDesc>
+  <HAR_Idhale_b_Player.comps.Aya_Comp_Skill-1.commandLabel>米吉多之山</HAR_Idhale_b_Player.comps.Aya_Comp_Skill-1.commandLabel>
+  <HAR_Idhale_b_Player.comps.Aya_Comp_Skill-1.commandDesc>在射程範圍內的任意方格產生一個半徑為5的衝擊波，該衝擊波可以貫穿傷害倍率。</HAR_Idhale_b_Player.comps.Aya_Comp_Skill-1.commandDesc>
 
   <HAR_Idhale_b_Player.comps.CSS_CompSummonSLave.AutoLabel>天空的代理人(自動召喚)</HAR_Idhale_b_Player.comps.CSS_CompSummonSLave.AutoLabel>
   <HAR_Idhale_b_Player.comps.CSS_CompSummonSLave.AutoDesc>開啟自動召喚的時候，處於徵召狀態並且周圍有敵對生物就會自動召喚眷屬。眷屬召喚數量和等級根據『人工上位種族』的Lv變動，冷卻時間為2天。</HAR_Idhale_b_Player.comps.CSS_CompSummonSLave.AutoDesc>

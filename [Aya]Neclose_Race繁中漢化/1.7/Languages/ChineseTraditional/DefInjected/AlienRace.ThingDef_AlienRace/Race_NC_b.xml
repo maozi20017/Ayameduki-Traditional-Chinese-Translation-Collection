@@ -26,16 +26,16 @@
   <HAR_Neclose_b.tools.1.label>幻霧之刃</HAR_Neclose_b.tools.1.label>
   <HAR_Neclose_b.tools.2.label>幻霧之刃</HAR_Neclose_b.tools.2.label>
 
-  <HAR_Neclose_b.comps.HAR_NC_Comp_Skill.commandLabel>宇宙之聲</HAR_Neclose_b.comps.HAR_NC_Comp_Skill.commandLabel>
-  <HAR_Neclose_b.comps.HAR_NC_Comp_Skill.commandDesc>選擇射程內一格發射洗腦波，範圍為半徑10格。人類以外的目標也能被洗腦。</HAR_Neclose_b.comps.HAR_NC_Comp_Skill.commandDesc>
-  <HAR_Neclose_b.comps.HAR_NC_Comp_Skill_b.commandLabel>瘋狂人脈</HAR_Neclose_b.comps.HAR_NC_Comp_Skill_b.commandLabel>
-  <HAR_Neclose_b.comps.HAR_NC_Comp_Skill_b.commandDesc>選擇射程內一格發射干涉波，範圍為半徑10格。受影響的目標將暫時發狂。</HAR_Neclose_b.comps.HAR_NC_Comp_Skill_b.commandDesc>  
-  <HAR_Neclose_b.comps.HAR_NC_Comp_Skill_c.commandLabel>撕肉之影</HAR_Neclose_b.comps.HAR_NC_Comp_Skill_c.commandLabel>
-  <HAR_Neclose_b.comps.HAR_NC_Comp_Skill_c.commandDesc>選擇射程內一格，復活半徑10格內的屍體，使其成為眷屬。</HAR_Neclose_b.comps.HAR_NC_Comp_Skill_c.commandDesc> 
-  <HAR_Neclose_b.comps.HAR_NC_CompCommandExplosive_b.commandLabel>外界的來訪者</HAR_Neclose_b.comps.HAR_NC_CompCommandExplosive_b.commandLabel>
-  <HAR_Neclose_b.comps.HAR_NC_CompCommandExplosive_b.commandDesc>在30分鐘不可見。</HAR_Neclose_b.comps.HAR_NC_CompCommandExplosive_b.commandDesc> 
-  <HAR_Neclose_b.comps.HAR_NC_Comp_Skill_Skip.commandLabel>宇宙的獵犬</HAR_Neclose_b.comps.HAR_NC_Comp_Skill_Skip.commandLabel>
-  <HAR_Neclose_b.comps.HAR_NC_Comp_Skill_Skip.commandDesc>瞬間移動到射程内任意位置。</HAR_Neclose_b.comps.HAR_NC_Comp_Skill_Skip.commandDesc> 
+  <HAR_Neclose_b.comps.Aya_Comp_Skill-0.commandLabel>宇宙之聲</HAR_Neclose_b.comps.Aya_Comp_Skill-0.commandLabel>
+  <HAR_Neclose_b.comps.Aya_Comp_Skill-0.commandDesc>選擇射程內一格發射洗腦波，範圍為半徑10格。人類以外的目標也能被洗腦。</HAR_Neclose_b.comps.Aya_Comp_Skill-0.commandDesc>
+  <HAR_Neclose_b.comps.Aya_Comp_Skill-1.commandLabel>瘋狂人脈</HAR_Neclose_b.comps.Aya_Comp_Skill-1.commandLabel>
+  <HAR_Neclose_b.comps.Aya_Comp_Skill-1.commandDesc>選擇射程內一格發射干涉波，範圍為半徑10格。受影響的目標將暫時發狂。</HAR_Neclose_b.comps.Aya_Comp_Skill-1.commandDesc>  
+  <HAR_Neclose_b.comps.Aya_Comp_Skill-2.commandLabel>撕肉之影</HAR_Neclose_b.comps.Aya_Comp_Skill-2.commandLabel>
+  <HAR_Neclose_b.comps.Aya_Comp_Skill-2.commandDesc>選擇射程內一格，復活半徑10格內的屍體，使其成為眷屬。</HAR_Neclose_b.comps.Aya_Comp_Skill-2.commandDesc> 
+  <HAR_Neclose_b.comps.Aya_Comp_Skill-3.commandLabel>外界的來訪者</HAR_Neclose_b.comps.Aya_Comp_Skill-3.commandLabel>
+  <HAR_Neclose_b.comps.Aya_Comp_Skill-3.commandDesc>在30分鐘不可見。</HAR_Neclose_b.comps.Aya_Comp_Skill-3.commandDesc> 
+  <HAR_Neclose_b.comps.Aya_Comp_Skill-4.commandLabel>宇宙的獵犬</HAR_Neclose_b.comps.Aya_Comp_Skill-4.commandLabel>
+  <HAR_Neclose_b.comps.Aya_Comp_Skill-4.commandDesc>瞬間移動到射程内任意位置。</HAR_Neclose_b.comps.Aya_Comp_Skill-4.commandDesc> 
 
 
 </LanguageData>

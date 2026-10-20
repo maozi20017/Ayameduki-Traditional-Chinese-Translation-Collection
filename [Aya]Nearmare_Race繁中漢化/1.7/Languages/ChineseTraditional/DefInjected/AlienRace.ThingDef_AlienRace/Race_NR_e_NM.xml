@@ -23,26 +23,26 @@
   <HAR_Nearmaere_e.tools.0.label>left fist</HAR_Nearmaere_e.tools.0.label>
   <HAR_Nearmaere_e.tools.1.label>right fist</HAR_Nearmaere_e.tools.1.label>
 
-  <HAR_Nearmaere_e.comps.HAR_NM_Comp_Skill_a.commandLabel>急速充電</HAR_Nearmaere_e.comps.HAR_NM_Comp_Skill_a.commandLabel>
-  <HAR_Nearmaere_e.comps.HAR_NM_Comp_Skill_a.commandDesc>將赫斯緹雅熔爐充電30%EN
+  <HAR_Nearmaere_e.comps.Aya_Comp_Skill-0.commandLabel>急速充電</HAR_Nearmaere_e.comps.Aya_Comp_Skill-0.commandLabel>
+  <HAR_Nearmaere_e.comps.Aya_Comp_Skill-0.commandDesc>將赫斯緹雅熔爐充電30%EN
     \n作為副作用，會增加饑餓感
-    \n需要等待1天的時間才能再次使用。</HAR_Nearmaere_e.comps.HAR_NM_Comp_Skill_a.commandDesc>
+    \n需要等待1天的時間才能再次使用。</HAR_Nearmaere_e.comps.Aya_Comp_Skill-0.commandDesc>
 
-  <HAR_Nearmaere_e.comps.HAR_NM_Comp_Skill_b.commandLabel>諾托斯手榴彈</HAR_Nearmaere_e.comps.HAR_NM_Comp_Skill_b.commandLabel>
-  <HAR_Nearmaere_e.comps.HAR_NM_Comp_Skill_b.commandDesc>將手榴彈投擲至指定格
-    \n消費EN　　：　5</HAR_Nearmaere_e.comps.HAR_NM_Comp_Skill_b.commandDesc>
+  <HAR_Nearmaere_e.comps.Aya_Comp_Skill-1.commandLabel>諾托斯手榴彈</HAR_Nearmaere_e.comps.Aya_Comp_Skill-1.commandLabel>
+  <HAR_Nearmaere_e.comps.Aya_Comp_Skill-1.commandDesc>將手榴彈投擲至指定格
+    \n消費EN　　：　5</HAR_Nearmaere_e.comps.Aya_Comp_Skill-1.commandDesc>
 
-  <HAR_Nearmaere_e.comps.HAR_NM_Comp_Skill_c.commandLabel>阿克里西俄斯護盾</HAR_Nearmaere_e.comps.HAR_NM_Comp_Skill_c.commandLabel>
-  <HAR_Nearmaere_e.comps.HAR_NM_Comp_Skill_c.commandDesc>以自身為中心展開半徑為2格的低角度護盾
-    \n消費EN　　：　20</HAR_Nearmaere_e.comps.HAR_NM_Comp_Skill_c.commandDesc>
+  <HAR_Nearmaere_e.comps.Aya_Comp_Skill-2.commandLabel>阿克里西俄斯護盾</HAR_Nearmaere_e.comps.Aya_Comp_Skill-2.commandLabel>
+  <HAR_Nearmaere_e.comps.Aya_Comp_Skill-2.commandDesc>以自身為中心展開半徑為2格的低角度護盾
+    \n消費EN　　：　20</HAR_Nearmaere_e.comps.Aya_Comp_Skill-2.commandDesc>
 
-  <HAR_Nearmaere_e.comps.HAR_NM_Comp_Skill_d.commandLabel>安塔瑞斯地雷</HAR_Nearmaere_e.comps.HAR_NM_Comp_Skill_d.commandLabel>
-  <HAR_Nearmaere_e.comps.HAR_NM_Comp_Skill_d.commandDesc>放置爆破地雷在指定的格子
-    \n消費EN　　：　10</HAR_Nearmaere_e.comps.HAR_NM_Comp_Skill_d.commandDesc>
+  <HAR_Nearmaere_e.comps.Aya_Comp_Skill-3.commandLabel>安塔瑞斯地雷</HAR_Nearmaere_e.comps.Aya_Comp_Skill-3.commandLabel>
+  <HAR_Nearmaere_e.comps.Aya_Comp_Skill-3.commandDesc>放置爆破地雷在指定的格子
+    \n消費EN　　：　10</HAR_Nearmaere_e.comps.Aya_Comp_Skill-3.commandDesc>
 
-  <HAR_Nearmaere_e.comps.HAR_NM_Comp_Skill_e.commandLabel>歐律托斯加農</HAR_Nearmaere_e.comps.HAR_NM_Comp_Skill_e.commandLabel>
-  <HAR_Nearmaere_e.comps.HAR_NM_Comp_Skill_e.commandDesc>在指定的格子附近發射8連迫擊砲
-    \n消費EN　　：　60</HAR_Nearmaere_e.comps.HAR_NM_Comp_Skill_e.commandDesc>
+  <HAR_Nearmaere_e.comps.Aya_Comp_Skill-4.commandLabel>歐律托斯加農</HAR_Nearmaere_e.comps.Aya_Comp_Skill-4.commandLabel>
+  <HAR_Nearmaere_e.comps.Aya_Comp_Skill-4.commandDesc>在指定的格子附近發射8連迫擊砲
+    \n消費EN　　：　60</HAR_Nearmaere_e.comps.Aya_Comp_Skill-4.commandDesc>
 
 
 </LanguageData>

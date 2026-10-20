@@ -20,7 +20,7 @@
   <HAR_Xenoorca_b.tools.1.label>深淵壓迫</HAR_Xenoorca_b.tools.1.label>
   <HAR_Xenoorca_b.tools.2.label>深淵之襲</HAR_Xenoorca_b.tools.2.label>
 
-  <HAR_Xenoorca_b.comps.HAR_XO_Comp_Skill_Skip.commandLabel>深淵潛泳</HAR_Xenoorca_b.comps.HAR_XO_Comp_Skill_Skip.commandLabel>
-  <HAR_Xenoorca_b.comps.HAR_XO_Comp_Skill_Skip.commandDesc>瞬間移動到選擇的位置上</HAR_Xenoorca_b.comps.HAR_XO_Comp_Skill_Skip.commandDesc>
+  <HAR_Xenoorca_b.comps.Aya_Comp_Skill.commandLabel>深淵潛泳</HAR_Xenoorca_b.comps.Aya_Comp_Skill.commandLabel>
+  <HAR_Xenoorca_b.comps.Aya_Comp_Skill.commandDesc>瞬間移動到選擇的位置上</HAR_Xenoorca_b.comps.Aya_Comp_Skill.commandDesc>
 
 </LanguageData>

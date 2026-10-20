@@ -7,44 +7,44 @@
   <HAR_Outerm.description>域外者是近年來在宇宙各地出現的一種人工種族。\n以妖異閃耀的猩紅光暈和扭曲變形的烏鴉之翼為特徵。\n其存在未被記錄於人工種族母星迦南的資料庫中，是極具謎團的種族。\n\n與其他人工種族相同，域外者會隨著時間增強力量，\n並在不同階段獲得各式各樣的異能。\n\n她們擁有沉溺於熱血暴力與肉慾享樂的頹廢感性，非常具攻擊性。\n厭惡嚴苛的秩序與法規，崇尚墮落與頹廢，持有危險的思想。\n加之信奉刹那主義，對人生與生死抱持著極為淡漠的態度。\n\n另一方面，她們卻又虔誠信仰，崇拜著無形之神『虛空的■■■』。\n無論神諭內容為何，她們皆欣然遵從，甚至不畏死亡。\n\n在地下社會，她們建立了辛迪加組織『混沌』，以毒品與暴力統治亡命之徒。\n在神的引導下，憑藉充足的資金與資源，至今仍持續擴張勢力。\n\n域外者天生不具生殖能力，無法誕下子嗣。\n既無生產設施，她們究竟是如何增加個體數量的……真相至今仍深埋黑暗之中。\n\n\n\n\n善，在惡之後降臨。\n如同將血染之路，鋪砌為人之坦途。</HAR_Outerm.description>
   
   	<!-- ヴリコラカス -->
-	<HAR_Outerm.comps.HAR_OT_Comp_Skill_a.commandLabel>維克拉卡斯</HAR_Outerm.comps.HAR_OT_Comp_Skill_a.commandLabel>
+	<HAR_Outerm.comps.Aya_Comp_Skill-0.commandLabel>維克拉卡斯</HAR_Outerm.comps.Aya_Comp_Skill-0.commandLabel>
 	<!-- 相手一体に噛みついて吸血する。\n発動条件　：人工種族Lv1\n再使用　　：30分 -->
-	<HAR_Outerm.comps.HAR_OT_Comp_Skill_a.commandDesc>對單一目標發動噬咬並吸取血液。\n發動條件　：人工種族(域外者)Lv.1\n冷卻時間　：30分鐘</HAR_Outerm.comps.HAR_OT_Comp_Skill_a.commandDesc>
+	<HAR_Outerm.comps.Aya_Comp_Skill-0.commandDesc>對單一目標發動噬咬並吸取血液。\n發動條件　：人工種族(域外者)Lv.1\n冷卻時間　：30分鐘</HAR_Outerm.comps.Aya_Comp_Skill-0.commandDesc>
 	<!-- ウペレテス -->
-	<HAR_Outerm.comps.HAR_OT_Comp_Skill_b.commandLabel>美伯拉</HAR_Outerm.comps.HAR_OT_Comp_Skill_b.commandLabel>
+	<HAR_Outerm.comps.Aya_Comp_Skill-1.commandLabel>美伯拉</HAR_Outerm.comps.Aya_Comp_Skill-1.commandLabel>
 	<!-- 狂暴化したカラスを三体召喚する。\n発動条件　：人工種族Lv2\n再使用　　：3時間 -->
-	<HAR_Outerm.comps.HAR_OT_Comp_Skill_b.commandDesc>召喚三隻狂暴化的烏鴉。\n發動條件　：人工種族(域外者)Lv.2\n冷卻時間　：3小時</HAR_Outerm.comps.HAR_OT_Comp_Skill_b.commandDesc>
+	<HAR_Outerm.comps.Aya_Comp_Skill-1.commandDesc>召喚三隻狂暴化的烏鴉。\n發動條件　：人工種族(域外者)Lv.2\n冷卻時間　：3小時</HAR_Outerm.comps.Aya_Comp_Skill-1.commandDesc>
 	<!-- アキノイア -->
-	<HAR_Outerm.comps.HAR_OT_Comp_Skill_c.commandLabel>鋒刃之心智</HAR_Outerm.comps.HAR_OT_Comp_Skill_c.commandLabel>
+	<HAR_Outerm.comps.Aya_Comp_Skill-2.commandLabel>鋒刃之心智</HAR_Outerm.comps.Aya_Comp_Skill-2.commandLabel>
 	<!-- 確率回避状態となる。\n発動条件　：人工種族Lv3\n再使用　　：1日 -->
-	<HAR_Outerm.comps.HAR_OT_Comp_Skill_c.commandDesc>進入機率迴避狀態。\n發動條件　：人工種族(域外者)Lv.3\n冷卻時間　：1天</HAR_Outerm.comps.HAR_OT_Comp_Skill_c.commandDesc>
+	<HAR_Outerm.comps.Aya_Comp_Skill-2.commandDesc>進入機率迴避狀態。\n發動條件　：人工種族(域外者)Lv.3\n冷卻時間　：1天</HAR_Outerm.comps.Aya_Comp_Skill-2.commandDesc>
 	<!-- カタリュシス -->
-	<HAR_Outerm.comps.HAR_OT_Comp_Skill_d.commandLabel>催化</HAR_Outerm.comps.HAR_OT_Comp_Skill_d.commandLabel>
+	<HAR_Outerm.comps.Aya_Comp_Skill-3.commandLabel>催化</HAR_Outerm.comps.Aya_Comp_Skill-3.commandLabel>
 	<!-- 相手一体の一部機能を一時的に麻痺させる。\n発動条件　：人工種族Lv4\n再使用　　：1時間 -->
-	<HAR_Outerm.comps.HAR_OT_Comp_Skill_d.commandDesc>暫時麻痺單一目標的部分機能。\n發動條件　：人工種族(域外者)Lv.4\n冷卻時間　：1小時</HAR_Outerm.comps.HAR_OT_Comp_Skill_d.commandDesc>
+	<HAR_Outerm.comps.Aya_Comp_Skill-3.commandDesc>暫時麻痺單一目標的部分機能。\n發動條件　：人工種族(域外者)Lv.4\n冷卻時間　：1小時</HAR_Outerm.comps.Aya_Comp_Skill-3.commandDesc>
 	<!-- アポストロス -->
-	<HAR_Outerm.comps.HAR_OT_Comp_Skill_e.commandLabel>使徒</HAR_Outerm.comps.HAR_OT_Comp_Skill_e.commandLabel>
+	<HAR_Outerm.comps.Aya_Comp_Skill-4.commandLabel>使徒</HAR_Outerm.comps.Aya_Comp_Skill-4.commandLabel>
 	<!-- 高次から力を受けて強化状態となる。\n発動条件　：人工種族Lv5\n再使用　　：3日 -->
-	<HAR_Outerm.comps.HAR_OT_Comp_Skill_e.commandDesc>獲得來自更高次元的力量並進入強化狀態。\n發動條件　：人工種族(域外者)Lv.5\n冷卻時間　：3天</HAR_Outerm.comps.HAR_OT_Comp_Skill_e.commandDesc>
+	<HAR_Outerm.comps.Aya_Comp_Skill-4.commandDesc>獲得來自更高次元的力量並進入強化狀態。\n發動條件　：人工種族(域外者)Lv.5\n冷卻時間　：3天</HAR_Outerm.comps.Aya_Comp_Skill-4.commandDesc>
 	<!-- ティフォナス -->
-	<HAR_Outerm.comps.HAR_OT_Comp_Skill_f.commandLabel>堤豐</HAR_Outerm.comps.HAR_OT_Comp_Skill_f.commandLabel>
+	<HAR_Outerm.comps.Aya_Comp_Skill-5.commandLabel>堤豐</HAR_Outerm.comps.Aya_Comp_Skill-5.commandLabel>
 	<!-- 指定したマスに向かって飛翔する。\n発動条件　：人工種族Lv6\n再使用　　：30分 -->
-	<HAR_Outerm.comps.HAR_OT_Comp_Skill_f.commandDesc>朝指定格子飛翔而去。\n發動條件　：人工種族(域外者)Lv.6\n冷卻時間　：30分鐘</HAR_Outerm.comps.HAR_OT_Comp_Skill_f.commandDesc>
+	<HAR_Outerm.comps.Aya_Comp_Skill-5.commandDesc>朝指定格子飛翔而去。\n發動條件　：人工種族(域外者)Lv.6\n冷卻時間　：30分鐘</HAR_Outerm.comps.Aya_Comp_Skill-5.commandDesc>
 	<!-- エモラギア -->
-	<HAR_Outerm.comps.HAR_OT_Comp_Skill_g.commandLabel>血裂</HAR_Outerm.comps.HAR_OT_Comp_Skill_g.commandLabel>
+	<HAR_Outerm.comps.Aya_Comp_Skill-6.commandLabel>血裂</HAR_Outerm.comps.Aya_Comp_Skill-6.commandLabel>
 	<!-- 指定マスまでノックバックを発生させる扇状の衝撃波を放つ。\n発動条件　：人工種族Lv7\n再使用　　：30分 -->
-	<HAR_Outerm.comps.HAR_OT_Comp_Skill_g.commandDesc>朝指定格子釋放造成擊退效果的扇形衝擊波。\n發動條件　：人工種族(域外者)Lv.7\n冷卻時間　：30分鐘</HAR_Outerm.comps.HAR_OT_Comp_Skill_g.commandDesc>
+	<HAR_Outerm.comps.Aya_Comp_Skill-6.commandDesc>朝指定格子釋放造成擊退效果的扇形衝擊波。\n發動條件　：人工種族(域外者)Lv.7\n冷卻時間　：30分鐘</HAR_Outerm.comps.Aya_Comp_Skill-6.commandDesc>
 	<!-- ティシフォネ -->
-	<HAR_Outerm.comps.HAR_OT_Comp_Skill_h.commandLabel>提西福涅</HAR_Outerm.comps.HAR_OT_Comp_Skill_h.commandLabel>
+	<HAR_Outerm.comps.Aya_Comp_Skill-7.commandLabel>提西福涅</HAR_Outerm.comps.Aya_Comp_Skill-7.commandLabel>
 	<!-- 反撃状態となる。\n発動条件　：人工種族Lv8\n再使用　　：1日-->
-	<HAR_Outerm.comps.HAR_OT_Comp_Skill_h.commandDesc>進入反擊狀態。\n發動條件　：人工種族(域外者)Lv.8\n冷卻時間　：1天</HAR_Outerm.comps.HAR_OT_Comp_Skill_h.commandDesc>
+	<HAR_Outerm.comps.Aya_Comp_Skill-7.commandDesc>進入反擊狀態。\n發動條件　：人工種族(域外者)Lv.8\n冷卻時間　：1天</HAR_Outerm.comps.Aya_Comp_Skill-7.commandDesc>
 	<!-- アルパクティコ -->
-	<HAR_Outerm.comps.HAR_OT_Comp_Skill_i.commandLabel>掠食者</HAR_Outerm.comps.HAR_OT_Comp_Skill_i.commandLabel>
+	<HAR_Outerm.comps.Aya_Comp_Skill-8.commandLabel>掠食者</HAR_Outerm.comps.Aya_Comp_Skill-8.commandLabel>
 	<!-- 死体を捕食して強化する。\n発動条件　：人工種族Lv9\n再使用　　：30分 -->
-	<HAR_Outerm.comps.HAR_OT_Comp_Skill_i.commandDesc>捕食屍體以獲得強化。\n發動條件　：人工種族(域外者)Lv.9\n冷卻時間　：30分鐘</HAR_Outerm.comps.HAR_OT_Comp_Skill_i.commandDesc>
+	<HAR_Outerm.comps.Aya_Comp_Skill-8.commandDesc>捕食屍體以獲得強化。\n發動條件　：人工種族(域外者)Lv.9\n冷卻時間　：30分鐘</HAR_Outerm.comps.Aya_Comp_Skill-8.commandDesc>
 	<!-- ケリュフォス -->
-	<HAR_Outerm.comps.HAR_OT_Comp_Skill_j.commandLabel>逆卡巴拉</HAR_Outerm.comps.HAR_OT_Comp_Skill_j.commandLabel>
+	<HAR_Outerm.comps.Aya_Comp_Skill-9.commandLabel>逆卡巴拉</HAR_Outerm.comps.Aya_Comp_Skill-9.commandLabel>
 	<!-- 覚醒状態となる。\n発動条件　：人工種族Lv10\n再使用　　：1日 -->
-	<HAR_Outerm.comps.HAR_OT_Comp_Skill_j.commandDesc>進入覺醒狀態。\n發動條件　：人工種族(域外者)Lv.10\n冷卻時間　：1天</HAR_Outerm.comps.HAR_OT_Comp_Skill_j.commandDesc>
+	<HAR_Outerm.comps.Aya_Comp_Skill-9.commandDesc>進入覺醒狀態。\n發動條件　：人工種族(域外者)Lv.10\n冷卻時間　：1天</HAR_Outerm.comps.Aya_Comp_Skill-9.commandDesc>
 
 </LanguageData>

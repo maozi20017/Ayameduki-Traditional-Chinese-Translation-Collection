@@ -30,32 +30,32 @@
   <HAR_EL_Race_Eveliet_a.tools.0.label>left fist</HAR_EL_Race_Eveliet_a.tools.0.label>
   <HAR_EL_Race_Eveliet_a.tools.1.label>right fist</HAR_EL_Race_Eveliet_a.tools.1.label>
   
-  <HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_Skill.commandLabel>猩紅之吻</HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_Skill.commandLabel>
-  <HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_Skill.commandDesc>對相鄰目標進行咬噬，進行吸血。每次補充[救贖的血杯] 3～6的血液</HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_Skill.commandDesc>
+  <HAR_EL_Race_Eveliet_a.comps.Aya_Comp_Skill-0.commandLabel>猩紅之吻</HAR_EL_Race_Eveliet_a.comps.Aya_Comp_Skill-0.commandLabel>
+  <HAR_EL_Race_Eveliet_a.comps.Aya_Comp_Skill-0.commandDesc>對相鄰目標進行咬噬，進行吸血。每次補充[救贖的血杯] 3～6的血液</HAR_EL_Race_Eveliet_a.comps.Aya_Comp_Skill-0.commandDesc>
 
-  <HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_CommandExplosive.commandLabel>利乏音之殼</HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_CommandExplosive.commandLabel>
-  <HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_CommandExplosive.commandDesc>解放伊娃莉特的強化外殻。
+  <HAR_EL_Race_Eveliet_a.comps.Aya_Comp_Skill-1.commandLabel>利乏音之殼</HAR_EL_Race_Eveliet_a.comps.Aya_Comp_Skill-1.commandLabel>
+  <HAR_EL_Race_Eveliet_a.comps.Aya_Comp_Skill-1.commandDesc>解放伊娃莉特的強化外殻。
     \n發動條件　：[救贖的血杯]　60以上
-    \n發動消耗：[救贖的血杯]　5</HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_CommandExplosive.commandDesc>
+    \n發動消耗：[救贖的血杯]　5</HAR_EL_Race_Eveliet_a.comps.Aya_Comp_Skill-1.commandDesc>
 
-  <HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_Skill_b.commandLabel>斬裂的王女</HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_Skill_b.commandLabel>
-  <HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_Skill_b.commandDesc>從目標中心發出半徑3格的衝擊波。
+  <HAR_EL_Race_Eveliet_a.comps.Aya_Comp_Skill-2.commandLabel>斬裂的王女</HAR_EL_Race_Eveliet_a.comps.Aya_Comp_Skill-2.commandLabel>
+  <HAR_EL_Race_Eveliet_a.comps.Aya_Comp_Skill-2.commandDesc>從目標中心發出半徑3格的衝擊波。
     \n發動條件　：[救贖的血杯]　30以上
-    \n發動消耗：[救贖的血杯]　3</HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_Skill_b.commandDesc>
+    \n發動消耗：[救贖的血杯]　3</HAR_EL_Race_Eveliet_a.comps.Aya_Comp_Skill-2.commandDesc>
 
-  <HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_Skill_c.commandLabel>破碎的迦南</HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_Skill_c.commandLabel>
-  <HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_Skill_c.commandDesc>對目標1格造成強力一擊。
+  <HAR_EL_Race_Eveliet_a.comps.Aya_Comp_Skill-3.commandLabel>破碎的迦南</HAR_EL_Race_Eveliet_a.comps.Aya_Comp_Skill-3.commandLabel>
+  <HAR_EL_Race_Eveliet_a.comps.Aya_Comp_Skill-3.commandDesc>對目標1格造成強力一擊。
     \n發動條件　：[救贖的血杯]　50以上
-    \n發動消耗：[救贖的血杯]　5</HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_Skill_c.commandDesc>
+    \n發動消耗：[救贖的血杯]　5</HAR_EL_Race_Eveliet_a.comps.Aya_Comp_Skill-3.commandDesc>
 
-  <HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_Skill_d.commandLabel>黑暗的祝宴</HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_Skill_d.commandLabel>
-  <HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_Skill_d.commandDesc>從目標中心發出半徑8格的強制出血衝擊波。
+  <HAR_EL_Race_Eveliet_a.comps.Aya_Comp_Skill-4.commandLabel>黑暗的祝宴</HAR_EL_Race_Eveliet_a.comps.Aya_Comp_Skill-4.commandLabel>
+  <HAR_EL_Race_Eveliet_a.comps.Aya_Comp_Skill-4.commandDesc>從目標中心發出半徑8格的強制出血衝擊波。
     \n發動條件　：[救贖的血杯]　100以上
-    \n發動消耗：[救贖的血杯]　10</HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_Skill_d.commandDesc>
+    \n發動消耗：[救贖的血杯]　10</HAR_EL_Race_Eveliet_a.comps.Aya_Comp_Skill-4.commandDesc>
 
-  <HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_Skill_e.commandLabel>迦南之友</HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_Skill_e.commandLabel>
-  <HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_Skill_e.commandDesc>召喚眷屬。
+  <HAR_EL_Race_Eveliet_a.comps.Aya_Comp_Skill-5.commandLabel>迦南之友</HAR_EL_Race_Eveliet_a.comps.Aya_Comp_Skill-5.commandLabel>
+  <HAR_EL_Race_Eveliet_a.comps.Aya_Comp_Skill-5.commandDesc>召喚眷屬。
     \n發動條件　：[救贖的血杯]　200以上
-    \n發動消耗：[救贖的血杯]　100</HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_Skill_e.commandDesc>
+    \n發動消耗：[救贖的血杯]　100</HAR_EL_Race_Eveliet_a.comps.Aya_Comp_Skill-5.commandDesc>
 
 </LanguageData>

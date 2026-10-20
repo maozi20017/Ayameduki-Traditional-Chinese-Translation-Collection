@@ -27,20 +27,20 @@
     \n最終被重視現狀的三大派系制服，並提出了以極刑根除阿拉迪亞系的方案，但作為最起碼的慈悲和憐憫，封印在魔女之棺中。封印解除後後的她表面上看起來像個有智慧的人，主要通過研究和醫術來支撐群體。
     \n但是內心的想法誰也不知道，而且有可能因為魔性的美貌而使群體的人際關係崩潰。夜魔・阿拉迪亞系擁有被稱為『滅絕召喚』的禁術，如果要使用的話請注意『區域裡沒有她以外的殖民地的所有居民(包括動物)！！！！！！！。</HAR_Nearmaere_c.description>
 
-  <HAR_Nearmaere_c.comps.Comp_HAR_NM_Skill.CommandLabel>滅絕之劫</HAR_Nearmaere_c.comps.Comp_HAR_NM_Skill.CommandLabel>
-  <HAR_Nearmaere_c.comps.Comp_HAR_NM_Skill.CommandDesc>對可以使用該能力的範圍內的任意位置為中心，產生範圍3格的傷害化衝擊波。</HAR_Nearmaere_c.comps.Comp_HAR_NM_Skill.CommandDesc>
+  <HAR_Nearmaere_c.comps.Aya_Comp_Skill-0.commandLabel>滅絕之劫</HAR_Nearmaere_c.comps.Aya_Comp_Skill-0.commandLabel>
+  <HAR_Nearmaere_c.comps.Aya_Comp_Skill-0.commandDesc>對可以使用該能力的範圍內的任意位置為中心，產生範圍3格的傷害化衝擊波。</HAR_Nearmaere_c.comps.Aya_Comp_Skill-0.commandDesc>
 
-  <HAR_Nearmaere_c.comps.Comp_HAR_NM_Skill_b.CommandLabel>毀滅之息</HAR_Nearmaere_c.comps.Comp_HAR_NM_Skill_b.CommandLabel>
-  <HAR_Nearmaere_c.comps.Comp_HAR_NM_Skill_b.CommandDesc>對可以使用該能力的範圍內的任意位置為中心，產生範圍3格的精神狂暴化衝擊波，該能力對友軍不構成敵對行為。冷卻時間為1天。</HAR_Nearmaere_c.comps.Comp_HAR_NM_Skill_b.CommandDesc>
+  <HAR_Nearmaere_c.comps.Aya_Comp_Skill-1.commandLabel>毀滅之息</HAR_Nearmaere_c.comps.Aya_Comp_Skill-1.commandLabel>
+  <HAR_Nearmaere_c.comps.Aya_Comp_Skill-1.commandDesc>對可以使用該能力的範圍內的任意位置為中心，產生範圍3格的精神狂暴化衝擊波，該能力對友軍不構成敵對行為。冷卻時間為1天。</HAR_Nearmaere_c.comps.Aya_Comp_Skill-1.commandDesc>
 
-  <HAR_Nearmaere_c.comps.Comp_HAR_NM_Skill_c.CommandLabel>頹廢之咒</HAR_Nearmaere_c.comps.Comp_HAR_NM_Skill_c.CommandLabel>
-  <HAR_Nearmaere_c.comps.Comp_HAR_NM_Skill_c.CommandDesc>對可以使用該能力的範圍內的任意位置為中心，產生範圍3格的鈍化精神衝擊波。冷卻時間為1天。</HAR_Nearmaere_c.comps.Comp_HAR_NM_Skill_c.CommandDesc>
+  <HAR_Nearmaere_c.comps.Aya_Comp_Skill-2.commandLabel>頹廢之咒</HAR_Nearmaere_c.comps.Aya_Comp_Skill-2.commandLabel>
+  <HAR_Nearmaere_c.comps.Aya_Comp_Skill-2.commandDesc>對可以使用該能力的範圍內的任意位置為中心，產生範圍3格的鈍化精神衝擊波。冷卻時間為1天。</HAR_Nearmaere_c.comps.Aya_Comp_Skill-2.commandDesc>
 
-  <HAR_Nearmaere_c.comps.Comp_HAR_NM_Skill_d.CommandLabel>極度之寒</HAR_Nearmaere_c.comps.Comp_HAR_NM_Skill_d.CommandLabel>
-  <HAR_Nearmaere_c.comps.Comp_HAR_NM_Skill_d.CommandDesc>對可以使用該能力的範圍內的任意位置為中心，產生範圍10格的持續造成冰凍傷害的極寒區域。冷卻時間為1天。</HAR_Nearmaere_c.comps.Comp_HAR_NM_Skill_d.CommandDesc>
+  <HAR_Nearmaere_c.comps.Aya_Comp_Skill-3.commandLabel>極度之寒</HAR_Nearmaere_c.comps.Aya_Comp_Skill-3.commandLabel>
+  <HAR_Nearmaere_c.comps.Aya_Comp_Skill-3.commandDesc>對可以使用該能力的範圍內的任意位置為中心，產生範圍10格的持續造成冰凍傷害的極寒區域。冷卻時間為1天。</HAR_Nearmaere_c.comps.Aya_Comp_Skill-3.commandDesc>
 
-  <HAR_Nearmaere_c.comps.Comp_HAR_NM_Skill_e.CommandLabel>深淵之暗</HAR_Nearmaere_c.comps.Comp_HAR_NM_Skill_e.CommandLabel>
-  <HAR_Nearmaere_c.comps.Comp_HAR_NM_Skill_e.CommandDesc>對可以使用該能力的範圍內的任意位置為中心，產生範圍12格產生使目標防禦脆弱化的衝擊波。冷卻時間為1天。</HAR_Nearmaere_c.comps.Comp_HAR_NM_Skill_e.CommandDesc>
+  <HAR_Nearmaere_c.comps.Aya_Comp_Skill-4.commandLabel>深淵之暗</HAR_Nearmaere_c.comps.Aya_Comp_Skill-4.commandLabel>
+  <HAR_Nearmaere_c.comps.Aya_Comp_Skill-4.commandDesc>對可以使用該能力的範圍內的任意位置為中心，產生範圍12格產生使目標防禦脆弱化的衝擊波。冷卻時間為1天。</HAR_Nearmaere_c.comps.Aya_Comp_Skill-4.commandDesc>
 
   <HAR_Nearmaere_c.comps.CSS_CompSummonSLave.CommandLabel>遏絶召喚(主動召喚)</HAR_Nearmaere_c.comps.CSS_CompSummonSLave.CommandLabel>
   <HAR_Nearmaere_c.comps.CSS_CompSummonSLave.CommandDesc>主動召喚1個超自然存在\n【推薦使用前保存】</HAR_Nearmaere_c.comps.CSS_CompSummonSLave.CommandDesc>

@@ -24,41 +24,41 @@
   <HAR_Nearmaere_d.tools.0.label>left fist</HAR_Nearmaere_d.tools.0.label>
   <HAR_Nearmaere_d.tools.1.label>right fist</HAR_Nearmaere_d.tools.1.label>
 
-  <HAR_Nearmaere_d.comps.HAR_NM_Comp_Skill_a.CommandLabel>死體解剖</HAR_Nearmaere_d.comps.HAR_NM_Comp_Skill_a.CommandLabel>
-  <HAR_Nearmaere_d.comps.HAR_NM_Comp_Skill_a.CommandDesc>選擇射程內任意一格解剖半徑為2的死體，並採集藥材。
+  <HAR_Nearmaere_d.comps.Aya_Comp_Skill-0.commandLabel>死體解剖</HAR_Nearmaere_d.comps.Aya_Comp_Skill-0.commandLabel>
+  <HAR_Nearmaere_d.comps.Aya_Comp_Skill-0.commandDesc>選擇射程內任意一格解剖半徑為2的死體，並採集藥材。
     \n可獲得的藥材取決於解剖的死體。
-    \n再次使用需等待12小時。</HAR_Nearmaere_d.comps.HAR_NM_Comp_Skill_a.CommandDesc>
+    \n再次使用需等待12小時。</HAR_Nearmaere_d.comps.Aya_Comp_Skill-0.commandDesc>
 
-  <HAR_Nearmaere_d.comps.HAR_NM_Comp_Skill_b.CommandLabel>古老的醫術</HAR_Nearmaere_d.comps.HAR_NM_Comp_Skill_b.CommandLabel>
-  <HAR_Nearmaere_d.comps.HAR_NM_Comp_Skill_b.CommandDesc>治療目標的傷口。
+  <HAR_Nearmaere_d.comps.Aya_Comp_Skill-1.commandLabel>古老的醫術</HAR_Nearmaere_d.comps.Aya_Comp_Skill-1.commandLabel>
+  <HAR_Nearmaere_d.comps.Aya_Comp_Skill-1.commandDesc>治療目標的傷口。
     \n發動消耗：
-    \n液態藥材：30</HAR_Nearmaere_d.comps.HAR_NM_Comp_Skill_b.CommandDesc>
+    \n液態藥材：30</HAR_Nearmaere_d.comps.Aya_Comp_Skill-1.commandDesc>
 
-  <HAR_Nearmaere_d.comps.HAR_NM_Comp_Skill_c.CommandLabel>亞克特拉的靈藥</HAR_Nearmaere_d.comps.HAR_NM_Comp_Skill_c.CommandLabel>
-  <HAR_Nearmaere_d.comps.HAR_NM_Comp_Skill_c.CommandDesc>強化目標。
-    \n發動消耗：
-    \n液態藥材：20
-    \n固態藥材：10</HAR_Nearmaere_d.comps.HAR_NM_Comp_Skill_c.CommandDesc>
-
-  <HAR_Nearmaere_d.comps.HAR_NM_Comp_Skill_d.CommandLabel>艾蒂涅的魔藥</HAR_Nearmaere_d.comps.HAR_NM_Comp_Skill_d.CommandLabel>
-  <HAR_Nearmaere_d.comps.HAR_NM_Comp_Skill_d.CommandDesc>強化目標。
+  <HAR_Nearmaere_d.comps.Aya_Comp_Skill-2.commandLabel>亞克特拉的靈藥</HAR_Nearmaere_d.comps.Aya_Comp_Skill-2.commandLabel>
+  <HAR_Nearmaere_d.comps.Aya_Comp_Skill-2.commandDesc>強化目標。
     \n發動消耗：
     \n液態藥材：20
-    \n粉末藥材：10</HAR_Nearmaere_d.comps.HAR_NM_Comp_Skill_d.CommandDesc>
+    \n固態藥材：10</HAR_Nearmaere_d.comps.Aya_Comp_Skill-2.commandDesc>
 
-  <HAR_Nearmaere_d.comps.HAR_NM_Comp_Skill_e.CommandLabel>可能性的秘藥</HAR_Nearmaere_d.comps.HAR_NM_Comp_Skill_e.CommandLabel>
-  <HAR_Nearmaere_d.comps.HAR_NM_Comp_Skill_e.CommandDesc>復活目標。
+  <HAR_Nearmaere_d.comps.Aya_Comp_Skill-3.commandLabel>艾蒂涅的魔藥</HAR_Nearmaere_d.comps.Aya_Comp_Skill-3.commandLabel>
+  <HAR_Nearmaere_d.comps.Aya_Comp_Skill-3.commandDesc>強化目標。
+    \n發動消耗：
+    \n液態藥材：20
+    \n粉末藥材：10</HAR_Nearmaere_d.comps.Aya_Comp_Skill-3.commandDesc>
+
+  <HAR_Nearmaere_d.comps.Aya_Comp_Skill-4.commandLabel>可能性的秘藥</HAR_Nearmaere_d.comps.Aya_Comp_Skill-4.commandLabel>
+  <HAR_Nearmaere_d.comps.Aya_Comp_Skill-4.commandDesc>復活目標。
     \n發動消耗：
     \n液態藥材：100
     \n固態藥材：100
-    \n粉末藥材：100</HAR_Nearmaere_d.comps.HAR_NM_Comp_Skill_e.CommandDesc>
+    \n粉末藥材：100</HAR_Nearmaere_d.comps.Aya_Comp_Skill-4.commandDesc>
 
-  <HAR_Nearmaere_d.comps.HAR_NM_Comp_Skill_z.CommandLabel>■■■的死藥</HAR_Nearmaere_d.comps.HAR_NM_Comp_Skill_z.CommandLabel>
-  <HAR_Nearmaere_d.comps.HAR_NM_Comp_Skill_z.CommandDesc>強化目標。但是...
+  <HAR_Nearmaere_d.comps.Aya_Comp_Skill-5.commandLabel>■■■的死藥</HAR_Nearmaere_d.comps.Aya_Comp_Skill-5.commandLabel>
+  <HAR_Nearmaere_d.comps.Aya_Comp_Skill-5.commandDesc>強化目標。但是...
     \n發動消耗：
     \n液態藥材：280
     \n固態藥材：280
-    \n粉末藥材：280</HAR_Nearmaere_d.comps.HAR_NM_Comp_Skill_z.CommandDesc>
+    \n粉末藥材：280</HAR_Nearmaere_d.comps.Aya_Comp_Skill-5.commandDesc>
 
 
 </LanguageData>

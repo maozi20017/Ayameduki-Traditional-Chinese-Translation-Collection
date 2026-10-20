@@ -16,11 +16,11 @@
   <HAR_Qualeela_b.comps.CSS_CompSummonSLave.CommandLabel>王權召喚(主動召喚)</HAR_Qualeela_b.comps.CSS_CompSummonSLave.CommandLabel>
   <HAR_Qualeela_b.comps.CSS_CompSummonSLave.CommandDesc>主動召喚一些眷屬。眷屬召喚數量和等級根據根據『人工種族』的Lv變動，冷卻時間為1天。</HAR_Qualeela_b.comps.CSS_CompSummonSLave.CommandDesc>
 
-  <HAR_Qualeela_b.comps.Qualeela_CompCommandExplosive-0.commandLabel>王權強化</HAR_Qualeela_b.comps.Qualeela_CompCommandExplosive-0.commandLabel>
-  <HAR_Qualeela_b.comps.Qualeela_CompCommandExplosive-0.commandDesc>施加身體強化效果給自己和周圍的盟友，冷卻時間為3天。</HAR_Qualeela_b.comps.Qualeela_CompCommandExplosive-0.commandDesc>
+  <HAR_Qualeela_b.comps.Aya_Comp_Skill-0.commandLabel>王權強化</HAR_Qualeela_b.comps.Aya_Comp_Skill-0.commandLabel>
+  <HAR_Qualeela_b.comps.Aya_Comp_Skill-0.commandDesc>施加身體強化效果給自己和周圍的盟友，冷卻時間為3天。</HAR_Qualeela_b.comps.Aya_Comp_Skill-0.commandDesc>
 
-  <HAR_Qualeela_b.comps.Qualeela_CompCommandExplosive-1.commandLabel>王權屏障</HAR_Qualeela_b.comps.Qualeela_CompCommandExplosive-1.commandLabel>
-  <HAR_Qualeela_b.comps.Qualeela_CompCommandExplosive-1.commandDesc>施加防禦強化效果給自己和周圍的盟友，冷卻時間為3天。</HAR_Qualeela_b.comps.Qualeela_CompCommandExplosive-1.commandDesc>
+  <HAR_Qualeela_b.comps.Aya_Comp_Skill-1.commandLabel>王權屏障</HAR_Qualeela_b.comps.Aya_Comp_Skill-1.commandLabel>
+  <HAR_Qualeela_b.comps.Aya_Comp_Skill-1.commandDesc>施加防禦強化效果給自己和周圍的盟友，冷卻時間為3天。</HAR_Qualeela_b.comps.Aya_Comp_Skill-1.commandDesc>
 
 
 

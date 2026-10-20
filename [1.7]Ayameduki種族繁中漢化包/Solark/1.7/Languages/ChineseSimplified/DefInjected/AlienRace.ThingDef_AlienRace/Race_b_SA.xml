@@ -18,9 +18,9 @@
   <HAR_Solark_b.tools.1.label>龍之衝擊</HAR_Solark_b.tools.1.label>
   <HAR_Solark_b.tools.2.label>龍之衝擊</HAR_Solark_b.tools.2.label>
 
-  <HAR_Solark_b.comps.Solark_CompCommandExplosive.commandLabel>反物質爆炸</HAR_Solark_b.comps.Solark_CompCommandExplosive.commandLabel>
-  <HAR_Solark_b.comps.Solark_CompCommandExplosive.commandDesc>【範圍:大規模】將儲存在體內的大量反物質釋放到自身周圍，冷卻時間為1天。</HAR_Solark_b.comps.Solark_CompCommandExplosive.commandDesc>
+  <HAR_Solark_b.comps.Aya_Comp_Skill-0.commandLabel>反物質爆炸</HAR_Solark_b.comps.Aya_Comp_Skill-0.commandLabel>
+  <HAR_Solark_b.comps.Aya_Comp_Skill-0.commandDesc>【範圍:大規模】將儲存在體內的大量反物質釋放到自身周圍，冷卻時間為1天。</HAR_Solark_b.comps.Aya_Comp_Skill-0.commandDesc>
 
-  <HAR_Solark_b.comps.Solark_CompCommandExplosive_b.commandLabel>龍化</HAR_Solark_b.comps.Solark_CompCommandExplosive_b.commandLabel>
-  <HAR_Solark_b.comps.Solark_CompCommandExplosive_b.commandDesc>化為龍身。冷卻時間為1天。</HAR_Solark_b.comps.Solark_CompCommandExplosive_b.commandDesc>
+  <HAR_Solark_b.comps.Aya_Comp_Skill-1.commandLabel>龍化</HAR_Solark_b.comps.Aya_Comp_Skill-1.commandLabel>
+  <HAR_Solark_b.comps.Aya_Comp_Skill-1.commandDesc>化為龍身。冷卻時間為1天。</HAR_Solark_b.comps.Aya_Comp_Skill-1.commandDesc>
 </LanguageData>

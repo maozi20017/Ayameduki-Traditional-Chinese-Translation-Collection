@@ -19,14 +19,14 @@
     \n\n作為上位種，她們擁有強大的力量，還喜歡使用諸如『因受到蠱惑而使射擊無效化』、『尋血詛咒，以及針對敵意進行反擊的詛咒』等能夠沉重打擊對手的妖術。
     \n\n除了極少數的個體外，她們大都生性殘忍，因此如果要招募她們的話，必須得在和其他殖民者的人際關係上下功夫。</HAR_Silkiera_c.description>
 
-  <HAR_Silkiera_c.comps.Comp_HAR_SK_Skill_Skip.commandLabel>陽炎</HAR_Silkiera_c.comps.Comp_HAR_SK_Skill_Skip.commandLabel>
-  <HAR_Silkiera_c.comps.Comp_HAR_SK_Skill_Skip.commandDesc>瞬間移動到選擇的位置上</HAR_Silkiera_c.comps.Comp_HAR_SK_Skill_Skip.commandDesc>
+  <HAR_Silkiera_c.comps.Aya_Comp_Skill-0.commandLabel>陽炎</HAR_Silkiera_c.comps.Aya_Comp_Skill-0.commandLabel>
+  <HAR_Silkiera_c.comps.Aya_Comp_Skill-0.commandDesc>瞬間移動到選擇的位置上</HAR_Silkiera_c.comps.Aya_Comp_Skill-0.commandDesc>
 
-  <HAR_Silkiera_c.comps.Comp_HAR_SK_Skill.commandLabel>狐憑</HAR_Silkiera_c.comps.Comp_HAR_SK_Skill.commandLabel>
-  <HAR_Silkiera_c.comps.Comp_HAR_SK_Skill.commandDesc>以選擇的位置為中心，對一定範圍內的生物賦予精神異常狀態</HAR_Silkiera_c.comps.Comp_HAR_SK_Skill.commandDesc>
+  <HAR_Silkiera_c.comps.Aya_Comp_Skill-1.commandLabel>狐憑</HAR_Silkiera_c.comps.Aya_Comp_Skill-1.commandLabel>
+  <HAR_Silkiera_c.comps.Aya_Comp_Skill-1.commandDesc>以選擇的位置為中心，對一定範圍內的生物賦予精神異常狀態</HAR_Silkiera_c.comps.Aya_Comp_Skill-1.commandDesc>
 
-  <HAR_Silkiera_c.comps.Comp_HAR_SK_Skill_b.commandLabel>蠱毒</HAR_Silkiera_c.comps.Comp_HAR_SK_Skill_b.commandLabel>
-  <HAR_Silkiera_c.comps.Comp_HAR_SK_Skill_b.commandDesc>\n在選擇的位置召喚一群狂暴狀態的蟲族</HAR_Silkiera_c.comps.Comp_HAR_SK_Skill_b.commandDesc>
+  <HAR_Silkiera_c.comps.Aya_Comp_Skill-2.commandLabel>蠱毒</HAR_Silkiera_c.comps.Aya_Comp_Skill-2.commandLabel>
+  <HAR_Silkiera_c.comps.Aya_Comp_Skill-2.commandDesc>\n在選擇的位置召喚一群狂暴狀態的蟲族</HAR_Silkiera_c.comps.Aya_Comp_Skill-2.commandDesc>
 
 
 </LanguageData>

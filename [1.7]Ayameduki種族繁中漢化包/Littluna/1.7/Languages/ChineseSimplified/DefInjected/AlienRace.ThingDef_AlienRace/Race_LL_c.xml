@@ -26,14 +26,14 @@
   <HAR_Littluna_c.tools.2.label>left fist</HAR_Littluna_c.tools.2.label>
   <HAR_Littluna_c.tools.3.label>right fist</HAR_Littluna_c.tools.3.label>
 
-  <HAR_Littluna_c.comps.HAR_LL_Comp_Skill.commandLabel>你好 朋友!</HAR_Littluna_c.comps.HAR_LL_Comp_Skill.commandLabel>
-  <HAR_Littluna_c.comps.HAR_LL_Comp_Skill.commandDesc>將射程內任意一格目標變為朋友。</HAR_Littluna_c.comps.HAR_LL_Comp_Skill.commandDesc>
+  <HAR_Littluna_c.comps.Aya_Comp_Skill-0.commandLabel>你好 朋友!</HAR_Littluna_c.comps.Aya_Comp_Skill-0.commandLabel>
+  <HAR_Littluna_c.comps.Aya_Comp_Skill-0.commandDesc>將射程內任意一格目標變為朋友。</HAR_Littluna_c.comps.Aya_Comp_Skill-0.commandDesc>
 
-  <HAR_Littluna_c.comps.HAR_LL_Comp_Skill_b.commandLabel>神子的騎士</HAR_Littluna_c.comps.HAR_LL_Comp_Skill_b.commandLabel>
-  <HAR_Littluna_c.comps.HAR_LL_Comp_Skill_b.commandDesc>選擇射程內的任意一個格子，強化該格子周圍半徑3格的目標。</HAR_Littluna_c.comps.HAR_LL_Comp_Skill_b.commandDesc>
+  <HAR_Littluna_c.comps.Aya_Comp_Skill-1.commandLabel>神子的騎士</HAR_Littluna_c.comps.Aya_Comp_Skill-1.commandLabel>
+  <HAR_Littluna_c.comps.Aya_Comp_Skill-1.commandDesc>選擇射程內的任意一個格子，強化該格子周圍半徑3格的目標。</HAR_Littluna_c.comps.Aya_Comp_Skill-1.commandDesc>
 
-  <HAR_Littluna_c.comps.HAR_LL_Comp_Skill_c.commandLabel>神子的天眼</HAR_Littluna_c.comps.HAR_LL_Comp_Skill_c.commandLabel>
-  <HAR_Littluna_c.comps.HAR_LL_Comp_Skill_c.commandDesc>選擇任意一個格子，對該格子周圍半徑8格內的非友方目標造成致命傷害。
-    \n\n如果不想死的話，就趴在地上吧。</HAR_Littluna_c.comps.HAR_LL_Comp_Skill_c.commandDesc>
+  <HAR_Littluna_c.comps.Aya_Comp_Skill-2.commandLabel>神子的天眼</HAR_Littluna_c.comps.Aya_Comp_Skill-2.commandLabel>
+  <HAR_Littluna_c.comps.Aya_Comp_Skill-2.commandDesc>選擇任意一個格子，對該格子周圍半徑8格內的非友方目標造成致命傷害。
+    \n\n如果不想死的話，就趴在地上吧。</HAR_Littluna_c.comps.Aya_Comp_Skill-2.commandDesc>
 
 </LanguageData>
