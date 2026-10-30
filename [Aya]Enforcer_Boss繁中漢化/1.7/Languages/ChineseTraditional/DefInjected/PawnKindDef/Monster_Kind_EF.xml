@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BOSS_EF_B_Monster_Kind_a.label>終末帝王蠍</BOSS_EF_B_Monster_Kind_a.label>
+  <BOSS_EF_B_Monster_Kind_a.labelPlural>終末帝王蠍們</BOSS_EF_B_Monster_Kind_a.labelPlural>
+  <BOSS_EF_B_Monster_Kind_a.labelMale>男性 終末帝王蠍</BOSS_EF_B_Monster_Kind_a.labelMale>
+  <BOSS_EF_B_Monster_Kind_a.labelMalePlural>男性 終末帝王蠍們</BOSS_EF_B_Monster_Kind_a.labelMalePlural>
+  <BOSS_EF_B_Monster_Kind_a.labelFemale>女性 終末帝王蠍</BOSS_EF_B_Monster_Kind_a.labelFemale>
+  <BOSS_EF_B_Monster_Kind_a.labelFemalePlural>女性 終末帝王蠍們</BOSS_EF_B_Monster_Kind_a.labelFemalePlural>
+
+  <BOSS_EF_B_Monster_Kind_b.label>終末絕滅蠕蟲</BOSS_EF_B_Monster_Kind_b.label>
+  <BOSS_EF_B_Monster_Kind_b.labelPlural>終末絕滅蠕蟲們</BOSS_EF_B_Monster_Kind_b.labelPlural>
+  <BOSS_EF_B_Monster_Kind_b.labelMale>男性 終末絕滅蠕蟲</BOSS_EF_B_Monster_Kind_b.labelMale>
+  <BOSS_EF_B_Monster_Kind_b.labelMalePlural>男性 終末絕滅蠕蟲們</BOSS_EF_B_Monster_Kind_b.labelMalePlural>
+  <BOSS_EF_B_Monster_Kind_b.labelFemale>女性 終末絕滅蠕蟲</BOSS_EF_B_Monster_Kind_b.labelFemale>
+  <BOSS_EF_B_Monster_Kind_b.labelFemalePlural>女性 終末絕滅蠕蟲們</BOSS_EF_B_Monster_Kind_b.labelFemalePlural>
+
+  <BOSS_EF_B_Monster_Kind_c.label>終末磷光蝶</BOSS_EF_B_Monster_Kind_c.label>
+  <BOSS_EF_B_Monster_Kind_c.labelPlural>終末磷光蝶們</BOSS_EF_B_Monster_Kind_c.labelPlural>
+  <BOSS_EF_B_Monster_Kind_c.labelMale>男性 終末磷光蝶</BOSS_EF_B_Monster_Kind_c.labelMale>
+  <BOSS_EF_B_Monster_Kind_c.labelMalePlural>男性 終末磷光蝶們</BOSS_EF_B_Monster_Kind_c.labelMalePlural>
+  <BOSS_EF_B_Monster_Kind_c.labelFemale>女性 終末磷光蝶</BOSS_EF_B_Monster_Kind_c.labelFemale>
+  <BOSS_EF_B_Monster_Kind_c.labelFemalePlural>女性 終末磷光蝶們</BOSS_EF_B_Monster_Kind_c.labelFemalePlural>
+
+  <BOSS_EF_B_Monster_Kind_d.label>終末魔鬼魚</BOSS_EF_B_Monster_Kind_d.label>
+  <BOSS_EF_B_Monster_Kind_d.labelPlural>終末魔鬼魚們</BOSS_EF_B_Monster_Kind_d.labelPlural>
+  <BOSS_EF_B_Monster_Kind_d.labelMale>男性 終末魔鬼魚</BOSS_EF_B_Monster_Kind_d.labelMale>
+  <BOSS_EF_B_Monster_Kind_d.labelMalePlural>男性 終末魔鬼魚們</BOSS_EF_B_Monster_Kind_d.labelMalePlural>
+  <BOSS_EF_B_Monster_Kind_d.labelFemale>女性 終末魔鬼魚</BOSS_EF_B_Monster_Kind_d.labelFemale>
+  <BOSS_EF_B_Monster_Kind_d.labelFemalePlural>女性 終末魔鬼魚們</BOSS_EF_B_Monster_Kind_d.labelFemalePlural>
+
+  <BOSS_EF_B_Monster_Kind_e.label>終末極淵水母</BOSS_EF_B_Monster_Kind_e.label>
+  <BOSS_EF_B_Monster_Kind_e.labelPlural>終末極淵水母們</BOSS_EF_B_Monster_Kind_e.labelPlural>
+  <BOSS_EF_B_Monster_Kind_e.labelMale>男性 終末極淵水母</BOSS_EF_B_Monster_Kind_e.labelMale>
+  <BOSS_EF_B_Monster_Kind_e.labelMalePlural>男性 終末極淵水母們</BOSS_EF_B_Monster_Kind_e.labelMalePlural>
+  <BOSS_EF_B_Monster_Kind_e.labelFemale>女性 終末極淵水母</BOSS_EF_B_Monster_Kind_e.labelFemale>
+  <BOSS_EF_B_Monster_Kind_e.labelFemalePlural>女性 終末極淵水母們</BOSS_EF_B_Monster_Kind_e.labelFemalePlural>
+
+  <BOSS_EF_Monster_Kind_a.label>小型終末執行者</BOSS_EF_Monster_Kind_a.label>
+  <BOSS_EF_Monster_Kind_a.labelPlural>小型終末執行者們</BOSS_EF_Monster_Kind_a.labelPlural>
+  <BOSS_EF_Monster_Kind_a.labelMale>男性 小型終末執行者</BOSS_EF_Monster_Kind_a.labelMale>
+  <BOSS_EF_Monster_Kind_a.labelMalePlural>男性 小型終末執行者們</BOSS_EF_Monster_Kind_a.labelMalePlural>
+  <BOSS_EF_Monster_Kind_a.labelFemale>女性 小型終末執行者</BOSS_EF_Monster_Kind_a.labelFemale>
+  <BOSS_EF_Monster_Kind_a.labelFemalePlural>女性 小型終末執行者們</BOSS_EF_Monster_Kind_a.labelFemalePlural>
+
+
+</LanguageData>

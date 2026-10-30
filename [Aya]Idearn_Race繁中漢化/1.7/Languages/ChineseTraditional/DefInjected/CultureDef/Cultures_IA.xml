@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!--イデアーンの文化-->
+	<HAR_IA_Cultures.label>艾蒂安的文化</HAR_IA_Cultures.label>
+	<!--創造主の手を離れてから独自に築き上げた文化。-->
+	<HAR_IA_Cultures.description>脫離創造主的掌控、獨立發展的文化。</HAR_IA_Cultures.description>
+
+</LanguageData>

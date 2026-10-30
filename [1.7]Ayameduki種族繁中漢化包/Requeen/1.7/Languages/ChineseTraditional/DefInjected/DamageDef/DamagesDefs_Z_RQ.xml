@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BOSS_RQ_Damage_Z_a.label>雛鳥輕啼</BOSS_RQ_Damage_Z_a.label>
+  <BOSS_RQ_Damage_Z_a.deathMessage>{0} 死於一場爆炸。</BOSS_RQ_Damage_Z_a.deathMessage>
+
+  <BOSS_RQ_Damage_Z_b.label>雛鳥振翅</BOSS_RQ_Damage_Z_b.label>
+  <BOSS_RQ_Damage_Z_b.deathMessage>{0} 死於一場爆炸。</BOSS_RQ_Damage_Z_b.deathMessage>
+
+  <BOSS_RQ_Damage_Z_c.label>雛鳥凝望</BOSS_RQ_Damage_Z_c.label>
+  <BOSS_RQ_Damage_Z_c.deathMessage>{0} 被射殺了。</BOSS_RQ_Damage_Z_c.deathMessage>
+
+  <BOSS_RQ_Damage_Z_d.label>雛鳥泣血</BOSS_RQ_Damage_Z_d.label>
+  <BOSS_RQ_Damage_Z_d.deathMessage>{0} 死於一場爆炸。</BOSS_RQ_Damage_Z_d.deathMessage>
+
+  <BOSS_RQ_Damage_Z_e.label>克里提亞斯之星</BOSS_RQ_Damage_Z_e.label>
+  <BOSS_RQ_Damage_Z_e.deathMessage>{0} 死於一場爆炸。</BOSS_RQ_Damage_Z_e.deathMessage>
+
+  <BOSS_RQ_Damage_Z_f.label>雛鳥啄食</BOSS_RQ_Damage_Z_f.label>
+  <BOSS_RQ_Damage_Z_f.deathMessage>{0} 死於一場爆炸。</BOSS_RQ_Damage_Z_f.deathMessage>
+
+</LanguageData>

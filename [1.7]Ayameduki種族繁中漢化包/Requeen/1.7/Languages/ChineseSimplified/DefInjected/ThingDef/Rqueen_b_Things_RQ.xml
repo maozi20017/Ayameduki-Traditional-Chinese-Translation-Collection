@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BOSS_RQ_Hive_Requeen_b.label>女皇(要塞)</BOSS_RQ_Hive_Requeen_b.label>
+  <BOSS_RQ_Hive_Requeen_b.description>女王種『女皇』是某個外星文明創造的機械生命體，孕育了夜魔及其亞種們的始祖，
+    \n也許因為是最初建造的生命體，基本沒有自我意識，在外星文明滅亡後也忠實地遵循輸入的指令，一直處於『生產兵力』和『排除外敵』的暴走狀態。
+    \n\n她們不具備戰鬥能力，但有著極強的裝甲和再生能力，能夠無窮盡地生產機械生命體。
+    \n萬一自身能量耗盡也能從周圍迅速汲取，只有外在因素能導致她們的死亡。
+    \n\n\n現如今，『擊敗還在苦苦侍奉那已滅亡的創造主的女王們、讓她們陷入永眠』成為了以夜魔為首的女兒們的夙願。
+    \n\n\n這一個體重視防衛，不會造成周圍的草木枯死。
+    \n最初的眷屬早已死亡，不主動進入射程的話就不會有危險。</BOSS_RQ_Hive_Requeen_b.description>
+
+  <BOSS_RQ_Turret_Sniper.label>審判</BOSS_RQ_Turret_Sniper.label>
+  <BOSS_RQ_Turret_Sniper.description>女皇的防衛功能之一，是快速發射高穿透力子彈的砲塔——但是它的命中率很低。</BOSS_RQ_Turret_Sniper.description>
+
+  <BOSS_RQ_Gun_TurretSniper.label>審判</BOSS_RQ_Gun_TurretSniper.label>
+  <BOSS_RQ_Gun_TurretSniper.description>一種設計用來安裝在砲塔上的自動裝載鈾彈加農炮。</BOSS_RQ_Gun_TurretSniper.description>
+
+  <BOSS_RQ_Bullet_TurretSniper.label>審判</BOSS_RQ_Bullet_TurretSniper.label>
+
+  <BOSS_RQ_Turret_Sniper_b.label>聖約</BOSS_RQ_Turret_Sniper_b.label>
+  <BOSS_RQ_Turret_Sniper_b.description>女皇的防衛功能之一，是快速發射爆炸性子彈的砲塔——但是它的命中率很低。</BOSS_RQ_Turret_Sniper_b.description>
+
+  <BOSS_RQ_Gun_TurretSniper_b.label>聖約</BOSS_RQ_Gun_TurretSniper_b.label>
+  <BOSS_RQ_Gun_TurretSniper_b.description>一種設計用來安裝在砲塔上的自動裝載鈾彈加農炮。</BOSS_RQ_Gun_TurretSniper_b.description>
+
+  <BOSS_RQ_Bullet_TurretSniper_b.label>聖約</BOSS_RQ_Bullet_TurretSniper_b.label>
+
+
+</LanguageData>

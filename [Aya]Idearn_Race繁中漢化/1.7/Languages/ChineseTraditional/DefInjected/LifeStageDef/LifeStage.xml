@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>  
+	<!-- baby -->
+	<Aya_Race_HumanlikeBaby.label>嬰兒</Aya_Race_HumanlikeBaby.label>
+	<!-- Mood represents how happy or stressed someone is. Babies with low mood are more likely to cry, while babies with a high mood are more likely to giggle. -->
+	<Aya_Race_HumanlikeBaby.customMoodTipString>心情代表一個人的快樂或壓力。心情低落的嬰兒更容易哭，而心情高漲的嬰兒更容易笑。</Aya_Race_HumanlikeBaby.customMoodTipString>
+
+	<!-- child -->
+	<Aya_Race_HumanlikeChild.label>兒童</Aya_Race_HumanlikeChild.label>
+
+	<!-- preteen -->
+	<Aya_Race_HumanlikePreTeenager.label>少年</Aya_Race_HumanlikePreTeenager.label>
+
+	<!-- teenager -->
+	<HAR_IA_Aya_Race_HumanlikeTeenager.label>青少年</HAR_IA_Aya_Race_HumanlikeTeenager.label>
+
+	<!-- adult -->
+	<HAR_IA_Aya_Race_HumanlikeAdult.label>成年</HAR_IA_Aya_Race_HumanlikeAdult.label>
+
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!--■女王種の遺児 -->
+  <LetterLabel_BOSS_RQ_Incident_Monster_z>女王種的遺兒</LetterLabel_BOSS_RQ_Incident_Monster_z>
+  <Letter_BOSS_RQ_Incident_Monster_z>在你的殖民地附近，出現了一個看似生物和機械融合的生命體，它呈現出純真無垢的狀態，如果你擅長馴服調教，或許可以馴服它。這個生命體會在附近逗留一段時間，然後離開這裡。</Letter_BOSS_RQ_Incident_Monster_z>
+
+
+  <Letter_BOSS_RQ_PartsDrop>在衛星軌道上，宙族正在發生衝突，可能產生了影響，導致不明碎片掉落在你的殖民地附近。</Letter_BOSS_RQ_PartsDrop>
+
+</LanguageData>

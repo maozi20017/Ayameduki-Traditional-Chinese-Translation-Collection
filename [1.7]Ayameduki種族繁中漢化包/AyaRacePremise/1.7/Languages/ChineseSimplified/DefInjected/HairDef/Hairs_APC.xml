@@ -17,18 +17,78 @@
   <HAR_Aya_Hair_4.label>雙麻花辮</HAR_Aya_Hair_4.label>
   
   <!-- EN: ポニーテール -->
-  <HAR_Aya_Hair_5.label>馬尾</HAR_Aya_Hair_5.label>
+  <HAR_Aya_Hair_5.label>馬尾辮</HAR_Aya_Hair_5.label>
   
   <!-- EN: ストレートロング -->
   <HAR_Aya_Hair_6.label>長直髮</HAR_Aya_Hair_6.label>
   
   <!-- EN: ルーズサイドテール -->
-  <HAR_Aya_Hair_7.label>側馬尾</HAR_Aya_Hair_7.label>
+  <HAR_Aya_Hair_7.label>鬆散側馬尾辮</HAR_Aya_Hair_7.label>
   
   <!-- EN: ウェーブロング -->
   <HAR_Aya_Hair_8.label>波浪長髮</HAR_Aya_Hair_8.label>
   
   <!-- EN: ツーサイドアップ -->
   <HAR_Aya_Hair_9.label>披肩雙馬尾</HAR_Aya_Hair_9.label>
+  
+  <!-- EN: ロングヘア(幼) -->
+  <HAR_Aya_Hair_B_1.label>長髮(幼)</HAR_Aya_Hair_B_1.label>
+  
+  <!-- EN: セミロング(幼) -->
+  <HAR_Aya_Hair_B_2.label>中長髮(幼)</HAR_Aya_Hair_B_2.label>
+  
+  <!-- EN: ツインテール(幼) -->
+  <HAR_Aya_Hair_B_3.label>雙馬尾(幼)</HAR_Aya_Hair_B_3.label>
+  
+  <!-- EN: おさげ(幼) -->
+  <HAR_Aya_Hair_B_4.label>雙麻花辮(幼)</HAR_Aya_Hair_B_4.label>
+  
+  <!-- EN: ポニーテール(幼) -->
+  <HAR_Aya_Hair_B_5.label>馬尾辮(幼)</HAR_Aya_Hair_B_5.label>
+  
+  <!-- EN: ストレートロング(幼) -->
+  <HAR_Aya_Hair_B_6.label>長直髮(幼)</HAR_Aya_Hair_B_6.label>
+  
+  <!-- EN: ルーズサイドテール(幼) -->
+  <HAR_Aya_Hair_B_7.label>鬆散側馬尾辮(幼)</HAR_Aya_Hair_B_7.label>
+  
+  <!-- EN: ウェーブロング(幼) -->
+  <HAR_Aya_Hair_B_8.label>波浪長髮(幼)</HAR_Aya_Hair_B_8.label>
+  
+  <!-- EN: ツーサイドアップ(幼) -->
+  <HAR_Aya_Hair_B_9.label>披肩雙馬尾(幼)</HAR_Aya_Hair_B_9.label>
+  
+  <!-- EN: エアインテーク(幼) -->
+  <HAR_Aya_Hair_B_10.label>進氣口髮型(幼)</HAR_Aya_Hair_B_10.label>
+  
+  <!-- EN: ロングヘア(旧) -->
+  <HAR_Aya_Hair_OLD_1.label>長髮(舊)</HAR_Aya_Hair_OLD_1.label>
+  
+  <!-- EN: セミロング(旧) -->
+  <HAR_Aya_Hair_OLD_2.label>中長髮(舊)</HAR_Aya_Hair_OLD_2.label>
+  
+  <!-- EN: ツインテール(旧) -->
+  <HAR_Aya_Hair_OLD_3.label>雙馬尾(舊)</HAR_Aya_Hair_OLD_3.label>
+  
+  <!-- EN: おさげ(旧) -->
+  <HAR_Aya_Hair_OLD_4.label>雙麻花辮(舊)</HAR_Aya_Hair_OLD_4.label>
+  
+  <!-- EN: ポニーテール(旧) -->
+  <HAR_Aya_Hair_OLD_5.label>馬尾辮(舊)</HAR_Aya_Hair_OLD_5.label>
+  
+  <!-- EN: ストレートロング(旧) -->
+  <HAR_Aya_Hair_OLD_6.label>長直髮(舊)</HAR_Aya_Hair_OLD_6.label>
+  
+  <!-- EN: ルーズサイドテール(旧) -->
+  <HAR_Aya_Hair_OLD_7.label>鬆散側馬尾辮(舊)</HAR_Aya_Hair_OLD_7.label>
+  
+  <!-- EN: ウェーブロング(旧) -->
+  <HAR_Aya_Hair_OLD_8.label>波浪長髮(舊)</HAR_Aya_Hair_OLD_8.label>
+  
+  <!-- EN: ツーサイドアップ(旧) -->
+  <HAR_Aya_Hair_OLD_9.label>披肩雙馬尾(舊)</HAR_Aya_Hair_OLD_9.label>
+  
+  <!-- EN: エアインテーク(旧) -->
+  <HAR_Aya_Hair_OLD_10.label>進氣口髮型(舊)</HAR_Aya_Hair_OLD_10.label>
   
 </LanguageData>

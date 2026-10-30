@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BOSS_EF_Incident_Enforcer.label>來自天界的執行者</BOSS_EF_Incident_Enforcer.label>
+  <BOSS_EF_Incident_Enforcer.letterText>一顆載有危險生命體的隕石砸落在了殖民地附近。
+    \n潛藏在隕石中的生命很快就會對四周進行探查。
+    \n\n它們非常堅固，有著恐怖到極致的物理攻擊能力，但幸運的是，它們的移動速度很慢，你可以有充足的遠距離射擊時間。
+    \n它們無法適應這顆星球的環境，1天后就會自我崩解。
+    \n崩解後的隕石中似乎會掉落一些非常貴重的石材。</BOSS_EF_Incident_Enforcer.letterText>
+  <BOSS_EF_Incident_Enforcer.letterLabel>執行者</BOSS_EF_Incident_Enforcer.letterLabel>
+
+
+</LanguageData>

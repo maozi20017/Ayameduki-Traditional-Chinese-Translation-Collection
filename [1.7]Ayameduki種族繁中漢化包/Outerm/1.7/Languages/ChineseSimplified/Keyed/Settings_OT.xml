@@ -32,5 +32,8 @@
   <Outerm.DisableNpcSkillI_Desc>開啟後，NPC域外者將不再使用掠食者（屍體捕食技能）。</Outerm.DisableNpcSkillI_Desc>
 
   <Outerm.DisableNpcSkillJ>禁止NPC使用逆卡巴拉</Outerm.DisableNpcSkillJ>
-  <Outerm.DisableNpcSkillJ_Desc>開啟後，NPC域外者將不再使用逆卡巴拉（覺醒技能）。</Outerm.DisableNpcSkillJ_Desc> 
+  <Outerm.DisableNpcSkillJ_Desc>開啟後，NPC域外者將不再使用逆卡巴拉（覺醒技能）。</Outerm.DisableNpcSkillJ_Desc>
+
+  <Outerm.DisableNpcAltar>禁止生成「虛空的祭壇」</Outerm.DisableNpcAltar>
+  <Outerm.DisableNpcAltar_Desc>禁止在生成的混沌領袖為Lv10時，生成虛空祭壇。</Outerm.DisableNpcAltar_Desc>
 </LanguageData>

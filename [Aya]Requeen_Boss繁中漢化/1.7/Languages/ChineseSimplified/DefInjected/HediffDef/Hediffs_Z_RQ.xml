@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BOSS_RQ_Hediff_Z_a.label>雛鳥輕啼</BOSS_RQ_Hediff_Z_a.label>
+  <BOSS_RQ_Hediff_Z_a.description>女皇·克里提亞斯深紅色的婉轉輕啼。
+    \n持續對目標造成傷害，直到目標完全治癒。
+    \n數小時後才會解除。</BOSS_RQ_Hediff_Z_a.description>
+
+  <BOSS_RQ_Hediff_Z_b.label>雛鳥振翅</BOSS_RQ_Hediff_Z_b.label>
+  <BOSS_RQ_Hediff_Z_b.description>女皇·克里提亞斯充滿稚嫩感的振翅。
+    \n被影響的對象將強制進入倒地狀態，無人救援、持續倒地2小時的話會當場死亡。
+    \n半天後才會解除。
+    \n\n這能力只有在近距離攻擊時才會發動。
+    \n持續對其進行遠程攻擊可以抑制此能力的發動。</BOSS_RQ_Hediff_Z_b.description>
+
+  <BOSS_RQ_Hediff_Z_c.label>雛鳥之巢</BOSS_RQ_Hediff_Z_c.label>
+  <BOSS_RQ_Hediff_Z_c.description>女皇·克里提亞斯的虛幻領域。
+    \n進入這個領域的人會變得更加脆弱，但是射擊速度會變得更快。
+    \n數小時後才會解除。</BOSS_RQ_Hediff_Z_c.description>
+
+  <BOSS_RQ_Hediff_Z_d.label>雛鳥泣血</BOSS_RQ_Hediff_Z_d.label>
+  <BOSS_RQ_Hediff_Z_d.description>女皇·克里提亞斯的血淚。
+    \n暫時增加受到的傷害。
+    \n極為凶險的負面狀態，但很快就會解除。</BOSS_RQ_Hediff_Z_d.description>
+  
+  <BOSS_RQ_Hediff_Z_e.label>雛鳥凝望</BOSS_RQ_Hediff_Z_e.label>
+  <BOSS_RQ_Hediff_Z_e.description>來自女皇·克里提亞斯那深邃瞳孔的凝望。
+    \n其極具魅惑性的視線會剝奪對象的視力和聽力。
+    \n數小時後會恢復正常。</BOSS_RQ_Hediff_Z_e.description>
+
+  <BOSS_RQ_Hediff_Z_f.label>克里提亞斯之星</BOSS_RQ_Hediff_Z_f.label>
+  <BOSS_RQ_Hediff_Z_f.description>。</BOSS_RQ_Hediff_Z_f.description>
+
+  <BOSS_RQ_Hediff_Z_g.label>雛鳥啄食</BOSS_RQ_Hediff_Z_g.label>
+  <BOSS_RQ_Hediff_Z_g.description>女皇·克里提亞斯弱弱的啄咬。
+    \n受到這種攻擊的人會在心理上變得脆弱。
+    \n數小時後才會解除。</BOSS_RQ_Hediff_Z_g.description>
+
+  <BOSS_RQ_Hediff_Z_h.label>透過虛幻的窺視…</BOSS_RQ_Hediff_Z_h.label>
+  <BOSS_RQ_Hediff_Z_h.description>從女皇·克里提亞斯的影子中察覺到潛藏者的狀態。
+    \n陷入這種狀態的人將迅速精神崩潰。
+    \n這種狀態本身會在一段時間後解除（但精神崩潰仍然持續）。
+    \n\n\n哎呀，如果直接凝視那影子就好了，可惜</BOSS_RQ_Hediff_Z_h.description>
+
+</LanguageData>
